@@ -4,21 +4,7 @@
   padding: 0px;
 }
 
-#gameFrame {
-  width: 810px;
-  height: 540px;
-  padding: 51px 0px 0px 0px;
-  margin: 0px;
-}
 
-@media (min-width: 992px) {
-  #gameFrame {
-    width: 600px;
-    height: 400px;
-    padding: 69px 0px 0px 0px;
-    margin: 0px;
-  }
-}
 
 @media all and (display-mode: fullscreen) {
   #gameFrame {
