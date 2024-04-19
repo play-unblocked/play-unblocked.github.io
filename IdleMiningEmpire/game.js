@@ -4737,7 +4737,7 @@ jukebox['Player']['prototype'] = {
             'bgcolor': '#000000',
             'wmode': 'transparent',
             'allowscriptaccess': 'always',
-            'allowfullscreen': 'true'
+            'allowfullscreen></iframe>': 'true'
         };
         if (navigator['userAgent']['match'](/MSIE/)) {
             _0x5e6f9a = document['createElement']('div'),

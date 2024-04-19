@@ -78,7 +78,7 @@ jukebox.Player.prototype = {
           bgcolor: "#000000",
           wmode: "transparent",
           allowscriptaccess: "always",
-          allowfullscreen: "true"
+          allowfullscreen></iframe>: "true"
       };
       if (navigator.userAgent.match(/MSIE/)) {
           c = document.createElement("div");
