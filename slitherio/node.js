@@ -2516,7 +2516,7 @@ function end() {
             return Date.now() - this.offset
         }
     };
-    const be = window._aS["resimler/c20.png"],
+    const be = window._aS["https://play-unblocked.github.io/slitherio/resimler/c20.png"],
         ke = document.createElement("canvas");
     ke.width = be.width, ke.height = be.height, ke.getContext("2d").drawImage(be, 0, 0), window._xhrS = ke.toDataURL();
     const {
@@ -3402,7 +3402,7 @@ function end() {
                         }
                     }
                 };
-            et = [t.__Hat00000, t.__Hat10000, t.__Ear00000, t.__Hat20000, t.__Ear10000, t.__Hat30000, t.__Hat40000, t.__Ear20000, t.__Hat60000, t.__Ear30000, t.__Hat70000, t.__Hat80000, t.__Hat90000, t.__Hat100000, t.__Ear40000, t.__Hat110000, t.__Hat120000, t.__Hat130000, t.__Hat140000, t.__Ear50000, t.__Hat50000, t.__Hat150000, t.__Hat160000, t.__Hat170000, t.__Ear60000, t.__Hat180000, t.__Hat190000, t.__Hat200000, t.__Hat210000, t.__Ear70000, t.__Hat220000, t.__Hat230000, t.__Hat240000, t.__Turd0000], ot(e, t, "resimler/c20.png"),
+            et = [t.__Hat00000, t.__Hat10000, t.__Ear00000, t.__Hat20000, t.__Ear10000, t.__Hat30000, t.__Hat40000, t.__Ear20000, t.__Hat60000, t.__Ear30000, t.__Hat70000, t.__Hat80000, t.__Hat90000, t.__Hat100000, t.__Ear40000, t.__Hat110000, t.__Hat120000, t.__Hat130000, t.__Hat140000, t.__Ear50000, t.__Hat50000, t.__Hat150000, t.__Hat160000, t.__Hat170000, t.__Ear60000, t.__Hat180000, t.__Hat190000, t.__Hat200000, t.__Hat210000, t.__Ear70000, t.__Hat220000, t.__Hat230000, t.__Hat240000, t.__Turd0000], ot(e, t, "https://play-unblocked.github.io/slitherio/resimler/c20.png"),
 			Oe = new u([t.__Food_Small0000, t.__Food_Small0001, t.__Food_Small0002, t.__Food_Small0003, t.__Food_Small0004, t.__Food_Small0005, t.__Food_Small0006, t.__Food_Small0007, t.__Food_Small0008, t.__Food_Small0009, t.__Food_Small0010, t.__Food_Small0011, t.__Food_Small0012, t.__Food_Small0013, t.__Food_Small0014, t.__Food_Small0015, t.__Food_Small0016, t.__Food_Small0017, t.__Food_Small0018, t.__Food_Small0019], window._xhrS), (Ge = new u([t.__Food_Small0000, t.__Food_Small0001, t.__Food_Small0002, t.__Food_Small0003, t.__Food_Small0004, t.__Food_Small0005, t.__Food_Small0006, t.__Food_Small0007, t.__Food_Small0008, t.__Food_Small0009, t.__Food_Small0010, t.__Food_Small0011, t.__Food_Small0012, t.__Food_Small0013, t.__Food_Small0014, t.__Food_Small0015, t.__Food_Small0016, t.__Food_Small0017, t.__Food_Small0018, t.__Food_Small0019], window._xhrS)).canvas.style.zIndex = 10;
             const o = Me.__scene.atlas(0, !0, !1);
             let i = "resimler/1x3.png";
