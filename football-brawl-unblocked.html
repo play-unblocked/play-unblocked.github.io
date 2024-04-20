@@ -74,6 +74,7 @@
 </head>
 
 <body id="page-top" data-bs-spy="scroll" data-bs-target="#mainNav" data-bs-offset="72">
+<div id="preroll"></div>
     <nav class="navbar navbar-expand-lg fixed-top bg-secondary navbar-light" id="mainNav">
         <div class="container"><a class="navbar-brand" href="index.html">HuuP Games</a><button data-bs-toggle="collapse" data-bs-target="#navbarResponsive" class="navbar-toggler bg-primary" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation"><i class="fa fa-list-ul fs-5 text-white"></i></button>
             <div class="collapse navbar-collapse text-uppercase" id="navbarResponsive">
@@ -101,8 +102,15 @@
 	
    <center>
    <section id="gameSection">
+<button onclick="show_preroll();" id="play-button">Play</button>
 	</br><iframe id="gameFrame" name="FootballBrawl" src="ubg98/index.html" width="810" height="540" scrolling="none" frameborder="0" allowfullscreen></iframe></section>
 </center>
+<script>
+    document.getElementById('play-button').addEventListener('click', function() {
+        document.getElementById('gameFrame').style.display = 'block';
+        document.getElementById('play-button').style.display = 'none';
+    });
+</script> 
     <section class="text-white bg-primary mb-0" id="about">
         <div class="container">
             <h3 class="text-uppercase text-center text-white">Football Brawl</h3>
