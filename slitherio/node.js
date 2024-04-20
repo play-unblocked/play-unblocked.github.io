@@ -1492,9 +1492,9 @@ function end() {
 			e.appendChild(t),
 			t.style.width = t.style.height = "42px";
             const o = document.createElement("div");
-            o.style.background = "url(resimler/bl_u.svg", o.style.backgroundRepeat = "no-repeat", e.appendChild(o), o.style.width = "".concat(20, "px"), o.style.height = "".concat(20, "px"), o.style.position = "absolute", o.style.top = "12px", o.style.left = "11px";
+            o.style.background = "url(https://play-unblocked.github.io/slitherio/resimler/bl_u.svg", o.style.backgroundRepeat = "no-repeat", e.appendChild(o), o.style.width = "".concat(20, "px"), o.style.height = "".concat(20, "px"), o.style.position = "absolute", o.style.top = "12px", o.style.left = "11px";
             const i = document.createElement("div");
-            return i.style.background = "url(resimler/bl_d.svg", i.style.backgroundRepeat = "no-repeat", e.appendChild(i), i.style.width = "".concat(20, "px"), i.style.height = "".concat(20, "px"), i.style.position = "absolute", i.style.top = "21px", i.style.left = "11px", e
+            return i.style.background = "url(https://play-unblocked.github.io/slitherio/resimler/bl_d.svg", i.style.backgroundRepeat = "no-repeat", e.appendChild(i), i.style.width = "".concat(20, "px"), i.style.height = "".concat(20, "px"), i.style.position = "absolute", i.style.top = "21px", i.style.left = "11px", e
         },
         Y = () => {
             let e = [];
@@ -3405,7 +3405,7 @@ function end() {
             et = [t.__Hat00000, t.__Hat10000, t.__Ear00000, t.__Hat20000, t.__Ear10000, t.__Hat30000, t.__Hat40000, t.__Ear20000, t.__Hat60000, t.__Ear30000, t.__Hat70000, t.__Hat80000, t.__Hat90000, t.__Hat100000, t.__Ear40000, t.__Hat110000, t.__Hat120000, t.__Hat130000, t.__Hat140000, t.__Ear50000, t.__Hat50000, t.__Hat150000, t.__Hat160000, t.__Hat170000, t.__Ear60000, t.__Hat180000, t.__Hat190000, t.__Hat200000, t.__Hat210000, t.__Ear70000, t.__Hat220000, t.__Hat230000, t.__Hat240000, t.__Turd0000], ot(e, t, "https://play-unblocked.github.io/slitherio/resimler/c20.png"),
 			Oe = new u([t.__Food_Small0000, t.__Food_Small0001, t.__Food_Small0002, t.__Food_Small0003, t.__Food_Small0004, t.__Food_Small0005, t.__Food_Small0006, t.__Food_Small0007, t.__Food_Small0008, t.__Food_Small0009, t.__Food_Small0010, t.__Food_Small0011, t.__Food_Small0012, t.__Food_Small0013, t.__Food_Small0014, t.__Food_Small0015, t.__Food_Small0016, t.__Food_Small0017, t.__Food_Small0018, t.__Food_Small0019], window._xhrS), (Ge = new u([t.__Food_Small0000, t.__Food_Small0001, t.__Food_Small0002, t.__Food_Small0003, t.__Food_Small0004, t.__Food_Small0005, t.__Food_Small0006, t.__Food_Small0007, t.__Food_Small0008, t.__Food_Small0009, t.__Food_Small0010, t.__Food_Small0011, t.__Food_Small0012, t.__Food_Small0013, t.__Food_Small0014, t.__Food_Small0015, t.__Food_Small0016, t.__Food_Small0017, t.__Food_Small0018, t.__Food_Small0019], window._xhrS)).canvas.style.zIndex = 10;
             const o = Me.__scene.atlas(0, !0, !1);
-            let i = "resimler/1x3.png";
+            let i = "https://play-unblocked.github.io/slitherio/resimler/1x3.png";
             window._eV && (i = window._eV.g), ot(o, {
                 __Grass: {
                     __position: {
@@ -4292,7 +4292,7 @@ function end() {
 		Me.__ctx.font = "24px nunito, sans-serif", Me.__ctx.textAlign = "center";
       
 	  const a = document.createElement("img");
-        a.src = "resimler/su.png", a.classList.add("ab", "bu"), a.setAttribute("id", "ppl"), De.appendChild(a), a.style.pointerEvents = "all";
+        a.src = "https://play-unblocked.github.io/slitherio/resimler/su.png", a.classList.add("ab", "bu"), a.setAttribute("id", "ppl"), De.appendChild(a), a.style.pointerEvents = "all";
  /*        const n = document.createElement("img");
         n.src = "resimler/rs.png", n.classList.add("bu"), n.setAttribute("id", "rs"), n.setAttribute("tabindex", 1), Ie.appendChild(n); */
         const _ = () => {
@@ -4336,7 +4336,7 @@ function end() {
 			I.style.fontSize = "30px", 
 			I.style.color = "black", 
 			o.appendChild(I), 
-			(j = document.createElement("img")).src = "resimler/r2.png", j.style = "\n    width: 50px;\n    left: 50%;\n    margin-top: -70px;\n  margin-left: 150px;\n    animation: 2s linear 0s infinite normal none running slowshake;\n    pointer-events: all;\n    ", j.onclick = e => {
+			(j = document.createElement("img")).src = "https://play-unblocked.github.io/slitherio/resimler/r2.png", j.style = "\n    width: 50px;\n    left: 50%;\n    margin-top: -70px;\n  margin-left: 150px;\n    animation: 2s linear 0s infinite normal none running slowshake;\n    pointer-events: all;\n    ", j.onclick = e => {
                     e.stopImmediatePropagation(), 
 					e && (j.style.visibility = "hidden", 
 					I.innerText = "+".concat(2 * q), 
@@ -4353,7 +4353,7 @@ function end() {
                 K && (U(), K = !1, Q(), g())
             }, z = document.createElement("div"), D.appendChild(z), z.style.position = "absolute", z.style.width = z.style.height = "200px", z.style.animation = "slowshake 2s linear infinite", z.style.cursor = "pointer";
             const i = "\n    position:absolute;\n    width:100%;\n    height:100%;\n    ";
-            (B = document.createElement("div")).setAttribute("viewBox", "0 0 100 100"), B.style = i, B.style.background = "url(resimler/bl_u.svg)", B.style.backgroundRepeat = "no-repeat", z.appendChild(B), (L = document.createElement("div")).setAttribute("viewBox", "0 0 100 100"), L.style = i, L.style.marginTop = "94px", L.style.background = "url(resimler/bl_d.svg)", L.style.backgroundRepeat = "no-repeat", z.appendChild(L), Q(), z.onclick = () => {
+            (B = document.createElement("div")).setAttribute("viewBox", "0 0 100 100"), B.style = i, B.style.background = "url(https://play-unblocked.github.io/slitherio/resimler/bl_u.svg)", B.style.backgroundRepeat = "no-repeat", z.appendChild(B), (L = document.createElement("div")).setAttribute("viewBox", "0 0 100 100"), L.style = i, L.style.marginTop = "94px", L.style.background = "url(https://play-unblocked.github.io/slitherio/resimler/bl_d.svg)", L.style.backgroundRepeat = "no-repeat", z.appendChild(L), Q(), z.onclick = () => {
                 N || K || (m.__loadedData.gacha <= 0 ? U() : (A("opengacha", 1), m.__loadedData.gacha--, m.__loadedData.gachaRolls++, y(m.__loadedData, "all"), window.navigator && window.navigator.vibrate && window.navigator.vibrate([50, 80, 50, 40, 50, 70, 50, 30, 50, 80, 50, 40, 50, 70, 50, 30, 400]), g(), N = !0, B.classList.add("open"), 
 				L.classList.add("open-i"), z.style.animation = "hardshake 2s linear infinite", setTimeout(() => {
                     O(), K = !0, N = !1, m.__loadedData.hats[G] || (m.__loadedData.hats[G] = 0), m.__loadedData.hats[G] += q, m.__loadedData.hats[G] >= m.__hatUnlockAmmount[G] && (m.__hatIsEars[G] ? W.__doAchievement(5, "+", 1) : W.__doAchievement(4, "+", 1), m.__loadedData.hats[G] = m.__hatUnlockAmmount[G], m.__loadedData.unlockedHats++), y(m.__loadedData, "all"),
