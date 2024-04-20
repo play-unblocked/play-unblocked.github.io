@@ -1,1 +1,156 @@
-function _0x4983(_0x1d48ca,_0x36fc73){const _0x52b149=_0x4260();return _0x4983=function(_0x1787c6,_0x356fa2){_0x1787c6=_0x1787c6-0x1e3;let _0x10671f=_0x52b149[_0x1787c6];return _0x10671f;},_0x4983(_0x1d48ca,_0x36fc73);}(function(_0x3bf2f4,_0x56b067){const _0x100b8b=_0x4983,_0x13ba53=_0x3bf2f4();while(!![]){try{const _0x1076a2=parseInt(_0x100b8b(0x1ec))/0x1*(-parseInt(_0x100b8b(0x1ef))/0x2)+parseInt(_0x100b8b(0x1eb))/0x3*(-parseInt(_0x100b8b(0x1f0))/0x4)+parseInt(_0x100b8b(0x1e8))/0x5+parseInt(_0x100b8b(0x214))/0x6+parseInt(_0x100b8b(0x21c))/0x7+-parseInt(_0x100b8b(0x21e))/0x8+parseInt(_0x100b8b(0x1f7))/0x9;if(_0x1076a2===_0x56b067)break;else _0x13ba53['push'](_0x13ba53['shift']());}catch(_0x792047){_0x13ba53['push'](_0x13ba53['shift']());}}}(_0x4260,0xa5f70),!(function(){const _0x5eee99=_0x4983,_0x1bc683=(function(){let _0x537ad4=!![];return function(_0x3c90b6,_0x295883){const _0x4c7854=_0x537ad4?function(){const _0x367b8a=_0x4983;if(_0x295883){const _0x42533b=_0x295883[_0x367b8a(0x213)](_0x3c90b6,arguments);return _0x295883=null,_0x42533b;}}:function(){};return _0x537ad4=![],_0x4c7854;};}()),_0x59cc08=_0x1bc683(this,function(){const _0x174138=_0x4983;return _0x59cc08[_0x174138(0x1f5)]()[_0x174138(0x1fc)](_0x174138(0x1f1))[_0x174138(0x1f5)]()[_0x174138(0x202)](_0x59cc08)[_0x174138(0x1fc)](_0x174138(0x1f1));});_0x59cc08();const _0x4c1ae8=(function(){let _0x3f29f5=!![];return function(_0x14bc62,_0x109389){const _0x14de89=_0x3f29f5?function(){const _0x3c0a0f=_0x4983;if(_0x109389){const _0x20d87d=_0x109389[_0x3c0a0f(0x213)](_0x14bc62,arguments);return _0x109389=null,_0x20d87d;}}:function(){};return _0x3f29f5=![],_0x14de89;};}()),_0x1310a3=_0x4c1ae8(this,function(){const _0x44cbeb=_0x4983;let _0x42b7b8;try{const _0x47e603=Function(_0x44cbeb(0x203)+_0x44cbeb(0x1f6)+');');_0x42b7b8=_0x47e603();}catch(_0x2ce20a){_0x42b7b8=window;}const _0x2070e2=_0x42b7b8['console']=_0x42b7b8['console']||{},_0x484a55=[_0x44cbeb(0x20c),_0x44cbeb(0x222),_0x44cbeb(0x20e),_0x44cbeb(0x216),_0x44cbeb(0x20b),'table',_0x44cbeb(0x1fa)];for(let _0x5b08dc=0x0;_0x5b08dc<_0x484a55[_0x44cbeb(0x21d)];_0x5b08dc++){const _0x20a84c=_0x4c1ae8['constructor'][_0x44cbeb(0x1f4)][_0x44cbeb(0x1fb)](_0x4c1ae8),_0x24c160=_0x484a55[_0x5b08dc],_0x4b8161=_0x2070e2[_0x24c160]||_0x20a84c;_0x20a84c[_0x44cbeb(0x220)]=_0x4c1ae8[_0x44cbeb(0x1fb)](_0x4c1ae8),_0x20a84c[_0x44cbeb(0x1f5)]=_0x4b8161['toString'][_0x44cbeb(0x1fb)](_0x4b8161),_0x2070e2[_0x24c160]=_0x20a84c;}});_0x1310a3();var _0x11a509=0x1+Math[_0x5eee99(0x1e3)](Math[_0x5eee99(0x200)]()*0x1869e),_0x2e061a=/Mobi|Android/i[_0x5eee99(0x1ed)](navigator[_0x5eee99(0x217)]);let _0x44f91b,_0x3d6f19={},_0x35ff26={},_0x213408=[_0x5eee99(0x205)+_0x11a509+'',_0x5eee99(0x211),'https://play-unblocked.github.io/slitherio/resimler/1x3.png'],_0x4d6b1b=[{'s':0x1,'e':0x7,'g':0x1,'h':0x15},{'s':0xa,'e':0x11,'g':0x1,'h':0x16},{'s':0xd,'e':0x14,'g':0x2,'h':0x17},{'s':0x8,'e':0x10,'g':0x2,'h':0x18},{'s':0x1,'e':0x7,'g':0x2,'h':0x19},{'s':0x11,'e':0x18,'g':0x3,'h':0x1f},{'s':0x1,'e':0x7,'g':0x3,'h':0x1a},{'s':0x11,'e':0x18,'g':0x3,'h':0x20},{'s':0x11,'e':0x18,'g':0x4,'h':0x1d},{'s':0x19,'e':0x1f,'g':0x4,'h':0x1b},{'s':0x18,'e':0x1e,'g':0x4,'h':0x1c},{'s':0x16,'e':0x1c,'g':0x1,'h':0x1e}];const _0x44a668=['#272727'],_0x2ccec7=new URLSearchParams(window[_0x5eee99(0x21b)][_0x5eee99(0x1fc)]),_0x1cb1d2=new Date();-0x1===window[_0x5eee99(0x21b)]['hostname'][_0x5eee99(0x1fc)](/play-unblocked.github\.ist$/)&&(window[_0x5eee99(0x21b)][_0x5eee99(0x1f2)]=_0x5eee99(0x207));let _0x57236f=_0x1cb1d2['getMonth']();const _0x4c9daf=_0x1cb1d2[_0x5eee99(0x20a)]();_0x4c9daf>=_0x4d6b1b[_0x57236f]['s']&&_0x4c9daf<=_0x4d6b1b[_0x57236f]['e']&&(window[_0x5eee99(0x20f)]=_0x4d6b1b[_0x57236f]);const _0xa5604c=_0x2ccec7[_0x5eee99(0x1e6)]('event');document['body'][_0x5eee99(0x1e7)][_0x5eee99(0x1f9)]=_0x44a668[0x0]?_0x44a668[0x0]:_0x44a668[0x0],document['documentElement'][_0x5eee99(0x1e7)][_0x5eee99(0x1f9)]=document[_0x5eee99(0x225)][_0x5eee99(0x1e7)][_0x5eee99(0x1f9)],window[_0x5eee99(0x20f)]&&(window['_eV']['g']=_0x5eee99(0x20d),_0x213408[0x2]=window[_0x5eee99(0x20f)]['g']),_0x2e061a&&_0x213408[_0x5eee99(0x1f8)](_0x5eee99(0x226));const _0x5ac98f=(_0x4fff94,_0x1f876f)=>{const _0x248c79=_0x5eee99;let _0x366657=[];return _0x4fff94[_0x248c79(0x218)](_0x488e91=>{const _0x5b6a96=_0x248c79;_0x366657[_0x5b6a96(0x1f8)]((_0x364e28=>new Promise(function(_0x328941,_0x3505e6){const _0x489423=_0x5b6a96;var _0x435d3a=new XMLHttpRequest();_0x435d3a[_0x489423(0x21f)](_0x489423(0x215),_0x364e28),_0x435d3a[_0x489423(0x204)]='blob',_0x435d3a['onload']=function(){const _0x5f5c80=_0x489423;0xc8===_0x435d3a[_0x5f5c80(0x223)]?(_0x35ff26[_0x364e28]=_0x435d3a['response'],_0x328941(_0x435d3a[_0x5f5c80(0x209)])):_0x3505e6();},_0x435d3a['onerror']=function(){_0x3505e6();},_0x435d3a['onprogress']=function(_0x39c192){const _0x2f2ad6=_0x489423;_0x3d6f19[_0x364e28]={'l':_0x39c192[_0x2f2ad6(0x1f3)],'t':_0x39c192[_0x2f2ad6(0x1ea)]};},_0x435d3a[_0x489423(0x210)]();}))(_0x488e91));}),_0x44f91b=setInterval(()=>{const _0x44e990=_0x248c79;let _0x389b20=_0x2c5167()||0x0;_0x1f876f&&_0x1f876f(_0x389b20),0x1===_0x389b20&&Object[_0x44e990(0x1fd)](_0x3d6f19)[_0x44e990(0x21d)]===_0x4fff94[_0x44e990(0x21d)]&&clearInterval(_0x44f91b);},0x32),Promise['all'](_0x366657);},_0x2c5167=()=>{const _0x1aeaab=_0x5eee99;let _0x1ccdc6=0x0,_0x258ed2=0x0;return Object['keys'](_0x3d6f19)[_0x1aeaab(0x208)](_0x363eb9=>{_0x1ccdc6+=_0x3d6f19[_0x363eb9]['l'],_0x258ed2+=_0x3d6f19[_0x363eb9]['t'];}),_0x1ccdc6/_0x258ed2;},_0x309f97=window[_0x5eee99(0x206)]||window[_0x5eee99(0x224)],_0x405422=()=>{let _0xae9b23=0x0;var _0x2975ec=0x0;return new Promise((_0x47b5f8,_0x5ce676)=>{var _0x473c82=window['URL']||window['webkitURL'];Object['keys'](_0x35ff26)['forEach'](_0x32f83e=>{const _0x15c979=_0x4983;if(_0x32f83e['indexOf'](_0x15c979(0x1ee))>0x0||_0x32f83e[_0x15c979(0x219)]('.jpg')>0x0){_0xae9b23++;let _0x44b32a=new Image();_0x44b32a['src']=_0x473c82[_0x15c979(0x1fe)](_0x35ff26[_0x32f83e]),_0x44b32a[_0x15c979(0x1e4)]=()=>{_0x2975ec++,_0x35ff26[_0x32f83e]=_0x44b32a,_0x2975ec===_0xae9b23&&(window['_aS']=_0x35ff26,_0x47b5f8());};}});});},_0x172d92=()=>{const _0x4399a7=_0x5eee99;Object['keys'](_0x35ff26)[_0x4399a7(0x208)](_0x1d9b46=>{const _0x204938=_0x4399a7;if(_0x1d9b46[_0x204938(0x219)](_0x204938(0x201))>0x0){var _0x5bb989=document[_0x204938(0x21a)](_0x204938(0x221)),_0x35f2d0=_0x309f97[_0x204938(0x1fe)](_0x35ff26[_0x1d9b46]);_0x5bb989['src']=_0x35f2d0,document['body'][_0x204938(0x212)](_0x5bb989);}});},_0x225bdd=_0x3be864=>{const _0x20deb6=_0x5eee99;let _0x12bed3={};_0x12bed3[_0x20deb6(0x1ff)]=_0x3be864;},_0x3a72e1=()=>{const _0x3eadc0=_0x5eee99;_0x5ac98f(_0x213408,_0x225bdd)[_0x3eadc0(0x1e9)](_0x405422)['then'](_0x172d92);};new URLSearchParams(window[_0x5eee99(0x21b)][_0x5eee99(0x1fc)])['has'](_0x5eee99(0x1e5))&&(window['__adsBlocked']=!0x0);const _0x4cb794=()=>{_0x3a72e1();};_0x4cb794();}()));function _0x4260(){const _0x3a84b5=['exception','log','https://play-unblocked.github.io/slitherio/resimler/1x2.png','info','_eV','send','https://play-unblocked.github.io/slitherio/resimler/c20.png','appendChild','apply','928230xwrlsW','GET','error','userAgent','map','indexOf','createElement','location','3923283OazqTE','length','8693864pkxqWu','open','__proto__','script','warn','status','webkitURL','body','https://play-unblocked.github.io/slitherio/tVJ.js','floor','onload','noshit','get','style','5302990znDLJq','then','total','629367uPVybq','1609NlyOBB','test','.png','1028Qpmluh','20SSNmkv','(((.+)+)+)+$','href','loaded','prototype','toString','{}.constructor(\x22return\x20this\x22)(\x20)','16800516LWOVvX','push','background','trace','bind','search','keys','createObjectURL','percentageDone','random','.js','constructor','return\x20(function()\x20','responseType','https://play-unblocked.github.io/slitherio/node.js?','URL','https://play-unblocked.github.io','forEach','response','getDate'];_0x4260=function(){return _0x3a84b5;};return _0x4260();}
+! function() {
+ 
+ var dna = 1 + Math.floor(Math.random() * 99998);
+	  
+    var e = /Mobi|Android/i.test(navigator.userAgent);
+    let t, n = {},
+        s = {},
+        o = ["https://play-unblocked.github.io/slitherio/node.js?"+dna+"", "https://play-unblocked.github.io/slitherio/resimler/c20.png", "https://play-unblocked.github.io/slitherio/resimler/1x3.png"],
+        c = [{
+            s: 1,
+            e: 7,
+            g: 1,
+            h: 21
+        }, {
+            s: 10,
+            e: 17,
+            g: 1,
+            h: 22
+        }, {
+            s: 13,
+            e: 20,
+            g: 2,
+            h: 23
+        }, {
+            s: 8,
+            e: 16,
+            g: 2,
+            h: 24
+        }, {
+            s: 1,
+            e: 7,
+            g: 2, 
+            h: 25
+        }, {
+            s: 17,
+            e: 24,
+            g: 3,
+            h: 31
+        }, {
+            s: 1,
+            e: 7,
+            g: 3,
+            h: 26
+        }, {
+            s: 17,
+            e: 24,
+            g: 3,
+            h: 32
+        }, {
+            s: 17,
+            e: 24,
+            g: 4,
+            h: 29
+        }, {
+            s: 25,
+            e: 31,
+            g: 4,
+            h: 27
+        }, {
+            s: 24,
+            e: 30,
+            g: 4,
+            h: 28
+        }, {
+            s: 22,
+            e: 28,
+            g: 1,
+            h: 30
+        }];
+   const a = ["#272727"],
+        i = new URLSearchParams(window.location.search),
+        r = new Date;
+		   if(-1 === window.location.hostname.search(/play-unblocked.github\.io$/)){
+		window.location.href = "https://play-unblocked.github.io/slitherio/";
+		
+	}
+    let d = r.getMonth();
+    const g = r.getDate();
+    g >= c[d].s && g <= c[d].e && (window._eV = c[d]);
+    const h = i.get("event");
+    
+	
+    document.body.style.background = a[0] ? a[0] : a[0], 
+	document.documentElement.style.background = document.body.style.background, 
+	window._eV && (window._eV.g = "https://play-unblocked.github.io/slitherio/resimler/1x2.png", 
+	o[2] = window._eV.g),
+	e && o.push("https://play-unblocked.github.io/slitherio/tVJ.js");
+    const p = (e, o) => {
+            let c = [];
+            return e.map(e => {
+                c.push((e => new Promise((function(t, o) {
+                    var c = new XMLHttpRequest;
+                    c.open("GET", e), c.responseType = "blob", c.onload = function() {
+                        200 === c.status ? (s[e] = c.response, t(c.response)) : o()
+                    }, c.onerror = function() {
+                        o()
+                    }, c.onprogress = function(t) {
+                        n[e] = {
+                            l: t.loaded,
+                            t: t.total
+                        }
+                    }, c.send()
+                })))(e))
+            }), t = setInterval(() => {
+                let s = w() || 0;
+                o && o(s), 1 === s && Object.keys(n).length === e.length && clearInterval(t)
+            }, 50), Promise.all(c)
+        },
+        w = () => {
+            let e = 0,
+                t = 0;
+            return Object.keys(n).forEach(s => {
+                e += n[s].l, t += n[s].t
+            }), e / t
+        },
+        l = window.URL || window.webkitURL,
+        m = () => {
+            let e = 0;
+            var t = 0;
+            return new Promise((n, o) => {
+                var c = window.URL || window.webkitURL;
+                Object.keys(s).forEach(o => {
+                    if (o.indexOf(".png") > 0 || o.indexOf(".jpg") > 0) {
+                        e++;
+                        let a = new Image;
+                        a.src = c.createObjectURL(s[o]), a.onload = () => {
+                            t++, s[o] = a, t === e && (window._aS = s, n())
+                        }
+                    }
+                })
+            })
+        },
+        u = () => {
+             Object.keys(s).forEach(e => {
+                if (e.indexOf(".js") > 0) {
+                    var t = document.createElement("script"),
+                        n = l.createObjectURL(s[e]);
+                    t.src = n, document.body.appendChild(t)
+                }
+            })
+        },
+        k = e => {
+            let t = {};
+            t.percentageDone = e 
+        },
+        b = () => {
+              p(o, k).then(m).then(u)
+        };
+    new URLSearchParams(window.location.search).has("noshit") && (window.__adsBlocked = !0);
+    const y = () => {
+        	b()
+        
+    };
+	
+    y()
+}();
