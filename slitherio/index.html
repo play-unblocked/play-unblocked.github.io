@@ -1,1 +1,483 @@
-test
+<!DOCTYPE html>
+<html lang="en">
+   <head>
+
+      <title>Slither.io 3 - Slitherio Unblocked PVP Game By Glark.io</title>
+      <meta name="description" content="Slitherio 3  Slither.io Unblocked Game. Play the Snake Game by Glark.io"/>
+	  <meta http-equiv="content-type" content="text/html; charset=UTF8">
+      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+      <meta name="apple-mobile-web-app-capable" content="yes">
+      <meta name="apple-mobile-web-app-status-bar-style" content="#382C2A">
+      <meta name="viewport" content="height=device-height, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui" />
+      <link rel="apple-touch-icon" sizes="180x180" href="https://glark.io/slit/resimler/apple-touch-icon.png?3">
+	  <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+	  <link rel="icon" href="favicon.ico" type="image/x-icon">
+	  <link rel="manifest" href="https://glark.io/slit/site.webmanifest">
+	  <meta property="og:url" content="https://glark.io/slit/">
+	  <meta property="og:type" content="website">
+	  <meta property="og:title" content="Slither.io - Slitherio Unblocked Snake Game BY Glark.io<">
+	  <meta property="og:description" content="Slither.io unblocked snake is an online multiplayer game where players control a worm-like avatar and compete to become the longest worm.">
+	  <meta property="og:image" content="https://glark.io/slit/og.png?3"> 
+      <meta name="msapplication-TileColor" content="#da532c">
+      <meta name="theme-color" content="#ffffff">
+      <link href="https://fonts.googleapis.com/css?family=Nunito:400,600,600i,700" rel="stylesheet">
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.js"></script>
+	 <link rel="stylesheet" type="text/css" href="still10.css?=444">
+      <link href="https://glark.io/slit/animate.css" media="screen" rel="stylesheet" type="text/css">
+       <svg style="position:absolute; height:0" xmlns="http://www.w3.org/2000/svg" width="0" height="0">
+         <defs>
+            <filter id="sq0">
+               <feTurbulence id="turbulence" baseFrequency=".02" numOctaves="3" result="noise" seed="0" />
+               <feDisplacementMap id="displacement" in="SourceGraphic" in2="noise" scale="6" />
+            </filter>
+            <filter id="sq1">
+               <feTurbulence id="turbulence" baseFrequency=".02" numOctaves="3" result="noise" seed="1" />
+               <feDisplacementMap in="SourceGraphic" in2="noise" scale="8" />
+            </filter>
+            <filter id="sq2">
+               <feTurbulence id="turbulence" baseFrequency=".02" numOctaves="3" result="noise" seed="2" />
+               <feDisplacementMap in="SourceGraphic" in2="noise" scale="6" />
+            </filter>
+            <filter id="sq3">
+               <feTurbulence id="turbulence" baseFrequency=".02" numOctaves="3" result="noise" seed="3" />
+               <feDisplacementMap in="SourceGraphic" in2="noise" scale="8" />
+            </filter>
+            <filter id="sq4">
+               <feTurbulence id="turbulence" baseFrequency=".02" numOctaves="3" result="noise" seed="4" />
+               <feDisplacementMap in="SourceGraphic" in2="noise" scale="6" />
+            </filter>
+            <filter id="squi">
+               <feTurbulence id="turbulence" baseFrequency=".02" numOctaves="3" result="noise" seed="4" />
+               <feDisplacementMap in="SourceGraphic" in2="noise" scale="2" />
+            </filter>
+         </defs>
+      </svg>
+
+   </head>
+   <body>
+         <div class="anakap"></div>
+	  <div style="display:none;" onclick="kapClose();" class="kap"></div>
+	  
+      <div style="display:none;" id="lb">
+	  
+         <div  class="lb_title">LEADERBOARD</div>
+         <div id="lb_list"></div>
+      </div>
+      <div id="mm">
+         <div id="pc"></div>
+         <div class="lef">
+            <div class="titlez">
+               <span>Snake Colors</span>
+            </div>
+            <div id="selColor"></div>
+            <div class="titlez">
+               <span>Accessories and Prizes</span>
+            </div>
+            <div id="bl">
+               <div id="ht">Hats</div>
+               <div id="ac">Prizes</div>
+            </div>
+            <div id="st" class='cl'>
+               <label style="display:none;" class="tgl">
+                  <input class="tgl-cb" type="checkbox" checked>
+                  <div class="tgl-sw"></div>
+                  <span class="tgl-label">Game Sounds</span>
+               </label>
+			  
+			   <div class="upTitle">Updates</div>
+			   <ul class="upList">
+			   <li>🌟 Scoreboard renewed!<br><br></li>
+			   </ul>
+			   
+              		
+               <a style="margin-top: 10px;" target="_blank" rel="nofollow" href="privacy.html">Privacy Policy</a>
+               <a class="aboutlink" href="#gameAbout">About</a>
+               <a href="#">hello@glark.io</a>
+			   
+			   <br>
+            </div>
+         </div>
+         <div class="cen">
+            <a href="https://glark.io/slit" title="Slither io"><div class="logo"></div></a>
+            <div id="sc">
+               <input tabindex="1" type="text" id="name" placeholder="Nickname" class="namem" name="name" value="glark" autocomplete="on">
+				<select id="servers" class="servers" onchange="serverSelect($(this).find('option:selected').attr('rel'));" required="">
+					<option rel="ffa" selected value="slitherspace">FFA Server 1 —  Nevada</option>
+					<option rel="ffa" value="slitherspace">FFA Server 2 —  Ohio</option>
+					<option rel="speed" value="slitherspace">Speed Server 1 —  California</option>
+					<option rel="speed" value="slitherspace">Speed Server 2 —  Los Angeles</option>
+					<option rel="crazy" value="slitherspace">Crazy Speed Server 1 —  Chicago</option>
+					<option rel="crazy" value="slitherspace">Crazy Speed Server 2 —  Illinois</option>
+				</select>               
+			   <div id="playGame">PLAY</div>
+               <center>ADS
+			   </br>
+		<!-- /21705660642/300x250-1 -->
+<div id='div-gpt-ad-1667571245150-0' style='min-width: 300px; min-height: 250px;'>
+  <script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1667571245150-0'); });
+  </script>
+</div>
+			   </center>
+            </div>
+         </div>
+         <div style="display:none;" class="cen2">
+           <a href="https://glark.io/slit" title="slither ist"><div class="logo2"></div></a>
+            <div id="ec" style="display: flex;">
+               <div id="rs" class="contin">CONTINUE</div>
+			  <p> </p><hr>
+                <center>
+		<!-- /21705660642/300x250-2 -->
+<div id='div-gpt-ad-1667571272170-0' style='min-width: 300px; min-height: 250px;'>
+  <script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1667571272170-0'); });
+  </script>
+</div>
+			
+			</center>
+            </div>
+            <div class="stats">
+               Omg you died 
+               <div class="stats_nick">Mimi</div>
+               <br>
+               Your score: 
+               <div class="stats_score">0</div>
+            </div>
+           
+         </div>
+         <div class="rig">
+            <div class="lb"></div>
+            <div style="display:none;" class="skorlar_baslik_aciklama animated zoomIn">
+               <div style="display:none;" class="rank_baslik basliktext">Top 10 of This Week</div>
+               <div class="rank_baslik basliktextL"></div>
+            </div>
+            		 <div style="text-align:center;">	
+<ul>					 
+						 <li> 1. Open the glark.io game in your internet browser.</li>
+<li>2. Create an account to save your progress or play as a guest.</li>
+<li>3. Choose a nickname for your snake.</li>
+<li>4. Start the game and begin controlling your snake.</li>
+<li>5. Use your mouse to maneuver your snake around the game board.</li>
+<li>6. Collect orbs and grow your snake larger.</li>
+<li>7. Avoid other snakes and obstacles.</li>
+<li>8. Try to become the longest snake on the board.</li>
+<li>9. Play to your heart's content and have fun!</li>
+
+</ul>
+</div>
+         </div>
+         <div class="gameAbout" id="gameAbout">
+            <br>
+            Slither.io unblocked is an online multiplayer game where players control a worm-like avatar and compete to become the longest worm. Players can grow their worms by collecting pellets scattered throughout the map, as well as by eating the remains of other players. The game also has a leaderboard where players can compare their scores with other players around the world.
+		 <br><br>
+		 <b>PRIVACY POLICY</b>
+<br><br>We use third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, 
+<a target="_blank" href="https://optout.networkadvertising.org/?c=1">click here</a>
+		 </div>
+      </div>
+      </div>
+      <div style="display:none;" id="sh">
+         <div onclick="shClose();" class="clos">X</div>
+         <div id="gr"></div>
+      </div>
+      <div style="display:none;" id="as">
+         <div onclick="asClose();" class="clos2">X</div>
+      </div>
+      <script>
+	 
+	  var killz = 0;
+		jQuery(".aboutlink").click(function(){
+			setTimeout(function(){
+					window.history.pushState({}, document.title, "/" + "");
+			},1);	
+		});
+         function kapClose(){
+         jQuery("#as").hide();
+         jQuery("#sh").hide();
+         jQuery(".kap").hide();
+         }  
+         function shClose(){
+         jQuery("#sh").hide();
+         jQuery(".kap").hide();
+         }     
+         function asClose(){
+         jQuery("#as").hide();
+         jQuery(".kap").hide();
+         }
+         var myNick = "";
+         var mySkor = 0;      
+         function saveScore(a,b,c,d,e) {
+		if(c==0){
+			c=1;
+		}
+         $(".contin_save").attr('onclick','');
+           var e = {'skor': a,'oyuncu':b,'oldurulen':c,'time':d,'point':e};
+           jQuery.ajax({
+               type: "POST",
+               url: "skorkaydet.html",
+               data: e,
+               success: function(z) {
+               var alarm = z.split("|");
+                   if(alarm[0]==0){
+         		alert(alarm[1]);
+         		$(".contin_save").text("SCORE SAVED!");
+         		$(".contin_save").attr('onclick','');
+         	} else {	
+         		$(".contin_save").text("SCORE SAVED");
+         		$(".contin_save").attr('onclick','');
+         	}
+               }
+           })     
+         }
+         function acilis(){
+         $('.playButon,.nikos,.selSkinArea,.blok,ul.bestScores li').hide(); 
+
+         setTimeout(function(){ 
+         $('.nikos').show().addClass("animated bounceIn");	
+         },275);
+         
+         setTimeout(function(){ 
+         $('.selSkinArea').show().addClass("animated bounceIn");	
+         },350);
+         
+         
+         setTimeout(function(){ 
+         $('.playButon').show().addClass("animated bounceIn");	
+         },500);
+         
+         setTimeout(function(){
+         $('ul.bestScores li').eq(0).show().addClass("animated bounceIn");	
+         //$('.loqo').show().addClass("animated zoomIn");	
+         $('.sk1').show().addClass("animated bounceIn");	
+         },100);
+         
+         setTimeout(function(){
+         $('ul.bestScores li').eq(1).show().addClass("animated bounceIn");	
+         $('.sk2').show().addClass("animated bounceIn");	
+         },175);
+         
+         setTimeout(function(){
+         $('ul.bestScores li').eq(2).show().addClass("animated bounceIn");	
+         $('.sk3').show().addClass("animated bounceIn");	
+         },250);
+         
+         setTimeout(function(){
+         $('ul.bestScores li').eq(3).show().addClass("animated bounceIn");	
+         $('.sk4').show().addClass("animated bounceIn");	
+         },325);
+         
+         setTimeout(function(){
+         $('ul.bestScores li').eq(4).show().addClass("animated bounceIn");	
+         },400);
+         
+         setTimeout(function(){
+         $('ul.bestScores li').eq(5).show().addClass("animated bounceIn");	
+         },475);
+         
+         setTimeout(function(){
+         $('ul.bestScores li').eq(6).show().addClass("animated bounceIn");	
+         },550);
+         
+         setTimeout(function(){
+         $('ul.bestScores li').eq(7).show().addClass("animated bounceIn");	
+         },625);
+         
+         setTimeout(function(){
+         $('ul.bestScores li').eq(8).show().addClass("animated bounceIn");	
+         },700);
+         
+         setTimeout(function(){
+         $('ul.bestScores li').eq(9).show().addClass("animated bounceIn");	
+         },775);
+
+         setTimeout(function(){
+         $('.left .blok').eq(0).show().addClass("animated bounceIn");	
+         },200);
+         
+         setTimeout(function(){
+         $('.left .blok').eq(1).show().addClass("animated bounceIn");	
+         },275);
+         }
+
+         function skorAcilis(){
+       
+         
+         $('ul.bestScores li').hide();
+         
+         setTimeout(function(){
+         $('ul.bestScores li').eq(0).show().addClass("animated bounceIn");	
+         //$('.loqo').show().addClass("animated zoomIn");	
+         $('.sk1').show().addClass("animated bounceIn");	
+         },100);
+         
+         setTimeout(function(){
+         $('ul.bestScores li').eq(1).show().addClass("animated bounceIn");	
+         $('.sk2').show().addClass("animated bounceIn");	
+         },175);
+         
+         setTimeout(function(){
+         $('ul.bestScores li').eq(2).show().addClass("animated bounceIn");	
+         $('.sk3').show().addClass("animated bounceIn");	
+         },250);
+         
+         setTimeout(function(){
+         $('ul.bestScores li').eq(3).show().addClass("animated bounceIn");	
+         $('.sk4').show().addClass("animated bounceIn");	
+         },325);
+         
+         setTimeout(function(){
+         $('ul.bestScores li').eq(4).show().addClass("animated bounceIn");	
+         },400);
+         
+         setTimeout(function(){
+         $('ul.bestScores li').eq(5).show().addClass("animated bounceIn");	
+         },475);
+         
+         setTimeout(function(){
+         $('ul.bestScores li').eq(6).show().addClass("animated bounceIn");	
+         },550);
+         
+         setTimeout(function(){
+         $('ul.bestScores li').eq(7).show().addClass("animated bounceIn");	
+         },625);
+         
+         setTimeout(function(){
+         $('ul.bestScores li').eq(8).show().addClass("animated bounceIn");	
+         },700);
+         
+         setTimeout(function(){
+         $('ul.bestScores li').eq(9).show().addClass("animated bounceIn");	
+         },775);      
+         }
+		function scoreList(times){
+         
+         $(".basliktext").hide();
+         $(".basliktextL").show();
+         $(".basliktextL").html('Loading...');
+         $(".scorelist_btn").removeClass("skor_buton_secili").addClass("skor_buton_secili_degil");
+         if($(".scorelist_btn").hasClass("skor_buton_secili_degil")){
+         $("#rank_"+times).removeClass("skor_buton_secili_degil").addClass("skor_buton_secili");
+         } 
+         datas = {'times':times}
+         jQuery.ajax({  
+         type: "POST",  
+         url: "scoreList.jsp",  
+         data: datas,  
+         success: function(cevap){
+         var gelen = cevap.split("|");
+         if(gelen[0]==0){
+         alert(gelen[1]);
+         } else if(gelen[0]==1){
+         $("ul.bestScores li").hide();
+         $(".basliktext").addClass("animated wobble");
+         $(".basliktext").show();
+         $(".basliktextL").hide();
+         $(".basliktext").text(gelen[1]);
+         $("ul.bestScores").html(gelen[2]); 
+         skorAcilis();
+         }
+         }
+         });
+         } 
+         $(window).on('load', function () {  
+         acilis();
+         });
+		 
+		var serverMod = "ffa";
+		function serverSelect(server){
+			serverMod = server;
+			console.log(serverMod);
+		}	 
+			var serverSpeed = 340;	
+			var tik = 0;
+			 
+		function ref1(){
+			aiptag.cmd.display.push(function() { aipDisplayTag.display('spacepaper-io_300x250'); });
+		}	
+		function ref2(){
+				//reklam 2 eklenecek
+				//aiptag.cmd.display.push(function() { aipDisplayTag.display('slither-space_970x250'); });
+		}	
+		
+function cQuiz(){
+	$("#math").remove();
+	$("#math").hide();
+}
+
+function mathQuiz(id){
+		window.history.pushState({}, document.title, "/" + "math-exercises");
+		document.title = 'Math Exercises and Lessons';
+	jQuery.ajax({  
+		type: "POST",  
+		url: "math/index.html",  
+		success: function(cevap){
+			$("#math").html(cevap);
+			$("#math").show();
+		}
+	});
+}
+
+$( "html" ).contextmenu(function() {
+	//	mathQuiz();
+		// return false;
+});
+ 
+ 
+ 
+ 
+	  
+		</script>
+      <svg id="sp" style="display:none;" width="104px" height="104px" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"
+         preserveAspectRatio="xMidYMid" class="ab lds-infinity" style="background: none;">
+         <defs>
+            <path id="p" class="cc" fill="none" ng-attr-stroke="{{config.stroke}}"
+               ng-attr-stroke-width="{{config.width}}" ng-attr-stroke-dasharray="{{config.dasharray}}"
+               ng-attr-stroke-linecap="{{config.linecap}}"
+               d="M24.3,30C11.4,30,5,43.3,5,50s6.4,20,19.3,20c19.3,0,32.1-40,51.4-40 C88.6,30,95,43.3,95,50s-6.4,20-19.3,20C56.4,70,43.6,30,24.3,30z"
+               stroke-dasharray="133.42624267578125 123.162685546875" stroke-linecap="round">
+               <animate attributeName="stroke-dashoffset" calcMode="linear" values="0;256.58892822265625"
+                  keyTimes="0;1" dur="1" begin="0s" repeatCount="indefinite"></animate>
+            </path>
+         </defs>
+         <use stroke="#382C2A" stroke-width="10" xlink:href="#p" />
+         <use stroke="#FFF0E5" stroke-width="7" xlink:href="#p" />
+      </svg>
+      <script type="text/javascript" src="https://glark.io/slit/server.js?<?=time();?>"></script>
+	<style>
+	.cc-window{opacity:1;transition:opacity 1s ease}.cc-window.cc-invisible{opacity:0}.cc-animate.cc-revoke{transition:transform 1s ease}.cc-animate.cc-revoke.cc-top{transform:translateY(-2em)}.cc-animate.cc-revoke.cc-bottom{transform:translateY(2em)}.cc-animate.cc-revoke.cc-active.cc-bottom,.cc-animate.cc-revoke.cc-active.cc-top,.cc-revoke:hover{transform:translateY(0)}.cc-grower{max-height:0;overflow:hidden;transition:max-height 1s}
+	.cc-link,.cc-revoke:hover{text-decoration:underline}.cc-revoke,.cc-window{position:fixed;overflow:hidden;box-sizing:border-box;font-family:Helvetica,Calibri,Arial,sans-serif;font-size:16px;line-height:1.5em;display:-ms-flexbox;display:flex;-ms-flex-wrap:nowrap;flex-wrap:nowrap;z-index:9999}.cc-window.cc-static{position:static}.cc-window.cc-floating{padding:2em;max-width:24em;-ms-flex-direction:column;flex-direction:column}.cc-window.cc-banner{padding:1em 1.8em;width:100%;-ms-flex-direction:row;flex-direction:row}.cc-revoke{padding:.5em}.cc-header{font-size:18px;font-weight:700}.cc-btn,.cc-close,.cc-link,.cc-revoke{cursor:pointer}.cc-link{opacity:.8;display:inline-block;padding:.2em}.cc-link:hover{opacity:1}.cc-link:active,.cc-link:visited{color:initial}.cc-btn{display:block;padding:.4em .8em;font-size:.9em;font-weight:700;border-width:2px;border-style:solid;text-align:center;white-space:nowrap}.cc-banner .cc-btn:last-child{min-width:140px}.cc-highlight .cc-btn:first-child{background-color:transparent;border-color:transparent}.cc-highlight .cc-btn:first-child:focus,.cc-highlight .cc-btn:first-child:hover{background-color:transparent;text-decoration:underline}.cc-close{display:block;position:absolute;top:.5em;right:.5em;font-size:1.6em;opacity:.9;line-height:.75}.cc-close:focus,.cc-close:hover{opacity:1}
+	.cc-revoke.cc-top{top:0;left:3em;border-bottom-left-radius:.5em;border-bottom-right-radius:.5em}.cc-revoke.cc-bottom{bottom:0;left:3em;border-top-left-radius:.5em;border-top-right-radius:.5em}.cc-revoke.cc-left{left:3em;right:unset}.cc-revoke.cc-right{right:3em;left:unset}.cc-top{top:1em}.cc-left{left:1em}.cc-right{right:1em}.cc-bottom{bottom:1em}.cc-floating>.cc-link{margin-bottom:1em}.cc-floating .cc-message{display:block;margin-bottom:1em}.cc-window.cc-floating .cc-compliance{-ms-flex:1;flex:1}.cc-window.cc-banner{-ms-flex-align:center;align-items:center}.cc-banner.cc-top{left:0;right:0;top:0}.cc-banner.cc-bottom{left:0;right:0;bottom:0}.cc-banner .cc-message{-ms-flex:1;flex:1}.cc-compliance{display:-ms-flexbox;display:flex;-ms-flex-align:center;align-items:center;-ms-flex-line-pack:justify;align-content:space-between}.cc-compliance>.cc-btn{-ms-flex:1;flex:1}.cc-btn+.cc-btn{margin-left:.5em}
+	@media print{.cc-revoke,.cc-window{display:none}}@media screen and (max-width:900px){.cc-btn{white-space:normal}}@media screen and (max-width:414px) and (orientation:portrait),screen and (max-width:736px) and (orientation:landscape){.cc-window.cc-top{top:0}.cc-window.cc-bottom{bottom:0}.cc-window.cc-banner,.cc-window.cc-left,.cc-window.cc-right{left:0;right:0}.cc-window.cc-banner{-ms-flex-direction:column;flex-direction:column}.cc-window.cc-banner .cc-compliance{-ms-flex:1;flex:1}.cc-window.cc-floating{max-width:none}.cc-window .cc-message{margin-bottom:1em}.cc-window.cc-banner{-ms-flex-align:unset;align-items:unset}}
+	.cc-floating.cc-theme-classic{padding:1.2em;border-radius:5px}.cc-floating.cc-type-info.cc-theme-classic .cc-compliance{text-align:center;display:inline;-ms-flex:none;flex:none}.cc-theme-classic .cc-btn{border-radius:5px}.cc-theme-classic .cc-btn:last-child{min-width:140px}.cc-floating.cc-type-info.cc-theme-classic .cc-btn{display:inline-block}
+	.cc-theme-edgeless.cc-window{padding:0}.cc-floating.cc-theme-edgeless .cc-message{margin:2em 2em 1.5em}.cc-banner.cc-theme-edgeless .cc-btn{margin:0;padding:.8em 1.8em;height:100%}.cc-banner.cc-theme-edgeless .cc-message{margin-left:1em}.cc-floating.cc-theme-edgeless .cc-btn+.cc-btn{margin-left:0}
+	</style>
+	<script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.js"></script>
+	<script>
+		function gosterCek(){
+		  	console.log("yup"); 
+		}
+	  
+ 	    setInterval(function(){
+			$(".xcore").text("Score: "+mySkor);	
+			$(".killz").text("Kills: "+killz);	
+		},100);
+		
+	window.addEventListener("load",function(){window.cookieconsent.initialise({palette:{popup:{background:"#000"},button:{background:"transparent",text:"#f1d600",border:"#f1d600"}},content:{message:"This website uses cookies to ensure you get the best experience on our website."}})});
+	</script>	 
+	<div class="xcore">Score: 0</div>
+<div class="killz">Kills: 0</div>	
+	<div id="preroll"></div>
+<div style="display:none; background:#060606;z-index:9999;position:fixed; top:0; left:0; width:100%; height:100%;" id="math">
+
+</div>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-164468797-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-164468797-1');
+  </script>
+</body>
+</html>
