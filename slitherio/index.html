@@ -518,7 +518,7 @@
                <div style="display:none;" class="rank_baslik basliktext">Top 10 of This Week</div>
                <div class="rank_baslik basliktextL"></div>
             </div>
-          <!--  <div style="text-align:center;">
+           <!--<div style="text-align:center;">
                <a href="javascript:;" onclick="scoreList('today');" id="rank_today" class="scorelist_btn skor_buton_secili">Today</a>
                <a href="javascript:;" onclick="scoreList('thisweek');" id="rank_thisweek" class="scorelist_btn skor_buton_secili_degil">Weekly</a>
                <a href="javascript:;" onclick="scoreList('thismonth');" id="rank_thismonth" class="scorelist_btn skor_buton_secili_degil">Monthly</a>
@@ -541,14 +541,8 @@
                <?$i++;}?>
                <li style="color: #f57985; font-size: 12px; text-align: center;  margin-top: 5px;">The score list is updated every 1 minutes!</li>
             </ul>
-            <?
-               $ac    = fopen($cache,"w+");
-               fwrite($ac,ob_get_contents());
-               fclose($ac);
-               ob_end_flush();               
-               }
-               ?>
-         </div>-->
+            -->
+         </div>
          <div class="gameAbout" id="gameAbout">
             <br>
             <h1>New Slitherio 3 Game</h1>
