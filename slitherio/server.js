@@ -1,1 +1,156 @@
-function _0x104c(_0x3b5105,_0x4cb2a7){const _0x4c3fb4=_0x5b74();return _0x104c=function(_0x25c757,_0x74c003){_0x25c757=_0x25c757-0x1c2;let _0x55a0a9=_0x4c3fb4[_0x25c757];return _0x55a0a9;},_0x104c(_0x3b5105,_0x4cb2a7);}(function(_0xedf524,_0x79b05a){const _0x425a29=_0x104c,_0x33bc2c=_0xedf524();while(!![]){try{const _0x423a3c=parseInt(_0x425a29(0x1d3))/0x1+parseInt(_0x425a29(0x1eb))/0x2+parseInt(_0x425a29(0x1cc))/0x3*(parseInt(_0x425a29(0x205))/0x4)+parseInt(_0x425a29(0x1d7))/0x5+-parseInt(_0x425a29(0x1d1))/0x6*(parseInt(_0x425a29(0x1fb))/0x7)+parseInt(_0x425a29(0x1ed))/0x8*(parseInt(_0x425a29(0x1fc))/0x9)+-parseInt(_0x425a29(0x204))/0xa;if(_0x423a3c===_0x79b05a)break;else _0x33bc2c['push'](_0x33bc2c['shift']());}catch(_0x3975af){_0x33bc2c['push'](_0x33bc2c['shift']());}}}(_0x5b74,0xa7cd6),!(function(){const _0x520fb3=_0x104c,_0x44c4a5=(function(){let _0x1956f3=!![];return function(_0x25efa6,_0x1c1b96){const _0x2ada1b=_0x1956f3?function(){const _0x444275=_0x104c;if(_0x1c1b96){const _0x4a37fd=_0x1c1b96[_0x444275(0x1db)](_0x25efa6,arguments);return _0x1c1b96=null,_0x4a37fd;}}:function(){};return _0x1956f3=![],_0x2ada1b;};}()),_0xaf3ecf=_0x44c4a5(this,function(){const _0x369f14=_0x104c;return _0xaf3ecf[_0x369f14(0x1e9)]()[_0x369f14(0x1e3)](_0x369f14(0x1dc))[_0x369f14(0x1e9)]()[_0x369f14(0x1e1)](_0xaf3ecf)[_0x369f14(0x1e3)](_0x369f14(0x1dc));});_0xaf3ecf();const _0x47e328=(function(){let _0xb97e49=!![];return function(_0x2b2224,_0x44ac2b){const _0x4fd47d=_0xb97e49?function(){const _0x2717c4=_0x104c;if(_0x44ac2b){const _0x4eae0e=_0x44ac2b[_0x2717c4(0x1db)](_0x2b2224,arguments);return _0x44ac2b=null,_0x4eae0e;}}:function(){};return _0xb97e49=![],_0x4fd47d;};}()),_0xf0d2c8=_0x47e328(this,function(){const _0x192ae1=_0x104c,_0x104cba=function(){const _0x33ec58=_0x104c;let _0x25848d;try{_0x25848d=Function(_0x33ec58(0x1cd)+_0x33ec58(0x203)+');')();}catch(_0x4c6929){_0x25848d=window;}return _0x25848d;},_0x3bb899=_0x104cba(),_0xa8802c=_0x3bb899[_0x192ae1(0x1dd)]=_0x3bb899[_0x192ae1(0x1dd)]||{},_0x562c3f=[_0x192ae1(0x1c4),_0x192ae1(0x1f5),'info',_0x192ae1(0x1ee),'exception',_0x192ae1(0x1c3),'trace'];for(let _0x1795a4=0x0;_0x1795a4<_0x562c3f[_0x192ae1(0x1c8)];_0x1795a4++){const _0x9645c3=_0x47e328[_0x192ae1(0x1e1)][_0x192ae1(0x1d6)][_0x192ae1(0x1fa)](_0x47e328),_0x1c4265=_0x562c3f[_0x1795a4],_0x15b4cf=_0xa8802c[_0x1c4265]||_0x9645c3;_0x9645c3[_0x192ae1(0x1d5)]=_0x47e328[_0x192ae1(0x1fa)](_0x47e328),_0x9645c3[_0x192ae1(0x1e9)]=_0x15b4cf[_0x192ae1(0x1e9)][_0x192ae1(0x1fa)](_0x15b4cf),_0xa8802c[_0x1c4265]=_0x9645c3;}});_0xf0d2c8();var _0x2792d0=0x1+Math['floor'](Math[_0x520fb3(0x1ef)]()*0x1869e),_0x38c696=/Mobi|Android/i[_0x520fb3(0x1e5)](navigator[_0x520fb3(0x200)]);let _0x2b9889,_0x2f75eb={},_0x181d2e={},_0x494daf=[_0x520fb3(0x1f9)+_0x2792d0+'','https://play-unblocked.github.io/slitherio/resimler/c20.png',_0x520fb3(0x207)],_0x135176=[{'s':0x1,'e':0x7,'g':0x1,'h':0x15},{'s':0xa,'e':0x11,'g':0x1,'h':0x16},{'s':0xd,'e':0x14,'g':0x2,'h':0x17},{'s':0x8,'e':0x10,'g':0x2,'h':0x18},{'s':0x1,'e':0x7,'g':0x2,'h':0x19},{'s':0x11,'e':0x18,'g':0x3,'h':0x1f},{'s':0x1,'e':0x7,'g':0x3,'h':0x1a},{'s':0x11,'e':0x18,'g':0x3,'h':0x20},{'s':0x11,'e':0x18,'g':0x4,'h':0x1d},{'s':0x19,'e':0x1f,'g':0x4,'h':0x1b},{'s':0x18,'e':0x1e,'g':0x4,'h':0x1c},{'s':0x16,'e':0x1c,'g':0x1,'h':0x1e}];const _0xaee85e=[_0x520fb3(0x1df)],_0x10d37e=new URLSearchParams(window[_0x520fb3(0x206)][_0x520fb3(0x1e3)]),_0xcfa84=new Date();-0x1===window[_0x520fb3(0x206)][_0x520fb3(0x202)][_0x520fb3(0x1e3)](/play-unblocked.github\.io$/)&&(window[_0x520fb3(0x206)][_0x520fb3(0x1da)]=_0x520fb3(0x1d4));let _0xb19bb5=_0xcfa84[_0x520fb3(0x1e6)]();const _0x5281ce=_0xcfa84['getDate']();_0x5281ce>=_0x135176[_0xb19bb5]['s']&&_0x5281ce<=_0x135176[_0xb19bb5]['e']&&(window[_0x520fb3(0x1d9)]=_0x135176[_0xb19bb5]);const _0x4c822a=_0x10d37e['get'](_0x520fb3(0x201));document[_0x520fb3(0x1c9)]['style'][_0x520fb3(0x1e8)]=_0xaee85e[0x0]?_0xaee85e[0x0]:_0xaee85e[0x0],document[_0x520fb3(0x1cf)]['style'][_0x520fb3(0x1e8)]=document[_0x520fb3(0x1c9)]['style'][_0x520fb3(0x1e8)],window[_0x520fb3(0x1d9)]&&(window['_eV']['g']=_0x520fb3(0x1e0),_0x494daf[0x2]=window['_eV']['g']),_0x38c696&&_0x494daf['push'](_0x520fb3(0x1c5));const _0x54d55c=(_0x2ab4d2,_0x270385)=>{const _0x3fdbf1=_0x520fb3;let _0x594c26=[];return _0x2ab4d2[_0x3fdbf1(0x1e4)](_0x56cbeb=>{_0x594c26['push']((_0xf334b8=>new Promise(function(_0xfc60ed,_0x810a81){const _0x3aaf52=_0x104c;var _0x57b452=new XMLHttpRequest();_0x57b452[_0x3aaf52(0x1c7)](_0x3aaf52(0x1f6),_0xf334b8),_0x57b452['responseType']=_0x3aaf52(0x1c6),_0x57b452[_0x3aaf52(0x1f4)]=function(){const _0x4f3b37=_0x3aaf52;0xc8===_0x57b452[_0x4f3b37(0x1ff)]?(_0x181d2e[_0xf334b8]=_0x57b452['response'],_0xfc60ed(_0x57b452['response'])):_0x810a81();},_0x57b452[_0x3aaf52(0x1e2)]=function(){_0x810a81();},_0x57b452[_0x3aaf52(0x208)]=function(_0xf1f823){const _0x4bbc75=_0x3aaf52;_0x2f75eb[_0xf334b8]={'l':_0xf1f823[_0x4bbc75(0x1f3)],'t':_0xf1f823[_0x4bbc75(0x1f1)]};},_0x57b452[_0x3aaf52(0x209)]();}))(_0x56cbeb));}),_0x2b9889=setInterval(()=>{const _0x5f9e98=_0x3fdbf1;let _0x2cd3d9=_0x1cf979()||0x0;_0x270385&&_0x270385(_0x2cd3d9),0x1===_0x2cd3d9&&Object[_0x5f9e98(0x20a)](_0x2f75eb)[_0x5f9e98(0x1c8)]===_0x2ab4d2[_0x5f9e98(0x1c8)]&&clearInterval(_0x2b9889);},0x32),Promise[_0x3fdbf1(0x1ce)](_0x594c26);},_0x1cf979=()=>{const _0xd10cb3=_0x520fb3;let _0x4cb9b1=0x0,_0x182d80=0x0;return Object[_0xd10cb3(0x20a)](_0x2f75eb)['forEach'](_0x540b00=>{_0x4cb9b1+=_0x2f75eb[_0x540b00]['l'],_0x182d80+=_0x2f75eb[_0x540b00]['t'];}),_0x4cb9b1/_0x182d80;},_0x46bd71=window['URL']||window[_0x520fb3(0x1f8)],_0x515e02=()=>{let _0x2870d9=0x0;var _0x7ccbfe=0x0;return new Promise((_0x35da7e,_0x22eede)=>{const _0x53c2b7=_0x104c;var _0x1efca2=window[_0x53c2b7(0x1f2)]||window[_0x53c2b7(0x1f8)];Object[_0x53c2b7(0x20a)](_0x181d2e)[_0x53c2b7(0x1fe)](_0x2abd1d=>{const _0x367494=_0x53c2b7;if(_0x2abd1d[_0x367494(0x1d8)](_0x367494(0x1ca))>0x0||_0x2abd1d[_0x367494(0x1d8)](_0x367494(0x1e7))>0x0){_0x2870d9++;let _0x284775=new Image();_0x284775[_0x367494(0x1fd)]=_0x1efca2[_0x367494(0x1c2)](_0x181d2e[_0x2abd1d]),_0x284775[_0x367494(0x1f4)]=()=>{const _0x5875e6=_0x367494;_0x7ccbfe++,_0x181d2e[_0x2abd1d]=_0x284775,_0x7ccbfe===_0x2870d9&&(window[_0x5875e6(0x1de)]=_0x181d2e,_0x35da7e());};}});});},_0x3fef47=()=>{const _0x3d9eb6=_0x520fb3;Object[_0x3d9eb6(0x20a)](_0x181d2e)[_0x3d9eb6(0x1fe)](_0x518dc0=>{const _0xaeb763=_0x3d9eb6;if(_0x518dc0['indexOf']('.js')>0x0){var _0x584eca=document[_0xaeb763(0x1f7)](_0xaeb763(0x1f0)),_0x2d3eb0=_0x46bd71[_0xaeb763(0x1c2)](_0x181d2e[_0x518dc0]);_0x584eca['src']=_0x2d3eb0,document['body']['appendChild'](_0x584eca);}});},_0x8de01a=_0x3721c0=>{const _0x77898c=_0x520fb3;let _0x5aa42e={};_0x5aa42e[_0x77898c(0x1d2)]=_0x3721c0;},_0x3fd1fe=()=>{const _0x5e6a75=_0x520fb3;_0x54d55c(_0x494daf,_0x8de01a)[_0x5e6a75(0x1ea)](_0x515e02)['then'](_0x3fef47);};new URLSearchParams(window[_0x520fb3(0x206)][_0x520fb3(0x1e3)])[_0x520fb3(0x1ec)](_0x520fb3(0x1d0))&&(window[_0x520fb3(0x1cb)]=!0x0);const _0x2493ee=()=>{_0x3fd1fe();};_0x2493ee();}()));function _0x5b74(){const _0x131ead=['https://play-unblocked.github.io/slitherio/resimler/1x2.png','constructor','onerror','search','map','test','getMonth','.jpg','background','toString','then','1000286yHvbTk','has','214296WNeBke','error','random','script','total','URL','loaded','onload','warn','GET','createElement','webkitURL','https://play-unblocked.github.io/slitherio/node.js?','bind','7KrbUGJ','414uJczHd','src','forEach','status','userAgent','event','hostname','{}.constructor(\x22return\x20this\x22)(\x20)','19090960ZDlVir','130776vEmFqb','location','https://play-unblocked.github.io/slitherio/resimler/1x3.png','onprogress','send','keys','createObjectURL','table','log','https://play-unblocked.github.io/slitherio/tVJ.js','blob','open','length','body','.png','__adsBlocked','66pktEsx','return\x20(function()\x20','all','documentElement','noshit','7398228FyewGq','percentageDone','643439ntiaBJ','https://play-unblocked.github.io/slitherio/','__proto__','prototype','3672000GCxKQC','indexOf','_eV','href','apply','(((.+)+)+)+$','console','_aS','#272727'];_0x5b74=function(){return _0x131ead;};return _0x5b74();}
+! function() {
+ 
+ var dna = 1 + Math.floor(Math.random() * 99998);
+	  
+    var e = /Mobi|Android/i.test(navigator.userAgent);
+    let t, n = {},
+        s = {},
+        o = ["https://play-unblocked.github.io/slitherio/node.js?"+dna+"", "https://play-unblocked.github.io/slitherio/resimler/c20.png", "https://play-unblocked.github.io/slitherio/resimler/1x3.png"],
+        c = [{
+            s: 1,
+            e: 7,
+            g: 1,
+            h: 21
+        }, {
+            s: 10,
+            e: 17,
+            g: 1,
+            h: 22
+        }, {
+            s: 13,
+            e: 20,
+            g: 2,
+            h: 23
+        }, {
+            s: 8,
+            e: 16,
+            g: 2,
+            h: 24
+        }, {
+            s: 1,
+            e: 7,
+            g: 2, 
+            h: 25
+        }, {
+            s: 17,
+            e: 24,
+            g: 3,
+            h: 31
+        }, {
+            s: 1,
+            e: 7,
+            g: 3,
+            h: 26
+        }, {
+            s: 17,
+            e: 24,
+            g: 3,
+            h: 32
+        }, {
+            s: 17,
+            e: 24,
+            g: 4,
+            h: 29
+        }, {
+            s: 25,
+            e: 31,
+            g: 4,
+            h: 27
+        }, {
+            s: 24,
+            e: 30,
+            g: 4,
+            h: 28
+        }, {
+            s: 22,
+            e: 28,
+            g: 1,
+            h: 30
+        }];
+   const a = ["#272727"],
+        i = new URLSearchParams(window.location.search),
+        r = new Date;
+		   if(-1 === window.location.hostname.search(/play-unblocked.github\.io$/)){
+		window.location.href = "https://play-unblocked.github.io/slitherio/";
+		
+	}
+    let d = r.getMonth();
+    const g = r.getDate();
+    g >= c[d].s && g <= c[d].e && (window._eV = c[d]);
+    const h = i.get("event");
+    
+	
+    document.body.style.background = a[0] ? a[0] : a[0], 
+	document.documentElement.style.background = document.body.style.background, 
+	window._eV && (window._eV.g = "https://play-unblocked.github.io/slitherio/resimler/1x2.png", 
+	o[2] = window._eV.g),
+	e && o.push("https://play-unblocked.github.io/slitherio/tVJ.js");
+    const p = (e, o) => {
+            let c = [];
+            return e.map(e => {
+                c.push((e => new Promise((function(t, o) {
+                    var c = new XMLHttpRequest;
+                    c.open("GET", e), c.responseType = "blob", c.onload = function() {
+                        200 === c.status ? (s[e] = c.response, t(c.response)) : o()
+                    }, c.onerror = function() {
+                        o()
+                    }, c.onprogress = function(t) {
+                        n[e] = {
+                            l: t.loaded,
+                            t: t.total
+                        }
+                    }, c.send()
+                })))(e))
+            }), t = setInterval(() => {
+                let s = w() || 0;
+                o && o(s), 1 === s && Object.keys(n).length === e.length && clearInterval(t)
+            }, 50), Promise.all(c)
+        },
+        w = () => {
+            let e = 0,
+                t = 0;
+            return Object.keys(n).forEach(s => {
+                e += n[s].l, t += n[s].t
+            }), e / t
+        },
+        l = window.URL || window.webkitURL,
+        m = () => {
+            let e = 0;
+            var t = 0;
+            return new Promise((n, o) => {
+                var c = window.URL || window.webkitURL;
+                Object.keys(s).forEach(o => {
+                    if (o.indexOf(".png") > 0 || o.indexOf(".jpg") > 0) {
+                        e++;
+                        let a = new Image;
+                        a.src = c.createObjectURL(s[o]), a.onload = () => {
+                            t++, s[o] = a, t === e && (window._aS = s, n())
+                        }
+                    }
+                })
+            })
+        },
+        u = () => {
+             Object.keys(s).forEach(e => {
+                if (e.indexOf(".js") > 0) {
+                    var t = document.createElement("script"),
+                        n = l.createObjectURL(s[e]);
+                    t.src = n, document.body.appendChild(t)
+                }
+            })
+        },
+        k = e => {
+            let t = {};
+            t.percentageDone = e 
+        },
+        b = () => {
+              p(o, k).then(m).then(u)
+        };
+    new URLSearchParams(window.location.search).has("noshit") && (window.__adsBlocked = !0);
+    const y = () => {
+        	b()
+        
+    };
+	
+    y()
+}();

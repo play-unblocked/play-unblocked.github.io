@@ -1,1 +1,4401 @@
-function _0x13d8(){var _0x201de7=['fillStyle','KJB','#playGame','\x0a\x20\x20\x20\x20\x20\x20\x20\x20position:absolute;\x0a\x20\x20\x20\x20\x20\x20\x20\x20top:\x206px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20left:\x2012px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20height:\x2027px;\x0a\x20\x20\x20\x20','length','HOLY','stroke','format','Daydream','YASSQUEEN','ZOE','nerdygirl','mute','NOU','achievements','#st','IEATYOU','KITKAT','MAKAYLA','ICECUBE','DARKDEADPOOL','DEADLYRAGDOLL','action','__maxGachaDistance','enumerable','BILLYBOB','__foodBigValue','ad\x20destro\x202','ANNIE','remove','webgl','NLE','__Ear30000','BOI','JERRY','TAPEWORMCATCHER','SLIM','__playerRotationSpeed','clientY','REN','big','slither.ist_10','__longestView','0O0','__cameraWidthToZoomFactor','width','createShader','__getCameraZoomForPlayer','SLYTHERIN','once','#sh','ÇeLik','__showUI','attachShader','__getFoodIdFromPosition','Timah','getOwnPropertySymbols','__levelRadius','666','\x27,\x27','__Hat140000','DEEZ','MICHAEL','mobileAutoEnable','MEMES','__snakeTimeToRealDeath','???','YEETBOI','game','__lastInput','__DEG2RAD','dominiq','STUPIDNONAME','go\x20go\x20go','toLowerCase','UHH','easeOutBounce','http://www.w3.org/2000/svg','BREAD','Dazzle','rate','gre','__foodLists','BOO','__floorPosition','XANDER','NANA','ERIC','muted','__snakeBaseWidth','getSortedHighscoreList','_onplay','_sprite','IDK','GYH89I0OPZAPL','url(resimler/bl_d.svg','ejecta','ANTHONY','LALA','WASGOOD','__mainSnake','MIKE','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20width:','bindTexture','rotation','HIIIIIIIIIIIIIIIIIII','__Hat230000','LAZERTAG','HFYH','FFF4','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20position:absolute;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20top:2%;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20left:50%;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20transform:translate(-50%);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20opacity:\x20.8;\x0a\x20\x20\x20\x20\x20\x20\x20\x20','__foodPositionHash','Howl','SOUR','OTESB','slither.ist_12','.cen2','__KawaiiSnake_Eye0000','altKey','visibility','ASDF','11px','MARKO','__getLengthBasedOnFoods','audio/mp4;\x20codecs=\x22ec-3\x22','self','__layerFood','__Hat130000','__rAF','playerror','__dumbAccelerateFrequency','noteOff','ezgi\x20nil','_interval','__getPositionHash','GIOGIO','bind','__update','cloneNode','MOCHI','attribute\x20vec2\x20g;\x0aattribute\x20vec2\x20a;\x0aattribute\x20vec2\x20t;\x0aattribute\x20float\x20r;\x0aattribute\x20vec2\x20s;\x0aattribute\x20vec4\x20c;\x0aattribute\x20float\x20z;\x0aattribute\x20vec4\x20u;\x0aattribute\x20vec4\x20y;\x0auniform\x20mat4\x20m;\x0avarying\x20vec2\x20v;\x0avarying\x20vec2\x20d;\x0avarying\x20vec4\x20i;\x0avoid\x20main(){\x0av=u.xy+g*u.zw;\x0ad=y.xy+g*y.zw;\x0ai=vec4(c.abg*c.r,c.r);\x0avec2\x20p=(g-a)*s;\x0afloat\x20q=cos(r);\x0afloat\x20w=sin(r);\x0ap=vec2(p.x*q-p.y*w,p.x*w+p.y*q);\x0ap+=a+t;\x0agl_Position=m*vec4(p,z,1);}','OOF','pause','POOP','adam\x20ol','Collect\x20$\x20hats','rays','POSITIVE_INFINITY','isCocoonJS','MRDTTV','LOLLA','appendChild','#gr','MEEEEEE','__mouth','santiago','8987987','SOMEGUY','POLLI','children','__showDeath','\x0a\x20\x20\x20\x20width:\x20100px;\x0a\x20\x20\x20\x20bottom:\x2020px;\x0a\x20\x20\x20\x20right:\x20120px;\x0a\x20\x20\x20\x20transition:\x20opacity\x202s\x20ease-out;\x0a\x20\x20\x20\x20animation:\x206s\x20linear\x200s\x20infinite\x20normal\x20none\x20running\x20slowshake;\x0a\x20\x20\x20\x20z-index:999;\x0a\x20\x20\x20\x20','HUSLEE','GOKU','localTime','asl','__Hat190000','Fury\x20Cutie','AHVEWUVTEARITBERB5EU','HOW','__buildFloorTiles','oncanplaythrough','__clientUpdate','removeEventListener','CACA','onend','CHIKY','θανάσιμα','marginBottom','CHEYENNE','KONTOL','offset','__layerIndicatorsObject','DEADROSES','camera','AJROLEX','ALLIE','__randomColor','visible','quick','_duration','__Food_Big0004','HIII','_ended','FAT','minRSpeed','background','prepareTinyIDs','sharkk','strokeStyle','Curvex.io','LOOPS','_pdte','#bg','__doGrowth','__Ear50000','commerc\x20break','sqrt','BRO','url(resimler/bl_d.svg)','audio/mpeg;','QUEEN','left','audio/m4a;','PUPPY','slither.ist_71','all\x20hats\x20collected','уровень','BUTTMASTER','GAYYYYY','JAYDIN','__Food_Small0002','luckyboy','backgroundColor','pixelStorei','NYA','AHHH','currentState','JAMES','NICKSNAME','KSENIIA','arcadego','center','HOTDOG','LUKAS','HEHEHEHE','__spawnFood','_eV','update','CHASE','viewBox','loser','XCVBNM','__serverPos','RARR','flex','REEEEEE','__resetVars','FUFUFUFUFUFUFUFUF','MMMM','removeClass','bufferData','_onunlock','updateSceneProjection','Julia','SIDETTE','unlockedAchievements','MONEY','anchor','atlas','_resumeAfterSuspend','_setupCodecs','VEGTA','BITCHSNITCHRICTH','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20position:\x20absolute;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20color:\x20white;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20top:\x2060%;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20','__addFood','LLLLIIILLLYYYY','__songVolume','marginLeft','fadeIn','filter','clearRect','5px','slayerlick','COCKANDBALLS','eat','slither.ist_39','ALEX','SPERM','slither.ist_92','KUADSBFJHWEBDFBJ','lifeTime','GOODLOKIN','JOEMAMA','nextDumbAccelerateDirTime','_mobileUnloaded','__loadedData','KRAZY','nextRandomDirTime','__v_lerp','__size','DONOVAN','vibrate','BLEH','decodeAudioData','global','NIGGER','MARIAH','previousHash','.cur','bufferSubData','unload','No\x20audio\x20support.','42px','you\x20noobbb','DolunaAY','LEVI','setAttribute','rotate','KNKK','start','MAL','TCGILBERT','Sketch','STEVEN','easeOutQuart','BOT','dumbAccelerateDuration','UNOOBIFUKILLME','suspended','__KawaiiSnake_Eye0002','missgirll','suspend','JANVI29','ERIE','btoa','cos','AZUL','MMMMM','46858qKKZRU','no-repeat','__verifyUserName','NOOB','clientX','DUTS','OROROROROROROROR','CARTER','status','cancelAnimationFrame','sort','ZERK','LILA','\x0a\x20\x20\x20\x20\x20\x20\x20\x20position:\x20absolute;\x0a\x20\x20\x20\x20\x20\x20\x20\x20margin-top:\x2048px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20color:\x20black;\x0a\x20\x20\x20\x20\x20\x20\x20\x20font-size:\x2012px;\x0a\x20\x20\x20\x20','isEmpty','__maxNameLength','teampro','USUCK','gacha','Playback\x20was\x20unable\x20to\x20start.\x20This\x20is\x20most\x20commonly\x20an\x20issue\x20on\x20mobile\x20devices\x20and\x20Chrome\x20where\x20playback\x20was\x20not\x20within\x20a\x20user\x20interaction.','.contin_save','_rateSeek','impressionViewable','__Hat150000','animated\x20shake','YOINK','Genie','audio/x-flac;','TYREE','BATMAN','backgroundSize','stop','__Food_Small0006','_rate','call','KERCH00','JOHNNY','send','DANNY','EDWDWD','__Hat40000','height','ADDY','getOwnPropertyDescriptors','JJJ','__snakeMaxWidth','__inScreen','shift','onerror','PAYTON','borderRadius','masterGain','Tempest','KLAYRRR','MACKENZIE','getMonth','COOLGAL','vertexAttribDivisorANGLE','__KawaiiSnake_Mouth0000','IMANUTINU','CHICA','MOVELIKEASNAKE','LEX305','EVIE','translate(-50%,\x2080%)','Smasher','__Turd0000','__gacha','bufferSource','__object','clients','kevin\x20xD','VOIDPANCAKE','JADE','MATT','#cccccc','#dl','px\x20nunito,\x20sans-serif','turd','createElementNS','__draw','SAVYYY','BOBKILLER','vJH','__Hat80000','innerText','click','STUPID','_parent','catch','enable','Simal','TARTARUS','detectThreats','span','TRANSFIXED','resize','pro','__Hat00000','NATHANT','setTimeout','BILL','__mouseDown','BLANK','CHRIS','535462983','2020','THEBRIGHTCOLORSCLUB','slither.ist_91','onended','select','rgba(11,255,50,1.0)','CALEB','rgba(41,\x20115,\x2025,\x200.9)','TEST','ARNA','BBB','HACKER','createElement','KING','40px','YEEYEE','_preload','strokeText','gain','DREAM','GAYBOI','0\x200\x2032\x2032','EVA','AAAAAA','_dt','min','selena','_onload','block','BIGDADDY','GIVE','_seek','dumbAccelerate','HowlerGlobal','ISORULE','__Hat120000','MEL','pAbLo','exception','requestAnimationFrame','Beau','WALOL','arc','hash','\x20r=\x22','Galacticos','SASMA','GAY','SEAHAWK','onfade','GAGE','TYLER','CHARLY','getDay','YOURMOMGAY','BECARFULCHIREN','MIKA','__hatLeft','draw','_cleanBuffer','autoSuspend','preload','__playSound','__getCameraZoomHashOverflow','_on','\x20secs.','geri\x20dön\x20geri\x20dönnn','JACK','image','__foodBigPixelChance','oldState','isAI','SLA','hats','GOOSE','RERTFTDT','bnnr','userAgent','KILLER','25QmxzGK','DIE','split','SOFIA','__initGraphics','M0NEY','easeOutQuint','marshmellow','Buck','DOMINATE','_loadListener','slither.ist_34','MOMMY','leaderBoard','_suspendTimer','JONATHAN','ZUHURA','_start','WKIMORTALKM','Team\x20>.<','slither.ist_67','8cPvewR','resume','_volume','instance','startPreRoll','1ST','createGainNode','.nt','SNAKE','__processInput','YOYO','__value','__chewTimer','_panner','IDGAF','precision\x20mediump\x20float;\x0auniform\x20sampler2D\x20x;\x0auniform\x20sampler2D\x20k;\x0auniform\x20float\x20j;\x0auniform\x20float\x20time;\x0auniform\x20float\x20haze;\x0avarying\x20vec2\x20v;\x0avarying\x20vec2\x20d;\x0avarying\x20vec4\x20i;\x0avoid\x20main(){\x0a\x0a\x0afloat\x20frequency=50.0;\x0afloat\x20amplitude=0.0002;\x0afloat\x20speed=0.1;\x0a\x0afloat\x20distortion\x20=\x200.0;\x0aif(haze>0.0){distortion\x20=\x20sin(v.y*frequency+time*speed)*amplitude*haze;};\x0avec2\x20v2\x20=\x20vec2(v.x+distortion,\x20v.y);\x0a\x0avec4\x20c=texture2D(x,v2);\x0avec4\x20r=c*i;\x0aif(j>0.0){\x0aif(c.a<j)discard;\x0ar.rgb/=r.a;\x0ar.a=1.0;};\x0a//vec4\x20m=vec4(1.0,1.0,1.0,1.0);\x0avec4\x20m=vec4(1.0);\x0a\x0aif(d.x+d.y!=0.0){m=texture2D(k,d);};\x0a\x0agl_FragColor=r*m;}','function','__existsInFoodCollisionHash','__proto__','ILIANA','slither.ist_42','__getPhysicsMovementVectorFromDirection','playing','_autoplay','CRISPYGRAPES','SSSSSSSS','audio/aac;','MILES','CASSSSH','round','exports','slither.ist_13','CHOPY','WELSHCAKE','__onJoinGame','info','NNNN','audio/x-caf;','__addFoodToCollisionHash','BELLA','_soundById','loaderror','QBT','__camera','_errorFn','MOONLIGHT','ELISEY','__snakeSegments','inc','marginTop','MARI20LOCKETT','hat','MELLON','_onrate','change','TYT☢️SIRIUS','0x00a4ed','__pos','HHH','boolean','LOGAN','wunwun','pass','OPMAN10','ANA','_onfade','onloadprogress','_getSoundIds','COOPER','MALEKWILLWIN','__length','test','TTTT','serverTime','LALALALA','absolute','ETHAN','__hatPercentages','max','toUpperCase','LLG','map','_html5AudioPool','now','FURY4LIFE','HOWDY','__Food_Small0009','__active','__Ear00000','YABOI','05032020','keys','render','ANGELA','porterio','__checkLevelEdgeCollision','400px','load','performance','zIndex','DOM','COLE','SKYLANDERHERO','HAI','slither.ist','threadAccelerate','go\x20home','addClass','__clientDies','_emit','POOPOO','canvas','Sara','Flutters','GFNRHYFDTYN','ALASKA','totalDeaths','RAINBOW','SAYED','GIRL','tVJ_A','__layerGrass','__Hat110000','audio/mp3;','pop','WIERDDUDE','TALIYAH','pool','__eyeRight','BRENDEN','SLITHER123345678910','spb','__posid','LUCARIOUS21','profesör','shaderSource','__Hat100000','_audioUnlocked','pointer','ZOYDEEN','\x22\x20fill=\x22','__snakeParts','SDN','_loadFn','JOSEISCOLORBLIND','SAD','warn','__keyboard','_loadQueue','𝓟𝓡𝐈𝓝𝓒𝓔','FVFFGVFGB','noteOn','vendor','#stb','prev','#ffb74c','KILLMEIFYOUGAY','slither.ist_46','LILSMOKEY','DEADLINE1276','slither.ist_90','MAMEN','WHATT','shiftKey','NHMTRYWKNPTHW','GEM','__updateParts','JACKIECHAN','FUCK','__Food_Small0005','BRENDAN','tiers','_xhrWithCredentials','mousedown','REEEEEEEEEE','0\x200\x20100\x20100','yalaka','shared','SPACE','niKe','clm','__floortTiles','BEC','Charisma','\x0a\x20\x20\x20\x20width:\x20140px;\x0a\x20\x20\x20\x20height:\x20140px;\x0a\x20\x20\x20\x20background-color:\x20white;\x0a\x20\x20\x20\x20margin:\x2040px;\x0a\x20\x20\x20\x20border-radius:\x2030px;\x0a\x20\x20\x20\x20border:\x202px\x20solid\x20black;\x0a\x20\x20\x20\x20display:\x20flex;\x0a\x20\x20\x20\x20justify-content:\x20center;\x0a\x20\x20\x20\x20align-items:\x20center;\x0a\x20border-radius:\x20180px;\x0a\x20\x20\x20\x20flex-direction:\x20column;\x0a\x20\x20\x20\x20box-shadow:0px\x200px\x2050px\x2050px\x20#215217;\x0a\x20\x20\x20\x20','__Food_Small0014','slither.ist_192','YEERTTTTRTR','.namem','CRAZY','OOMP','targetDirection','scale(0.3)\x20translate(-100%,\x20-50%)','createGain','SLITERKING','__claimAchievement','melissa','ergiiin','disconnect','__snakeStartingFood','animation','TEEHEE','seek','MYBUT','adios','Jasonnnnnn','cmd','.cen','YOUDIE','Cryo','JuLia','KENDALL','clientWidth','pointerEvents','buffer','__Hat240000','BRBVEJHBNJHUGBYWHEUO','ses/fx.m4a','space\x20paper','HOPE','getNearbyParts','RIANNE','random','slither.ist_102','moveRotate','svg','readyState','inputSeq','top','121356','YEEEEEEEEEEEEEEET','data:audio/wav;base64,UklGRigAAABXQVZFZm10IBIAAAABAAEARKwAAIhYAQACABAAAABkYXRhAgAAAAEA','GET','clientPositionHash','200px','__buildFoodQuantity','__clientHandleInput','__color','ACTPAHN','HEHEHEHEHEHEHEHEHEHE','YOUR','_canPlayEvent','#pc','KIDD','1546720biMfCz','close','availableTinyIds','TAYDEN','_onseek','PINK','ended','HELP','black','apply','LUNA','innerHeight','Noob:)','__Hat70000','ELI','beginPath','doesPlayerCollideWithOtherPlayers','__Food_Small0000','Help\x20Me','MARAINA','COOLGAL0827','#FFF0E5','PETERPUG','ZARI','_onstop','JACKJACK','touchend','SLIME','match','CUPCAKE','OOOOOOOO','QUEENSNAKE','duration','PEEPEEPOOPOO','NKBO','FISHER','#bl','EEG','Unkown\x20Wolf','MARSHMALLOW','GOD','_clearSound','__colors','loopEnd','PACKERS','LIAMSNAK','RACHEL','_releaseHtml5Audio','_endTimers','__Food_Small0007','__eyeLeft','innerWidth','ZOEY','__Ear60000','activeFoods','atob','Wonder\x20Bigshot','BRANDON','__client','JAZZ','__snakeStartWidth','IDIOTA','Cansu','HEWHOMUSTNOTBENAMED','BING','NINE','__thick','PLAYER','__cleanFoodInterval','rgb(100,\x20154,\x20104)','CHUCKYDOLL','onprogress','easeOutCirc','HOLLEY','10px','TTT','__turd','easeOutCubic','_navigator','NOTSUPRISED','alt','abs','MASTERPLAYER','DADD','__targetScreenSize','loss','HEYYYYYY','__startClientTime','rgba(105,24,24,0.75)','BRTR','pubads','SNAME','rgba(255,0,0,1.0)','noAudio','slither.ist_20','__foodsEaten','seed','Butch','hashOffsets','IRULE','justifyContent','loopStart','__achievements','viewDistance','__startClient','tit','clear','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20position:absolute;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20left:50%;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20top:0;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20transform:\x20translate(-50%);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20font-size:\x2010px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20color:#aba9a9;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20line-height:8px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20','__addPlayer','removeChild','__snakeShrinkDamper','__floorTileSize','DOGYNB','opacity','\x0a\x20\x20\x20\x20position:absolute;\x0a\x20\x20\x20\x20width:100%;\x0a\x20\x20\x20\x20height:100%;\x0a\x20\x20\x20\x20','VBSS','#name','audio/wav;\x20codecs=\x221\x22','FABRICIO','BLUEQUUEN','resimler/1x3.png','number','TABTAB','img','UWU','clientHeight','resimler/c20.png','333PRO','_onplayerror','1111111','STICKYCHIP','tVJ_S','12px','köroğlu','time','__foodCollisionSize','px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20height:10px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20background:black;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20top:0;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20left:0;\x0a\x20\x20\x20\x20\x20\x20\x20\x20','232098OIBmGG','IMOK','LOSS','fulss\x20call','__keyCodes','_stop','JOSE','text','destination','KNEEL','__buildGachaQuanity','EPICFREZZI','начинающий','__Hat50000','SUSHISAM','IZZY','concat','__graphics','layer','error','JIM','__Food_Small0001','TINYBLUETAPEWORM','GRYFFINDOR','url(','SLITHER','toString','MasterNoob:D','RAVENCLAW','backgroundRepeat','wow!','html5','Dash','_dte','createTexture','Eat\x20$\x20food\x27s','hashY','paused','SSSSSSS','WOLFTOOTH','fade','SHUTTHEFRIDGE','QUESTION','__Grass','HTTPSSLITHERSPACE','onclick','standalone','__nameOrientation','__accelerate','ANONYMOUS','__hatUnlockAmmount','__playerUpdatePhysics','date','JMIKE','getParameter','fill','elif','__randomPointInCircle','PRESTONPLAYZ','SAILOR','#ffdbd0','cur','double','Zero','ONLY','__width','alive','CHASUUUUUUUUUU','GAMERGIRL22','isArray','constructor','NIG','DANNA','IMA','MALICE','MXCM','slither.ist_25','rSpeed','__onMouseDown','audio/webm;\x20codecs=\x22vorbis\x22','createBuffer','EMM','canPlayType','__timeouts','__foodMinDistribution','https://play-unblocked.github.io/slitherio/','destroy','mouseenter','AZERTY','__partPositions','__KawaiiSnake_Skin0000','levels','20px','JENNIFER','MEW','slither.ist_57','MARCO','POLAR','TRAPMEPLZ','randomDirFrequency','DEAD','FleXxx','ASHANTI','xAccel','JOJ','__killPlayer','classList','__game','hidden','usingWebAudio','AYDEN','_unlocked','texture','GFGFG','LIFE','CHEZBORGOR','RAYDEN','69696969696696969696','__Ear70000','IDKMYNAME','ctrlKey','SCOTLAND','Pop\x20$\x20snakes','tVJ','__hideLeaderBoard','onplayerror','GHYCYVTY7','enter','577752LBcpKr','THEATRE','BEAST','__playingAd','\x20cy=','HUKU','__removeFood','Bullseye','cls','__createTimer','slice','FRE','atan2','SPARKY','trace','clsH','SHYANNE','saveScore(\x27','drawImage','__Hat200000','end','LUCAS','{}.constructor(\x22return\x20this\x22)(\x20)','Return\x20for\x20$\x20days','ffa','ArYa','uvs','DAMON','SLITHERGOD','forEach','billboard','MERMAID','лучший','__drawDeathRing','lineWidth','player','xSpeed','USU','alpha','__leaderBoardInterval','loll','_playStart','__joinedGame','slither.ist_72','BIGBOI','ROBOCCO','TREY','codecs','#ffefc1','players','__Ear20000','.kap','-20px','shop','ODOG','KOBE','.tit','hashX','OPPS','YEET','accelerate','BOOTY','_pool','randomDirection','string','boxShadow','CLaRis5a','CYCLONE','CHE','__sharedGraphicsObject','rayCollisions','SAMBO','DRAGON','__playerEatFood','zeus','CATEARS','querySelectorAll','FRED','JayyXx\x20','WHAT','#c3e5ca','url(resimler/bl_u.svg','indexOf','sin','KENZIE','__layerSmokeClouds','__layerSnakeParts','FRISK','activeTexture','nice','context','name','uniform1i','connect','__Smoke_Cloud0000','NICKY','_format','LEA','JEREMY','rank','loading\x20audio','settings','SLOGO','state','__layerHats','PARYNHAR','TYRONE','WINNER','HAMSTER','colors','slayer','__cAF','SHEEP','mouseover','745585','tint','set','onplay','substr','REEEEEKID','__positionHash','pageY','_src','__v_add','AUSTINISGAY','__dir','TTVREPOOC','WOLFQUEEN','Survive\x20for\x20$\x20minutes','GREGGY','__explodePart','audio/mp4;','JOHNWILKESBOOTH','.anakap','ySpeed','#as','LIAM','RoYaL','honey\x20bee:)','\x0a\x20\x20\x20\x20width:\x2050px;\x0a\x20\x20\x20\x20left:\x2050%;\x0a\x20\x20\x20\x20margin-top:\x20-70px;\x0a\x20\x20margin-left:\x20150px;\x0a\x20\x20\x20\x20animation:\x202s\x20linear\x200s\x20infinite\x20normal\x20none\x20running\x20slowshake;\x0a\x20\x20\x20\x20pointer-events:\x20all;\x0a\x20\x20\x20\x20','__initParts','toFixed','suspending','unlock','😈ϾṒṆṆΣϾṪḭṆḠ🐉','__Ear40000','lastParticle','JAKIE','USER','KIARA','TIMOTHY','BANANA','__Food_Big0001','SLIDE','angleDifference','textOverflow','none','leo','entropy','YNW','__snakeCollisionSize','BROKELILBABY','aiManager','_fadeTo','JOE','texParameteri','compileShader','bindBuffer','DUMB','setPlayerInCollisionHash','fillText','SAVANNAH','__MODIFIERS','__lastStoredZoomFloorCorrection','fcuk\x20u','__position','createBufferSource','DONUT21','__foodPopTiming','KORONAVIRUS','BRUTUS','amigos','position','YEIDY','__mousePos','__viewport','_obtainHtml5Audio','ANNA','slither.ist_22','BUMBLE','melike','UID','Come\x20Onnn','#382C2A','#e2e2e2','PETEYTHEAWESOME','oldMouseY','PUMBA','__Ear10000','DAVID','__KawaiiSnake_Mouth0002','(((.+)+)+)+$','__Hat10000','WUS','EsTeBAn','leaderr','NLEEE','PANDA','_codecs','CASIDUS','onunlock','show','DETH','HILO','ROBLOX','FART','reset','mousemove','_muted','Length\x20$\x20meters','__ALIAS','_onend','HEIDI','_xhrS','__keyPressed','GOATSAVAGE','#ec','ROMANOODLES','__aiSpawnTick','_unlockAudio','IMTHENEWGIRL','JILLIAN','__maxClients','CHC','__player','__invisibilityTime','король','__processFoodUpdate','ctx','__nonEventHats','BOB','PUGGY','DAKOTA','KINGRIGGS','__setMouth','__Gacha0000','AYY','PLZ','querySelector','TBNRFRAGS','setItem','worm_ist','spawnParticles','TAKUACHE','_loop','__getFoodPositionFromId','AROW135','off','slither.ist_7','value','BOSS','TTVBYTHEWAY','SARAH','TERRORIST','HELLO','IIIIIIIIIIIIIII','__fillAIThreshold','med','DEKU','hide','OLOL','TIGGER','KILLERSQUID48','Non-string\x20found\x20in\x20selected\x20audio\x20sources\x20-\x20ignoring.','__Food_Small0019','1STPLACE','enableVertexAttribArray','YOURMOM','pow','Collect\x20$\x20ears','_stopFade','SASUKEEUCHIHA','Eat\x20$\x20poo','_autoResume','getRandomHat','__snakeSegmentDistance','bumbum','miray','translate','__lerp','__Food_Small0015','ARNALDOY','loading','slither.ist_66','DONTKILLMEBOTS','onloaderror','crazy','__Hat60000','running','_aS','__showParts','SLITHERPRO','get\x20Backk','host','kalimera','opengacha','__snakeTurdInterval','FUN','CORBAN','MICHELLE','MOJO','BEST','DACOBRA','foodsCreated','WHOSURDADDY','HYHDTU','VIIOOFVIOOFVII','audio/ogg;\x20codecs=\x22vorbis\x22','GDKFERS','ADAVEN','getExtension','resimler/r2.png','David\x20J.','LOSSER','huseyin\x20baba','__maxScreenWidth','px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20height:10px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20background:white;\x0a\x20\x20\x20\x20\x20\x20\x20\x20','NIKI','screenName','loaded','CUHH','__getWidthBasedOnFoods','sara\x20fan','__KawaiiSnake_Mouth0001','PARCYJAKUP','pingTimerFunctionID','DOLUNAY','#lb','55555','HIIIIIIIIII','__alive','JELLY','TATSUYA','NOTHING','EMER','QUAN','Jewel','maxRSpeed','__KawaiiSnake_Eye0001','getContext','screenToWorldPoint','ABCATS','16743NOstxd','ELCHJH','table','WZXCVGBJHN','seq','loop','BrickRose','__eatFood','achievementProgress','5346456','TIM','__Food_Small0008','DOMENIC','\x20left','next','tinyId','160px','accelerationTime','XXXFANRIP','MƛƦƧӇMЄԼԼƠ','FREDDYFAZBEAR','updateBrain','__Food_Small0011','innerHTML','onseek','ahmet','AAAAAAAAAA','__growFromFood','OKBOOMER','3938253Ixyvir','VITALINA','html5PoolSize','CHRISTIAN','src','NEWBIE','distToSegment','XXXTEN','unset','JORDAN','__hat','__name','blendFunc','right','FANDS','getOwnPropertyDescriptor','audio','TINY','_autoSuspend','paper\x20space','__foodExplosion','doDumb','LUCY','__scene','WATERMELON','open','_id','MEME','slither.ist_27','object','#rs','Sound','playerCollisionHash','NOAH','TERRESSA','__KawaiiSnake_Mouth0003','all','ASS','__foodsEating','__ctx','__Food_Small0012','BREANALJ','frame','BRUH','LUCKY','getElementById','__deathTimer','size','__default','YOULLFLOATTOO','Butterfly','SEAN','THE','doRandomDir','EQ2EQ','GVYFT','HAILEY','replace','URMOM','STEPBRO','_inactiveSound','Black\x20Magic','KEMAL','FRIDAY','__Hat30000','__Food_Big0003','easings','TITANIC','rotateDirection','protocol','play','POLICE','__spriteClass','__maxFood','BORBIN','overflow','dumbAccelerateFrequency','KKW','AMNESTY','1\x20number','__onMouseMove','main','IWERUIOP','_drain','rgba(33,255,55,1.0)','floor','JULIAN','rb2','BOBBLEGUM','__snakeAcceleration','__snakeShadowParts','code','JYDUD','__frames','onstop','_onvolume','ABC','splice','NNM','defineProperty','yAccel','REXY','BUB','DWI','init','linkProgram','BEN','_playLock','FUFUFUFUFUFUFUFUFUFU','MAGRO','_errorListener','open-i','__fixFloorPosition','EATMYASS','defineProperties','EUPHORIA','PLAY','NCT','MEOW','OWO','SMASTER','playbackRate','HQA','__Food_Small0003','MRY','FOOTBALL','NΣXUS','_node','_onmute','QUINCY','pressed','LANDEN','DARIUSDAGOAT','AARON','find','VIHAAN','ABBEY','JULIANA','COOL','__eatTimer','INOTUCHU','MITEK','BALA','__doAchievement','IKENUMA','font','total','mutlu\x20an','zoom','Freak','__foodExplosionMaxFoods','transform','returnTinyID','BEANS','140BtEWPK','RAVEN','POPPER','DARKSIDE','setValueAtTime','COOKIES','__threadAccelerate','535','Shrimp','__Hat180000','YOOOOOO','ceil','slither.ist_58','edgar\x20amigo','SIREEN','clearColor','__createFood','BOGGIER','PAPER','SPEED','MASTER','frames','val','__indicator','_startFadeInterval','QWERTYUIOP','VAKA','Twinkle\x20Toes','565','NFKSJDN','KOP','SATANSATANSATANSATAN','FABIAN','threadAccelerateTime','preroll','PAPA','SPLAT','__viewportSize','__addFoods','__cameraSmooth','volume','10pRsjFn','i\x20kill\x20uu','getItem','parentNode','WWW','MOGEKO','URDAD','__modifiers','_paused','gachaRolls','getDate','EEEEEEEEEEEEEEEEEEEE','ADRIANNA','navigator','slither.ist_41','_queue','scale(','Cyclone','_counter','scale','COOKIE','onload','NIGGA','BEESECHURGER','paperboy','.bk','TAYK','SUPER','keyup','slither.ist_49','__Food_Small0017','__removeFoodFromCollisionHash','progress','HAHA','BUTTBOY','NGD','__Food_Small0013','Snake','__Food_Small0004','to\x20be\x20yourself','ses/fx.ac3','log','ELSIE','minXSpeed','NAREK','uniform1f','firstChild','__reset','TIMOTY','rayAngleDistribution','__spawnTime','PEE','arraybuffer','haze','event','getPlayerPositionHash','__Food_Small0010','LOKI','getAttribLocation','getTinyID','onrate','STEPHENCURRY','search','SERPENTINE','CHICKEN','updateid','HAVEN','__Food_Small0016','__Hat90000','NICKGRR','url(resimler/bl_u.svg)','noteGrainOn','IEATPIZZA','_clearTimer','No\x20codec\x20support\x20for\x20selected\x20audio\x20sources.','PFKSD','currentTime','.ht','canplaythrough','autoUnlock','parse','.lef','__maxScreenHeight','__Hat170000','ASHER','18774pGUsyX','GANDHI','.stats_score','_scratchBuffer','__onKeyDown','server','DIRPYLIRPY','__maxSnakeSize','CUTEOVERLOAD','BTS','comm\x20break\x202','lucky\x20Girl','loadprogress','__onKeyChange','push','metaKey','TRASH','px\x20','SONLER','CRAINER','color','__clean','viewport','ismail','BEO','CHICKINFONGER','n0psa','getRekT','__die','ys:\x20','RIP','clientTime','audio/ogg;\x20codecs=\x22opus\x22','LOVE','DAILYDONUT','__target','undefined','NIGERIA','Howler','MEEP','123','GGG','SOPHIA','YAAASSSS','CAT','LAURA','paper\x20man','__coordinateInScreen','sprite','#mm','display','#sc','SHELDON','Woody','ZYHEIM','touchstart','drawElementsInstancedANGLE','GIORUNO','Please\x20give\x20us\x20a\x20thumbs\x20up\x20❤️👍','DEATH','JAY','ANN','textAlign','.ab','slither.ist_18','__saveName','CMASTER584','TYSON','__eaten','__Food_Small0018','DAVIDJ','.rig','__tick','.it\x20.cl','input','sampleRate','oldMouseX','OOOOH','MARELLY','KYLE','Die\x20$\x20times','\x20day','ITZBINY','LOADING','CECE','TURD','uniformMatrix4fv','.med','XXXKINGRIP','prototype','location','__adsBlocked','__updateLeaderBoard','JILL','__inputs','FRAI','HGV','.vv','style','fontSize','EXTREME','THICKER','LANDON','_sounds','__foodCollisionHash','charCodeAt','Red\x20Barber','THEDUO','REEEEE','lb_list','HYG','body','ZILLA','maxXSpeed','kingcamo','DEPRESSION','FLEX','auto','__onKeyUp','__buildFoodInterval','_pdt','__layerSnakeShadowParts','REDNEC','ASAS','<defs><style>.cls-2{opacity:.4}.cls-4{opacity:.2}</style></defs><path\x20fill=\x22#4d4d4d\x22\x20d=\x22M17.85\x2027.65h-1.51v-4.92h-4.87v-5.29l6.02\x203.17-1.28-7.46\x205.41-5.28-7.47-1.08L10.81\x200\x207.47\x206.79\x200\x207.87l5.41\x205.28-1.28\x207.46\x205.97-3.14v5.26H5.26v4.92H3.77v1.82H2.26v1.81h17.1v-1.81h-1.51v-1.82z\x22\x20id=\x22bg\x22/><g\x20id=\x22shade\x22><path\x20class=\x22cls-2\x22\x20d=\x22M10.83\x2017.05l-.71.38v5.25h1.38V17.4l-.67-.35z\x22/><path\x20opacity=\x22.1\x22\x20d=\x22M3.8\x2027.58h14.09v1.81H3.8z\x22/><path\x20class=\x22cls-4\x22\x20d=\x22M2.3\x2029.39h17.1v1.81H2.3z\x22/><path\x20class=\x22cls-2\x22\x20d=\x22M5.3\x2022.68h11.08v4.91H5.3z\x22/><path\x20class=\x22cls-4\x22\x20d=\x22M10.85\x2011.37v-.01.01zM10.85\x200L7.51\x206.77l3.34\x204.59V0zM10.85\x2011.37z\x22/><path\x20class=\x22cls-2\x22\x20d=\x22M10.85\x2011.37l3.34-4.6L10.85\x200v11.37z\x22/><path\x20class=\x22cls-4\x22\x20d=\x22M10.85\x2011.38v-.01.01zM21.66\x207.85l-7.47-1.08-3.34\x204.6\x2010.81-3.52z\x22/><path\x20class=\x22cls-2\x22\x20d=\x22M16.25\x2013.12l5.41-5.27-10.81\x203.52\x205.4\x201.75z\x22/><path\x20class=\x22cls-4\x22\x20d=\x22M10.85\x2011.38v5.67l6.68\x203.51-6.68-9.19v.01z\x22/><path\x20class=\x22cls-2\x22\x20d=\x22M10.85\x2011.37l6.68\x209.19-1.28-7.44-5.4-1.75zM4.17\x2020.56l6.68-3.51v-5.67l-6.68\x209.18z\x22/><path\x20class=\x22cls-4\x22\x20d=\x22M10.85\x2011.37l-5.41\x201.75-1.27\x207.44\x206.68-9.18v-.01z\x22/><path\x20class=\x22cls-2\x22\x20d=\x22M10.85\x2011.37L.04\x207.85l5.4\x205.27\x205.41-1.75z\x22/></g>','mouseup','unloaded','getUniformLocation','__cleanUpFood','#f3d500','__accelTick','__hatIsEars','TTVBCJBYTHEWAY','#de7b15','then','TESSA','TREEEEEEEEEEEEE','YOU','__hatRight','SINKLIFE','_state','marangoz\x20ali','class','IKILLU','return\x20(function()\x20','onvolume','HEART','__newSnakeInvisibilityTimer','addEventListener','rew\x20break\x202','add','JACOB1','0x000000','ABDEL1234','assign','href','HYPERCORESZTUDIOS','__snakeMaxSegments','_howls','.tgl-cb','withCredentials','linearRampToValueAtTime','_onloadprogress','_html5','console','subarray','Doggie','#selColor','_webAudio','maxYSpeed','__clientUpdatePhysics','FGBUYR','onpause','__updateCamera','GENOSANS','div','__id','CHIKIN','im\x20new','unlockedHats'];_0x13d8=function(){return _0x201de7;};return _0x13d8();}function _0x473b(_0x36d20c,_0x45439d){var _0x1cf849=_0x13d8();return _0x473b=function(_0x4094cc,_0x5673de){_0x4094cc=_0x4094cc-0x1dd;var _0x17398c=_0x1cf849[_0x4094cc];return _0x17398c;},_0x473b(_0x36d20c,_0x45439d);}(function(_0x2c708d,_0x41a41d){var _0x5c0db1=_0x473b,_0x1270dd=_0x2c708d();while(!![]){try{var _0x2eccb4=-parseInt(_0x5c0db1(0x28a))/0x1*(-parseInt(_0x5c0db1(0x919))/0x2)+-parseInt(_0x5c0db1(0x5e7))/0x3*(-parseInt(_0x5c0db1(0x69e))/0x4)+parseInt(_0x5c0db1(0x275))/0x5*(parseInt(_0x5c0db1(0x407))/0x6)+parseInt(_0x5c0db1(0x487))/0x7+-parseInt(_0x5c0db1(0x37e))/0x8+-parseInt(_0x5c0db1(0x71c))/0x9+parseInt(_0x5c0db1(0x6c7))/0xa*(-parseInt(_0x5c0db1(0x604))/0xb);if(_0x2eccb4===_0x41a41d)break;else _0x1270dd['push'](_0x1270dd['shift']());}catch(_0x419452){_0x1270dd['push'](_0x1270dd['shift']());}}}(_0x13d8,0x19b35),!(function(){var _0x4d3f07=_0x473b,_0x2eca7b=(function(){var _0x47ecab=!![];return function(_0x48ccc7,_0x1e4ba0){var _0x2872e1=_0x47ecab?function(){var _0x185619=_0x473b;if(_0x1e4ba0){var _0x489d97=_0x1e4ba0[_0x185619(0x387)](_0x48ccc7,arguments);return _0x1e4ba0=null,_0x489d97;}}:function(){};return _0x47ecab=![],_0x2872e1;};}()),_0x1c53da=_0x2eca7b(this,function(){var _0x3cf22d=_0x473b;return _0x1c53da[_0x3cf22d(0x421)]()[_0x3cf22d(0x705)](_0x3cf22d(0x550))[_0x3cf22d(0x421)]()['constructor'](_0x1c53da)[_0x3cf22d(0x705)]('(((.+)+)+)+$');});_0x1c53da();var _0x393e16=(function(){var _0x4cb507=!![];return function(_0x35c8fb,_0x1977fe){var _0x3e63f4=_0x4cb507?function(){var _0x5e27dd=_0x473b;if(_0x1977fe){var _0xaa3718=_0x1977fe[_0x5e27dd(0x387)](_0x35c8fb,arguments);return _0x1977fe=null,_0xaa3718;}}:function(){};return _0x4cb507=![],_0x3e63f4;};}()),_0x5316f6=_0x393e16(this,function(){var _0x3b764f=_0x473b,_0x2bdee3;try{var _0x4d638b=Function(_0x3b764f(0x7ac)+_0x3b764f(0x49d)+');');_0x2bdee3=_0x4d638b();}catch(_0x4d3ac7){_0x2bdee3=window;}var _0x5a0b96=_0x2bdee3[_0x3b764f(0x7c0)]=_0x2bdee3[_0x3b764f(0x7c0)]||{},_0x366384=[_0x3b764f(0x6f0),_0x3b764f(0x31c),_0x3b764f(0x2ad),_0x3b764f(0x41a),_0x3b764f(0x24c),_0x3b764f(0x5e9),_0x3b764f(0x495)];for(var _0x210369=0x0;_0x210369<_0x366384[_0x3b764f(0x7d4)];_0x210369++){var _0x2d1c4f=_0x393e16[_0x3b764f(0x44d)]['prototype'][_0x3b764f(0x858)](_0x393e16),_0x2647c4=_0x366384[_0x210369],_0x24d268=_0x5a0b96[_0x2647c4]||_0x2d1c4f;_0x2d1c4f[_0x3b764f(0x29c)]=_0x393e16[_0x3b764f(0x858)](_0x393e16),_0x2d1c4f[_0x3b764f(0x421)]=_0x24d268['toString'][_0x3b764f(0x858)](_0x24d268),_0x5a0b96[_0x2647c4]=_0x2d1c4f;}});_0x5316f6();-0x1===window[_0x4d3f07(0x776)]['hostname'][_0x4d3f07(0x705)](/play-unblocked.github\.io$/)&&(window[_0x4d3f07(0x776)][_0x4d3f07(0x7b7)]=_0x4d3f07(0x45c));var _0x17e425=0x1,_0x519609=0x0,_0x5e5535=0x0,_0x5914a9=0x0,_0x2a2cfd=0x0,_0x519839=0x0,_0x59a28b=0x0,_0x425972=0x0,_0x6c6c23=0x0,_0x23d1e2=0x0,_0x2dbde3=0x0,_0x351def=0x0,_0x26bef5=0x0,_0x274f57=0x0;function _0x1aba2e(_0x5a8ae4,_0x12d106){var _0x30d5e9=_0x4d3f07;return _0x5a8ae4=Math[_0x30d5e9(0x6a9)](_0x5a8ae4),_0x12d106=Math[_0x30d5e9(0x659)](_0x12d106),Math[_0x30d5e9(0x659)](Math[_0x30d5e9(0x368)]()*(_0x12d106-_0x5a8ae4+0x1))+_0x5a8ae4;}function _0x45aa08(_0x349027,_0x399a73){var _0xdda4a5=_0x4d3f07;return _0x349027=Math[_0xdda4a5(0x6a9)](_0x349027),_0x399a73=Math[_0xdda4a5(0x659)](_0x399a73),Math['floor'](Math[_0xdda4a5(0x368)]()*(_0x399a73-_0x349027+0x1))+_0x349027;}function _0x242309(_0x479a48,_0x1345cc){_0x479a48++;}function _0x2e4ff8(){var _0x2339f5=_0x4d3f07;_0x17e425++,gosterCek(),killz++;var _0x5280c7=window[_0x2339f5(0x3b1)]/0x2,_0x2d0be1=window[_0x2339f5(0x389)]/0x2;_0x5f4991[_0x2339f5(0x583)](0x50,_0x5280c7,_0x2d0be1,{'minXSpeed':-0x7d0,'maxXSpeed':0x7d0,'minYSpeed':-0x7d0,'maxYSpeed':0x7d0,'yAccel':0xfa0,'moveRotate':!0x1});}var _0x22b3fe=null,_0x1e68e4=null;document[_0x4d3f07(0x7b0)](_0x4d3f07(0x560),_0xffc19c,![]),document[_0x4d3f07(0x7b0)](_0x4d3f07(0x45e),_0xffc19c,![]);function _0xffc19c(_0x5e6c5b){var _0x400cdf=_0x4d3f07;_0x22b3fe=_0x5e6c5b['pageX'],_0x1e68e4=_0x5e6c5b[_0x400cdf(0x500)];}function _0x2a2f6b(){return _0x22b3fe;}function _0x18c833(){return _0x1e68e4;}window['onblur']=function(){},window['onfocus']=function(){};const _0x2d568e=function(){var _0x42864c=_0x4d3f07;this[_0x42864c(0x222)]=!0x1,this['__mousePos']={'x':0x0,'y':0x0},this['__keyCodes']={},this['__keyPressed']={},this[_0x42864c(0x6ce)]={};var _0x94a74a=this;this[_0x42864c(0x720)]=function(_0x5502dd){var _0x5d786c=_0x42864c;_0x94a74a[_0x5d786c(0x729)](_0x5502dd,!0x0);},this[_0x42864c(0x792)]=function(_0x16a81c){var _0x3ee3c5=_0x42864c;_0x94a74a[_0x3ee3c5(0x729)](_0x16a81c,!0x1);},this[_0x42864c(0x455)]=function(_0x41d4b1){var _0x15dda7=_0x42864c;0x0==_0x41d4b1['button']&&(_0x94a74a[_0x15dda7(0x222)]=!0x0,_0x94a74a['__mousePos']={'x':_0x41d4b1[_0x15dda7(0x91d)],'y':_0x41d4b1[_0x15dda7(0x7f6)]});},this[_0x42864c(0x654)]=function(_0x322927){var _0x2869f3=_0x42864c;_0x94a74a[_0x2869f3(0x53f)]={'x':_0x322927[_0x2869f3(0x91d)],'y':_0x322927['clientY']};},this['__onMouseUp']=function(){var _0x1fd3a2=_0x42864c;_0x94a74a[_0x1fd3a2(0x222)]=!0x1;},document[_0x42864c(0x7b0)]('keydown',this[_0x42864c(0x720)],!0x1),document['addEventListener'](_0x42864c(0x6e3),this[_0x42864c(0x792)],!0x1),document['addEventListener'](_0x42864c(0x337),this[_0x42864c(0x455)],!0x1),document['addEventListener'](_0x42864c(0x560),this[_0x42864c(0x654)],!0x1),document[_0x42864c(0x7b0)](_0x42864c(0x799),this['__onMouseUp'],!0x1);};_0x2d568e[_0x4d3f07(0x533)]=[_0x4d3f07(0x1eb),'ctrl',_0x4d3f07(0x3ce),'meta'],_0x2d568e[_0x4d3f07(0x563)]={'left':0x25,'up':0x26,'right':0x27,'down':0x28,'space':0x20,'enter':0xd,'backspace':0x8,'shift':0x10},_0x2d568e[_0x4d3f07(0x775)][_0x4d3f07(0x729)]=function(_0x2c03b9,_0x4f4962){var _0x227d00=_0x4d3f07,_0x3bf1ae=_0x2c03b9['keyCode'];this[_0x227d00(0x40b)][_0x3bf1ae]=_0x4f4962,this['__keyPressed'][_0x3bf1ae]=_0x4f4962,this[_0x227d00(0x6ce)][_0x227d00(0x1eb)]=_0x2c03b9[_0x227d00(0x32d)],this[_0x227d00(0x6ce)]['ctrl']=_0x2c03b9[_0x227d00(0x47f)],this[_0x227d00(0x6ce)]['alt']=_0x2c03b9[_0x227d00(0x846)],this['__modifiers']['meta']=_0x2c03b9[_0x227d00(0x72b)];},_0x2d568e[_0x4d3f07(0x775)][_0x4d3f07(0x686)]=function(_0x2db9d2,_0x29461e){var _0x476a17=_0x4d3f07;for(var _0x57a8bc=_0x2db9d2[_0x476a17(0x277)]('+'),_0x30c20f=0x0;_0x30c20f<_0x57a8bc[_0x476a17(0x7d4)];_0x30c20f++){var _0x18750a,_0x5210a0=_0x57a8bc[_0x30c20f];if(-0x1!==_0x2d568e[_0x476a17(0x533)][_0x476a17(0x4d9)](_0x5210a0)?_0x18750a=this[_0x476a17(0x6ce)][_0x5210a0]:-0x1!=Object[_0x476a17(0x2e5)](_0x2d568e[_0x476a17(0x563)])['indexOf'](_0x5210a0)?(_0x18750a=this[_0x476a17(0x40b)][_0x2d568e[_0x476a17(0x563)][_0x5210a0]],_0x29461e&&(_0x18750a=this[_0x476a17(0x567)][_0x2d568e[_0x476a17(0x563)][_0x5210a0]],this[_0x476a17(0x567)][_0x2d568e[_0x476a17(0x563)][_0x5210a0]]=!0x1)):(_0x18750a=this['__keyCodes'][_0x5210a0[_0x476a17(0x2d9)]()['charCodeAt'](0x0)],_0x29461e&&(_0x18750a=this[_0x476a17(0x567)][_0x5210a0[_0x476a17(0x2d9)]()[_0x476a17(0x785)](0x0)],this[_0x476a17(0x567)][_0x5210a0[_0x476a17(0x2d9)]()[_0x476a17(0x785)](0x0)]=!0x1)),!_0x18750a)return!0x1;}return!0x0;},_0x2d568e['prototype'][_0x4d3f07(0x8be)]=function(){this['__keyPressed']={};};class _0x3cb8d2{constructor(_0x2e3a71,_0x3c1cb0,_0x32922a){this['l']=_0x2e3a71,this['c']=_0x3c1cb0,this['n']=_0x32922a,this['p']=null;}['r'](){this['p']?this['p']['n']=this['n']:this['l']['h']=this['n'],this['n']&&(this['n']['p']=this['p']),this['l']=this['c']=this['n']=this['p']=null;}}class _0x291aa4{constructor(){this['h']=null;}[_0x4d3f07(0x7b2)](_0x7df96f){const _0x1918f8=new _0x3cb8d2(this,_0x7df96f,this['h']);return this['h']&&(this['h']['p']=_0x1918f8),this['h']=_0x1918f8,_0x1918f8;}['i'](_0x4e1a71){let _0x171bb5=this['h'];for(;_0x171bb5;)_0x4e1a71(_0x171bb5['c']),_0x171bb5=_0x171bb5['n'];}}const _0x555670=(_0x41b525,_0x35b412)=>{var _0x2073e9=_0x4d3f07;const _0x475992=document[_0x2073e9(0x232)](_0x2073e9(0x2f9));return _0x475992[_0x2073e9(0x7fd)]=_0x41b525,_0x475992[_0x2073e9(0x1e5)]=_0x35b412,_0x475992;},_0x50069d={'t':0x0};var _0x4b3d94,_0x3b6f01,_0x301738=0x0;class _0x3f7ab0{constructor(_0x443246,_0x248871){if(!(this instanceof _0x3f7ab0))return new _0x3f7ab0(_0x443246,_0x248871);this['set'](_0x443246,_0x248871);}[_0x4d3f07(0x4fb)](_0x402d6b,_0x18773b){return this['x']=_0x402d6b||0x0,this['y']=_0x18773b||(0x0===_0x18773b?0x0:this['x']),this;}}class _0x15a85a{constructor(_0x10c983){this['z']=_0x10c983,this['clear']();}['add'](_0x70f56a){var _0x32bf3a=_0x4d3f07;_0x70f56a[_0x32bf3a(0x7ed)](),_0x70f56a['l']=this,_0x70f56a['n']=(_0x70f56a['m']||0x1!==_0x70f56a['a']||0x0===_0x70f56a[_0x32bf3a(0x62e)]['p']['a']?this['t']:this['o'])[_0x32bf3a(0x7b2)](_0x70f56a);}[_0x4d3f07(0x3e8)](){this['o']=new _0x291aa4(),this['t']=new _0x291aa4();}}const _0x1b4526=(_0x326329,_0x1d8afd)=>{var _0x1c6166=_0x4d3f07;const _0x3eb234=new _0x15a85a(0x0),_0x12b53b=[_0x3eb234],_0x88e3a4=new ArrayBuffer(0x43ffbc),_0x5680c2=new Float32Array(_0x88e3a4),_0x3a2734=new Uint32Array(_0x88e3a4),_0x15b4b9=_0x326329[_0x1c6166(0x5e4)](_0x1c6166(0x7ee),{'antialias':!0x1}),_0x4acbea=_0x15b4b9[_0x1c6166(0x5c7)]('ANGLE_instanced_arrays'),_0x2a0714=(_0x1cf12e,_0x7886e9)=>{var _0x438c31=_0x1c6166;const _0x5b5105=_0x15b4b9[_0x438c31(0x7fe)](_0x7886e9);return _0x15b4b9[_0x438c31(0x311)](_0x5b5105,_0x1cf12e),_0x15b4b9[_0x438c31(0x52d)](_0x5b5105),_0x5b5105;};_0x3b6f01=_0x15b4b9['createProgram'](),_0x15b4b9[_0x1c6166(0x805)](_0x3b6f01,_0x2a0714(_0x1c6166(0x85c),0x8b31)),_0x15b4b9[_0x1c6166(0x805)](_0x3b6f01,_0x2a0714(_0x1c6166(0x299),0x8b30)),_0x15b4b9[_0x1c6166(0x66d)](_0x3b6f01);const _0x1a9054=(_0x45a30f,_0x3b3901,_0x4f55cb)=>{var _0x58ad35=_0x1c6166;_0x15b4b9[_0x58ad35(0x52e)](_0x45a30f,_0x15b4b9[_0x58ad35(0x457)]()),_0x15b4b9[_0x58ad35(0x8cb)](_0x45a30f,_0x3b3901,_0x4f55cb||0x88e4);},_0x214759=(_0x9710c0,_0x9fb6c0,_0x5787c1,_0x3eddc2,_0x28e1a0,_0x115efa,_0x26395d)=>{var _0x4f4973=_0x1c6166;const _0x7b9f29=_0x15b4b9[_0x4f4973(0x701)](_0x3b6f01,_0x9710c0);_0x15b4b9[_0x4f4973(0x59b)](_0x7b9f29),_0x15b4b9['vertexAttribPointer'](_0x7b9f29,_0x9fb6c0,_0x115efa||0x1406,!!_0x26395d,_0x5787c1||0x0,_0x28e1a0||0x0),_0x3eddc2&&_0x4acbea[_0x4f4973(0x1f5)](_0x7b9f29,_0x3eddc2);};_0x1a9054(0x8893,new Uint8Array([0x0,0x1,0x2,0x2,0x1,0x3])),_0x1a9054(0x8892,new Float32Array([0x0,0x0,0x0,0x1,0x1,0x0,0x1,0x1])),_0x214759('g',0x2),_0x1a9054(0x8892,_0x88e3a4,0x88e8),_0x214759('t',0x2,0x44,0x1),_0x214759('r',0x1,0x44,0x1,0x8),_0x214759('a',0x2,0x44,0x1,0xc),_0x214759('s',0x2,0x44,0x1,0x14),_0x214759('c',0x4,0x44,0x1,0x1c,0x1401,!0x0),_0x214759('z',0x1,0x44,0x1,0x20),_0x214759('u',0x4,0x44,0x1,0x24),_0x214759('y',0x4,0x44,0x1,0x34);const _0x5471ec=_0x15b4b9[_0x1c6166(0x43d)](0xd33),_0x1e1200=_0x204388=>_0x15b4b9[_0x1c6166(0x79b)](_0x3b6f01,_0x204388),_0x3e637b=_0x1e1200('m'),_0x41c9db=_0x1e1200('x'),_0x21894e=_0x1e1200('k'),_0x430f30=_0x1e1200('j'),_0x3315d1=_0x1e1200('haze');_0x15b4b9['useProgram'](_0x3b6f01),_0x15b4b9[_0x1c6166(0x8b0)](0x9241,!0x0),_0x15b4b9[_0x1c6166(0x216)](0xbe2),_0x15b4b9[_0x1c6166(0x610)](0x1,0x303),_0x15b4b9[_0x1c6166(0x216)](0xb71),_0x15b4b9[_0x1c6166(0x4e3)](_0x41c9db,0x0),_0x15b4b9[_0x1c6166(0x4e3)](_0x21894e,0x1);const _0x3f9356=[];let _0x4cab96,_0x565873,_0xfd206a,_0x2a6664,_0x40388d,_0x2ae7a9,_0x1312f3,_0x4f6bb3,_0x43c532=0x0;const _0x283ef8=()=>(_0x2a6664=0x0|_0x326329[_0x1c6166(0x35e)],_0x40388d=0x0|_0x326329[_0x1c6166(0x3fb)],_0x2a6664=_0x2f4939[_0x1c6166(0x888)][_0x1c6166(0x7fd)],_0x40388d=_0x2f4939[_0x1c6166(0x888)][_0x1c6166(0x1e5)],_0x2ae7a9=_0x326329['width']!==_0x2a6664||_0x326329[_0x1c6166(0x1e5)]!==_0x40388d),_0x405b84=()=>{var _0x8edcf9=_0x1c6166;_0x43c532&&(_0x1312f3&&(_0x2ae7a9&&(_0x326329[_0x8edcf9(0x7fd)]=_0x2a6664,_0x326329[_0x8edcf9(0x1e5)]=_0x40388d),_0x15b4b9[_0x8edcf9(0x732)](0x0,0x0,_0x2a6664,_0x40388d),_0x15b4b9['clear'](0x4100),_0x1312f3=_0x2ae7a9=!0x1),_0x15b4b9['depthFunc'](0x203),_0x15b4b9[_0x8edcf9(0x6f4)](_0x430f30,0x0),_0x15b4b9[_0x8edcf9(0x4df)](0x84c0),_0x15b4b9['bindTexture'](0xde1,_0x4cab96['t']),_0x15b4b9[_0x8edcf9(0x4df)](0x84c1),_0x15b4b9['bindTexture'](0xde1,_0x565873||_0x4cab96['t']),_0x15b4b9[_0x8edcf9(0x8fc)](0x8892,0x0,_0x5680c2[_0x8edcf9(0x7c1)](0x0,0x11*_0x43c532)),_0x4acbea[_0x8edcf9(0x754)](0x4,0x6,0x1401,0x0,_0x43c532),_0x43c532=0x0);},_0x4f9d75=[0x0,0x0,0x0,0x0],_0x4dc0c1=_0x3c7fdf=>{var _0x3f40d6=_0x1c6166;if(!_0x3c7fdf[_0x3f40d6(0x88c)]||!_0x3c7fdf['shared'][_0x3f40d6(0x88c)])return;0xffff===_0x43c532&&_0x405b84();const {frame:_0x3926b1}=_0x3c7fdf;_0x4cab96['t']!==_0x3926b1['p']['t']&&(_0x405b84(),_0x4cab96=_0x3926b1['p']);const _0x131619=_0x3c7fdf['m'];_0x131619&&_0x565873!==_0x131619['p']['t']&&(_0x405b84(),_0x565873=_0x131619['p']['t']),_0x15b4b9['uniform1f'](_0x3315d1,_0x3c7fdf[_0x3f40d6(0x6fc)]);let _0x4eb476=0x11*_0x43c532;_0x5680c2[_0x4eb476++]=_0x3c7fdf[_0x3f40d6(0x53d)]['x'],_0x5680c2[_0x4eb476++]=_0x3c7fdf[_0x3f40d6(0x53d)]['y'],_0x5680c2[_0x4eb476++]=_0x3c7fdf[_0x3f40d6(0x838)]-+_0x3c7fdf[_0x3f40d6(0x4a5)]*_0xfd206a,_0x5680c2[_0x4eb476++]=_0x3c7fdf[_0x3f40d6(0x8d2)]['x'],_0x5680c2[_0x4eb476++]=_0x3c7fdf[_0x3f40d6(0x8d2)]['y'],_0x5680c2[_0x4eb476++]=_0x3c7fdf[_0x3f40d6(0x6da)]['x']*_0x3926b1[_0x3f40d6(0x633)]['x'],_0x5680c2[_0x4eb476++]=_0x3c7fdf[_0x3f40d6(0x6da)]['y']*_0x3926b1[_0x3f40d6(0x633)]['y'],_0x3a2734[_0x4eb476++]=((0xffffff&(_0x3c7fdf[_0x3f40d6(0x33b)][_0x3f40d6(0x4fa)]?_0x3c7fdf[_0x3f40d6(0x33b)][_0x3f40d6(0x4fa)]:_0x3c7fdf[_0x3f40d6(0x4fa)]))<<0x8|0xff*_0x3c7fdf['a']&0xff)>>>0x0,_0x5680c2[_0x4eb476++]=_0x3c7fdf['l']['z'],_0x5680c2['set'](_0x3926b1['uvs'],_0x4eb476),_0x5680c2['set'](_0x131619?_0x131619[_0x3f40d6(0x4a1)]:_0x4f9d75,_0x4eb476+0x4),_0x43c532++;},_0x13b2f0=(_0x1232a4,_0x391e18)=>{var _0x1c1d4b=_0x1c6166;let _0x40831f=_0x1232a4[_0x1c1d4b(0x68a)](_0x4c959d=>_0x4c959d['z']===_0x391e18);return _0x40831f||(_0x40831f=new _0x15a85a(_0x391e18),_0x1232a4[_0x1c1d4b(0x72a)](_0x40831f),_0x1232a4[_0x1c1d4b(0x923)]((_0x55f959,_0x51c100)=>_0x51c100['z']-_0x55f959['z'])),_0x40831f;},_0x2f4939={'gl':_0x15b4b9,'atlas':(_0x2046c4,_0x1a115c,_0x3fa4ea,_0x2fb8ad)=>{var _0x2283d9=_0x1c6166;_0x2fb8ad=Math[_0x2283d9(0x23f)](_0x2fb8ad||_0x5471ec,_0x5471ec);const _0x48132b=_0x555670(_0x2fb8ad,0x1),_0x34f710=_0x48132b[_0x2283d9(0x5e4)]('2d'),_0x44e5cd=_0x34f710['drawImage'][_0x2283d9(0x858)](_0x34f710),_0x90b2d1=new _0x291aa4();let _0x3a3687=0x1,_0x212a3d=0x0,_0x399456=0x0,_0x351e4c=0x0,_0x2ecce8=!0x0;const _0x21b408={'t':_0x15b4b9[_0x2283d9(0x429)](),'a':0x0===_0x2046c4?0x0:_0x2046c4||0x1,'b'(){var _0x2bf46d=_0x2283d9;_0x2ecce8&&(_0x15b4b9[_0x2bf46d(0x837)](0xde1,_0x21b408['t']),_0x15b4b9[_0x2bf46d(0x52c)](0xde1,0x2800,0x2600|+_0x1a115c),_0x15b4b9[_0x2bf46d(0x52c)](0xde1,0x2801,0x2600|+_0x1a115c|+_0x3fa4ea<<0x8|+_0x3fa4ea<<0x1),_0x15b4b9['texImage2D'](0xde1,0x0,0x1908,0x1908,0x1401,_0x48132b),_0x3fa4ea&&_0x15b4b9['generateMipmap'](0xde1),_0x2ecce8=!0x1);}};return _0x3f9356[_0x2283d9(0x72a)](_0x21b408),{'width':_0x2fb8ad,'frame'(_0x5520dd,_0x39b9fc,_0x534984,_0x16fc5b,_0x5234ea=_0x5520dd['width'],_0x1adefa=_0x5520dd[_0x2283d9(0x1e5)]){var _0x45e5fe=_0x2283d9;_0x5234ea+0x2>_0x2fb8ad-_0x212a3d&&(_0x399456+=_0x351e4c,_0x212a3d=0x0,_0x351e4c=0x0);let _0x3f2b0c=0x1;for(;_0x1adefa+0x2>_0x3a3687*_0x3f2b0c-_0x399456;)_0x3f2b0c*=0x2;if(_0x3f2b0c>0x1){const _0x121bdf=_0x555670(_0x2fb8ad,_0x3a3687);_0x121bdf[_0x45e5fe(0x5e4)]('2d')[_0x45e5fe(0x499)](_0x48132b,0x0,0x0),_0x3a3687*=_0x3f2b0c,_0x48132b[_0x45e5fe(0x1e5)]=_0x3a3687,_0x44e5cd(_0x121bdf,0x0,0x0),_0x90b2d1['i'](_0x993cc=>_0x993cc(_0x3f2b0c));}_0x44e5cd(_0x5520dd,_0x534984||0x0,_0x16fc5b||0x0,_0x5234ea,_0x1adefa,_0x212a3d+0x1,_0x399456+0x1,_0x5234ea,_0x1adefa);const _0x19a139=[(_0x212a3d+0x1)/_0x2fb8ad,(_0x399456+0x1)/_0x3a3687,_0x5234ea/_0x2fb8ad,_0x1adefa/_0x3a3687];return _0x90b2d1[_0x45e5fe(0x7b2)](_0x332a1b=>{_0x19a139[0x1]/=_0x332a1b,_0x19a139[0x3]/=_0x332a1b;}),_0x212a3d+=_0x5234ea+0x2,_0x351e4c=Math['max'](_0x351e4c,_0x1adefa+0x2),_0x2ecce8=!0x0,{'size':new _0x3f7ab0(_0x5234ea,_0x1adefa),'uvs':_0x19a139,'p':_0x21b408,'subframe'(_0x4d7296,_0x238ea6,_0x445044,_0x49fb89){const _0x2cc873=[_0x19a139[0x0]+_0x4d7296/_0x2fb8ad,_0x19a139[0x1]+_0x238ea6/_0x3a3687,_0x445044/_0x2fb8ad,_0x49fb89/_0x3a3687];let _0x55cfe3=_0x3a3687;return{'size':new _0x3f7ab0(_0x445044,_0x49fb89),get 'uvs'(){if(_0x55cfe3!==_0x3a3687){const _0x54531a=_0x3a3687/_0x55cfe3;_0x2cc873[0x1]/=_0x54531a,_0x2cc873[0x3]/=_0x54531a,_0x55cfe3=_0x3a3687;}return _0x2cc873;},'p':_0x21b408};}};}};},get 'width'(){return _0x2a6664;},get 'height'(){return _0x40388d;},'camera':{'at':new _0x3f7ab0(),'to':new _0x3f7ab0(),'angle':0x0,'zoom':{'x':0x1,'y':0x1},'width':0x1f4,'height':0x1f4},'background'(_0x97a684,_0x4c785e,_0x2bfa2f,_0x222b0a=0x1){var _0x70da79=_0x1c6166;_0x15b4b9[_0x70da79(0x6ad)](_0x97a684*_0x222b0a,_0x4c785e*_0x222b0a,_0x2bfa2f*_0x222b0a,_0x222b0a);},'layer':_0x13b2f0[_0x1c6166(0x858)](null,_0x12b53b),'ui':_0x13b2f0[_0x1c6166(0x858)](null,[]),'add'(_0x3099dc){var _0xe5d07c=_0x1c6166;_0x3eb234[_0xe5d07c(0x7b2)](_0x3099dc);},'resize':_0x283ef8,'screenToWorldPoint':_0x660ca9=>({'x':(_0x660ca9['x']-_0x4f6bb3[0xc])/_0x4f6bb3[0x0],'y':(_0x660ca9['y']-_0x4f6bb3[0xd])/_0x4f6bb3[0x5]}),'worldToScreenPoint':_0xc65d6b=>({'x':_0xc65d6b['x']*_0x4f6bb3[0x0]+_0x4f6bb3[0xc],'y':_0xc65d6b['y']*_0x4f6bb3[0x5]+_0x4f6bb3[0xd]}),'updateSceneProjection'(){var _0x5e4b42=_0x1c6166;const {at:_0x4642d4,to:_0x1d39bf,angle:_0x167ce1,zoom:_0xd2c12b}=_0x2f4939[_0x5e4b42(0x888)],_0x52b255=_0x4642d4['x']-_0x2a6664*_0x1d39bf['x'],_0x3afba=_0x4642d4['y']-_0x40388d*_0x1d39bf['y'],_0x55ea77=Math[_0x5e4b42(0x916)](_0x167ce1),_0x584efc=Math['sin'](_0x167ce1),_0x44e170=0x2/_0x2a6664,_0x318a06=-0x2/_0x40388d;_0x4f6bb3=[_0x55ea77*_0x44e170*_0xd2c12b['x'],_0x584efc*_0x318a06*_0xd2c12b['y'],0x0,0x0,-_0x584efc*_0x44e170*_0xd2c12b['x'],_0x55ea77*_0x318a06*_0xd2c12b['y'],0x0,0x0,0x0,0x0,-0.00001,0x0,((_0x4642d4['x']*(0x1-_0x55ea77)+_0x4642d4['y']*_0x584efc)*_0x44e170-0x2*_0x52b255/_0x2a6664-0x1)*_0xd2c12b['x'],((_0x4642d4['y']*(0x1-_0x55ea77)-_0x4642d4['x']*_0x584efc)*_0x318a06+0x2*_0x3afba/_0x40388d+0x1)*_0xd2c12b['y'],0x0,0x1];},'render'(){var _0x6d687c=_0x1c6166,_0x553ff0=performance['now']();_0x4b3d94||(_0x4b3d94=_0x553ff0),_0x301738+=(_0x553ff0-_0x4b3d94)/(0x3e8/0x3c),_0x4b3d94=_0x553ff0;var _0x765c46=_0x15b4b9['getUniformLocation'](_0x3b6f01,_0x6d687c(0x404));_0x15b4b9['uniform1f'](_0x765c46,_0x301738),_0x765c46=_0x15b4b9[_0x6d687c(0x79b)](_0x3b6f01,_0x6d687c(0x6fc)),_0x15b4b9[_0x6d687c(0x6f4)](_0x765c46,0x0),!_0x2ae7a9&&_0x283ef8(),_0x1312f3=!0x0,_0x3f9356[_0x6d687c(0x4a4)](_0x12c6f2=>_0x12c6f2['b']()),_0x4cab96=_0x50069d,_0x565873=0x0;const {angle:_0x22161c}=_0x2f4939[_0x6d687c(0x888)];this[_0x6d687c(0x8cd)](),_0x15b4b9[_0x6d687c(0x772)](_0x3e637b,!0x1,_0x4f6bb3),_0xfd206a=_0x22161c;for(let _0x1ee8d2=_0x12b53b[_0x6d687c(0x7d4)]-0x1;_0x1ee8d2>=0x0;_0x1ee8d2--)_0x12b53b[_0x1ee8d2]['t']['i'](_0x4dc0c1);_0x405b84();}};return _0x283ef8(),_0x2f4939;};_0x1b4526['Point']=_0x3f7ab0,_0x1b4526['Sprite']=class{constructor(_0x540c90,_0x2c77c0){var _0x2812d6=_0x4d3f07;Object[_0x2812d6(0x7b6)](this,{'frame':_0x540c90,'visible':!0x0,'shared':{'visible':!0x0},'billboard':!0x1,'position':new _0x3f7ab0(),'rotation':0x0,'anchor':new _0x3f7ab0(),'scale':new _0x3f7ab0(0x1),'tint':0xffffff,'haze':0x0,'m':null,'a':0x1,'l':null,'n':null},_0x2c77c0);}get[_0x4d3f07(0x4ad)](){return this['a'];}set[_0x4d3f07(0x4ad)](_0xb82f2c){const _0x2814c3=_0xb82f2c<0x1&&0x1===this['a']||0x1===_0xb82f2c&&this['a']<0x1;this['a']=_0xb82f2c,_0x2814c3&&this['frame']['p']['a']>0x0&&this['l']&&this['l']['add'](this);}get['mask'](){return this['m'];}set['mask'](_0x219b17){var _0x5c8a7e=_0x4d3f07;this['m']=_0x219b17,this['l']&&this['l'][_0x5c8a7e(0x7b2)](this);}[_0x4d3f07(0x7ed)](){this['n']&&this['n']['r'](),this['l']=null,this['n']=null;}};var _0x90c207=/Mobi|Android/i[_0x4d3f07(0x2d1)](navigator[_0x4d3f07(0x273)]);class _0x2e2693{constructor(_0x1f7c51,_0x45aa0d){var _0x19c89a=_0x4d3f07;this['canvas']=document[_0x19c89a(0x232)](_0x19c89a(0x2f9)),this['canvas']['style']='\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20position:absolute;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20pointer-events:none;\x0a\x20\x20\x20\x20\x20\x20\x20\x20',document[_0x19c89a(0x78b)]['appendChild'](this[_0x19c89a(0x2f9)]),this['frames']=_0x1f7c51,this['context']=this[_0x19c89a(0x2f9)][_0x19c89a(0x5e4)]('2d'),this[_0x19c89a(0x5f5)]=null,this[_0x19c89a(0x519)]=null,this[_0x19c89a(0x26a)]=new Image(),this[_0x19c89a(0x26a)][_0x19c89a(0x608)]=_0x45aa0d,this[_0x19c89a(0x21c)]();}['resize'](){var _0x297018=_0x4d3f07;this['canvas'][_0x297018(0x7fd)]=window[_0x297018(0x3b1)],this[_0x297018(0x2f9)][_0x297018(0x1e5)]=window[_0x297018(0x389)];}['spawnParticles'](_0xa1460e,_0x2a1020,_0x251768,_0x40be93){var _0xaa884a=_0x4d3f07;for(var _0xfaca57=0x0;_0xfaca57<_0xa1460e;_0xfaca57++){const _0x16a16f=new _0x522c41(this[_0xaa884a(0x26a)],this[_0xaa884a(0x6b3)][Math[_0xaa884a(0x2a7)](0xf*Math[_0xaa884a(0x368)]())],_0x2a1020,_0x251768,_0x40be93);this[_0xaa884a(0x519)]&&this[_0xaa884a(0x519)][_0xaa884a(0x449)]?_0x16a16f[_0xaa884a(0x324)]=this[_0xaa884a(0x519)]:_0x16a16f['prev']=this,this['lastParticle']&&this['lastParticle']['alive']&&(this[_0xaa884a(0x519)]['next']=_0x16a16f),this[_0xaa884a(0x519)]=_0x16a16f,this[_0xaa884a(0x5f5)]||(this['next']=_0x16a16f);}}[_0x4d3f07(0x8be)](_0x4a999e){var _0x3fb9ab=_0x4d3f07;this[_0x3fb9ab(0x4e1)][_0x3fb9ab(0x8df)](0x0,0x0,this[_0x3fb9ab(0x2f9)][_0x3fb9ab(0x7fd)],this[_0x3fb9ab(0x2f9)][_0x3fb9ab(0x1e5)]);let _0xfc4e45=this[_0x3fb9ab(0x5f5)];for(;_0xfc4e45;)_0xfc4e45[_0x3fb9ab(0x260)](this[_0x3fb9ab(0x4e1)]),_0xfc4e45['update'](_0x4a999e),_0xfc4e45['progress']>=0x1&&_0xfc4e45['destroy'](),_0xfc4e45=_0xfc4e45[_0x3fb9ab(0x5f5)];}}class _0x522c41{constructor(_0x40d1bf,_0x55b246,_0xb7844b,_0x18582b,_0x5d1530){var _0x2105a9=_0x4d3f07;this[_0x2105a9(0x4ec)]=Object[_0x2105a9(0x7b6)]({'minXSpeed':0x0,'maxXSpeed':0x0,'minYSpeed':0x0,'maxYSpeed':0x0,'xAccel':0x0,'yAccel':0x0,'minRSpeed':0x0,'maxRSpeed':0x0,'moveRotate':!0x1,'maxLifeTime':0x3e8},_0x5d1530),this[_0x2105a9(0x8e9)]=0x0,this[_0x2105a9(0x4ab)]=this[_0x2105a9(0x4ec)][_0x2105a9(0x6f2)]+Math[_0x2105a9(0x368)]()*(this[_0x2105a9(0x4ec)][_0x2105a9(0x78d)]-this[_0x2105a9(0x4ec)][_0x2105a9(0x6f2)]),this['ySpeed']=this[_0x2105a9(0x4ec)]['minYSpeed']+Math['random']()*(this[_0x2105a9(0x4ec)][_0x2105a9(0x7c5)]-this[_0x2105a9(0x4ec)]['minYSpeed']),this[_0x2105a9(0x454)]=this[_0x2105a9(0x4ec)][_0x2105a9(0x893)]+Math[_0x2105a9(0x368)]()*(this[_0x2105a9(0x4ec)][_0x2105a9(0x5e2)]-this[_0x2105a9(0x4ec)]['minRSpeed']),this[_0x2105a9(0x5f5)]=null,this['prev']=null,this['texture']=_0x40d1bf,this['x']=_0xb7844b,this['y']=_0x18582b,this[_0x2105a9(0x838)]=0x0,this[_0x2105a9(0x6e7)]=0x0,this[_0x2105a9(0x449)]=!0x0,this[_0x2105a9(0x62e)]=_0x55b246;}[_0x4d3f07(0x260)](_0x4df87a){var _0x38868a=_0x4d3f07;const _0x5ec136=this['x']-0x1*this[_0x38868a(0x62e)]['__size']['x']/0x2,_0x4ffa2e=this['y']-0x1*this['frame'][_0x38868a(0x8f2)]['y']/0x2,_0x78f493=this[_0x38868a(0x838)];_0x4df87a[_0x38868a(0x5a7)](_0x5ec136,_0x4ffa2e),_0x4df87a[_0x38868a(0x904)](_0x78f493),_0x4df87a[_0x38868a(0x499)](this[_0x38868a(0x477)],this['frame']['__position']['x'],this[_0x38868a(0x62e)][_0x38868a(0x536)]['y'],this[_0x38868a(0x62e)][_0x38868a(0x8f2)]['x'],this[_0x38868a(0x62e)]['__size']['y'],0x0,0x0,0x1*this[_0x38868a(0x62e)][_0x38868a(0x8f2)]['x'],0x1*this[_0x38868a(0x62e)][_0x38868a(0x8f2)]['y']),_0x4df87a[_0x38868a(0x904)](-_0x78f493),_0x4df87a[_0x38868a(0x5a7)](-_0x5ec136,-_0x4ffa2e);}[_0x4d3f07(0x8be)](_0x5aa31c){var _0x24ab34=_0x4d3f07;this[_0x24ab34(0x8e9)]+=_0x5aa31c,this[_0x24ab34(0x6e7)]=this[_0x24ab34(0x8e9)]/this['settings']['maxLifeTime'],_0x5aa31c/=0x3e8,this[_0x24ab34(0x4ab)]+=this['settings'][_0x24ab34(0x46e)]*_0x5aa31c,this[_0x24ab34(0x50d)]+=this[_0x24ab34(0x4ec)][_0x24ab34(0x668)]*_0x5aa31c,this['x']+=this[_0x24ab34(0x4ab)]*_0x5aa31c,this['y']+=this[_0x24ab34(0x50d)]*_0x5aa31c,'x'==this[_0x24ab34(0x4ec)][_0x24ab34(0x36a)]?this[_0x24ab34(0x838)]+=this['xSpeed']/0xbb8:'y'==this[_0x24ab34(0x4ec)][_0x24ab34(0x36a)]?this[_0x24ab34(0x838)]+=this[_0x24ab34(0x50d)]/0xbb8:this[_0x24ab34(0x838)]+=this[_0x24ab34(0x454)]*_0x5aa31c;}[_0x4d3f07(0x45d)](){var _0x1d19d4=_0x4d3f07;this['prev']&&(this[_0x1d19d4(0x324)][_0x1d19d4(0x5f5)]=this[_0x1d19d4(0x5f5)]),this[_0x1d19d4(0x5f5)]&&(this['next'][_0x1d19d4(0x324)]=this[_0x1d19d4(0x324)]),this['alive']=!0x1;}}const _0x1d07e7={'__loadedData':null,'__sdkInit':!0x1,'__playingAd':!0x1,'__adsBlocked':!0x1,'__joinedGame':!0x1,'__debug':!0x1,'__maxClients':0xa,'__levelRadius':0xfa0,'__maxScreenWidth':0x258,'__maxScreenHeight':0x258,'__targetScreenSize':0x4b0,'__playerSpeed':serverSpeed,'__playerRotationSpeed':0xb,'__physicsStep':0xf,'__desyncDistanceTolerance':0x32,'__saveName':_0x4d3f07(0x582),'__bigUpdateTick':0x78,'__leaderBoardLength':0xa,'__leaderBoardInterval':0x3c,'__adTimeoutViewable':0x1770,'__cameraSmooth':0.1,'__cameraMaxZoom':0x2,'__cameraWidthToZoomFactor':0x2,'__maxSnakeSize':0x64,'__snakeStartWidth':0x28,'__snakeBaseWidth':0x78,'__snakeCollisionSize':0xc8,'__snakeCollisionIntolerance':0xf,'__snakeSegmentDistance':0x14,'__snakeSegments':0xa,'__snakeMaxSegments':0x64,'__snakeMaxSegmentsFood':0x7d0,'__snakeMaxWidth':0xc8,'__snakeMaxWidthFood':0x2710,'__snakeShrinkDamper':0.8,'__snakeLengthGrowthFoodInterval':0x5,'__collisionIntolerancePixels':0x28,'__outlinePixels':0x5,'__newSnakeInvisibilityTimer':0xbb8,'__snakeTimeToRealDeath':0x1f4,'__snakeAcceleration':0x2,'__snakeTurdInterval':0x96,'__snakeStartingFood':0x14,'__maxNameLength':0x14,'__songVolume':0.4,'__maxFood':0x7d0,'__buildFoodInterval':0x9c4,'__buildFoodQuantity':0.1,'__foodMinDistribution':0xa,'__foodCollisionSize':0x64,'__foodCollisionTolerance':0x7a,'__numSmallFoods':0x14,'__cleanFoodInterval':0x64,'__cleanFoodProcessAmmount':0x32,'__foodPopTiming':0xc8,'__foodBigPixelChance':0x12c,'__foodBigValue':0xa,'__foodExplosionMaxFoods':0x7d0,'__buildGachaInterval':0x708,'__buildGachaQuanity':0x5,'__maxGachaDistance':0x5dc,'__nonEventHats':0x15,'__floorTileSize':0x100,'__layerGrass':0x1,'__layerMisc':0x2,'__layerSnakeShadowParts':0x3,'__layerSnakeParts':0x4,'__layerHats':0x69,'__layerFood':0x6a,'__layerSmokeClouds':0x6b,'__layerIndicators':0x6c,'__layerIndicatorsObject':0x6d,'__fillAIThreshold':0x1,'__aiSpawnTick':0xa,'__hatUnlockAmmount':[0x2,0x3,0x3,0x5,0x5,0x8,0x8,0xa,0xe,0x10,0x14,0x18,0x1c,0x20,0x20,0x28,0x2c,0x32,0x4b,0x64,0x64,0x32,0x32,0x32,0x32,0x32,0x32,0x32,0x32,0x32,0x32,0x32,0x32],'__hatIsEars':[!0x1,!0x1,!0x0,!0x1,!0x0,!0x1,!0x1,!0x0,!0x1,!0x0,!0x1,!0x1,!0x1,!0x1,!0x0,!0x1,!0x1,!0x1,!0x1,!0x0,!0x1,!0x1,!0x1,!0x1,!0x0,!0x1,!0x1,!0x1,!0x1,!0x0,!0x1,!0x1,!0x1],'__achievements':{'foodsEaten':{'tiers':[0x32,0x1f4,0xc350],'body':_0x4d3f07(0x42a),'id':0x1},'snakesKilled':{'tiers':[0x5,0x32,0xc8],'body':_0x4d3f07(0x481),'id':0x2},'snakeSize':{'tiers':[0x64,0x7d0,0x2710],'body':_0x4d3f07(0x562),'id':0x3},'rePlays':{'tiers':[0x3,0xf,0x1e],'body':_0x4d3f07(0x49e),'id':0x4},'hatsCollected':{'tiers':[0x4,0x8,0xc],'body':_0x4d3f07(0x861),'id':0x5},'earsCollected':{'tiers':[0x2,0x4,0x6],'body':_0x4d3f07(0x59e),'id':0x6},'totalDeaths':{'tiers':[0x50,0xf0,0x1e0],'body':_0x4d3f07(0x76c),'id':0x7},'surviveTime':{'tiers':[0x5,0xf,0x2d],'body':_0x4d3f07(0x507),'id':0x8},'pooEaten':{'tiers':[0x32,0xc8,0x258],'body':_0x4d3f07(0x5a1),'id':0x9}},'__DEG2RAD':0.017453292519943295,'__RAD2DEG':57.29577951308232,'__messageType':{'__serverUpdate':'s','__joinGame':'j','__findGame':'f','__userJoins':'u','__userLeft':'l','__userInput':'i','__userPing':'p','__userPong':'q','__userDies':'d','__requestDisconnect':'x','__buildFood':'f','__spawnTurd':'t','__spawnGacha':'g','__leaderBoard':'r'},'__serverList':['','']},_0x3ede31=(_0x2f53bb,_0x26a581)=>{var _0x19263d=_0x4d3f07;let _0x44d337;const _0x11ecdf=localStorage[_0x19263d(0x6c9)](_0x1d07e7['__saveName']);_0x11ecdf&&(_0x44d337=JSON[_0x19263d(0x717)](window['atob'](_0x11ecdf))),_0x19263d(0x628)==_0x26a581?_0x44d337=_0x2f53bb:_0x44d337[_0x26a581]=_0x2f53bb,localStorage[_0x19263d(0x581)](_0x1d07e7[_0x19263d(0x75d)],window[_0x19263d(0x915)](JSON['stringify'](_0x44d337)));},_0x50e259=[],_0x43d5f3=()=>{var _0x508295=_0x4d3f07;_0x50e259[_0x508295(0x4a4)](_0x10119a=>{var _0xeb414c=_0x508295;if(_0xeb414c(0x92b)==_0x10119a['n']){_0xff97c6(_0x10119a['el'],_0x1d07e7[_0xeb414c(0x8ee)][_0xeb414c(0x92b)]);let _0x50961c=_0x10119a['el']['querySelector'](_0xeb414c(0x291));_0x50961c['classList'][_0xeb414c(0x7ed)](_0xeb414c(0x2ba)),_0x1d07e7[_0xeb414c(0x8ee)][_0xeb414c(0x92b)]<=0x0&&(_0x50961c[_0xeb414c(0x471)][_0xeb414c(0x7b2)](_0xeb414c(0x2ba)),_0x50961c[_0xeb414c(0x77e)]['visibility']=_0xeb414c(0x88c),_0x50961c[_0xeb414c(0x211)]='+1');}else _0xeb414c(0x7de)==_0x10119a['n']?_0xff97c6(_0x10119a['el'],_0x1d07e7[_0xeb414c(0x8ee)][_0xeb414c(0x8d0)]):_0xeb414c(0x4bc)==_0x10119a['n']&&_0xff97c6(_0x10119a['el'],_0x1d07e7[_0xeb414c(0x8ee)][_0xeb414c(0x7cf)]);});},_0xff97c6=(_0x55664f,_0x1ee8e6)=>{var _0xab06ff=_0x4d3f07;let _0xd1c85=_0x55664f[_0xab06ff(0x57f)]('.nt');_0xd1c85||((_0xd1c85=document[_0xab06ff(0x232)](_0xab06ff(0x7cb)))[_0xab06ff(0x471)][_0xab06ff(0x7b2)]('nt'),_0x55664f[_0xab06ff(0x867)](_0xd1c85)),_0xd1c85['innerText']=_0x1ee8e6,_0xd1c85[_0xab06ff(0x77e)][_0xab06ff(0x847)]=0x0==_0x1ee8e6?_0xab06ff(0x473):_0xab06ff(0x88c);};var _0x93a3b0=_0x4d3f07(0x740)!=typeof globalThis?globalThis:_0x4d3f07(0x740)!=typeof window?window:'undefined'!=typeof global?global:_0x4d3f07(0x740)!=typeof self?self:{};function _0x3913b6(_0x55618d,_0x46d718){var _0xb27b3d=_0x4d3f07;return _0x55618d(_0x46d718={'exports':{}},_0x46d718[_0xb27b3d(0x2a8)]),_0x46d718[_0xb27b3d(0x2a8)];}var _0x386dc8=_0x3913b6(function(_0x75e808,_0x3aefae){!(function(){var _0x3f9d32=_0x473b,_0x202ca8=function(){var _0x136ffd=_0x473b;this[_0x136ffd(0x66c)]();};_0x202ca8['prototype']={'init':function(){var _0x5e8a75=_0x473b,_0x24e978=this||_0x1943db;return _0x24e978['_counter']=0x3e8,_0x24e978[_0x5e8a75(0x2dc)]=[],_0x24e978[_0x5e8a75(0x606)]=0xa,_0x24e978[_0x5e8a75(0x557)]={},_0x24e978[_0x5e8a75(0x7ba)]=[],_0x24e978[_0x5e8a75(0x561)]=!0x1,_0x24e978['_volume']=0x1,_0x24e978['_canPlayEvent']=_0x5e8a75(0x715),_0x24e978[_0x5e8a75(0x3cc)]=_0x5e8a75(0x740)!=typeof window&&window['navigator']?window[_0x5e8a75(0x6d4)]:null,_0x24e978[_0x5e8a75(0x1ef)]=null,_0x24e978[_0x5e8a75(0x3db)]=!0x1,_0x24e978[_0x5e8a75(0x474)]=!0x0,_0x24e978[_0x5e8a75(0x262)]=!0x0,_0x24e978[_0x5e8a75(0x575)]=null,_0x24e978['autoUnlock']=!0x0,_0x24e978['_setup'](),_0x24e978;},'volume':function(_0x2879a5){var _0x2a1a45=_0x473b,_0xe1f1a4=this||_0x1943db;if(_0x2879a5=parseFloat(_0x2879a5),_0xe1f1a4[_0x2a1a45(0x575)]||_0x51371b(),void 0x0!==_0x2879a5&&_0x2879a5>=0x0&&_0x2879a5<=0x1){if(_0xe1f1a4[_0x2a1a45(0x28c)]=_0x2879a5,_0xe1f1a4['_muted'])return _0xe1f1a4;_0xe1f1a4['usingWebAudio']&&_0xe1f1a4[_0x2a1a45(0x1ef)]['gain'][_0x2a1a45(0x6a2)](_0x2879a5,_0x1943db[_0x2a1a45(0x575)][_0x2a1a45(0x713)]);for(var _0x3931e7=0x0;_0x3931e7<_0xe1f1a4[_0x2a1a45(0x7ba)][_0x2a1a45(0x7d4)];_0x3931e7++)if(!_0xe1f1a4[_0x2a1a45(0x7ba)][_0x3931e7][_0x2a1a45(0x7c4)])for(var _0x54944c=_0xe1f1a4[_0x2a1a45(0x7ba)][_0x3931e7][_0x2a1a45(0x2cd)](),_0x34e79e=0x0;_0x34e79e<_0x54944c[_0x2a1a45(0x7d4)];_0x34e79e++){var _0x259466=_0xe1f1a4[_0x2a1a45(0x7ba)][_0x3931e7][_0x2a1a45(0x2b2)](_0x54944c[_0x34e79e]);_0x259466&&_0x259466[_0x2a1a45(0x683)]&&(_0x259466[_0x2a1a45(0x683)]['volume']=_0x259466[_0x2a1a45(0x28c)]*_0x2879a5);}return _0xe1f1a4;}return _0xe1f1a4['_volume'];},'mute':function(_0x4967c4){var _0x50ecb9=_0x473b,_0x594ccf=this||_0x1943db;_0x594ccf[_0x50ecb9(0x575)]||_0x51371b(),_0x594ccf['_muted']=_0x4967c4,_0x594ccf[_0x50ecb9(0x474)]&&_0x594ccf['masterGain']['gain'][_0x50ecb9(0x6a2)](_0x4967c4?0x0:_0x594ccf[_0x50ecb9(0x28c)],_0x1943db[_0x50ecb9(0x575)][_0x50ecb9(0x713)]);for(var _0x37013f=0x0;_0x37013f<_0x594ccf['_howls'][_0x50ecb9(0x7d4)];_0x37013f++)if(!_0x594ccf[_0x50ecb9(0x7ba)][_0x37013f]['_webAudio'])for(var _0x16a64d=_0x594ccf[_0x50ecb9(0x7ba)][_0x37013f][_0x50ecb9(0x2cd)](),_0x38d08e=0x0;_0x38d08e<_0x16a64d[_0x50ecb9(0x7d4)];_0x38d08e++){var _0x20bf4c=_0x594ccf[_0x50ecb9(0x7ba)][_0x37013f]['_soundById'](_0x16a64d[_0x38d08e]);_0x20bf4c&&_0x20bf4c[_0x50ecb9(0x683)]&&(_0x20bf4c[_0x50ecb9(0x683)][_0x50ecb9(0x828)]=!!_0x4967c4||_0x20bf4c[_0x50ecb9(0x561)]);}return _0x594ccf;},'unload':function(){var _0xb33d5b=_0x473b;for(var _0x126e4e=this||_0x1943db,_0x1b5988=_0x126e4e[_0xb33d5b(0x7ba)]['length']-0x1;_0x1b5988>=0x0;_0x1b5988--)_0x126e4e[_0xb33d5b(0x7ba)][_0x1b5988][_0xb33d5b(0x8fd)]();return _0x126e4e['usingWebAudio']&&_0x126e4e['ctx']&&void 0x0!==_0x126e4e['ctx'][_0xb33d5b(0x37f)]&&(_0x126e4e[_0xb33d5b(0x575)][_0xb33d5b(0x37f)](),_0x126e4e[_0xb33d5b(0x575)]=null,_0x51371b()),_0x126e4e;},'codecs':function(_0x2a714c){var _0x2428e3=_0x473b;return(this||_0x1943db)[_0x2428e3(0x557)][_0x2a714c['replace'](/^x-/,'')];},'_setup':function(){var _0x2de80b=_0x473b,_0x8dfc70=this||_0x1943db;if(_0x8dfc70[_0x2de80b(0x4ee)]=_0x8dfc70['ctx']&&_0x8dfc70[_0x2de80b(0x575)]['state']||_0x2de80b(0x90f),_0x8dfc70[_0x2de80b(0x616)](),!_0x8dfc70['usingWebAudio']){if(_0x2de80b(0x740)!=typeof Audio)try{void 0x0===new Audio()[_0x2de80b(0x87b)]&&(_0x8dfc70['_canPlayEvent']='canplay');}catch(_0x353b35){_0x8dfc70[_0x2de80b(0x3db)]=!0x0;}else _0x8dfc70['noAudio']=!0x0;}try{new Audio()[_0x2de80b(0x828)]&&(_0x8dfc70[_0x2de80b(0x3db)]=!0x0);}catch(_0x840d5f){}return _0x8dfc70[_0x2de80b(0x3db)]||_0x8dfc70[_0x2de80b(0x8d5)](),_0x8dfc70;},'_setupCodecs':function(){var _0x41f585=_0x473b,_0x3e5c97=this||_0x1943db,_0x4e4c2f=null;try{_0x4e4c2f='undefined'!=typeof Audio?new Audio():null;}catch(_0x50eec2){return _0x3e5c97;}if(!_0x4e4c2f||_0x41f585(0x29a)!=typeof _0x4e4c2f[_0x41f585(0x459)])return _0x3e5c97;var _0x58345a=_0x4e4c2f[_0x41f585(0x459)](_0x41f585(0x8a2))[_0x41f585(0x63d)](/^no$/,''),_0x20643b=_0x3e5c97[_0x41f585(0x3cc)]&&_0x3e5c97[_0x41f585(0x3cc)][_0x41f585(0x273)]['match'](/OPR\/([0-6].)/g),_0x155eca=_0x20643b&&parseInt(_0x20643b[0x0][_0x41f585(0x277)]('/')[0x1],0xa)<0x21;return _0x3e5c97[_0x41f585(0x557)]={'mp3':!(_0x155eca||!_0x58345a&&!_0x4e4c2f[_0x41f585(0x459)](_0x41f585(0x305))[_0x41f585(0x63d)](/^no$/,'')),'mpeg':!!_0x58345a,'opus':!!_0x4e4c2f[_0x41f585(0x459)](_0x41f585(0x73c))[_0x41f585(0x63d)](/^no$/,''),'ogg':!!_0x4e4c2f[_0x41f585(0x459)](_0x41f585(0x5c4))['replace'](/^no$/,''),'oga':!!_0x4e4c2f[_0x41f585(0x459)]('audio/ogg;\x20codecs=\x22vorbis\x22')[_0x41f585(0x63d)](/^no$/,''),'wav':!!_0x4e4c2f[_0x41f585(0x459)](_0x41f585(0x3f3))[_0x41f585(0x63d)](/^no$/,''),'aac':!!_0x4e4c2f[_0x41f585(0x459)](_0x41f585(0x2a4))[_0x41f585(0x63d)](/^no$/,''),'caf':!!_0x4e4c2f[_0x41f585(0x459)](_0x41f585(0x2af))[_0x41f585(0x63d)](/^no$/,''),'m4a':!!(_0x4e4c2f[_0x41f585(0x459)]('audio/x-m4a;')||_0x4e4c2f['canPlayType'](_0x41f585(0x8a5))||_0x4e4c2f['canPlayType']('audio/aac;'))[_0x41f585(0x63d)](/^no$/,''),'mp4':!!(_0x4e4c2f[_0x41f585(0x459)]('audio/x-mp4;')||_0x4e4c2f[_0x41f585(0x459)](_0x41f585(0x50a))||_0x4e4c2f['canPlayType'](_0x41f585(0x2a4)))[_0x41f585(0x63d)](/^no$/,''),'weba':!!_0x4e4c2f[_0x41f585(0x459)]('audio/webm;\x20codecs=\x22vorbis\x22')[_0x41f585(0x63d)](/^no$/,''),'webm':!!_0x4e4c2f['canPlayType'](_0x41f585(0x456))[_0x41f585(0x63d)](/^no$/,''),'dolby':!!_0x4e4c2f[_0x41f585(0x459)](_0x41f585(0x84c))[_0x41f585(0x63d)](/^no$/,''),'flac':!!(_0x4e4c2f['canPlayType'](_0x41f585(0x934))||_0x4e4c2f['canPlayType']('audio/flac;'))['replace'](/^no$/,'')},_0x3e5c97;},'_unlockAudio':function(){var _0x6057f5=_0x473b,_0x467160=this||_0x1943db;if(!_0x467160[_0x6057f5(0x313)]&&_0x467160[_0x6057f5(0x575)]){_0x467160['_audioUnlocked']=!0x1,_0x467160[_0x6057f5(0x716)]=!0x1,_0x467160[_0x6057f5(0x8ed)]||0xac44===_0x467160[_0x6057f5(0x575)][_0x6057f5(0x767)]||(_0x467160[_0x6057f5(0x8ed)]=!0x0,_0x467160['unload']()),_0x467160['_scratchBuffer']=_0x467160[_0x6057f5(0x575)][_0x6057f5(0x457)](0x1,0x1,0x5622);var _0x5d18e3=function(_0x4ba483){var _0x5728e3=_0x6057f5;for(var _0x3ea6e0=0x0;_0x3ea6e0<_0x467160['html5PoolSize'];_0x3ea6e0++)try{var _0x5f3124=new Audio();_0x5f3124['_unlocked']=!0x0,_0x467160[_0x5728e3(0x3ad)](_0x5f3124);}catch(_0x40d85c){_0x467160[_0x5728e3(0x3db)]=!0x0;}for(_0x3ea6e0=0x0;_0x3ea6e0<_0x467160['_howls']['length'];_0x3ea6e0++)if(!_0x467160['_howls'][_0x3ea6e0][_0x5728e3(0x7c4)])for(var _0x4bb06b=_0x467160[_0x5728e3(0x7ba)][_0x3ea6e0]['_getSoundIds'](),_0x56d262=0x0;_0x56d262<_0x4bb06b['length'];_0x56d262++){var _0x46a1a6=_0x467160['_howls'][_0x3ea6e0][_0x5728e3(0x2b2)](_0x4bb06b[_0x56d262]);_0x46a1a6&&_0x46a1a6['_node']&&!_0x46a1a6[_0x5728e3(0x683)][_0x5728e3(0x476)]&&(_0x46a1a6[_0x5728e3(0x683)][_0x5728e3(0x476)]=!0x0,_0x46a1a6[_0x5728e3(0x683)][_0x5728e3(0x2eb)]());}_0x467160[_0x5728e3(0x5a2)]();var _0x5e947b=_0x467160[_0x5728e3(0x575)][_0x5728e3(0x537)]();_0x5e947b['buffer']=_0x467160[_0x5728e3(0x71f)],_0x5e947b[_0x5728e3(0x4e4)](_0x467160[_0x5728e3(0x575)][_0x5728e3(0x40f)]),void 0x0===_0x5e947b[_0x5728e3(0x906)]?_0x5e947b[_0x5728e3(0x321)](0x0):_0x5e947b[_0x5728e3(0x906)](0x0),'function'==typeof _0x467160['ctx'][_0x5728e3(0x28b)]&&_0x467160[_0x5728e3(0x575)][_0x5728e3(0x28b)](),_0x5e947b['onended']=function(){var _0xcd5776=_0x5728e3;_0x5e947b[_0xcd5776(0x350)](0x0),_0x467160[_0xcd5776(0x313)]=!0x0,document['removeEventListener'](_0xcd5776(0x753),_0x5d18e3,!0x0),document['removeEventListener'](_0xcd5776(0x398),_0x5d18e3,!0x0),document[_0xcd5776(0x87d)](_0xcd5776(0x212),_0x5d18e3,!0x0);for(var _0x5142c3=0x0;_0x5142c3<_0x467160[_0xcd5776(0x7ba)]['length'];_0x5142c3++)_0x467160['_howls'][_0x5142c3][_0xcd5776(0x2f7)](_0xcd5776(0x516));};};return document[_0x6057f5(0x7b0)](_0x6057f5(0x753),_0x5d18e3,!0x0),document[_0x6057f5(0x7b0)](_0x6057f5(0x398),_0x5d18e3,!0x0),document[_0x6057f5(0x7b0)](_0x6057f5(0x212),_0x5d18e3,!0x0),_0x467160;}},'_obtainHtml5Audio':function(){var _0x11ac3c=_0x473b,_0x718ffd=this||_0x1943db;if(_0x718ffd['_html5AudioPool'][_0x11ac3c(0x7d4)])return _0x718ffd[_0x11ac3c(0x2dc)][_0x11ac3c(0x306)]();var _0x1839d8=new Audio()['play']();return _0x1839d8&&_0x11ac3c(0x740)!=typeof Promise&&(_0x1839d8 instanceof Promise||_0x11ac3c(0x29a)==typeof _0x1839d8['then'])&&_0x1839d8[_0x11ac3c(0x215)](function(){}),new Audio();},'_releaseHtml5Audio':function(_0x40c682){var _0xdd5930=_0x473b,_0x14a6f8=this||_0x1943db;return _0x40c682[_0xdd5930(0x476)]&&_0x14a6f8[_0xdd5930(0x2dc)][_0xdd5930(0x72a)](_0x40c682),_0x14a6f8;},'_autoSuspend':function(){var _0x44d12e=_0x473b,_0x4a9187=this;if(_0x4a9187[_0x44d12e(0x262)]&&_0x4a9187[_0x44d12e(0x575)]&&void 0x0!==_0x4a9187[_0x44d12e(0x575)][_0x44d12e(0x912)]&&_0x1943db['usingWebAudio']){for(var _0x2ac347=0x0;_0x2ac347<_0x4a9187[_0x44d12e(0x7ba)]['length'];_0x2ac347++)if(_0x4a9187[_0x44d12e(0x7ba)][_0x2ac347]['_webAudio']){for(var _0x49973e=0x0;_0x49973e<_0x4a9187[_0x44d12e(0x7ba)][_0x2ac347][_0x44d12e(0x783)][_0x44d12e(0x7d4)];_0x49973e++)if(!_0x4a9187[_0x44d12e(0x7ba)][_0x2ac347][_0x44d12e(0x783)][_0x49973e]['_paused'])return _0x4a9187;}return _0x4a9187[_0x44d12e(0x283)]&&clearTimeout(_0x4a9187['_suspendTimer']),_0x4a9187['_suspendTimer']=setTimeout(function(){var _0x5f5b14=_0x44d12e;_0x4a9187[_0x5f5b14(0x262)]&&(_0x4a9187[_0x5f5b14(0x283)]=null,_0x4a9187[_0x5f5b14(0x4ee)]=_0x5f5b14(0x515),_0x4a9187['ctx'][_0x5f5b14(0x912)]()[_0x5f5b14(0x7a2)](function(){var _0x102537=_0x5f5b14;_0x4a9187['state']=_0x102537(0x90f),_0x4a9187[_0x102537(0x8d4)]&&(delete _0x4a9187['_resumeAfterSuspend'],_0x4a9187[_0x102537(0x5a2)]());}));},0x7530),_0x4a9187;}},'_autoResume':function(){var _0x7c91f1=_0x473b,_0x293bcd=this;if(_0x293bcd[_0x7c91f1(0x575)]&&void 0x0!==_0x293bcd[_0x7c91f1(0x575)]['resume']&&_0x1943db[_0x7c91f1(0x474)])return'running'===_0x293bcd['state']&&_0x293bcd['_suspendTimer']?(clearTimeout(_0x293bcd[_0x7c91f1(0x283)]),_0x293bcd['_suspendTimer']=null):'suspended'===_0x293bcd[_0x7c91f1(0x4ee)]?(_0x293bcd[_0x7c91f1(0x575)]['resume']()['then'](function(){var _0x2fae74=_0x7c91f1;_0x293bcd[_0x2fae74(0x4ee)]=_0x2fae74(0x5b1);for(var _0x105a2c=0x0;_0x105a2c<_0x293bcd[_0x2fae74(0x7ba)]['length'];_0x105a2c++)_0x293bcd[_0x2fae74(0x7ba)][_0x105a2c][_0x2fae74(0x2f7)](_0x2fae74(0x28b));}),_0x293bcd['_suspendTimer']&&(clearTimeout(_0x293bcd[_0x7c91f1(0x283)]),_0x293bcd['_suspendTimer']=null)):_0x7c91f1(0x515)===_0x293bcd[_0x7c91f1(0x4ee)]&&(_0x293bcd[_0x7c91f1(0x8d4)]=!0x0),_0x293bcd;}};var _0x1943db=new _0x202ca8(),_0x36fe11=function(_0x3a5c5c){var _0x2abd64=_0x473b;_0x3a5c5c[_0x2abd64(0x608)]&&0x0!==_0x3a5c5c[_0x2abd64(0x608)][_0x2abd64(0x7d4)]&&this[_0x2abd64(0x66c)](_0x3a5c5c);};_0x36fe11['prototype']={'init':function(_0x1087a5){var _0xe2658a=_0x473b,_0x4d6fe6=this;return _0x1943db[_0xe2658a(0x575)]||_0x51371b(),_0x4d6fe6[_0xe2658a(0x2a1)]=_0x1087a5['autoplay']||!0x1,_0x4d6fe6['_format']='string'!=typeof _0x1087a5[_0xe2658a(0x7d7)]?_0x1087a5[_0xe2658a(0x7d7)]:[_0x1087a5[_0xe2658a(0x7d7)]],_0x4d6fe6[_0xe2658a(0x7bf)]=_0x1087a5[_0xe2658a(0x426)]||!0x1,_0x4d6fe6[_0xe2658a(0x561)]=_0x1087a5[_0xe2658a(0x7dc)]||!0x1,_0x4d6fe6[_0xe2658a(0x585)]=_0x1087a5[_0xe2658a(0x5ec)]||!0x1,_0x4d6fe6[_0xe2658a(0x4c5)]=_0x1087a5[_0xe2658a(0x309)]||0x5,_0x4d6fe6[_0xe2658a(0x236)]=_0xe2658a(0x2c5)!=typeof _0x1087a5[_0xe2658a(0x263)]||_0x1087a5[_0xe2658a(0x263)],_0x4d6fe6[_0xe2658a(0x1dd)]=_0x1087a5[_0xe2658a(0x820)]||0x1,_0x4d6fe6['_sprite']=_0x1087a5[_0xe2658a(0x74c)]||{},_0x4d6fe6[_0xe2658a(0x501)]=_0xe2658a(0x4c7)!=typeof _0x1087a5['src']?_0x1087a5[_0xe2658a(0x608)]:[_0x1087a5[_0xe2658a(0x608)]],_0x4d6fe6[_0xe2658a(0x28c)]=void 0x0!==_0x1087a5['volume']?_0x1087a5[_0xe2658a(0x6c6)]:0x1,_0x4d6fe6['_xhrWithCredentials']=_0x1087a5['xhrWithCredentials']||!0x1,_0x4d6fe6['_duration']=0x0,_0x4d6fe6[_0xe2658a(0x7a8)]=_0xe2658a(0x79a),_0x4d6fe6['_sounds']=[],_0x4d6fe6[_0xe2658a(0x3ae)]={},_0x4d6fe6[_0xe2658a(0x6d6)]=[],_0x4d6fe6[_0xe2658a(0x66f)]=!0x1,_0x4d6fe6[_0xe2658a(0x564)]=_0x1087a5[_0xe2658a(0x87f)]?[{'fn':_0x1087a5['onend']}]:[],_0x4d6fe6[_0xe2658a(0x2cb)]=_0x1087a5[_0xe2658a(0x257)]?[{'fn':_0x1087a5[_0xe2658a(0x257)]}]:[],_0x4d6fe6[_0xe2658a(0x241)]=_0x1087a5[_0xe2658a(0x6dc)]?[{'fn':_0x1087a5[_0xe2658a(0x6dc)]}]:[],_0x4d6fe6['_onloaderror']=_0x1087a5['onloaderror']?[{'fn':_0x1087a5[_0xe2658a(0x5ae)]}]:[],_0x4d6fe6[_0xe2658a(0x3fe)]=_0x1087a5[_0xe2658a(0x484)]?[{'fn':_0x1087a5['onplayerror']}]:[],_0x4d6fe6[_0xe2658a(0x7be)]=_0x1087a5[_0xe2658a(0x2cc)]?[{'fn':_0x1087a5[_0xe2658a(0x2cc)]}]:[],_0x4d6fe6['_onpause']=_0x1087a5[_0xe2658a(0x7c8)]?[{'fn':_0x1087a5[_0xe2658a(0x7c8)]}]:[],_0x4d6fe6[_0xe2658a(0x82b)]=_0x1087a5[_0xe2658a(0x4fc)]?[{'fn':_0x1087a5[_0xe2658a(0x4fc)]}]:[],_0x4d6fe6[_0xe2658a(0x396)]=_0x1087a5[_0xe2658a(0x662)]?[{'fn':_0x1087a5[_0xe2658a(0x662)]}]:[],_0x4d6fe6[_0xe2658a(0x684)]=_0x1087a5['onmute']?[{'fn':_0x1087a5['onmute']}]:[],_0x4d6fe6[_0xe2658a(0x663)]=_0x1087a5[_0xe2658a(0x7ad)]?[{'fn':_0x1087a5[_0xe2658a(0x7ad)]}]:[],_0x4d6fe6[_0xe2658a(0x2bf)]=_0x1087a5[_0xe2658a(0x703)]?[{'fn':_0x1087a5[_0xe2658a(0x703)]}]:[],_0x4d6fe6[_0xe2658a(0x382)]=_0x1087a5['onseek']?[{'fn':_0x1087a5[_0xe2658a(0x5ff)]}]:[],_0x4d6fe6[_0xe2658a(0x8cc)]=_0x1087a5[_0xe2658a(0x559)]?[{'fn':_0x1087a5[_0xe2658a(0x559)]}]:[],_0x4d6fe6['_onresume']=[],_0x4d6fe6[_0xe2658a(0x7c4)]=_0x1943db[_0xe2658a(0x474)]&&!_0x4d6fe6['_html5'],void 0x0!==_0x1943db[_0xe2658a(0x575)]&&_0x1943db[_0xe2658a(0x575)]&&_0x1943db[_0xe2658a(0x716)]&&_0x1943db[_0xe2658a(0x56c)](),_0x1943db[_0xe2658a(0x7ba)][_0xe2658a(0x72a)](_0x4d6fe6),_0x4d6fe6[_0xe2658a(0x2a1)]&&_0x4d6fe6['_queue'][_0xe2658a(0x72a)]({'event':'play','action':function(){var _0x17178b=_0xe2658a;_0x4d6fe6[_0x17178b(0x64a)]();}}),_0x4d6fe6['_preload']&&_0x4d6fe6[_0xe2658a(0x2eb)](),_0x4d6fe6;},'load':function(){var _0x2e7b76=_0x473b,_0x15e18e=this,_0x1fccb5=null;if(!_0x1943db[_0x2e7b76(0x3db)]){'string'==typeof _0x15e18e[_0x2e7b76(0x501)]&&(_0x15e18e[_0x2e7b76(0x501)]=[_0x15e18e[_0x2e7b76(0x501)]]);for(var _0x517fe9=0x0;_0x517fe9<_0x15e18e[_0x2e7b76(0x501)][_0x2e7b76(0x7d4)];_0x517fe9++){var _0x63846b,_0x19229e;if(_0x15e18e[_0x2e7b76(0x4e7)]&&_0x15e18e[_0x2e7b76(0x4e7)][_0x517fe9])_0x63846b=_0x15e18e[_0x2e7b76(0x4e7)][_0x517fe9];else{if(_0x2e7b76(0x4c7)!=typeof(_0x19229e=_0x15e18e[_0x2e7b76(0x501)][_0x517fe9])){_0x15e18e[_0x2e7b76(0x2f7)]('loaderror',null,_0x2e7b76(0x598));continue;}(_0x63846b=/^data:audio\/([^;,]+);/i['exec'](_0x19229e))||(_0x63846b=/\.([^.]+)$/['exec'](_0x19229e[_0x2e7b76(0x277)]('?',0x1)[0x0])),_0x63846b&&(_0x63846b=_0x63846b[0x1]['toLowerCase']());}if(_0x63846b&&_0x1943db[_0x2e7b76(0x4b6)](_0x63846b)){_0x1fccb5=_0x15e18e[_0x2e7b76(0x501)][_0x517fe9];break;}}return _0x1fccb5?(_0x15e18e['_src']=_0x1fccb5,_0x15e18e['_state']=_0x2e7b76(0x5ab),'https:'===window[_0x2e7b76(0x776)][_0x2e7b76(0x649)]&&'http:'===_0x1fccb5[_0x2e7b76(0x491)](0x0,0x5)&&(_0x15e18e['_html5']=!0x0,_0x15e18e[_0x2e7b76(0x7c4)]=!0x1),new _0x33369c(_0x15e18e),_0x15e18e['_webAudio']&&_0x297890(_0x15e18e),_0x15e18e):void _0x15e18e['_emit'](_0x2e7b76(0x2b3),null,_0x2e7b76(0x711));}_0x15e18e[_0x2e7b76(0x2f7)]('loaderror',null,_0x2e7b76(0x8fe));},'play':function(_0x163eb7,_0x25e652){var _0x3a1737=_0x473b,_0x3f91c1=this,_0x30437f=null;if(_0x3a1737(0x3f7)==typeof _0x163eb7)_0x30437f=_0x163eb7,_0x163eb7=null;else{if('string'==typeof _0x163eb7&&_0x3a1737(0x5d0)===_0x3f91c1['_state']&&!_0x3f91c1[_0x3a1737(0x82c)][_0x163eb7])return null;if(void 0x0===_0x163eb7&&(_0x163eb7=_0x3a1737(0x634),!_0x3f91c1[_0x3a1737(0x66f)])){for(var _0x499f94=0x0,_0x36429e=0x0;_0x36429e<_0x3f91c1[_0x3a1737(0x783)]['length'];_0x36429e++)_0x3f91c1['_sounds'][_0x36429e][_0x3a1737(0x6cf)]&&!_0x3f91c1['_sounds'][_0x36429e][_0x3a1737(0x891)]&&(_0x499f94++,_0x30437f=_0x3f91c1[_0x3a1737(0x783)][_0x36429e][_0x3a1737(0x61e)]);0x1===_0x499f94?_0x163eb7=null:_0x30437f=null;}}var _0x16f788=_0x30437f?_0x3f91c1[_0x3a1737(0x2b2)](_0x30437f):_0x3f91c1[_0x3a1737(0x640)]();if(!_0x16f788)return null;if(_0x30437f&&!_0x163eb7&&(_0x163eb7=_0x16f788[_0x3a1737(0x82c)]||_0x3a1737(0x634)),_0x3a1737(0x5d0)!==_0x3f91c1[_0x3a1737(0x7a8)]){_0x16f788[_0x3a1737(0x82c)]=_0x163eb7,_0x16f788[_0x3a1737(0x891)]=!0x1;var _0x223d8f=_0x16f788[_0x3a1737(0x61e)];return _0x3f91c1[_0x3a1737(0x6d6)]['push']({'event':'play','action':function(){_0x3f91c1['play'](_0x223d8f);}}),_0x223d8f;}if(_0x30437f&&!_0x16f788['_paused'])return _0x25e652||_0x3f91c1['_loadQueue'](_0x3a1737(0x64a)),_0x16f788[_0x3a1737(0x61e)];_0x3f91c1[_0x3a1737(0x7c4)]&&_0x1943db['_autoResume']();var _0x1b89d3=Math[_0x3a1737(0x2d8)](0x0,_0x16f788[_0x3a1737(0x245)]>0x0?_0x16f788[_0x3a1737(0x245)]:_0x3f91c1['_sprite'][_0x163eb7][0x0]/0x3e8),_0x70252a=Math[_0x3a1737(0x2d8)](0x0,(_0x3f91c1[_0x3a1737(0x82c)][_0x163eb7][0x0]+_0x3f91c1[_0x3a1737(0x82c)][_0x163eb7][0x1])/0x3e8-_0x1b89d3),_0x2a155c=0x3e8*_0x70252a/Math[_0x3a1737(0x3cf)](_0x16f788[_0x3a1737(0x1dd)]),_0x135f60=_0x3f91c1[_0x3a1737(0x82c)][_0x163eb7][0x0]/0x3e8,_0x3942b8=(_0x3f91c1[_0x3a1737(0x82c)][_0x163eb7][0x0]+_0x3f91c1['_sprite'][_0x163eb7][0x1])/0x3e8,_0x1f4e11=!(!_0x16f788['_loop']&&!_0x3f91c1[_0x3a1737(0x82c)][_0x163eb7][0x2]);_0x16f788[_0x3a1737(0x82c)]=_0x163eb7,_0x16f788[_0x3a1737(0x891)]=!0x1;var _0x3f91c7=function(){var _0x23f4eb=_0x3a1737;_0x16f788['_paused']=!0x1,_0x16f788[_0x23f4eb(0x245)]=_0x1b89d3,_0x16f788[_0x23f4eb(0x286)]=_0x135f60,_0x16f788[_0x23f4eb(0x40c)]=_0x3942b8,_0x16f788[_0x23f4eb(0x585)]=_0x1f4e11;};if(!(_0x1b89d3>=_0x3942b8)){var _0x4ad788=_0x16f788[_0x3a1737(0x683)];if(_0x3f91c1[_0x3a1737(0x7c4)]){var _0x2d1316=function(){var _0x5a2436=_0x3a1737;_0x3f91c1[_0x5a2436(0x66f)]=!0x1,_0x3f91c7(),_0x3f91c1['_refreshBuffer'](_0x16f788);var _0x31f18a=_0x16f788[_0x5a2436(0x561)]||_0x3f91c1['_muted']?0x0:_0x16f788[_0x5a2436(0x28c)];_0x4ad788[_0x5a2436(0x238)][_0x5a2436(0x6a2)](_0x31f18a,_0x1943db[_0x5a2436(0x575)][_0x5a2436(0x713)]),_0x16f788[_0x5a2436(0x4b0)]=_0x1943db['ctx'][_0x5a2436(0x713)],void 0x0===_0x4ad788[_0x5a2436(0x200)][_0x5a2436(0x906)]?_0x16f788['_loop']?_0x4ad788[_0x5a2436(0x200)][_0x5a2436(0x70e)](0x0,_0x1b89d3,0x15180):_0x4ad788['bufferSource'][_0x5a2436(0x70e)](0x0,_0x1b89d3,_0x70252a):_0x16f788[_0x5a2436(0x585)]?_0x4ad788[_0x5a2436(0x200)]['start'](0x0,_0x1b89d3,0x15180):_0x4ad788[_0x5a2436(0x200)][_0x5a2436(0x906)](0x0,_0x1b89d3,_0x70252a),_0x2a155c!==0x1/0x0&&(_0x3f91c1[_0x5a2436(0x3ae)][_0x16f788[_0x5a2436(0x61e)]]=setTimeout(_0x3f91c1[_0x5a2436(0x891)]['bind'](_0x3f91c1,_0x16f788),_0x2a155c)),_0x25e652||setTimeout(function(){var _0x19962d=_0x5a2436;_0x3f91c1['_emit']('play',_0x16f788[_0x19962d(0x61e)]),_0x3f91c1['_loadQueue']();},0x0);};_0x3a1737(0x5b1)===_0x1943db[_0x3a1737(0x4ee)]?_0x2d1316():(_0x3f91c1[_0x3a1737(0x66f)]=!0x0,_0x3f91c1[_0x3a1737(0x801)](_0x3a1737(0x28b),_0x2d1316),_0x3f91c1[_0x3a1737(0x710)](_0x16f788[_0x3a1737(0x61e)]));}else{var _0x39ed4f=function(){var _0x775f0d=_0x3a1737;_0x4ad788[_0x775f0d(0x713)]=_0x1b89d3,_0x4ad788[_0x775f0d(0x828)]=_0x16f788[_0x775f0d(0x561)]||_0x3f91c1[_0x775f0d(0x561)]||_0x1943db[_0x775f0d(0x561)]||_0x4ad788['muted'],_0x4ad788[_0x775f0d(0x6c6)]=_0x16f788['_volume']*_0x1943db['volume'](),_0x4ad788[_0x775f0d(0x67d)]=_0x16f788[_0x775f0d(0x1dd)];try{var _0x31df54=_0x4ad788[_0x775f0d(0x64a)]();if(_0x31df54&&'undefined'!=typeof Promise&&(_0x31df54 instanceof Promise||_0x775f0d(0x29a)==typeof _0x31df54[_0x775f0d(0x7a2)])?(_0x3f91c1['_playLock']=!0x0,_0x3f91c7(),_0x31df54['then'](function(){var _0x40b8db=_0x775f0d;_0x3f91c1[_0x40b8db(0x66f)]=!0x1,_0x4ad788[_0x40b8db(0x476)]=!0x0,_0x25e652||(_0x3f91c1[_0x40b8db(0x2f7)](_0x40b8db(0x64a),_0x16f788[_0x40b8db(0x61e)]),_0x3f91c1[_0x40b8db(0x31e)]());})[_0x775f0d(0x215)](function(){var _0xbfa54f=_0x775f0d;_0x3f91c1[_0xbfa54f(0x66f)]=!0x1,_0x3f91c1[_0xbfa54f(0x2f7)](_0xbfa54f(0x851),_0x16f788[_0xbfa54f(0x61e)],_0xbfa54f(0x92c)),_0x16f788['_ended']=!0x0,_0x16f788[_0xbfa54f(0x6cf)]=!0x0;})):_0x25e652||(_0x3f91c1['_playLock']=!0x1,_0x3f91c7(),_0x3f91c1[_0x775f0d(0x2f7)](_0x775f0d(0x64a),_0x16f788[_0x775f0d(0x61e)]),_0x3f91c1['_loadQueue']()),_0x4ad788[_0x775f0d(0x67d)]=_0x16f788[_0x775f0d(0x1dd)],_0x4ad788[_0x775f0d(0x42c)])return void _0x3f91c1[_0x775f0d(0x2f7)](_0x775f0d(0x851),_0x16f788['_id'],_0x775f0d(0x92c));_0x775f0d(0x634)!==_0x163eb7||_0x16f788[_0x775f0d(0x585)]?_0x3f91c1[_0x775f0d(0x3ae)][_0x16f788['_id']]=setTimeout(_0x3f91c1[_0x775f0d(0x891)][_0x775f0d(0x858)](_0x3f91c1,_0x16f788),_0x2a155c):(_0x3f91c1[_0x775f0d(0x3ae)][_0x16f788[_0x775f0d(0x61e)]]=function(){var _0x28558f=_0x775f0d;_0x3f91c1[_0x28558f(0x891)](_0x16f788),_0x4ad788[_0x28558f(0x87d)](_0x28558f(0x384),_0x3f91c1[_0x28558f(0x3ae)][_0x16f788['_id']],!0x1);},_0x4ad788[_0x775f0d(0x7b0)](_0x775f0d(0x384),_0x3f91c1[_0x775f0d(0x3ae)][_0x16f788[_0x775f0d(0x61e)]],!0x1));}catch(_0x678475){_0x3f91c1[_0x775f0d(0x2f7)](_0x775f0d(0x851),_0x16f788[_0x775f0d(0x61e)],_0x678475);}};'data:audio/wav;base64,UklGRigAAABXQVZFZm10IBIAAAABAAEARKwAAIhYAQACABAAAABkYXRhAgAAAAEA'===_0x4ad788[_0x3a1737(0x608)]&&(_0x4ad788['src']=_0x3f91c1['_src'],_0x4ad788[_0x3a1737(0x2eb)]());var _0x4fdb92=window&&window[_0x3a1737(0x830)]||!_0x4ad788[_0x3a1737(0x36c)]&&_0x1943db['_navigator'][_0x3a1737(0x864)];if(_0x4ad788[_0x3a1737(0x36c)]>=0x3||_0x4fdb92)_0x39ed4f();else{_0x3f91c1[_0x3a1737(0x66f)]=!0x0;var _0x2569fb=function(){var _0x3da385=_0x3a1737;_0x39ed4f(),_0x4ad788[_0x3da385(0x87d)](_0x1943db['_canPlayEvent'],_0x2569fb,!0x1);};_0x4ad788['addEventListener'](_0x1943db[_0x3a1737(0x37b)],_0x2569fb,!0x1),_0x3f91c1[_0x3a1737(0x710)](_0x16f788['_id']);}}return _0x16f788[_0x3a1737(0x61e)];}_0x3f91c1[_0x3a1737(0x891)](_0x16f788);},'pause':function(_0x5aa93b){var _0x935687=_0x473b,_0x5bb8fc=this;if(_0x935687(0x5d0)!==_0x5bb8fc[_0x935687(0x7a8)]||_0x5bb8fc[_0x935687(0x66f)])return _0x5bb8fc[_0x935687(0x6d6)]['push']({'event':_0x935687(0x85e),'action':function(){var _0x277c93=_0x935687;_0x5bb8fc[_0x277c93(0x85e)](_0x5aa93b);}}),_0x5bb8fc;for(var _0x1303be=_0x5bb8fc[_0x935687(0x2cd)](_0x5aa93b),_0x39d664=0x0;_0x39d664<_0x1303be[_0x935687(0x7d4)];_0x39d664++){_0x5bb8fc[_0x935687(0x710)](_0x1303be[_0x39d664]);var _0x4aa5a9=_0x5bb8fc[_0x935687(0x2b2)](_0x1303be[_0x39d664]);if(_0x4aa5a9&&!_0x4aa5a9[_0x935687(0x6cf)]&&(_0x4aa5a9[_0x935687(0x245)]=_0x5bb8fc[_0x935687(0x354)](_0x1303be[_0x39d664]),_0x4aa5a9[_0x935687(0x92e)]=0x0,_0x4aa5a9[_0x935687(0x6cf)]=!0x0,_0x5bb8fc[_0x935687(0x59f)](_0x1303be[_0x39d664]),_0x4aa5a9[_0x935687(0x683)])){if(_0x5bb8fc[_0x935687(0x7c4)]){if(!_0x4aa5a9[_0x935687(0x683)][_0x935687(0x200)])continue;void 0x0===_0x4aa5a9[_0x935687(0x683)][_0x935687(0x200)][_0x935687(0x938)]?_0x4aa5a9[_0x935687(0x683)][_0x935687(0x200)][_0x935687(0x853)](0x0):_0x4aa5a9[_0x935687(0x683)]['bufferSource'][_0x935687(0x938)](0x0),_0x5bb8fc[_0x935687(0x261)](_0x4aa5a9[_0x935687(0x683)]);}else isNaN(_0x4aa5a9['_node'][_0x935687(0x39e)])&&_0x4aa5a9[_0x935687(0x683)][_0x935687(0x39e)]!==0x1/0x0||_0x4aa5a9[_0x935687(0x683)][_0x935687(0x85e)]();}arguments[0x1]||_0x5bb8fc[_0x935687(0x2f7)](_0x935687(0x85e),_0x4aa5a9?_0x4aa5a9['_id']:null);}return _0x5bb8fc;},'stop':function(_0x41708c,_0x40a5a8){var _0x4f4e27=_0x473b,_0x3467db=this;if(_0x4f4e27(0x5d0)!==_0x3467db[_0x4f4e27(0x7a8)]||_0x3467db['_playLock'])return _0x3467db['_queue'][_0x4f4e27(0x72a)]({'event':_0x4f4e27(0x938),'action':function(){var _0x4817fc=_0x4f4e27;_0x3467db[_0x4817fc(0x938)](_0x41708c);}}),_0x3467db;for(var _0x3d3827=_0x3467db[_0x4f4e27(0x2cd)](_0x41708c),_0x29dc18=0x0;_0x29dc18<_0x3d3827[_0x4f4e27(0x7d4)];_0x29dc18++){_0x3467db[_0x4f4e27(0x710)](_0x3d3827[_0x29dc18]);var _0x3057bf=_0x3467db['_soundById'](_0x3d3827[_0x29dc18]);_0x3057bf&&(_0x3057bf[_0x4f4e27(0x245)]=_0x3057bf[_0x4f4e27(0x286)]||0x0,_0x3057bf[_0x4f4e27(0x92e)]=0x0,_0x3057bf[_0x4f4e27(0x6cf)]=!0x0,_0x3057bf[_0x4f4e27(0x891)]=!0x0,_0x3467db[_0x4f4e27(0x59f)](_0x3d3827[_0x29dc18]),_0x3057bf[_0x4f4e27(0x683)]&&(_0x3467db[_0x4f4e27(0x7c4)]?_0x3057bf['_node']['bufferSource']&&(void 0x0===_0x3057bf[_0x4f4e27(0x683)]['bufferSource'][_0x4f4e27(0x938)]?_0x3057bf[_0x4f4e27(0x683)]['bufferSource'][_0x4f4e27(0x853)](0x0):_0x3057bf['_node'][_0x4f4e27(0x200)]['stop'](0x0),_0x3467db[_0x4f4e27(0x261)](_0x3057bf[_0x4f4e27(0x683)])):isNaN(_0x3057bf[_0x4f4e27(0x683)][_0x4f4e27(0x39e)])&&_0x3057bf[_0x4f4e27(0x683)][_0x4f4e27(0x39e)]!==0x1/0x0||(_0x3057bf['_node'][_0x4f4e27(0x713)]=_0x3057bf[_0x4f4e27(0x286)]||0x0,_0x3057bf['_node'][_0x4f4e27(0x85e)](),_0x3057bf['_node']['duration']===0x1/0x0&&_0x3467db[_0x4f4e27(0x3a7)](_0x3057bf[_0x4f4e27(0x683)]))),_0x40a5a8||_0x3467db[_0x4f4e27(0x2f7)](_0x4f4e27(0x938),_0x3057bf[_0x4f4e27(0x61e)]));}return _0x3467db;},'mute':function(_0x39170e,_0x406525){var _0xc8f1d1=_0x473b,_0x15035c=this;if(_0xc8f1d1(0x5d0)!==_0x15035c[_0xc8f1d1(0x7a8)]||_0x15035c['_playLock'])return _0x15035c[_0xc8f1d1(0x6d6)][_0xc8f1d1(0x72a)]({'event':'mute','action':function(){var _0x41caf6=_0xc8f1d1;_0x15035c[_0x41caf6(0x7dc)](_0x39170e,_0x406525);}}),_0x15035c;if(void 0x0===_0x406525){if('boolean'!=typeof _0x39170e)return _0x15035c[_0xc8f1d1(0x561)];_0x15035c['_muted']=_0x39170e;}for(var _0x41e885=_0x15035c[_0xc8f1d1(0x2cd)](_0x406525),_0xcd8f1b=0x0;_0xcd8f1b<_0x41e885[_0xc8f1d1(0x7d4)];_0xcd8f1b++){var _0x45c210=_0x15035c[_0xc8f1d1(0x2b2)](_0x41e885[_0xcd8f1b]);_0x45c210&&(_0x45c210[_0xc8f1d1(0x561)]=_0x39170e,_0x45c210['_interval']&&_0x15035c['_stopFade'](_0x45c210['_id']),_0x15035c['_webAudio']&&_0x45c210[_0xc8f1d1(0x683)]?_0x45c210[_0xc8f1d1(0x683)]['gain'][_0xc8f1d1(0x6a2)](_0x39170e?0x0:_0x45c210['_volume'],_0x1943db[_0xc8f1d1(0x575)][_0xc8f1d1(0x713)]):_0x45c210[_0xc8f1d1(0x683)]&&(_0x45c210[_0xc8f1d1(0x683)]['muted']=!!_0x1943db[_0xc8f1d1(0x561)]||_0x39170e),_0x15035c[_0xc8f1d1(0x2f7)](_0xc8f1d1(0x7dc),_0x45c210[_0xc8f1d1(0x61e)]));}return _0x15035c;},'volume':function(){var _0x394489=_0x473b,_0x6ce54b,_0x16bf0b,_0x2a1fb6,_0x11f0dc=this,_0x58c1f2=arguments;if(0x0===_0x58c1f2['length'])return _0x11f0dc[_0x394489(0x28c)];if(0x1===_0x58c1f2[_0x394489(0x7d4)]||0x2===_0x58c1f2[_0x394489(0x7d4)]&&void 0x0===_0x58c1f2[0x1]?_0x11f0dc[_0x394489(0x2cd)]()[_0x394489(0x4d9)](_0x58c1f2[0x0])>=0x0?_0x16bf0b=parseInt(_0x58c1f2[0x0],0xa):_0x6ce54b=parseFloat(_0x58c1f2[0x0]):_0x58c1f2[_0x394489(0x7d4)]>=0x2&&(_0x6ce54b=parseFloat(_0x58c1f2[0x0]),_0x16bf0b=parseInt(_0x58c1f2[0x1],0xa)),!(void 0x0!==_0x6ce54b&&_0x6ce54b>=0x0&&_0x6ce54b<=0x1))return(_0x2a1fb6=_0x16bf0b?_0x11f0dc[_0x394489(0x2b2)](_0x16bf0b):_0x11f0dc[_0x394489(0x783)][0x0])?_0x2a1fb6[_0x394489(0x28c)]:0x0;if('loaded'!==_0x11f0dc[_0x394489(0x7a8)]||_0x11f0dc[_0x394489(0x66f)])return _0x11f0dc[_0x394489(0x6d6)]['push']({'event':_0x394489(0x6c6),'action':function(){var _0x40cc26=_0x394489;_0x11f0dc[_0x40cc26(0x6c6)][_0x40cc26(0x387)](_0x11f0dc,_0x58c1f2);}}),_0x11f0dc;void 0x0===_0x16bf0b&&(_0x11f0dc['_volume']=_0x6ce54b),_0x16bf0b=_0x11f0dc[_0x394489(0x2cd)](_0x16bf0b);for(var _0x475e31=0x0;_0x475e31<_0x16bf0b['length'];_0x475e31++)(_0x2a1fb6=_0x11f0dc['_soundById'](_0x16bf0b[_0x475e31]))&&(_0x2a1fb6[_0x394489(0x28c)]=_0x6ce54b,_0x58c1f2[0x2]||_0x11f0dc[_0x394489(0x59f)](_0x16bf0b[_0x475e31]),_0x11f0dc[_0x394489(0x7c4)]&&_0x2a1fb6[_0x394489(0x683)]&&!_0x2a1fb6[_0x394489(0x561)]?_0x2a1fb6[_0x394489(0x683)][_0x394489(0x238)][_0x394489(0x6a2)](_0x6ce54b,_0x1943db[_0x394489(0x575)][_0x394489(0x713)]):_0x2a1fb6[_0x394489(0x683)]&&!_0x2a1fb6[_0x394489(0x561)]&&(_0x2a1fb6[_0x394489(0x683)][_0x394489(0x6c6)]=_0x6ce54b*_0x1943db['volume']()),_0x11f0dc['_emit'](_0x394489(0x6c6),_0x2a1fb6[_0x394489(0x61e)]));return _0x11f0dc;},'fade':function(_0x22fbd7,_0x2fcf2a,_0x27ad01,_0x18d432){var _0x4b6e5=_0x473b,_0x349716=this;if(_0x4b6e5(0x5d0)!==_0x349716[_0x4b6e5(0x7a8)]||_0x349716[_0x4b6e5(0x66f)])return _0x349716[_0x4b6e5(0x6d6)][_0x4b6e5(0x72a)]({'event':'fade','action':function(){_0x349716['fade'](_0x22fbd7,_0x2fcf2a,_0x27ad01,_0x18d432);}}),_0x349716;_0x22fbd7=parseFloat(_0x22fbd7),_0x2fcf2a=parseFloat(_0x2fcf2a),_0x27ad01=parseFloat(_0x27ad01),_0x349716['volume'](_0x22fbd7,_0x18d432);for(var _0xa15445=_0x349716['_getSoundIds'](_0x18d432),_0x5ca670=0x0;_0x5ca670<_0xa15445[_0x4b6e5(0x7d4)];_0x5ca670++){var _0x4a81fd=_0x349716[_0x4b6e5(0x2b2)](_0xa15445[_0x5ca670]);if(_0x4a81fd){if(_0x18d432||_0x349716[_0x4b6e5(0x59f)](_0xa15445[_0x5ca670]),_0x349716[_0x4b6e5(0x7c4)]&&!_0x4a81fd[_0x4b6e5(0x561)]){var _0x275a7d=_0x1943db[_0x4b6e5(0x575)]['currentTime'],_0x1d0570=_0x275a7d+_0x27ad01/0x3e8;_0x4a81fd[_0x4b6e5(0x28c)]=_0x22fbd7,_0x4a81fd[_0x4b6e5(0x683)][_0x4b6e5(0x238)][_0x4b6e5(0x6a2)](_0x22fbd7,_0x275a7d),_0x4a81fd[_0x4b6e5(0x683)][_0x4b6e5(0x238)][_0x4b6e5(0x7bd)](_0x2fcf2a,_0x1d0570);}_0x349716[_0x4b6e5(0x6b6)](_0x4a81fd,_0x22fbd7,_0x2fcf2a,_0x27ad01,_0xa15445[_0x5ca670],void 0x0===_0x18d432);}}return _0x349716;},'_startFadeInterval':function(_0x20a29a,_0x138284,_0x23ff2d,_0x4eb670,_0x50a6ad,_0x28d9a4){var _0x493c1d=_0x473b,_0x5457e0=this,_0x12e0d4=_0x138284,_0x307001=_0x23ff2d-_0x138284,_0x76b437=Math[_0x493c1d(0x3cf)](_0x307001/0.01),_0x2b3627=Math[_0x493c1d(0x2d8)](0x4,_0x76b437>0x0?_0x4eb670/_0x76b437:_0x4eb670),_0x56e3e1=performance[_0x493c1d(0x2dd)]();_0x20a29a['_fadeTo']=_0x23ff2d,_0x20a29a[_0x493c1d(0x855)]=setInterval(function(){var _0x54ab11=_0x493c1d,_0x6aeb41=(performance[_0x54ab11(0x2dd)]()-_0x56e3e1)/_0x4eb670;_0x56e3e1=performance[_0x54ab11(0x2dd)](),_0x12e0d4+=_0x307001*_0x6aeb41,_0x12e0d4=Math[_0x54ab11(0x2d8)](0x0,_0x12e0d4),_0x12e0d4=Math[_0x54ab11(0x23f)](0x1,_0x12e0d4),_0x12e0d4=Math[_0x54ab11(0x2a7)](0x64*_0x12e0d4)/0x64,_0x5457e0[_0x54ab11(0x7c4)]?_0x20a29a[_0x54ab11(0x28c)]=_0x12e0d4:_0x5457e0[_0x54ab11(0x6c6)](_0x12e0d4,_0x20a29a[_0x54ab11(0x61e)],!0x0),_0x28d9a4&&(_0x5457e0[_0x54ab11(0x28c)]=_0x12e0d4),(_0x23ff2d<_0x138284&&_0x12e0d4<=_0x23ff2d||_0x23ff2d>_0x138284&&_0x12e0d4>=_0x23ff2d)&&(clearInterval(_0x20a29a['_interval']),_0x20a29a[_0x54ab11(0x855)]=null,_0x20a29a[_0x54ab11(0x52a)]=null,_0x5457e0[_0x54ab11(0x6c6)](_0x23ff2d,_0x20a29a['_id']),_0x5457e0['_emit'](_0x54ab11(0x42f),_0x20a29a[_0x54ab11(0x61e)]));},_0x2b3627);},'_stopFade':function(_0x3570ae){var _0x154abf=_0x473b,_0x2c7445=this,_0x4bf1ca=_0x2c7445['_soundById'](_0x3570ae);return _0x4bf1ca&&_0x4bf1ca[_0x154abf(0x855)]&&(_0x2c7445[_0x154abf(0x7c4)]&&_0x4bf1ca[_0x154abf(0x683)]['gain']['cancelScheduledValues'](_0x1943db[_0x154abf(0x575)][_0x154abf(0x713)]),clearInterval(_0x4bf1ca[_0x154abf(0x855)]),_0x4bf1ca[_0x154abf(0x855)]=null,_0x2c7445[_0x154abf(0x6c6)](_0x4bf1ca[_0x154abf(0x52a)],_0x3570ae),_0x4bf1ca[_0x154abf(0x52a)]=null,_0x2c7445[_0x154abf(0x2f7)](_0x154abf(0x42f),_0x3570ae)),_0x2c7445;},'loop':function(){var _0x1a2d96=_0x473b,_0x5ce85a,_0x3b4515,_0x3fa8cc,_0x39eac3=this,_0x3d796c=arguments;if(0x0===_0x3d796c[_0x1a2d96(0x7d4)])return _0x39eac3[_0x1a2d96(0x585)];if(0x1===_0x3d796c['length']){if(_0x1a2d96(0x2c5)!=typeof _0x3d796c[0x0])return!!(_0x3fa8cc=_0x39eac3[_0x1a2d96(0x2b2)](parseInt(_0x3d796c[0x0],0xa)))&&_0x3fa8cc[_0x1a2d96(0x585)];_0x5ce85a=_0x3d796c[0x0],_0x39eac3[_0x1a2d96(0x585)]=_0x5ce85a;}else 0x2===_0x3d796c[_0x1a2d96(0x7d4)]&&(_0x5ce85a=_0x3d796c[0x0],_0x3b4515=parseInt(_0x3d796c[0x1],0xa));for(var _0x364119=_0x39eac3[_0x1a2d96(0x2cd)](_0x3b4515),_0x4aad8d=0x0;_0x4aad8d<_0x364119[_0x1a2d96(0x7d4)];_0x4aad8d++)(_0x3fa8cc=_0x39eac3['_soundById'](_0x364119[_0x4aad8d]))&&(_0x3fa8cc[_0x1a2d96(0x585)]=_0x5ce85a,_0x39eac3[_0x1a2d96(0x7c4)]&&_0x3fa8cc[_0x1a2d96(0x683)]&&_0x3fa8cc[_0x1a2d96(0x683)][_0x1a2d96(0x200)]&&(_0x3fa8cc[_0x1a2d96(0x683)][_0x1a2d96(0x200)][_0x1a2d96(0x5ec)]=_0x5ce85a,_0x5ce85a&&(_0x3fa8cc[_0x1a2d96(0x683)][_0x1a2d96(0x200)][_0x1a2d96(0x3e3)]=_0x3fa8cc[_0x1a2d96(0x286)]||0x0,_0x3fa8cc[_0x1a2d96(0x683)][_0x1a2d96(0x200)][_0x1a2d96(0x3a9)]=_0x3fa8cc[_0x1a2d96(0x40c)])));return _0x39eac3;},'rate':function(){var _0x5423ed=_0x473b,_0x42569a,_0x2c5f8f,_0x16ed59,_0x3046d8=this,_0x2087af=arguments;if(0x0===_0x2087af['length'])_0x2c5f8f=_0x3046d8[_0x5423ed(0x783)][0x0][_0x5423ed(0x61e)];else{if(0x1===_0x2087af[_0x5423ed(0x7d4)]){var _0x50a6e1=_0x3046d8[_0x5423ed(0x2cd)](),_0x1aaec5=_0x50a6e1['indexOf'](_0x2087af[0x0]);_0x1aaec5>=0x0?_0x2c5f8f=parseInt(_0x2087af[0x0],0xa):_0x42569a=parseFloat(_0x2087af[0x0]);}else 0x2===_0x2087af[_0x5423ed(0x7d4)]&&(_0x42569a=parseFloat(_0x2087af[0x0]),_0x2c5f8f=parseInt(_0x2087af[0x1],0xa));}if('number'!=typeof _0x42569a)return(_0x16ed59=_0x3046d8[_0x5423ed(0x2b2)](_0x2c5f8f))?_0x16ed59[_0x5423ed(0x1dd)]:_0x3046d8[_0x5423ed(0x1dd)];if(_0x5423ed(0x5d0)!==_0x3046d8[_0x5423ed(0x7a8)]||_0x3046d8['_playLock'])return _0x3046d8[_0x5423ed(0x6d6)]['push']({'event':'rate','action':function(){var _0x595b44=_0x5423ed;_0x3046d8['rate'][_0x595b44(0x387)](_0x3046d8,_0x2087af);}}),_0x3046d8;void 0x0===_0x2c5f8f&&(_0x3046d8[_0x5423ed(0x1dd)]=_0x42569a),_0x2c5f8f=_0x3046d8[_0x5423ed(0x2cd)](_0x2c5f8f);for(var _0xb65d15=0x0;_0xb65d15<_0x2c5f8f[_0x5423ed(0x7d4)];_0xb65d15++)if(_0x16ed59=_0x3046d8['_soundById'](_0x2c5f8f[_0xb65d15])){_0x3046d8[_0x5423ed(0x2a0)](_0x2c5f8f[_0xb65d15])&&(_0x16ed59[_0x5423ed(0x92e)]=_0x3046d8[_0x5423ed(0x354)](_0x2c5f8f[_0xb65d15]),_0x16ed59[_0x5423ed(0x4b0)]=_0x3046d8[_0x5423ed(0x7c4)]?_0x1943db[_0x5423ed(0x575)][_0x5423ed(0x713)]:_0x16ed59[_0x5423ed(0x4b0)]),_0x16ed59[_0x5423ed(0x1dd)]=_0x42569a,_0x3046d8[_0x5423ed(0x7c4)]&&_0x16ed59[_0x5423ed(0x683)]&&_0x16ed59[_0x5423ed(0x683)][_0x5423ed(0x200)]?_0x16ed59[_0x5423ed(0x683)]['bufferSource'][_0x5423ed(0x67d)][_0x5423ed(0x6a2)](_0x42569a,_0x1943db[_0x5423ed(0x575)]['currentTime']):_0x16ed59['_node']&&(_0x16ed59[_0x5423ed(0x683)][_0x5423ed(0x67d)]=_0x42569a);var _0x29e674=_0x3046d8[_0x5423ed(0x354)](_0x2c5f8f[_0xb65d15]),_0xc03715=(_0x3046d8[_0x5423ed(0x82c)][_0x16ed59[_0x5423ed(0x82c)]][0x0]+_0x3046d8[_0x5423ed(0x82c)][_0x16ed59['_sprite']][0x1])/0x3e8-_0x29e674,_0x571c8e=0x3e8*_0xc03715/Math[_0x5423ed(0x3cf)](_0x16ed59[_0x5423ed(0x1dd)]);!_0x3046d8[_0x5423ed(0x3ae)][_0x2c5f8f[_0xb65d15]]&&_0x16ed59[_0x5423ed(0x6cf)]||(_0x3046d8[_0x5423ed(0x710)](_0x2c5f8f[_0xb65d15]),_0x3046d8[_0x5423ed(0x3ae)][_0x2c5f8f[_0xb65d15]]=setTimeout(_0x3046d8[_0x5423ed(0x891)][_0x5423ed(0x858)](_0x3046d8,_0x16ed59),_0x571c8e)),_0x3046d8[_0x5423ed(0x2f7)](_0x5423ed(0x820),_0x16ed59[_0x5423ed(0x61e)]);}return _0x3046d8;},'seek':function(){var _0x3d9461=_0x473b,_0x57e253,_0x2063ee,_0x49e23f=this,_0x23585e=arguments;if(0x0===_0x23585e[_0x3d9461(0x7d4)])_0x2063ee=_0x49e23f[_0x3d9461(0x783)][0x0]['_id'];else{if(0x1===_0x23585e['length']){var _0x2229df=_0x49e23f[_0x3d9461(0x2cd)](),_0x1ffb3a=_0x2229df['indexOf'](_0x23585e[0x0]);_0x1ffb3a>=0x0?_0x2063ee=parseInt(_0x23585e[0x0],0xa):_0x49e23f['_sounds']['length']&&(_0x2063ee=_0x49e23f[_0x3d9461(0x783)][0x0][_0x3d9461(0x61e)],_0x57e253=parseFloat(_0x23585e[0x0]));}else 0x2===_0x23585e[_0x3d9461(0x7d4)]&&(_0x57e253=parseFloat(_0x23585e[0x0]),_0x2063ee=parseInt(_0x23585e[0x1],0xa));}if(void 0x0===_0x2063ee)return _0x49e23f;if('loaded'!==_0x49e23f['_state']||_0x49e23f['_playLock'])return _0x49e23f[_0x3d9461(0x6d6)][_0x3d9461(0x72a)]({'event':_0x3d9461(0x354),'action':function(){var _0xfea20a=_0x3d9461;_0x49e23f[_0xfea20a(0x354)]['apply'](_0x49e23f,_0x23585e);}}),_0x49e23f;var _0x34cb64=_0x49e23f[_0x3d9461(0x2b2)](_0x2063ee);if(_0x34cb64){if(!(_0x3d9461(0x3f7)==typeof _0x57e253&&_0x57e253>=0x0)){if(_0x49e23f[_0x3d9461(0x7c4)]){var _0x279f9f=_0x49e23f[_0x3d9461(0x2a0)](_0x2063ee)?_0x1943db[_0x3d9461(0x575)][_0x3d9461(0x713)]-_0x34cb64[_0x3d9461(0x4b0)]:0x0,_0x3e5717=_0x34cb64['_rateSeek']?_0x34cb64['_rateSeek']-_0x34cb64[_0x3d9461(0x245)]:0x0;return _0x34cb64[_0x3d9461(0x245)]+(_0x3e5717+_0x279f9f*Math['abs'](_0x34cb64['_rate']));}return _0x34cb64['_node'][_0x3d9461(0x713)];}var _0x1d9127=_0x49e23f[_0x3d9461(0x2a0)](_0x2063ee);_0x1d9127&&_0x49e23f['pause'](_0x2063ee,!0x0),_0x34cb64[_0x3d9461(0x245)]=_0x57e253,_0x34cb64[_0x3d9461(0x891)]=!0x1,_0x49e23f[_0x3d9461(0x710)](_0x2063ee),_0x49e23f[_0x3d9461(0x7c4)]||!_0x34cb64[_0x3d9461(0x683)]||isNaN(_0x34cb64['_node']['duration'])||(_0x34cb64['_node'][_0x3d9461(0x713)]=_0x57e253);var _0x5b22df=function(){var _0x146d84=_0x3d9461;_0x49e23f[_0x146d84(0x2f7)](_0x146d84(0x354),_0x2063ee),_0x1d9127&&_0x49e23f['play'](_0x2063ee,!0x0);};if(_0x1d9127&&!_0x49e23f[_0x3d9461(0x7c4)]){var _0x1d5bfe=function(){_0x49e23f['_playLock']?setTimeout(_0x1d5bfe,0x0):_0x5b22df();};setTimeout(_0x1d5bfe,0x0);}else _0x5b22df();}return _0x49e23f;},'playing':function(_0xa3a8d2){var _0x5cfc50=_0x473b,_0x22c14a=this;if(_0x5cfc50(0x3f7)==typeof _0xa3a8d2){var _0x410992=_0x22c14a[_0x5cfc50(0x2b2)](_0xa3a8d2);return!!_0x410992&&!_0x410992[_0x5cfc50(0x6cf)];}for(var _0x153c98=0x0;_0x153c98<_0x22c14a[_0x5cfc50(0x783)][_0x5cfc50(0x7d4)];_0x153c98++)if(!_0x22c14a[_0x5cfc50(0x783)][_0x153c98][_0x5cfc50(0x6cf)])return!0x0;return!0x1;},'duration':function(_0x336887){var _0x452e12=_0x473b,_0xbb3f81=this,_0x38a57d=_0xbb3f81['_duration'],_0x4723b6=_0xbb3f81[_0x452e12(0x2b2)](_0x336887);return _0x4723b6&&(_0x38a57d=_0xbb3f81[_0x452e12(0x82c)][_0x4723b6['_sprite']][0x1]/0x3e8),_0x38a57d;},'state':function(){return this['_state'];},'unload':function(){var _0x2594c9=_0x473b;for(var _0x425a22=this,_0x1b223b=_0x425a22[_0x2594c9(0x783)],_0x46a626=0x0;_0x46a626<_0x1b223b[_0x2594c9(0x7d4)];_0x46a626++)_0x1b223b[_0x46a626][_0x2594c9(0x6cf)]||_0x425a22['stop'](_0x1b223b[_0x46a626][_0x2594c9(0x61e)]),_0x425a22[_0x2594c9(0x7c4)]||(_0x425a22[_0x2594c9(0x3a7)](_0x1b223b[_0x46a626][_0x2594c9(0x683)]),_0x1b223b[_0x46a626][_0x2594c9(0x683)][_0x2594c9(0x87d)](_0x2594c9(0x41a),_0x1b223b[_0x46a626]['_errorFn'],!0x1),_0x1b223b[_0x46a626][_0x2594c9(0x683)]['removeEventListener'](_0x1943db[_0x2594c9(0x37b)],_0x1b223b[_0x46a626][_0x2594c9(0x319)],!0x1),_0x1943db['_releaseHtml5Audio'](_0x1b223b[_0x46a626][_0x2594c9(0x683)])),delete _0x1b223b[_0x46a626]['_node'],_0x425a22[_0x2594c9(0x710)](_0x1b223b[_0x46a626][_0x2594c9(0x61e)]);var _0x2ce200=_0x1943db[_0x2594c9(0x7ba)][_0x2594c9(0x4d9)](_0x425a22);_0x2ce200>=0x0&&_0x1943db[_0x2594c9(0x7ba)][_0x2594c9(0x665)](_0x2ce200,0x1);var _0xe92109=!0x0;for(_0x46a626=0x0;_0x46a626<_0x1943db['_howls'][_0x2594c9(0x7d4)];_0x46a626++)if(_0x1943db[_0x2594c9(0x7ba)][_0x46a626]['_src']===_0x425a22[_0x2594c9(0x501)]||_0x425a22[_0x2594c9(0x501)][_0x2594c9(0x4d9)](_0x1943db[_0x2594c9(0x7ba)][_0x46a626][_0x2594c9(0x501)])>=0x0){_0xe92109=!0x1;break;}return _0x1370b8&&_0xe92109&&delete _0x1370b8[_0x425a22[_0x2594c9(0x501)]],_0x1943db[_0x2594c9(0x3db)]=!0x1,_0x425a22[_0x2594c9(0x7a8)]='unloaded',_0x425a22[_0x2594c9(0x783)]=[],_0x425a22=null,null;},'on':function(_0x2cb974,_0x4e0e8f,_0x1802dd,_0x43565c){var _0x1886c2=_0x473b,_0x1de014=this[_0x1886c2(0x266)+_0x2cb974];return _0x1886c2(0x29a)==typeof _0x4e0e8f&&_0x1de014[_0x1886c2(0x72a)](_0x43565c?{'id':_0x1802dd,'fn':_0x4e0e8f,'once':_0x43565c}:{'id':_0x1802dd,'fn':_0x4e0e8f}),this;},'off':function(_0x3a32bc,_0x2391a6,_0x4c7380){var _0x5e0a97=_0x473b,_0x3f8723=this,_0x568360=_0x3f8723[_0x5e0a97(0x266)+_0x3a32bc],_0x52a5e5=0x0;if('number'==typeof _0x2391a6&&(_0x4c7380=_0x2391a6,_0x2391a6=null),_0x2391a6||_0x4c7380)for(_0x52a5e5=0x0;_0x52a5e5<_0x568360[_0x5e0a97(0x7d4)];_0x52a5e5++){var _0x359865=_0x4c7380===_0x568360[_0x52a5e5]['id'];if(_0x2391a6===_0x568360[_0x52a5e5]['fn']&&_0x359865||!_0x2391a6&&_0x359865){_0x568360[_0x5e0a97(0x665)](_0x52a5e5,0x1);break;}}else{if(_0x3a32bc)_0x3f8723[_0x5e0a97(0x266)+_0x3a32bc]=[];else{var _0x158673=Object[_0x5e0a97(0x2e5)](_0x3f8723);for(_0x52a5e5=0x0;_0x52a5e5<_0x158673[_0x5e0a97(0x7d4)];_0x52a5e5++)0x0===_0x158673[_0x52a5e5][_0x5e0a97(0x4d9)](_0x5e0a97(0x266))&&Array[_0x5e0a97(0x44c)](_0x3f8723[_0x158673[_0x52a5e5]])&&(_0x3f8723[_0x158673[_0x52a5e5]]=[]);}}return _0x3f8723;},'once':function(_0x4cec6f,_0x143fc8,_0x3c8f4a){return this['on'](_0x4cec6f,_0x143fc8,_0x3c8f4a,0x1),this;},'_emit':function(_0xcd9841,_0x50d0e4,_0x50d288){var _0x159c94=_0x473b;for(var _0x316f87=this,_0x2b7369=_0x316f87[_0x159c94(0x266)+_0xcd9841],_0x548175=_0x2b7369[_0x159c94(0x7d4)]-0x1;_0x548175>=0x0;_0x548175--)_0x2b7369[_0x548175]['id']&&_0x2b7369[_0x548175]['id']!==_0x50d0e4&&_0x159c94(0x2eb)!==_0xcd9841||(setTimeout(function(_0x2e2a88){var _0x3da4aa=_0x159c94;_0x2e2a88[_0x3da4aa(0x1de)](this,_0x50d0e4,_0x50d288);}[_0x159c94(0x858)](_0x316f87,_0x2b7369[_0x548175]['fn']),0x0),_0x2b7369[_0x548175][_0x159c94(0x801)]&&_0x316f87[_0x159c94(0x588)](_0xcd9841,_0x2b7369[_0x548175]['fn'],_0x2b7369[_0x548175]['id']));return _0x316f87['_loadQueue'](_0xcd9841),_0x316f87;},'_loadQueue':function(_0x1ee97f){var _0x1fc9da=_0x473b,_0x4970b4=this;if(_0x4970b4['_queue']['length']>0x0){var _0x1d86a1=_0x4970b4[_0x1fc9da(0x6d6)][0x0];_0x1d86a1[_0x1fc9da(0x6fd)]===_0x1ee97f&&(_0x4970b4[_0x1fc9da(0x6d6)][_0x1fc9da(0x1eb)](),_0x4970b4[_0x1fc9da(0x31e)]()),_0x1ee97f||_0x1d86a1[_0x1fc9da(0x7e6)]();}return _0x4970b4;},'_ended':function(_0x40608a){var _0x3c44e0=_0x473b,_0x4e6628=this,_0x167b30=_0x40608a[_0x3c44e0(0x82c)];if(!_0x4e6628[_0x3c44e0(0x7c4)]&&_0x40608a[_0x3c44e0(0x683)]&&!_0x40608a[_0x3c44e0(0x683)][_0x3c44e0(0x42c)]&&!_0x40608a[_0x3c44e0(0x683)][_0x3c44e0(0x384)]&&_0x40608a[_0x3c44e0(0x683)][_0x3c44e0(0x713)]<_0x40608a['_stop'])return setTimeout(_0x4e6628[_0x3c44e0(0x891)][_0x3c44e0(0x858)](_0x4e6628,_0x40608a),0x64),_0x4e6628;var _0x2001d5=!(!_0x40608a['_loop']&&!_0x4e6628[_0x3c44e0(0x82c)][_0x167b30][0x2]);if(_0x4e6628[_0x3c44e0(0x2f7)](_0x3c44e0(0x49b),_0x40608a[_0x3c44e0(0x61e)]),!_0x4e6628[_0x3c44e0(0x7c4)]&&_0x2001d5&&_0x4e6628[_0x3c44e0(0x938)](_0x40608a[_0x3c44e0(0x61e)],!0x0)[_0x3c44e0(0x64a)](_0x40608a[_0x3c44e0(0x61e)]),_0x4e6628[_0x3c44e0(0x7c4)]&&_0x2001d5){_0x4e6628['_emit'](_0x3c44e0(0x64a),_0x40608a[_0x3c44e0(0x61e)]),_0x40608a['_seek']=_0x40608a[_0x3c44e0(0x286)]||0x0,_0x40608a[_0x3c44e0(0x92e)]=0x0,_0x40608a[_0x3c44e0(0x4b0)]=_0x1943db[_0x3c44e0(0x575)][_0x3c44e0(0x713)];var _0x24fa14=0x3e8*(_0x40608a[_0x3c44e0(0x40c)]-_0x40608a[_0x3c44e0(0x286)])/Math['abs'](_0x40608a[_0x3c44e0(0x1dd)]);_0x4e6628[_0x3c44e0(0x3ae)][_0x40608a[_0x3c44e0(0x61e)]]=setTimeout(_0x4e6628[_0x3c44e0(0x891)]['bind'](_0x4e6628,_0x40608a),_0x24fa14);}return _0x4e6628[_0x3c44e0(0x7c4)]&&!_0x2001d5&&(_0x40608a[_0x3c44e0(0x6cf)]=!0x0,_0x40608a['_ended']=!0x0,_0x40608a['_seek']=_0x40608a[_0x3c44e0(0x286)]||0x0,_0x40608a[_0x3c44e0(0x92e)]=0x0,_0x4e6628[_0x3c44e0(0x710)](_0x40608a[_0x3c44e0(0x61e)]),_0x4e6628[_0x3c44e0(0x261)](_0x40608a['_node']),_0x1943db[_0x3c44e0(0x616)]()),_0x4e6628[_0x3c44e0(0x7c4)]||_0x2001d5||_0x4e6628['stop'](_0x40608a['_id'],!0x0),_0x4e6628;},'_clearTimer':function(_0x2106e6){var _0x272064=_0x473b,_0x201b45=this;if(_0x201b45[_0x272064(0x3ae)][_0x2106e6]){if('function'!=typeof _0x201b45[_0x272064(0x3ae)][_0x2106e6])clearTimeout(_0x201b45['_endTimers'][_0x2106e6]);else{var _0x4aa578=_0x201b45[_0x272064(0x2b2)](_0x2106e6);_0x4aa578&&_0x4aa578[_0x272064(0x683)]&&_0x4aa578[_0x272064(0x683)]['removeEventListener']('ended',_0x201b45[_0x272064(0x3ae)][_0x2106e6],!0x1);}delete _0x201b45['_endTimers'][_0x2106e6];}return _0x201b45;},'_soundById':function(_0x4f595b){var _0x47acc5=_0x473b;for(var _0x2460df=this,_0x37a2de=0x0;_0x37a2de<_0x2460df[_0x47acc5(0x783)]['length'];_0x37a2de++)if(_0x4f595b===_0x2460df['_sounds'][_0x37a2de][_0x47acc5(0x61e)])return _0x2460df[_0x47acc5(0x783)][_0x37a2de];return null;},'_inactiveSound':function(){var _0x388fe3=_0x473b,_0x3f480f=this;_0x3f480f[_0x388fe3(0x657)]();for(var _0x1d34ef=0x0;_0x1d34ef<_0x3f480f['_sounds']['length'];_0x1d34ef++)if(_0x3f480f['_sounds'][_0x1d34ef][_0x388fe3(0x891)])return _0x3f480f['_sounds'][_0x1d34ef][_0x388fe3(0x55f)]();return new _0x33369c(_0x3f480f);},'_drain':function(){var _0x1be703=_0x473b,_0x5cc5f4=this,_0x24c40f=_0x5cc5f4[_0x1be703(0x4c5)],_0x3da3b8=0x0,_0x19b6b7=0x0;if(!(_0x5cc5f4[_0x1be703(0x783)][_0x1be703(0x7d4)]<_0x24c40f)){for(_0x19b6b7=0x0;_0x19b6b7<_0x5cc5f4[_0x1be703(0x783)][_0x1be703(0x7d4)];_0x19b6b7++)_0x5cc5f4[_0x1be703(0x783)][_0x19b6b7]['_ended']&&_0x3da3b8++;for(_0x19b6b7=_0x5cc5f4['_sounds'][_0x1be703(0x7d4)]-0x1;_0x19b6b7>=0x0;_0x19b6b7--){if(_0x3da3b8<=_0x24c40f)return;_0x5cc5f4['_sounds'][_0x19b6b7]['_ended']&&(_0x5cc5f4[_0x1be703(0x7c4)]&&_0x5cc5f4['_sounds'][_0x19b6b7][_0x1be703(0x683)]&&_0x5cc5f4[_0x1be703(0x783)][_0x19b6b7][_0x1be703(0x683)]['disconnect'](0x0),_0x5cc5f4[_0x1be703(0x783)][_0x1be703(0x665)](_0x19b6b7,0x1),_0x3da3b8--);}}},'_getSoundIds':function(_0x57bdf2){var _0xb9db56=_0x473b;if(void 0x0===_0x57bdf2){for(var _0x5205cd=[],_0x442a04=0x0;_0x442a04<this[_0xb9db56(0x783)][_0xb9db56(0x7d4)];_0x442a04++)_0x5205cd[_0xb9db56(0x72a)](this['_sounds'][_0x442a04][_0xb9db56(0x61e)]);return _0x5205cd;}return[_0x57bdf2];},'_refreshBuffer':function(_0x20367c){var _0x21c31e=_0x473b;return _0x20367c[_0x21c31e(0x683)][_0x21c31e(0x200)]=_0x1943db[_0x21c31e(0x575)][_0x21c31e(0x537)](),_0x20367c[_0x21c31e(0x683)][_0x21c31e(0x200)][_0x21c31e(0x360)]=_0x1370b8[this['_src']],_0x20367c[_0x21c31e(0x297)]?_0x20367c[_0x21c31e(0x683)]['bufferSource'][_0x21c31e(0x4e4)](_0x20367c[_0x21c31e(0x297)]):_0x20367c[_0x21c31e(0x683)][_0x21c31e(0x200)][_0x21c31e(0x4e4)](_0x20367c[_0x21c31e(0x683)]),_0x20367c[_0x21c31e(0x683)][_0x21c31e(0x200)][_0x21c31e(0x5ec)]=_0x20367c[_0x21c31e(0x585)],_0x20367c['_loop']&&(_0x20367c[_0x21c31e(0x683)][_0x21c31e(0x200)][_0x21c31e(0x3e3)]=_0x20367c[_0x21c31e(0x286)]||0x0,_0x20367c['_node']['bufferSource'][_0x21c31e(0x3a9)]=_0x20367c[_0x21c31e(0x40c)]||0x0),_0x20367c[_0x21c31e(0x683)][_0x21c31e(0x200)][_0x21c31e(0x67d)][_0x21c31e(0x6a2)](_0x20367c[_0x21c31e(0x1dd)],_0x1943db[_0x21c31e(0x575)][_0x21c31e(0x713)]),this;},'_cleanBuffer':function(_0x11817b){var _0x1a9140=_0x473b,_0x5aa3c7=_0x1943db[_0x1a9140(0x3cc)]&&_0x1943db['_navigator'][_0x1a9140(0x322)][_0x1a9140(0x4d9)]('Apple')>=0x0;if(_0x1943db[_0x1a9140(0x71f)]&&_0x11817b[_0x1a9140(0x200)]&&(_0x11817b['bufferSource'][_0x1a9140(0x229)]=null,_0x11817b[_0x1a9140(0x200)][_0x1a9140(0x350)](0x0),_0x5aa3c7))try{_0x11817b['bufferSource'][_0x1a9140(0x360)]=_0x1943db['_scratchBuffer'];}catch(_0x4c120c){}return _0x11817b[_0x1a9140(0x200)]=null,this;},'_clearSound':function(_0x3eee30){var _0x396b1b=_0x473b;/MSIE |Trident\//[_0x396b1b(0x2d1)](_0x1943db[_0x396b1b(0x3cc)]&&_0x1943db[_0x396b1b(0x3cc)][_0x396b1b(0x273)])||(_0x3eee30['src']=_0x396b1b(0x371));}};var _0x33369c=function(_0xd5a00b){var _0x3af39a=_0x473b;this[_0x3af39a(0x214)]=_0xd5a00b,this['init']();};_0x33369c[_0x3f9d32(0x775)]={'init':function(){var _0x514675=_0x3f9d32,_0x4c09df=this,_0x16ae99=_0x4c09df[_0x514675(0x214)];return _0x4c09df[_0x514675(0x561)]=_0x16ae99[_0x514675(0x561)],_0x4c09df[_0x514675(0x585)]=_0x16ae99[_0x514675(0x585)],_0x4c09df[_0x514675(0x28c)]=_0x16ae99[_0x514675(0x28c)],_0x4c09df['_rate']=_0x16ae99[_0x514675(0x1dd)],_0x4c09df[_0x514675(0x245)]=0x0,_0x4c09df[_0x514675(0x6cf)]=!0x0,_0x4c09df[_0x514675(0x891)]=!0x0,_0x4c09df[_0x514675(0x82c)]=_0x514675(0x634),_0x4c09df[_0x514675(0x61e)]=++_0x1943db[_0x514675(0x6d9)],_0x16ae99[_0x514675(0x783)][_0x514675(0x72a)](_0x4c09df),_0x4c09df['create'](),_0x4c09df;},'create':function(){var _0x3b2a2d=_0x3f9d32,_0x4d2f9e=this,_0x48c597=_0x4d2f9e[_0x3b2a2d(0x214)],_0x4bf223=_0x1943db[_0x3b2a2d(0x561)]||_0x4d2f9e[_0x3b2a2d(0x561)]||_0x4d2f9e['_parent'][_0x3b2a2d(0x561)]?0x0:_0x4d2f9e['_volume'];return _0x48c597[_0x3b2a2d(0x7c4)]?(_0x4d2f9e['_node']=void 0x0===_0x1943db['ctx'][_0x3b2a2d(0x34b)]?_0x1943db[_0x3b2a2d(0x575)][_0x3b2a2d(0x290)]():_0x1943db['ctx'][_0x3b2a2d(0x34b)](),_0x4d2f9e[_0x3b2a2d(0x683)][_0x3b2a2d(0x238)]['setValueAtTime'](_0x4bf223,_0x1943db[_0x3b2a2d(0x575)][_0x3b2a2d(0x713)]),_0x4d2f9e[_0x3b2a2d(0x683)][_0x3b2a2d(0x42c)]=!0x0,_0x4d2f9e['_node'][_0x3b2a2d(0x4e4)](_0x1943db[_0x3b2a2d(0x1ef)])):(_0x4d2f9e[_0x3b2a2d(0x683)]=_0x1943db[_0x3b2a2d(0x541)](),_0x4d2f9e[_0x3b2a2d(0x2b6)]=_0x4d2f9e[_0x3b2a2d(0x672)][_0x3b2a2d(0x858)](_0x4d2f9e),_0x4d2f9e[_0x3b2a2d(0x683)][_0x3b2a2d(0x7b0)](_0x3b2a2d(0x41a),_0x4d2f9e['_errorFn'],!0x1),_0x4d2f9e[_0x3b2a2d(0x319)]=_0x4d2f9e[_0x3b2a2d(0x27f)]['bind'](_0x4d2f9e),_0x4d2f9e['_node'][_0x3b2a2d(0x7b0)](_0x1943db[_0x3b2a2d(0x37b)],_0x4d2f9e[_0x3b2a2d(0x319)],!0x1),_0x4d2f9e[_0x3b2a2d(0x683)][_0x3b2a2d(0x608)]=_0x48c597[_0x3b2a2d(0x501)],_0x4d2f9e['_node'][_0x3b2a2d(0x263)]=_0x3b2a2d(0x791),_0x4d2f9e['_node'][_0x3b2a2d(0x6c6)]=_0x4bf223*_0x1943db[_0x3b2a2d(0x6c6)](),_0x4d2f9e[_0x3b2a2d(0x683)][_0x3b2a2d(0x2eb)]()),_0x4d2f9e;},'reset':function(){var _0x4d0f77=_0x3f9d32,_0xa202da=this,_0x21a7c5=_0xa202da['_parent'];return _0xa202da[_0x4d0f77(0x561)]=_0x21a7c5['_muted'],_0xa202da['_loop']=_0x21a7c5[_0x4d0f77(0x585)],_0xa202da[_0x4d0f77(0x28c)]=_0x21a7c5[_0x4d0f77(0x28c)],_0xa202da[_0x4d0f77(0x1dd)]=_0x21a7c5[_0x4d0f77(0x1dd)],_0xa202da[_0x4d0f77(0x245)]=0x0,_0xa202da[_0x4d0f77(0x92e)]=0x0,_0xa202da['_paused']=!0x0,_0xa202da[_0x4d0f77(0x891)]=!0x0,_0xa202da['_sprite']=_0x4d0f77(0x634),_0xa202da[_0x4d0f77(0x61e)]=++_0x1943db[_0x4d0f77(0x6d9)],_0xa202da;},'_errorListener':function(){var _0x1126f1=_0x3f9d32,_0x4e3e3a=this;_0x4e3e3a[_0x1126f1(0x214)][_0x1126f1(0x2f7)](_0x1126f1(0x2b3),_0x4e3e3a[_0x1126f1(0x61e)],_0x4e3e3a[_0x1126f1(0x683)][_0x1126f1(0x41a)]?_0x4e3e3a[_0x1126f1(0x683)][_0x1126f1(0x41a)][_0x1126f1(0x65f)]:0x0),_0x4e3e3a[_0x1126f1(0x683)][_0x1126f1(0x87d)]('error',_0x4e3e3a[_0x1126f1(0x2b6)],!0x1);},'_loadListener':function(){var _0x56fb64=_0x3f9d32,_0x358e16=this,_0x3f0c88=_0x358e16[_0x56fb64(0x214)];_0x3f0c88[_0x56fb64(0x88e)]=Math[_0x56fb64(0x6a9)](0xa*_0x358e16[_0x56fb64(0x683)]['duration'])/0xa,0x0===Object['keys'](_0x3f0c88['_sprite'])[_0x56fb64(0x7d4)]&&(_0x3f0c88[_0x56fb64(0x82c)]={'__default':[0x0,0x3e8*_0x3f0c88['_duration']]}),_0x56fb64(0x5d0)!==_0x3f0c88[_0x56fb64(0x7a8)]&&(_0x3f0c88[_0x56fb64(0x7a8)]=_0x56fb64(0x5d0),_0x3f0c88['_emit']('load'),_0x3f0c88[_0x56fb64(0x31e)]()),_0x358e16[_0x56fb64(0x683)][_0x56fb64(0x87d)](_0x1943db['_canPlayEvent'],_0x358e16[_0x56fb64(0x319)],!0x1);}};var _0x1370b8={},_0x297890=function(_0x2d3d96){var _0x1db5c4=_0x3f9d32,_0x1ee258=_0x2d3d96['_src'];if(_0x1370b8[_0x1ee258])return _0x2d3d96[_0x1db5c4(0x88e)]=_0x1370b8[_0x1ee258]['duration'],void _0x349360(_0x2d3d96);if(/^data:[^;]+;base64,/[_0x1db5c4(0x2d1)](_0x1ee258)){for(var _0x21a58e=atob(_0x1ee258[_0x1db5c4(0x277)](',')[0x1]),_0x4aa32f=new Uint8Array(_0x21a58e[_0x1db5c4(0x7d4)]),_0x25ee22=0x0;_0x25ee22<_0x21a58e[_0x1db5c4(0x7d4)];++_0x25ee22)_0x4aa32f[_0x25ee22]=_0x21a58e['charCodeAt'](_0x25ee22);_0x32806d(_0x4aa32f['buffer'],_0x2d3d96);}else{var _0xd83e25=new XMLHttpRequest();_0xd83e25[_0x1db5c4(0x61d)](_0x1db5c4(0x372),_0x1ee258,!0x0),_0xd83e25[_0x1db5c4(0x7bc)]=_0x2d3d96[_0x1db5c4(0x336)],_0xd83e25['responseType']=_0x1db5c4(0x6fb),_0xd83e25[_0x1db5c4(0x6dc)]=function(){var _0x53de31=_0x1db5c4,_0x147a83=(_0xd83e25[_0x53de31(0x921)]+'')[0x0];'0'===_0x147a83||'2'===_0x147a83||'3'===_0x147a83?_0x32806d(_0xd83e25['response'],_0x2d3d96):_0x2d3d96['_emit'](_0x53de31(0x2b3),null,'Failed\x20loading\x20audio\x20file\x20with\x20status:\x20'+_0xd83e25['status']+'.');},_0xd83e25[_0x1db5c4(0x1ec)]=function(){var _0x25c699=_0x1db5c4;_0x2d3d96['_webAudio']&&(_0x2d3d96[_0x25c699(0x7bf)]=!0x0,_0x2d3d96[_0x25c699(0x7c4)]=!0x1,_0x2d3d96[_0x25c699(0x783)]=[],delete _0x1370b8[_0x1ee258],_0x2d3d96[_0x25c699(0x2eb)]());},_0x33699b(_0xd83e25),_0xd83e25[_0x1db5c4(0x3c5)]=function(_0x35e49f){var _0x2e127f=_0x1db5c4;_0x2d3d96[_0x2e127f(0x2f7)](_0x2e127f(0x728),_0x35e49f);};}},_0x33699b=function(_0x1456f5){var _0x40ab7a=_0x3f9d32;try{_0x1456f5[_0x40ab7a(0x1e1)]();}catch(_0x22b425){_0x1456f5[_0x40ab7a(0x1ec)]();}},_0x32806d=function(_0x2d8a9a,_0x38ce30){var _0xb42b08=_0x3f9d32,_0x16a8c2=function(){var _0x330eb1=_0x473b;_0x38ce30[_0x330eb1(0x2f7)](_0x330eb1(0x2b3),null,'Decoding\x20audio\x20data\x20failed.');},_0x153c76=function(_0x1b3f91){var _0x41d0e7=_0x473b;_0x1b3f91&&_0x38ce30['_sounds'][_0x41d0e7(0x7d4)]>0x0?(_0x1370b8[_0x38ce30['_src']]=_0x1b3f91,_0x349360(_0x38ce30,_0x1b3f91)):_0x16a8c2();};_0xb42b08(0x740)!=typeof Promise&&0x1===_0x1943db[_0xb42b08(0x575)][_0xb42b08(0x8f6)][_0xb42b08(0x7d4)]?_0x1943db[_0xb42b08(0x575)][_0xb42b08(0x8f6)](_0x2d8a9a)['then'](_0x153c76)['catch'](_0x16a8c2):_0x1943db['ctx'][_0xb42b08(0x8f6)](_0x2d8a9a,_0x153c76,_0x16a8c2);},_0x349360=function(_0x5d0bdd,_0x2e7d6d){var _0x254dc2=_0x3f9d32;_0x2e7d6d&&!_0x5d0bdd['_duration']&&(_0x5d0bdd['_duration']=_0x2e7d6d[_0x254dc2(0x39e)]),0x0===Object[_0x254dc2(0x2e5)](_0x5d0bdd[_0x254dc2(0x82c)])[_0x254dc2(0x7d4)]&&(_0x5d0bdd[_0x254dc2(0x82c)]={'__default':[0x0,0x3e8*_0x5d0bdd[_0x254dc2(0x88e)]]}),_0x254dc2(0x5d0)!==_0x5d0bdd[_0x254dc2(0x7a8)]&&(_0x5d0bdd['_state']=_0x254dc2(0x5d0),_0x5d0bdd[_0x254dc2(0x2f7)]('load'),_0x5d0bdd[_0x254dc2(0x31e)]());},_0x51371b=function(){var _0x18f36c=_0x3f9d32;if(_0x1943db[_0x18f36c(0x474)]){try{'undefined'!=typeof AudioContext?_0x1943db[_0x18f36c(0x575)]=new AudioContext():'undefined'!=typeof webkitAudioContext?_0x1943db[_0x18f36c(0x575)]=new webkitAudioContext():_0x1943db[_0x18f36c(0x474)]=!0x1;}catch(_0x27ef81){_0x1943db['usingWebAudio']=!0x1;}_0x1943db[_0x18f36c(0x575)]||(_0x1943db[_0x18f36c(0x474)]=!0x1);var _0x309083=/iP(hone|od|ad)/[_0x18f36c(0x2d1)](_0x1943db[_0x18f36c(0x3cc)]&&_0x1943db[_0x18f36c(0x3cc)]['platform']),_0x453522=_0x1943db[_0x18f36c(0x3cc)]&&_0x1943db[_0x18f36c(0x3cc)]['appVersion'][_0x18f36c(0x39a)](/OS (\d+)_(\d+)_?(\d+)?/),_0x6c15df=_0x453522?parseInt(_0x453522[0x1],0xa):null;if(_0x309083&&_0x6c15df&&_0x6c15df<0x9){var _0x298e68=/safari/['test'](_0x1943db[_0x18f36c(0x3cc)]&&_0x1943db['_navigator'][_0x18f36c(0x273)][_0x18f36c(0x81a)]());(_0x1943db['_navigator']&&_0x1943db[_0x18f36c(0x3cc)][_0x18f36c(0x435)]&&!_0x298e68||_0x1943db[_0x18f36c(0x3cc)]&&!_0x1943db[_0x18f36c(0x3cc)][_0x18f36c(0x435)]&&!_0x298e68)&&(_0x1943db['usingWebAudio']=!0x1);}_0x1943db[_0x18f36c(0x474)]&&(_0x1943db[_0x18f36c(0x1ef)]=void 0x0===_0x1943db[_0x18f36c(0x575)][_0x18f36c(0x34b)]?_0x1943db[_0x18f36c(0x575)][_0x18f36c(0x290)]():_0x1943db['ctx'][_0x18f36c(0x34b)](),_0x1943db['masterGain'][_0x18f36c(0x238)]['setValueAtTime'](_0x1943db['_muted']?0x0:0x1,_0x1943db[_0x18f36c(0x575)][_0x18f36c(0x713)]),_0x1943db['masterGain']['connect'](_0x1943db[_0x18f36c(0x575)][_0x18f36c(0x40f)])),_0x1943db['_setup']();}};_0x3aefae[_0x3f9d32(0x742)]=_0x1943db,_0x3aefae[_0x3f9d32(0x840)]=_0x36fe11,'undefined'!=typeof window?(window[_0x3f9d32(0x247)]=_0x202ca8,window[_0x3f9d32(0x742)]=_0x1943db,window[_0x3f9d32(0x840)]=_0x36fe11,window['Sound']=_0x33369c):void 0x0!==_0x93a3b0&&(_0x93a3b0[_0x3f9d32(0x247)]=_0x202ca8,_0x93a3b0['Howler']=_0x1943db,_0x93a3b0['Howl']=_0x36fe11,_0x93a3b0[_0x3f9d32(0x623)]=_0x33369c);}());}),_0x2fb60d=_0x386dc8[_0x4d3f07(0x742)],_0x5297b4=_0x386dc8[_0x4d3f07(0x840)];let _0x21fd2b=!0x1;_0x2fb60d[_0x4d3f07(0x80f)]=!0x0;const _0x35de4f=new _0x5297b4({'src':['ses/fx.ogg?22',_0x4d3f07(0x363),'ses/fx.mp3?22',_0x4d3f07(0x6ef)],'sprite':{'achievement':[0x0,576.0090702947846],'click':[0x7d0,130.612244897959],'eat':[0xfa0,192.01814058956933],'game':[0x1770,104097.95918367346,!0x0],'lose':[0x1b580,5184.013605442175],'main':[0x1d0d8,25626.1224489796,!0x0],'opengacha':[0x23a50,2688.0045351473996],'pop':[0x249f0,78.36734693876224]}}),_0x4743de=()=>{var _0x454607=_0x4d3f07;_0x35de4f[_0x454607(0x938)]();};let _0x1afd3a,_0x3a03b3;_0x35de4f[_0x4d3f07(0x801)](_0x4d3f07(0x2eb),function(){var _0x4599e6=_0x4d3f07;_0x21fd2b=!0x0,_0x1d07e7[_0x4599e6(0x48a)]||_0x4eb3ad();}),_0x35de4f['on'](_0x4d3f07(0x728),function(_0x2e1e65){var _0x490fdd=_0x4d3f07;if(!_0x1afd3a){(_0x1afd3a=document[_0x490fdd(0x232)]('div'))['style']=_0x490fdd(0x83e);const _0xa27cfe=document['createElement'](_0x490fdd(0x7cb));_0xa27cfe[_0x490fdd(0x77e)]=_0x490fdd(0x836)[_0x490fdd(0x417)](0xc8,_0x490fdd(0x5cd)),_0x1afd3a[_0x490fdd(0x867)](_0xa27cfe),(_0x3a03b3=document[_0x490fdd(0x232)]('div'))[_0x490fdd(0x77e)]='\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20position:absolute;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20width:'[_0x490fdd(0x417)](0x64,_0x490fdd(0x406)),_0xa27cfe[_0x490fdd(0x867)](_0x3a03b3);const _0x2f0420=document[_0x490fdd(0x232)](_0x490fdd(0x21a));_0x2f0420[_0x490fdd(0x211)]=_0x490fdd(0x4eb),_0x2f0420[_0x490fdd(0x77e)]=_0x490fdd(0x3e9),_0x1afd3a[_0x490fdd(0x867)](_0x2f0420),document[_0x490fdd(0x78b)][_0x490fdd(0x867)](_0x1afd3a);}const _0x5739ef=_0x2e1e65[_0x490fdd(0x5d0)]/_0x2e1e65[_0x490fdd(0x696)];_0x3a03b3['style'][_0x490fdd(0x7fd)]=''[_0x490fdd(0x417)](Math[_0x490fdd(0x2a7)](0xc8*_0x5739ef),'px'),0x1===_0x5739ef&&_0x1afd3a['parentNode']['removeChild'](_0x1afd3a);});const _0x23563b=(_0x211590,_0x1a9c16,_0x4f4808=0x0)=>{var _0x3a2ecf=_0x4d3f07;if(!_0x1d07e7[_0x3a2ecf(0x8ee)][_0x3a2ecf(0x614)])return;if(!_0x21fd2b)return;_0x3a2ecf(0x814)!=_0x211590&&_0x3a2ecf(0x655)!=_0x211590||_0x35de4f[_0x3a2ecf(0x938)]();const _0x241287=_0x35de4f[_0x3a2ecf(0x64a)](_0x211590);_0x35de4f[_0x3a2ecf(0x6c6)](_0x1a9c16,_0x241287);const _0x1b1961=0x1+(-_0x4f4808+0x2*_0x4f4808*Math['random']());_0x35de4f[_0x3a2ecf(0x820)](_0x1b1961,_0x241287);},_0x4eb3ad=()=>{};let _0x16cc92,_0x324d42,_0x28bed1,_0xc8ad80,_0x2a54af,_0x61eaa6,_0x3ab87d,_0x2dae0b,_0x4c4d01,_0x55a7fb,_0x468d01,_0x2286f0,_0x1a7222,_0x445e80=!0x1,_0x8e466f=!0x1;const _0x1f77c8=()=>{var _0x46e3af=_0x4d3f07;_0x16cc92[_0x46e3af(0x77e)][_0x46e3af(0x74e)]='none';},_0xba0524=()=>{var _0x4bff46=_0x4d3f07;_0xc8ad80[_0x4bff46(0x77e)]['animation']='slowshake\x202s\x20linear\x20infinite',_0x2a54af['classList'][_0x4bff46(0x7ed)]('open'),_0x61eaa6['classList'][_0x4bff46(0x7ed)](_0x4bff46(0x673)),-0x1==(_0x4c4d01=_0x5edceb())&&(_0x4c4d01=0x21,_0x1a7222[_0x4bff46(0x77e)][_0x4bff46(0x847)]='visible',_0x1a7222[_0x4bff46(0x211)]=_0x4bff46(0x8a8));const _0x7d1caf=_0x3ab87d[_0x4c4d01];let _0x21ae13=0x1;_0x21ae13=_0x7d1caf['__size']['x']>_0x7d1caf['__size']['y']?0x40/_0x7d1caf[_0x4bff46(0x8f2)]['x']:0x40/_0x7d1caf[_0x4bff46(0x8f2)]['y'],_0x324d42[_0x4bff46(0x77e)]['background']='url('[_0x4bff46(0x417)](window[_0x4bff46(0x566)],')\x20')[_0x4bff46(0x417)](-Math[_0x4bff46(0x2a7)](_0x7d1caf[_0x4bff46(0x536)]['x']*_0x21ae13),_0x4bff46(0x72d))[_0x4bff46(0x417)](-Math[_0x4bff46(0x2a7)](_0x7d1caf[_0x4bff46(0x536)]['y']*_0x21ae13),'px'),_0x324d42[_0x4bff46(0x77e)][_0x4bff46(0x7fd)]=''['concat'](Math[_0x4bff46(0x2a7)](_0x7d1caf[_0x4bff46(0x8f2)]['x']*_0x21ae13),'px'),_0x324d42[_0x4bff46(0x77e)][_0x4bff46(0x1e5)]=''[_0x4bff46(0x417)](Math[_0x4bff46(0x2a7)](_0x7d1caf[_0x4bff46(0x8f2)]['y']*_0x21ae13),'px'),_0x324d42[_0x4bff46(0x77e)][_0x4bff46(0x937)]=''['concat'](Math[_0x4bff46(0x2a7)](0x400*_0x21ae13),_0x4bff46(0x72d))[_0x4bff46(0x417)](Math[_0x4bff46(0x2a7)](0x200*_0x21ae13),'px'),_0x55a7fb=Math['floor'](0x5*Math[_0x4bff46(0x368)]())+0x1,0x1==_0x1d07e7['__loadedData'][_0x4bff46(0x6d0)]&&0x0==_0x1d07e7[_0x4bff46(0x8ee)][_0x4bff46(0x5ef)][0x4]&&0x0==_0x1d07e7[_0x4bff46(0x8ee)]['achievementProgress'][0x5]&&(_0x55a7fb=0x5),_0x28bed1[_0x4bff46(0x211)]='+'[_0x4bff46(0x417)](_0x55a7fb),_0x16cc92[_0x4bff46(0x77e)]['display']='none',_0x2286f0['style'][_0x4bff46(0x847)]=_0x4bff46(0x473),_0xc8ad80[_0x4bff46(0x77e)]['pointerEvents']=_0x4bff46(0x628);},_0x3cf985=()=>{var _0x4795ea=_0x4d3f07;const _0x15e6ff=document['createElement'](_0x4795ea(0x7cb));_0x15e6ff['classList']['add']('rl','bu');const _0xf655de=document[_0x4795ea(0x20b)](_0x4795ea(0x81d),_0x4795ea(0x36b));_0xf655de[_0x4795ea(0x5fe)]='<circle\x20cx=\x2221\x22\x20cy=\x2221\x22\x20r=\x2220\x22\x20stroke=\x22#382C2A\x22\x20stroke-width=\x222\x22\x20fill=\x22#FFF0E5\x22></circle',_0x15e6ff[_0x4795ea(0x867)](_0xf655de),_0xf655de[_0x4795ea(0x77e)][_0x4795ea(0x7fd)]=_0xf655de[_0x4795ea(0x77e)][_0x4795ea(0x1e5)]=_0x4795ea(0x8ff);const _0x4ee0b0=document['createElement']('div');_0x4ee0b0[_0x4795ea(0x77e)][_0x4795ea(0x894)]=_0x4795ea(0x4d8),_0x4ee0b0[_0x4795ea(0x77e)][_0x4795ea(0x424)]='no-repeat',_0x15e6ff['appendChild'](_0x4ee0b0),_0x4ee0b0[_0x4795ea(0x77e)][_0x4795ea(0x7fd)]=''[_0x4795ea(0x417)](0x14,'px'),_0x4ee0b0['style']['height']=''[_0x4795ea(0x417)](0x14,'px'),_0x4ee0b0[_0x4795ea(0x77e)]['position']=_0x4795ea(0x2d5),_0x4ee0b0[_0x4795ea(0x77e)][_0x4795ea(0x36e)]=_0x4795ea(0x402),_0x4ee0b0['style'][_0x4795ea(0x8a4)]='11px';const _0x29e1ad=document[_0x4795ea(0x232)](_0x4795ea(0x7cb));return _0x29e1ad[_0x4795ea(0x77e)][_0x4795ea(0x894)]=_0x4795ea(0x82f),_0x29e1ad[_0x4795ea(0x77e)][_0x4795ea(0x424)]=_0x4795ea(0x91a),_0x15e6ff[_0x4795ea(0x867)](_0x29e1ad),_0x29e1ad[_0x4795ea(0x77e)][_0x4795ea(0x7fd)]=''['concat'](0x14,'px'),_0x29e1ad[_0x4795ea(0x77e)][_0x4795ea(0x1e5)]=''[_0x4795ea(0x417)](0x14,'px'),_0x29e1ad['style'][_0x4795ea(0x53d)]=_0x4795ea(0x2d5),_0x29e1ad[_0x4795ea(0x77e)][_0x4795ea(0x36e)]='21px',_0x29e1ad['style'][_0x4795ea(0x8a4)]=_0x4795ea(0x849),_0x15e6ff;},_0x5edceb=()=>{var _0x53ec79=_0x4d3f07;let _0x4ee91f=[];for(let _0x4feb89=0x0;_0x4feb89<_0x1d07e7[_0x53ec79(0x576)];_0x4feb89++)_0x1d07e7['__loadedData'][_0x53ec79(0x26f)][_0x4feb89]<_0x1d07e7[_0x53ec79(0x439)][_0x4feb89]&&_0x4ee91f[_0x53ec79(0x72a)](_0x4feb89);0x1==_0x1d07e7[_0x53ec79(0x8ee)][_0x53ec79(0x6d0)]&&0x0==_0x1d07e7['__loadedData'][_0x53ec79(0x5ef)][0x4]&&0x0==_0x1d07e7[_0x53ec79(0x8ee)]['achievementProgress'][0x5]&&(_0x4ee91f=[0x0,0x1,0x2]);let _0x4a5d4a=Math[_0x53ec79(0x659)](Math['random']()*_0x4ee91f['length']);return _0x1a7222[_0x53ec79(0x77e)]['visibility']=_0x53ec79(0x473),window['_eV']&&(!_0x1d07e7['__loadedData'][_0x53ec79(0x26f)][window[_0x53ec79(0x8bd)]['h']]||_0x1d07e7['__loadedData']['hats'][window[_0x53ec79(0x8bd)]['h']]<_0x1d07e7[_0x53ec79(0x439)][window[_0x53ec79(0x8bd)]['h']])&&Math['random']()<0.5?(_0x1a7222[_0x53ec79(0x77e)][_0x53ec79(0x847)]='visible',window[_0x53ec79(0x8bd)]['h']):0x0==_0x4ee91f[_0x53ec79(0x7d4)]?-0x1:_0x4ee91f[_0x4a5d4a];},_0x4d6cde=document[_0x4d3f07(0x57f)](_0x4d3f07(0x7df)),_0x63f3aa=document[_0x4d3f07(0x57f)](_0x4d3f07(0x323)),_0x30dcf9=_0x4d6cde[_0x4d3f07(0x57f)](_0x4d3f07(0x7bb));let _0x4241ab;const _0x529592=()=>{var _0x20afba=_0x4d3f07;_0x4d6cde[_0x20afba(0x471)]['add']('cl');};let _0x1d8191=[];const _0x8b79e1=(_0x211b6d,_0xf24376)=>{!window['__adsBlocked']&&console['log']('aaadd');},_0x49d748=_0x4eb26c=>!!_0x90c207||(_0x4d3f07(0x6c0)==_0x4eb26c&&window[_0x4d3f07(0x389)]>=0x258&&window[_0x4d3f07(0x3b1)]>=0x2bc||(_0x4d3f07(0x906)==_0x4eb26c&&window[_0x4d3f07(0x389)]>=0x21c&&window[_0x4d3f07(0x3b1)]>=0x32f||_0x4d3f07(0x49b)==_0x4eb26c&&window[_0x4d3f07(0x389)]>=0x64&&window[_0x4d3f07(0x3b1)]>=0x2bc)),_0x2732bf=()=>{var _0x122601=_0x4d3f07;for(let _0x171fdc=0x0;_0x171fdc<_0x1d8191['length'];_0x171fdc++){let _0x5a776b=_0x1d8191[_0x171fdc]['adHolder'];_0x5a776b&&console[_0x122601(0x6f0)]('ad\x20destro');}_0x1d8191=[];};let _0x3ad901=0x0;const _0x14f4f8=function(_0x25b3da,_0x18f2fa,_0x41bf3a,_0x19f1b4,_0x1df350,_0x2d7930){var _0x2b1b14=_0x4d3f07;_0x3ad901++;var _0x540f7b=window['requestAnimationFrame']||function(_0x4d5cee){var _0xed4fcc=_0x473b;window[_0xed4fcc(0x220)](_0x4d5cee,0x3e8/0x3c);},_0x114b37=!0x1,_0x3119a2=_0x18f2fa-_0x25b3da;_0x19f1b4(_0x25b3da);var _0x31be15=window[_0x2b1b14(0x2ec)]&&window['performance'][_0x2b1b14(0x2dd)]?window[_0x2b1b14(0x2ec)][_0x2b1b14(0x2dd)]():+new Date();return _0x3ad901>0x1f4?(_0x3ad901--,_0x19f1b4(_0x18f2fa),_0x2d7930&&_0x2d7930()):_0x540f7b(function _0x2a5959(_0x161d79){if(!_0x114b37){var _0x125b6c=(_0x161d79||+new Date())-_0x31be15;_0x125b6c>=0x0&&_0x19f1b4(_0x1df350(_0x125b6c,_0x25b3da,_0x3119a2,_0x41bf3a)),_0x125b6c>=0x0&&_0x125b6c>=_0x41bf3a?(_0x19f1b4(_0x18f2fa),_0x3ad901--,_0x2d7930&&_0x2d7930()):_0x540f7b(_0x2a5959);}}),{'cancel':function(){_0x114b37=!0x0;}};},_0x3afc5d=function(_0x35f39b,_0x14bf22,_0x216013,_0x4adf6b,_0xdfbadc,_0x261df7){var _0x8a73de=_0x4d3f07;Object['keys'](_0x14bf22)[_0x8a73de(0x4a4)](function(_0x126b98){var _0x5594cd=_0x8a73de;null==_0x14bf22[_0x126b98]&&(_0x14bf22[_0x126b98]=_0x35f39b[_0x126b98]),'alternate'==_0x261df7&&(_0x261df7=()=>{_0x3afc5d(_0x35f39b,_0x216013,_0x14bf22,_0x4adf6b,_0xdfbadc,'alternate');}),_0x5594cd(0x5ec)==_0x261df7&&(_0x261df7=()=>{var _0x729ab=_0x5594cd;_0x3afc5d(_0x35f39b,_0x14bf22,_0x216013,_0x4adf6b,_0xdfbadc,_0x729ab(0x5ec));}),(_0x14f4f8(_0x14bf22[_0x126b98],_0x216013[_0x126b98],_0x4adf6b,_0x62c144=>{_0x35f39b[_0x126b98]=_0x62c144;},_0xdfbadc,_0x261df7),_0x261df7=void 0x0);});};let _0x5799cf={'linear':function(_0x3f3f0c,_0x5a34c0,_0x4ae0c1,_0x51090f){return _0x4ae0c1*_0x3f3f0c/_0x51090f+_0x5a34c0;},'easeInQuad':function(_0x383bbb,_0x4873b3,_0x1b9808,_0x32fe8c){return _0x1b9808*(_0x383bbb/=_0x32fe8c)*_0x383bbb+_0x4873b3;},'easeOutQuad':function(_0x212059,_0x1e8e74,_0x3a85e0,_0x2e0f6e){return-_0x3a85e0*(_0x212059/=_0x2e0f6e)*(_0x212059-0x2)+_0x1e8e74;},'easeInOutQuad':function(_0x1555ab,_0x403706,_0x4f1c78,_0x58ffc3){return(_0x1555ab/=_0x58ffc3/0x2)<0x1?_0x4f1c78/0x2*_0x1555ab*_0x1555ab+_0x403706:-_0x4f1c78/0x2*(--_0x1555ab*(_0x1555ab-0x2)-0x1)+_0x403706;},'easeInCubic':function(_0x5bcaf7,_0x3bb86b,_0xf146f8,_0x53e8a4){return _0xf146f8*(_0x5bcaf7/=_0x53e8a4)*_0x5bcaf7*_0x5bcaf7+_0x3bb86b;},'easeOutCubic':function(_0x15073b,_0x1e2793,_0x1769dd,_0x478178){return _0x1769dd*((_0x15073b=_0x15073b/_0x478178-0x1)*_0x15073b*_0x15073b+0x1)+_0x1e2793;},'easeInOutCubic':function(_0x30db49,_0x471dcd,_0x373721,_0x2f00a5){return(_0x30db49/=_0x2f00a5/0x2)<0x1?_0x373721/0x2*_0x30db49*_0x30db49*_0x30db49+_0x471dcd:_0x373721/0x2*((_0x30db49-=0x2)*_0x30db49*_0x30db49+0x2)+_0x471dcd;},'easeInQuart':function(_0x2c1e19,_0x1621a1,_0x5ef854,_0x4c7213){return _0x5ef854*(_0x2c1e19/=_0x4c7213)*_0x2c1e19*_0x2c1e19*_0x2c1e19+_0x1621a1;},'easeOutQuart':function(_0x4f031f,_0x784ed6,_0x53ea85,_0x7dece4){return-_0x53ea85*((_0x4f031f=_0x4f031f/_0x7dece4-0x1)*_0x4f031f*_0x4f031f*_0x4f031f-0x1)+_0x784ed6;},'easeInOutQuart':function(_0x571cbc,_0x2980fd,_0x3d0e13,_0xad5823){return(_0x571cbc/=_0xad5823/0x2)<0x1?_0x3d0e13/0x2*_0x571cbc*_0x571cbc*_0x571cbc*_0x571cbc+_0x2980fd:-_0x3d0e13/0x2*((_0x571cbc-=0x2)*_0x571cbc*_0x571cbc*_0x571cbc-0x2)+_0x2980fd;},'easeInQuint':function(_0x41f67f,_0x5ebd98,_0xa06db0,_0x27258a){return _0xa06db0*(_0x41f67f/=_0x27258a)*_0x41f67f*_0x41f67f*_0x41f67f*_0x41f67f+_0x5ebd98;},'easeOutQuint':function(_0x4f8eb2,_0x2d43b1,_0x447558,_0x20abfc){return _0x447558*((_0x4f8eb2=_0x4f8eb2/_0x20abfc-0x1)*_0x4f8eb2*_0x4f8eb2*_0x4f8eb2*_0x4f8eb2+0x1)+_0x2d43b1;},'easeInOutQuint':function(_0x5ac13d,_0x3adcae,_0x24d75b,_0x4d831b){return(_0x5ac13d/=_0x4d831b/0x2)<0x1?_0x24d75b/0x2*_0x5ac13d*_0x5ac13d*_0x5ac13d*_0x5ac13d*_0x5ac13d+_0x3adcae:_0x24d75b/0x2*((_0x5ac13d-=0x2)*_0x5ac13d*_0x5ac13d*_0x5ac13d*_0x5ac13d+0x2)+_0x3adcae;},'easeInSine':function(_0x5e10d3,_0x589765,_0x25c87b,_0x45a43c){var _0x37f01e=_0x4d3f07;return-_0x25c87b*Math[_0x37f01e(0x916)](_0x5e10d3/_0x45a43c*(Math['PI']/0x2))+_0x25c87b+_0x589765;},'easeOutSine':function(_0xf19de5,_0x8345c7,_0x2692e2,_0x3c6567){var _0x46995b=_0x4d3f07;return _0x2692e2*Math[_0x46995b(0x4da)](_0xf19de5/_0x3c6567*(Math['PI']/0x2))+_0x8345c7;},'easeInOutSine':function(_0x225cf3,_0x6148fe,_0x564ddb,_0x1f4b04){return-_0x564ddb/0x2*(Math['cos'](Math['PI']*_0x225cf3/_0x1f4b04)-0x1)+_0x6148fe;},'easeInExpo':function(_0x5791bd,_0x3eac61,_0x53fed9,_0x45b6b5){var _0x3bf86c=_0x4d3f07;return 0x0==_0x5791bd?_0x3eac61:_0x53fed9*Math[_0x3bf86c(0x59d)](0x2,0xa*(_0x5791bd/_0x45b6b5-0x1))+_0x3eac61;},'easeOutExpo':function(_0x1614a4,_0x1eaa02,_0x568792,_0x4e3b76){var _0x792260=_0x4d3f07;return _0x1614a4==_0x4e3b76?_0x1eaa02+_0x568792:_0x568792*(0x1-Math[_0x792260(0x59d)](0x2,-0xa*_0x1614a4/_0x4e3b76))+_0x1eaa02;},'easeInOutExpo':function(_0x41539b,_0x36c34d,_0x43ec07,_0x68b065){var _0x7db220=_0x4d3f07;return 0x0==_0x41539b?_0x36c34d:_0x41539b==_0x68b065?_0x36c34d+_0x43ec07:(_0x41539b/=_0x68b065/0x2)<0x1?_0x43ec07/0x2*Math['pow'](0x2,0xa*(_0x41539b-0x1))+_0x36c34d:_0x43ec07/0x2*(0x2-Math[_0x7db220(0x59d)](0x2,-0xa*--_0x41539b))+_0x36c34d;},'easeInCirc':function(_0x48b7f8,_0x4902aa,_0x2970cf,_0x531fe8){var _0x154fed=_0x4d3f07;return-_0x2970cf*(Math[_0x154fed(0x89f)](0x1-(_0x48b7f8/=_0x531fe8)*_0x48b7f8)-0x1)+_0x4902aa;},'easeOutCirc':function(_0x53de60,_0x41e6ea,_0xfdc434,_0x22af05){var _0x2968a8=_0x4d3f07;return _0xfdc434*Math[_0x2968a8(0x89f)](0x1-(_0x53de60=_0x53de60/_0x22af05-0x1)*_0x53de60)+_0x41e6ea;},'easeInOutCirc':function(_0x4688cc,_0x229ca6,_0x232db4,_0x174047){var _0x119190=_0x4d3f07;return(_0x4688cc/=_0x174047/0x2)<0x1?-_0x232db4/0x2*(Math[_0x119190(0x89f)](0x1-_0x4688cc*_0x4688cc)-0x1)+_0x229ca6:_0x232db4/0x2*(Math[_0x119190(0x89f)](0x1-(_0x4688cc-=0x2)*_0x4688cc)+0x1)+_0x229ca6;},'easeInBack':function(_0xafe3d6,_0x24d183,_0x1bb3e6,_0x4a9666,_0x49fe8d){return null==_0x49fe8d&&(_0x49fe8d=1.70158),_0x1bb3e6*(_0xafe3d6/=_0x4a9666)*_0xafe3d6*((_0x49fe8d+0x1)*_0xafe3d6-_0x49fe8d)+_0x24d183;},'easeOutBack':function(_0x568057,_0x38c904,_0x4689e1,_0x499ad1,_0x25c1a9){return null==_0x25c1a9&&(_0x25c1a9=1.70158),_0x4689e1*((_0x568057=_0x568057/_0x499ad1-0x1)*_0x568057*((_0x25c1a9+0x1)*_0x568057+_0x25c1a9)+0x1)+_0x38c904;},'easeInOutBack':function(_0x2a81d4,_0x41eff5,_0x371181,_0x39b530,_0x3d0ef6){return null==_0x3d0ef6&&(_0x3d0ef6=1.70158),(_0x2a81d4/=_0x39b530/0x2)<0x1?_0x371181/0x2*(_0x2a81d4*_0x2a81d4*((0x1+(_0x3d0ef6*=1.525))*_0x2a81d4-_0x3d0ef6))+_0x41eff5:_0x371181/0x2*((_0x2a81d4-=0x2)*_0x2a81d4*((0x1+(_0x3d0ef6*=1.525))*_0x2a81d4+_0x3d0ef6)+0x2)+_0x41eff5;},'easeInBounce':function(_0x464098,_0x4fa1fe,_0x4e2899,_0x365e0e){var _0x4d3561=_0x4d3f07;return _0x4e2899-_0x5799cf[_0x4d3561(0x81c)](_0x365e0e-_0x464098,0x0,_0x4e2899,_0x365e0e)+_0x4fa1fe;},'easeOutBounce':function(_0x27eb64,_0x54bbd1,_0x3ec411,_0x66391c){return(_0x27eb64/=_0x66391c)<0x1/2.75?_0x3ec411*(7.5625*_0x27eb64*_0x27eb64)+_0x54bbd1:_0x27eb64<0x2/2.75?_0x3ec411*(7.5625*(_0x27eb64-=1.5/2.75)*_0x27eb64+0.75)+_0x54bbd1:_0x27eb64<2.5/2.75?_0x3ec411*(7.5625*(_0x27eb64-=2.25/2.75)*_0x27eb64+0.9375)+_0x54bbd1:_0x3ec411*(7.5625*(_0x27eb64-=2.625/2.75)*_0x27eb64+0.984375)+_0x54bbd1;},'easeInOutBounce':function(_0x566ed9,_0x3e20b0,_0x4d460e,_0xe395e9){var _0x12e40f=_0x4d3f07;return _0x566ed9<_0xe395e9/0x2?0.5*_0x5799cf['easeInBounce'](0x2*_0x566ed9,0x0,_0x4d460e,_0xe395e9)+_0x3e20b0:0.5*_0x5799cf[_0x12e40f(0x81c)](0x2*_0x566ed9-_0xe395e9,0x0,_0x4d460e,_0xe395e9)+0.5*_0x4d460e+_0x3e20b0;}};var _0x2967df={'animate':_0x14f4f8,'animateCSS':function(_0x1da26e,_0x429453,_0x48469a,_0x3a4680,_0x5a9da1,_0x19a150,_0x41dec0,_0x5897cd){return _0x14f4f8(_0x3a4680,_0x5a9da1,_0x19a150,function(_0x2b9355){var _0x4814c4=_0x473b;_0x1da26e[_0x4814c4(0x77e)][_0x429453]=_0x2b9355+_0x48469a;},_0x41dec0,_0x5897cd);},'animateProps':_0x3afc5d,'easings':_0x5799cf},_0x1a0076=_0x2967df['animateProps'],_0x19dfec=_0x2967df[_0x4d3f07(0x646)];function _0x2dde0c(_0x1f239d,_0x5a54dd,_0x161963){var _0x485cc6=_0x4d3f07;return _0x5a54dd in _0x1f239d?Object[_0x485cc6(0x667)](_0x1f239d,_0x5a54dd,{'value':_0x161963,'enumerable':!0x0,'configurable':!0x0,'writable':!0x0}):_0x1f239d[_0x5a54dd]=_0x161963,_0x1f239d;}function _0x35b024(_0x4f73d9,_0xa3812c){var _0xdb8b9e=_0x4d3f07,_0x114f14=Object[_0xdb8b9e(0x2e5)](_0x4f73d9);if(Object['getOwnPropertySymbols']){var _0x20ea1a=Object[_0xdb8b9e(0x808)](_0x4f73d9);_0xa3812c&&(_0x20ea1a=_0x20ea1a[_0xdb8b9e(0x8de)](function(_0x388a54){var _0xa1d5fe=_0xdb8b9e;return Object['getOwnPropertyDescriptor'](_0x4f73d9,_0x388a54)[_0xa1d5fe(0x7e8)];})),_0x114f14[_0xdb8b9e(0x72a)]['apply'](_0x114f14,_0x20ea1a);}return _0x114f14;}function _0x1022b4(_0x1c5493){var _0x3d2501=_0x4d3f07;for(var _0x2cadf3=0x1;_0x2cadf3<arguments[_0x3d2501(0x7d4)];_0x2cadf3++){var _0x466443=null!=arguments[_0x2cadf3]?arguments[_0x2cadf3]:{};_0x2cadf3%0x2?_0x35b024(_0x466443,!0x0)[_0x3d2501(0x4a4)](function(_0x471826){_0x2dde0c(_0x1c5493,_0x471826,_0x466443[_0x471826]);}):Object[_0x3d2501(0x1e7)]?Object[_0x3d2501(0x676)](_0x1c5493,Object[_0x3d2501(0x1e7)](_0x466443)):_0x35b024(_0x466443)['forEach'](function(_0x3224ed){var _0x5d288f=_0x3d2501;Object[_0x5d288f(0x667)](_0x1c5493,_0x3224ed,Object[_0x5d288f(0x613)](_0x466443,_0x3224ed));});}return _0x1c5493;}var _0x4953ed=_0x3913b6(function(_0x41066d){!function(_0x524915,_0x1320ba){var _0x39054e=_0x473b;(0x0,eval)('this');var _0x2bd4da=0x100,_0x1bc2f2=0x6,_0x18b8cf=_0x39054e(0x368),_0x2ecccf=_0x1320ba[_0x39054e(0x59d)](_0x2bd4da,_0x1bc2f2),_0x3f98f5=_0x1320ba['pow'](0x2,0x34),_0x26938a=0x2*_0x3f98f5,_0x34efb7=_0x2bd4da-0x1;function _0x121918(_0x2f326d,_0x2b6c8c,_0x582326){var _0x3a6d78=_0x39054e,_0x1f82b9=[],_0x54e0a4=_0x3d9f12(function _0x293db2(_0x11393c,_0x3beda2){var _0x7dc791=_0x473b,_0x11ef0d,_0x523257=[],_0x1bf037=typeof _0x11393c;if(_0x3beda2&&_0x7dc791(0x621)==_0x1bf037){for(_0x11ef0d in _0x11393c)try{_0x523257[_0x7dc791(0x72a)](_0x293db2(_0x11393c[_0x11ef0d],_0x3beda2-0x1));}catch(_0x231fb6){}}return _0x523257[_0x7dc791(0x7d4)]?_0x523257:_0x7dc791(0x4c7)==_0x1bf037?_0x11393c:_0x11393c+'\x00';}((_0x2b6c8c=0x1==_0x2b6c8c?{'entropy':!0x0}:_0x2b6c8c||{})[_0x3a6d78(0x525)]?[_0x2f326d,_0x12caca(_0x524915)]:_0x2f326d,0x3),_0x1f82b9),_0x489c9d=new _0x4a829d(_0x1f82b9),_0x50c330=function(){for(var _0x4837d2=_0x489c9d['g'](_0x1bc2f2),_0x57aaea=_0x2ecccf,_0x345209=0x0;_0x4837d2<_0x3f98f5;)_0x4837d2=(_0x4837d2+_0x345209)*_0x2bd4da,_0x57aaea*=_0x2bd4da,_0x345209=_0x489c9d['g'](0x1);for(;_0x4837d2>=_0x26938a;)_0x4837d2/=0x2,_0x57aaea/=0x2,_0x345209>>>=0x1;return(_0x4837d2+_0x345209)/_0x57aaea;};return _0x50c330['int32']=function(){return 0x0|_0x489c9d['g'](0x4);},_0x50c330[_0x3a6d78(0x88d)]=function(){return _0x489c9d['g'](0x4)/0x100000000;},_0x50c330[_0x3a6d78(0x445)]=_0x50c330,_0x3d9f12(_0x12caca(_0x489c9d['S']),_0x524915),(_0x2b6c8c[_0x3a6d78(0x2c8)]||_0x582326||function(_0x271a75,_0x40e563,_0x46c5e9,_0x53b0c2){return _0x53b0c2&&(_0x53b0c2['S']&&_0x541c3e(_0x53b0c2,_0x489c9d),_0x271a75['state']=function(){return _0x541c3e(_0x489c9d,{});}),_0x46c5e9?(_0x1320ba[_0x18b8cf]=_0x271a75,_0x40e563):_0x271a75;})(_0x50c330,_0x54e0a4,'global'in _0x2b6c8c?_0x2b6c8c[_0x3a6d78(0x8f7)]:this==_0x1320ba,_0x2b6c8c[_0x3a6d78(0x4ee)]);}function _0x4a829d(_0xf220ff){var _0x3b6120=_0x39054e,_0x59b085,_0xe34c67=_0xf220ff[_0x3b6120(0x7d4)],_0x36ad40=this,_0x121b6e=0x0,_0x279254=_0x36ad40['i']=_0x36ad40['j']=0x0,_0x4c4089=_0x36ad40['S']=[];for(_0xe34c67||(_0xf220ff=[_0xe34c67++]);_0x121b6e<_0x2bd4da;)_0x4c4089[_0x121b6e]=_0x121b6e++;for(_0x121b6e=0x0;_0x121b6e<_0x2bd4da;_0x121b6e++)_0x4c4089[_0x121b6e]=_0x4c4089[_0x279254=_0x34efb7&_0x279254+_0xf220ff[_0x121b6e%_0xe34c67]+(_0x59b085=_0x4c4089[_0x121b6e])],_0x4c4089[_0x279254]=_0x59b085;(_0x36ad40['g']=function(_0x553d87){for(var _0x394be4,_0x55e894=0x0,_0x4c0760=_0x36ad40['i'],_0x517162=_0x36ad40['j'],_0x2a9d7d=_0x36ad40['S'];_0x553d87--;)_0x394be4=_0x2a9d7d[_0x4c0760=_0x34efb7&_0x4c0760+0x1],_0x55e894=_0x55e894*_0x2bd4da+_0x2a9d7d[_0x34efb7&(_0x2a9d7d[_0x4c0760]=_0x2a9d7d[_0x517162=_0x34efb7&_0x517162+_0x394be4])+(_0x2a9d7d[_0x517162]=_0x394be4)];return _0x36ad40['i']=_0x4c0760,_0x36ad40['j']=_0x517162,_0x55e894;})(_0x2bd4da);}function _0x541c3e(_0x55b29e,_0x340f6a){var _0x29d8a4=_0x39054e;return _0x340f6a['i']=_0x55b29e['i'],_0x340f6a['j']=_0x55b29e['j'],_0x340f6a['S']=_0x55b29e['S'][_0x29d8a4(0x491)](),_0x340f6a;}function _0x3d9f12(_0x48e3d0,_0x5e3208){var _0x55149e=_0x39054e;for(var _0x2aa258,_0x3bd16d=_0x48e3d0+'',_0x20726d=0x0;_0x20726d<_0x3bd16d[_0x55149e(0x7d4)];)_0x5e3208[_0x34efb7&_0x20726d]=_0x34efb7&(_0x2aa258^=0x13*_0x5e3208[_0x34efb7&_0x20726d])+_0x3bd16d[_0x55149e(0x785)](_0x20726d++);return _0x12caca(_0x5e3208);}function _0x12caca(_0x50f48a){return String['fromCharCode']['apply'](0x0,_0x50f48a);}_0x3d9f12(_0x1320ba[_0x39054e(0x368)](),_0x524915),_0x41066d[_0x39054e(0x2a8)]?_0x41066d[_0x39054e(0x2a8)]=_0x121918:_0x1320ba[_0x39054e(0x3de)+_0x18b8cf]=_0x121918;}([],Math);});const _0x206fe5=function(_0x38231d){var _0x4ab92c=_0x4d3f07;this[_0x4ab92c(0x3b8)],this[_0x4ab92c(0x472)]=_0x38231d,this[_0x4ab92c(0x2e1)]=!0x1,this[_0x4ab92c(0x60f)],this[_0x4ab92c(0x7cc)]='',this[_0x4ab92c(0x60e)]=-0x1,this[_0x4ab92c(0x4ff)],this[_0x4ab92c(0x2c3)]={'x':0x0,'y':0x0},this[_0x4ab92c(0x504)]=Math['PI']/0xb4*0x5a,this['__length']=_0x1d07e7[_0x4ab92c(0x2b9)],this['__thick']=_0x1d07e7[_0x4ab92c(0x3ba)]/_0x1d07e7[_0x4ab92c(0x829)],this[_0x4ab92c(0x8f2)]={'x':0x10,'y':0x10,'hx':0x8,'hy':0x8},this[_0x4ab92c(0x730)]=_0x4ab92c(0x3da),this[_0x4ab92c(0x26c)]={'__pos':{'x':0x0,'y':0x0}},this['currentState']={'__pos':{'x':0x0,'y':0x0}},this[_0x4ab92c(0x8c3)]={'x':0x0,'y':0x0},this[_0x4ab92c(0x460)]=[],this[_0x4ab92c(0x77a)]=[],this['__lastInput']={'input':{},'seq':0x0},this[_0x4ab92c(0x296)]=0x0,this[_0x4ab92c(0x62a)]=[],this['__eatTimer'],this[_0x4ab92c(0x3dd)]=_0x1d07e7[_0x4ab92c(0x351)],this[_0x4ab92c(0x448)]=_0x1d07e7[_0x4ab92c(0x3ba)],this[_0x4ab92c(0x3a8)]=[_0x4ab92c(0x2c2)],this[_0x4ab92c(0x5db)]=!0x0,this[_0x4ab92c(0x632)],this['__inScreen']=!0x0,this[_0x4ab92c(0x4cc)]={'visible':!0x1,'tint':void 0x0},this[_0x4ab92c(0x45a)]=[],this['__accelerate']=!0x1,this[_0x4ab92c(0x79e)]=0x0,this[_0x4ab92c(0x6f9)],this[_0x4ab92c(0x834)]=!0x1;};_0x206fe5[_0x4d3f07(0x775)]['__growFromFood']=function(_0x474ca1){var _0x731f9c=_0x4d3f07;this['__foodsEaten']+=_0x474ca1[_0x731f9c(0x295)],_0x2dbde3==0x1&&(_0x26bef5++,_0x242309(_0x26bef5,_0x474ca1[_0x731f9c(0x295)])),this['__graphics']&&this['__mainSnake']&&(this['__game'][_0x731f9c(0x693)](0x2,'>',this[_0x731f9c(0x3dd)]),this[_0x731f9c(0x472)][_0x731f9c(0x264)](_0x731f9c(0x8e3),0.5,0.1)),this['__doGrowth']();},_0x206fe5[_0x4d3f07(0x775)][_0x4d3f07(0x89c)]=function(){var _0x481cdf=_0x4d3f07;this[_0x481cdf(0x448)]=this[_0x481cdf(0x472)][_0x481cdf(0x5d2)](this[_0x481cdf(0x3dd)]),this['__thick']=this[_0x481cdf(0x448)]/_0x1d07e7[_0x481cdf(0x829)];const _0x2b3751=this[_0x481cdf(0x2d0)];if(this['__length']=this[_0x481cdf(0x472)][_0x481cdf(0x84b)](this[_0x481cdf(0x3dd)]),this['__graphics']&&this[_0x481cdf(0x2d0)]<_0x2b3751){for(var _0x2b002f=this[_0x481cdf(0x2d0)];_0x2b002f<_0x2b3751;_0x2b002f++)this[_0x481cdf(0x418)]['__snakeParts'][_0x1d07e7['__maxSnakeSize']-_0x2b002f-0x1][_0x481cdf(0x88c)]=!0x1,this[_0x481cdf(0x418)]['__snakeShadowParts'][_0x1d07e7['__maxSnakeSize']-_0x2b002f-0x1]['visible']=!0x1;}},_0x206fe5[_0x4d3f07(0x775)][_0x4d3f07(0x279)]=function(){var _0x4a127d=_0x4d3f07;this[_0x4a127d(0x418)]={};var _0x5f0fcc=_0x1d07e7[_0x4a127d(0x4dd)];this[_0x4a127d(0x418)][_0x4a127d(0x317)]=[],this[_0x4a127d(0x418)]['__snakeShadowParts']=[];var _0x4d3c5b=this[_0x4a127d(0x472)]['__scene'][_0x4a127d(0x419)](_0x1d07e7[_0x4a127d(0x795)]);for(this[_0x4a127d(0x4cc)]={'visible':!0x1},i=0x0;i<_0x1d07e7['__maxSnakeSize'];i++){var _0x1fda4b=new this[(_0x4a127d(0x472))][(_0x4a127d(0x64c))](this[_0x4a127d(0x472)][_0x4a127d(0x661)][_0x4a127d(0x461)]);_0x1fda4b['anchor']['set'](0.5,0.5),_0x1fda4b[_0x4a127d(0x4fa)]=_0x4a127d(0x7b4),_0x1fda4b[_0x4a127d(0x88c)]=!0x1,_0x1fda4b[_0x4a127d(0x33b)]=this[_0x4a127d(0x4cc)],_0x4d3c5b[_0x4a127d(0x7b2)](_0x1fda4b),this[_0x4a127d(0x418)][_0x4a127d(0x65e)][_0x4a127d(0x72a)](_0x1fda4b);}for(i=0x0;i<_0x1d07e7[_0x4a127d(0x723)];i++){_0x4d3c5b=this[_0x4a127d(0x472)][_0x4a127d(0x61b)][_0x4a127d(0x419)](_0x5f0fcc++);var _0x4127b8=new this[(_0x4a127d(0x472))][(_0x4a127d(0x64c))](this['__game'][_0x4a127d(0x661)][_0x4a127d(0x461)]);_0x4127b8[_0x4a127d(0x8d2)]['set'](0.5,0.5),_0x4127b8['visible']=!0x1,_0x4127b8[_0x4a127d(0x33b)]=this['__sharedGraphicsObject'],_0x4d3c5b[_0x4a127d(0x7b2)](_0x4127b8),this[_0x4a127d(0x418)]['__snakeParts'][_0x4a127d(0x72a)](_0x4127b8),_0x4127b8[_0x4a127d(0x4fa)]=this['__colors'][(_0x1d07e7[_0x4a127d(0x723)]-i-0x1)%this[_0x4a127d(0x3a8)][_0x4a127d(0x7d4)]];}_0x4d3c5b=this['__game']['__scene']['layer'](_0x5f0fcc),this['__graphics'][_0x4a127d(0x3b0)]=new this[(_0x4a127d(0x472))][(_0x4a127d(0x64c))](this[_0x4a127d(0x472)][_0x4a127d(0x661)][_0x4a127d(0x845)]),this[_0x4a127d(0x418)][_0x4a127d(0x3b0)][_0x4a127d(0x8d2)]['set'](0.5,0.5),this['__graphics'][_0x4a127d(0x3b0)][_0x4a127d(0x88c)]=!0x1,this[_0x4a127d(0x418)][_0x4a127d(0x3b0)][_0x4a127d(0x33b)]=this[_0x4a127d(0x4cc)],_0x4d3c5b[_0x4a127d(0x7b2)](this[_0x4a127d(0x418)][_0x4a127d(0x3b0)]),this[_0x4a127d(0x418)][_0x4a127d(0x30a)]=new this[(_0x4a127d(0x472))][(_0x4a127d(0x64c))](this['__game'][_0x4a127d(0x661)][_0x4a127d(0x845)]),this[_0x4a127d(0x418)][_0x4a127d(0x30a)][_0x4a127d(0x8d2)][_0x4a127d(0x4fb)](0.5,0.5),this[_0x4a127d(0x418)][_0x4a127d(0x30a)][_0x4a127d(0x88c)]=!0x1,this['__graphics'][_0x4a127d(0x30a)][_0x4a127d(0x33b)]=this['__sharedGraphicsObject'],_0x4d3c5b[_0x4a127d(0x7b2)](this[_0x4a127d(0x418)][_0x4a127d(0x30a)]),this[_0x4a127d(0x418)]['__mouth']=new this[(_0x4a127d(0x472))][(_0x4a127d(0x64c))](this[_0x4a127d(0x472)][_0x4a127d(0x661)][_0x4a127d(0x1f6)]),this[_0x4a127d(0x418)][_0x4a127d(0x86a)]['anchor'][_0x4a127d(0x4fb)](0.5,0.5),this[_0x4a127d(0x418)]['__mouth'][_0x4a127d(0x88c)]=!0x1,this[_0x4a127d(0x418)][_0x4a127d(0x86a)]['shared']=this['__sharedGraphicsObject'],_0x4d3c5b[_0x4a127d(0x7b2)](this[_0x4a127d(0x418)][_0x4a127d(0x86a)]),_0x4d3c5b=this['__game'][_0x4a127d(0x61b)][_0x4a127d(0x419)](_0x1d07e7[_0x4a127d(0x4ef)]),(this[_0x4a127d(0x418)]['__hatLeft']=new this['__game'][(_0x4a127d(0x64c))](this[_0x4a127d(0x472)][_0x4a127d(0x822)][_0x4a127d(0x26f)][0x0]),this[_0x4a127d(0x418)][_0x4a127d(0x25f)]['anchor'][_0x4a127d(0x4fb)](0.5,0x1),this[_0x4a127d(0x418)]['__hatLeft'][_0x4a127d(0x88c)]=!0x1,this['__graphics'][_0x4a127d(0x25f)]['shared']=this[_0x4a127d(0x4cc)],_0x4d3c5b[_0x4a127d(0x7b2)](this[_0x4a127d(0x418)][_0x4a127d(0x25f)]),this[_0x4a127d(0x418)][_0x4a127d(0x7a6)]=new this[(_0x4a127d(0x472))]['__spriteClass'](this[_0x4a127d(0x472)][_0x4a127d(0x822)][_0x4a127d(0x26f)][0x0]),this[_0x4a127d(0x418)][_0x4a127d(0x7a6)][_0x4a127d(0x8d2)][_0x4a127d(0x4fb)](0.5,0x1),this[_0x4a127d(0x418)][_0x4a127d(0x7a6)]['visible']=!0x1,this[_0x4a127d(0x418)][_0x4a127d(0x7a6)][_0x4a127d(0x33b)]=this['__sharedGraphicsObject'],_0x4d3c5b[_0x4a127d(0x7b2)](this[_0x4a127d(0x418)][_0x4a127d(0x7a6)]));},_0x206fe5[_0x4d3f07(0x775)][_0x4d3f07(0x513)]=function(){var _0x34625b=_0x4d3f07;for(var _0x2c8d86=0x0,_0x4d7cd9=0x2*_0x1d07e7[_0x34625b(0x5a4)],_0x545df8=0x0;_0x545df8<_0x1d07e7[_0x34625b(0x7b9)];_0x545df8++){var _0x5b0339=_0x545df8/_0x1d07e7[_0x34625b(0x7b9)],_0x679069=0x1-_0x5b0339*_0x5b0339*_0x5b0339*_0x1d07e7[_0x34625b(0x3ec)],_0x2ad764=this[_0x34625b(0x460)][_0x545df8-0x1];this[_0x34625b(0x460)][_0x545df8]=0x0==_0x545df8?{'x':this[_0x34625b(0x2c3)]['x']-0.5*_0x4d7cd9*Math[_0x34625b(0x916)](this[_0x34625b(0x504)]),'y':this[_0x34625b(0x2c3)]['y']-0.5*_0x4d7cd9*Math['sin'](this[_0x34625b(0x504)]),'s':this[_0x34625b(0x3c0)]*_0x679069,'u':this[_0x34625b(0x7cc)]}:{'x':_0x2ad764['x']-_0x4d7cd9*_0x2c8d86*Math[_0x34625b(0x916)](this[_0x34625b(0x504)]),'y':_0x2ad764['y']-_0x4d7cd9*_0x2c8d86*Math[_0x34625b(0x4da)](this['__dir']),'s':this[_0x34625b(0x3c0)]*_0x679069,'u':this[_0x34625b(0x7cc)]},_0x2c8d86=_0x679069,this[_0x34625b(0x418)]&&(this[_0x34625b(0x418)][_0x34625b(0x317)][_0x545df8][_0x34625b(0x4fa)]=this[_0x34625b(0x3a8)][(_0x1d07e7[_0x34625b(0x723)]-_0x545df8-0x1)%this[_0x34625b(0x3a8)][_0x34625b(0x7d4)]],this[_0x34625b(0x418)][_0x34625b(0x25f)]['frame']=this[_0x34625b(0x472)][_0x34625b(0x822)]['hats'][Math['max'](this['__hat'],0x0)],this[_0x34625b(0x418)][_0x34625b(0x7a6)][_0x34625b(0x62e)]=this[_0x34625b(0x472)][_0x34625b(0x822)][_0x34625b(0x26f)][Math['max'](this[_0x34625b(0x60e)],0x0)]);}},_0x206fe5[_0x4d3f07(0x775)][_0x4d3f07(0x330)]=function(){var _0x1fef03=_0x4d3f07,_0x91460a=this[_0x1fef03(0x460)][0x0],_0x1cfc9a=this[_0x1fef03(0x2c3)],_0x38842a=function(_0x107374,_0x54207b,_0x41ef24){return{'x':_0x107374['x']+_0x41ef24*_0x107374['d']['x']*_0x54207b,'y':_0x107374['y']+_0x41ef24*_0x107374['d']['y']*_0x54207b};},_0x417c4b=function(_0x5586c4,_0x1287f7,_0x46a2f3){return{'x':_0x46a2f3*_0x5586c4['d']['x']*_0x1287f7,'y':_0x46a2f3*_0x5586c4['d']['y']*_0x1287f7};},_0x123f62=_0x1cfc9a['x']-_0x91460a['x'],_0x2ec7d9=_0x1cfc9a['y']-_0x91460a['y'];_0x123f62+=0.1*Math[_0x1fef03(0x368)](),_0x123f62+=0.1*Math[_0x1fef03(0x368)]();var _0x16fa1e=Math[_0x1fef03(0x89f)](_0x123f62*_0x123f62+_0x2ec7d9*_0x2ec7d9);_0x91460a['d']={'x':_0x123f62/_0x16fa1e,'y':_0x2ec7d9/_0x16fa1e};var _0x46071a=_0x1d07e7['__snakeSegmentDistance']*this[_0x1fef03(0x3c0)],_0x1fc85b=_0x417c4b(_0x91460a,0x1,_0x46071a);_0x91460a['x']=_0x1cfc9a['x']-_0x1fc85b['x'],_0x91460a['y']=_0x1cfc9a['y']-_0x1fc85b['y'];for(var _0x49f375=0x1;_0x49f375<this[_0x1fef03(0x2d0)];_0x49f375++){var _0x13ce76=_0x49f375/this[_0x1fef03(0x2d0)],_0x19b43f=0x1-_0x13ce76*_0x13ce76*_0x13ce76*_0x1d07e7[_0x1fef03(0x3ec)],_0x3d2edc=(_0x49f375-0x1)/this[_0x1fef03(0x2d0)],_0x106488=0x1-_0x3d2edc*_0x3d2edc*_0x3d2edc*_0x1d07e7[_0x1fef03(0x3ec)],_0x451392=this[_0x1fef03(0x460)][_0x49f375];_0x46071a=_0x1d07e7[_0x1fef03(0x5a4)]*this[_0x1fef03(0x3c0)]*_0x106488;var _0x4480c5=_0x38842a(this['__partPositions'][_0x49f375-0x1],-0x1,_0x46071a);_0x123f62=_0x4480c5['x']-_0x451392['x'],_0x2ec7d9=_0x4480c5['y']-_0x451392['y'],_0x16fa1e=Math['sqrt'](_0x123f62*_0x123f62+_0x2ec7d9*_0x2ec7d9),(_0x451392['d']={'x':_0x123f62/_0x16fa1e,'y':_0x2ec7d9/_0x16fa1e},_0x451392['s']=this[_0x1fef03(0x3c0)]*_0x19b43f);var _0x389964=_0x417c4b(_0x451392,0x1,_0x46071a);_0x451392['x']=_0x4480c5['x']-_0x389964['x'],_0x451392['y']=_0x4480c5['y']-_0x389964['y'];}},(_0x206fe5[_0x4d3f07(0x775)][_0x4d3f07(0x20c)]=function(){var _0x1ba58b=_0x4d3f07;if(!this[_0x1ba58b(0x1ea)])return this[_0x1ba58b(0x4cc)][_0x1ba58b(0x88c)]=!0x1,void(this[_0x1ba58b(0x632)]&&(this[_0x1ba58b(0x418)][_0x1ba58b(0x317)][_0x1ba58b(0x4a4)](_0x4f657e=>{var _0x14dace=_0x1ba58b;_0x4f657e[_0x14dace(0x88c)]=!0x1;}),this[_0x1ba58b(0x418)]['__snakeShadowParts'][_0x1ba58b(0x4a4)](_0x4a614d=>{var _0x4a7c70=_0x1ba58b;_0x4a614d[_0x4a7c70(0x88c)]=!0x1;}),this['__graphics']['__hatLeft'][_0x1ba58b(0x88c)]=!0x1,this[_0x1ba58b(0x418)]['__hatRight'][_0x1ba58b(0x88c)]=!0x1,this['__deathTimer']=void 0x0,this[_0x1ba58b(0x5db)]=!0x1));this[_0x1ba58b(0x4cc)][_0x1ba58b(0x88c)]=!0x0,this[_0x1ba58b(0x4cc)][_0x1ba58b(0x4fa)]=void 0x0,performance[_0x1ba58b(0x2dd)]()<this[_0x1ba58b(0x6f9)]+_0x1d07e7[_0x1ba58b(0x7af)]&&Math[_0x1ba58b(0x4da)](0.01*performance[_0x1ba58b(0x2dd)]())>0.7&&(this[_0x1ba58b(0x4cc)][_0x1ba58b(0x4fa)]='0xFFFFFF');let _0x262e64=this[_0x1ba58b(0x2c3)]['x']*this['__game'][_0x1ba58b(0x61b)][_0x1ba58b(0x888)][_0x1ba58b(0x698)]['x']+this[_0x1ba58b(0x472)][_0x1ba58b(0x6c3)]['x']/0x2-this['__game']['__camera']['x'],_0x1ba808=this[_0x1ba58b(0x2c3)]['y']*this[_0x1ba58b(0x472)][_0x1ba58b(0x61b)]['camera'][_0x1ba58b(0x698)]['x']+this[_0x1ba58b(0x472)][_0x1ba58b(0x6c3)]['y']/0x2-this[_0x1ba58b(0x472)]['__camera']['y'];if(!this[_0x1ba58b(0x834)]){let _0x238524=0x14+_0x1d07e7[_0x1ba58b(0x829)]*this['__thick']/0x2;const _0x41c247=0.2,_0x41a0c1=this[_0x1ba58b(0x504)]>Math['PI'];this[_0x1ba58b(0x436)]!=_0x41a0c1&&Math[_0x1ba58b(0x3cf)](this[_0x1ba58b(0x504)]-Math['PI'])>_0x41c247&&this[_0x1ba58b(0x504)]>_0x41c247&&this[_0x1ba58b(0x504)]<0x2*Math['PI']-_0x41c247&&(this[_0x1ba58b(0x436)]=_0x41a0c1),_0x238524=this[_0x1ba58b(0x436)]?-_0x238524:_0x238524+0x18,this[_0x1ba58b(0x472)][_0x1ba58b(0x62b)][_0x1ba58b(0x7d0)]=_0x1ba58b(0x22b),this[_0x1ba58b(0x472)][_0x1ba58b(0x62b)][_0x1ba58b(0x4a9)]=0x4,this[_0x1ba58b(0x472)]['__ctx'][_0x1ba58b(0x237)](this[_0x1ba58b(0x60f)],_0x262e64,_0x1ba808+_0x238524),this[_0x1ba58b(0x472)]['__ctx'][_0x1ba58b(0x531)](this[_0x1ba58b(0x60f)],_0x262e64,_0x1ba808+_0x238524);}this[_0x1ba58b(0x2e1)]&&function(_0x558d01){var _0x22081e=_0x1ba58b;if(_0x558d01[_0x22081e(0x5db)]){if(_0x558d01[_0x22081e(0x418)][_0x22081e(0x86a)][_0x22081e(0x62e)]!=_0x558d01[_0x22081e(0x472)][_0x22081e(0x661)][_0x22081e(0x1f6)]){const _0x2eb13c=performance[_0x22081e(0x2dd)]()-_0x558d01[_0x22081e(0x68f)],_0x26176d=0xc8,_0x2fddd7=0xfa;_0x558d01[_0x22081e(0x418)][_0x22081e(0x86a)][_0x22081e(0x62e)]==_0x558d01[_0x22081e(0x472)][_0x22081e(0x661)][_0x22081e(0x5d4)]&&_0x2eb13c>_0x26176d?_0x558d01['__setMouth'](0x2):_0x2eb13c>_0x26176d+_0x2fddd7&&_0x558d01[_0x22081e(0x57b)](0x0);}const _0x597af5=_0x558d01[_0x22081e(0x437)]?0x1-Math[_0x22081e(0x3cf)](0.15*Math[_0x22081e(0x916)](_0x558d01[_0x22081e(0x504)]+Math['PI']/0x2)):0x1,_0x17f91f=_0x558d01['__accelerate']?0x1-Math[_0x22081e(0x3cf)](0.15*Math[_0x22081e(0x4da)](_0x558d01[_0x22081e(0x504)]+Math['PI']/0x2)):0x1;for(var _0x402352=0x0;_0x402352<_0x558d01['__length'];_0x402352++){var _0x1390f0=_0x402352/_0x558d01['__length'],_0x396162=0x1-_0x1390f0*_0x1390f0*_0x1390f0*_0x1d07e7[_0x22081e(0x3ec)],_0x4de10d=_0x558d01['__graphics'][_0x22081e(0x317)][_0x1d07e7[_0x22081e(0x723)]-_0x402352-0x1];_0x4de10d[_0x22081e(0x53d)][_0x22081e(0x4fb)](_0x558d01[_0x22081e(0x460)][_0x402352]['x'],_0x558d01[_0x22081e(0x460)][_0x402352]['y']),_0x4de10d[_0x22081e(0x88c)]=!0x0,_0x4de10d[_0x22081e(0x6da)][_0x22081e(0x4fb)](_0x558d01[_0x22081e(0x3c0)]*_0x396162*_0x597af5,_0x558d01[_0x22081e(0x3c0)]*_0x396162*_0x17f91f);var _0x330d1d=_0x558d01[_0x22081e(0x418)][_0x22081e(0x65e)][_0x1d07e7[_0x22081e(0x723)]-_0x402352-0x1];_0x330d1d[_0x22081e(0x53d)]['set'](_0x558d01[_0x22081e(0x460)][_0x402352]['x'],_0x558d01['__partPositions'][_0x402352]['y']),_0x330d1d[_0x22081e(0x88c)]=!0x0;var _0x5c72f9=0x1+_0x1d07e7['__outlinePixels']/(_0x1d07e7[_0x22081e(0x829)]*_0x558d01[_0x22081e(0x3c0)]*_0x396162);_0x330d1d[_0x22081e(0x6da)][_0x22081e(0x4fb)](_0x558d01[_0x22081e(0x3c0)]*_0x396162*_0x5c72f9*_0x597af5,_0x558d01[_0x22081e(0x3c0)]*_0x396162*_0x5c72f9*_0x17f91f);}const _0x1be1c8=Math[_0x22081e(0x493)](_0x558d01[_0x22081e(0x460)][0x0]['d']['y'],_0x558d01[_0x22081e(0x460)][0x0]['d']['x']),_0x1c5cfd=0x23*_0x558d01[_0x22081e(0x3c0)],_0x5da613=0x28*_0x1d07e7['__DEG2RAD'],_0x319ffd=_0x558d01[_0x22081e(0x418)]['__eyeLeft'],_0x5505d0=_0x1be1c8-_0x5da613;_0x319ffd[_0x22081e(0x6da)]['set'](_0x558d01[_0x22081e(0x3c0)]/0x2),_0x319ffd[_0x22081e(0x53d)][_0x22081e(0x4fb)](_0x558d01['__partPositions'][0x0]['x']+_0x1c5cfd*Math[_0x22081e(0x916)](_0x5505d0),_0x558d01['__partPositions'][0x0]['y']+_0x1c5cfd*Math[_0x22081e(0x4da)](_0x5505d0)),_0x319ffd['rotation']=_0x1be1c8-0x5a*_0x1d07e7[_0x22081e(0x816)],_0x319ffd[_0x22081e(0x88c)]=!0x0;const _0x50912f=_0x558d01[_0x22081e(0x418)][_0x22081e(0x30a)],_0x5c9f46=_0x1be1c8+_0x5da613;_0x50912f[_0x22081e(0x6da)][_0x22081e(0x4fb)](_0x558d01[_0x22081e(0x3c0)]/0x2),_0x50912f['position'][_0x22081e(0x4fb)](_0x558d01[_0x22081e(0x460)][0x0]['x']+_0x1c5cfd*Math[_0x22081e(0x916)](_0x5c9f46),_0x558d01['__partPositions'][0x0]['y']+_0x1c5cfd*Math[_0x22081e(0x4da)](_0x5c9f46)),_0x50912f['rotation']=_0x1be1c8-0x5a*_0x1d07e7['__DEG2RAD'],_0x50912f[_0x22081e(0x88c)]=!0x0;const _0x454256=_0x558d01[_0x22081e(0x418)]['__mouth'];if(_0x454256[_0x22081e(0x6da)][_0x22081e(0x4fb)](_0x558d01[_0x22081e(0x3c0)]/0x2),_0x454256[_0x22081e(0x53d)][_0x22081e(0x4fb)](_0x558d01[_0x22081e(0x460)][0x0]['x']+_0x1c5cfd*Math['cos'](_0x1be1c8),_0x558d01['__partPositions'][0x0]['y']+_0x1c5cfd*Math[_0x22081e(0x4da)](_0x1be1c8)),_0x454256[_0x22081e(0x838)]=_0x1be1c8-0x5a*_0x1d07e7['__DEG2RAD'],_0x454256[_0x22081e(0x88c)]=!0x0,_0x558d01[_0x22081e(0x60e)]>=0x0){const _0x5673d8=_0x558d01[_0x22081e(0x418)]['__hatLeft'];_0x5673d8[_0x22081e(0x6da)][_0x22081e(0x4fb)](_0x558d01[_0x22081e(0x3c0)]);let _0x39fb66=-_0x1d07e7['__snakeBaseWidth']/0x2*_0x558d01[_0x22081e(0x3c0)]*0.6,_0x2b6620=_0x1d07e7[_0x22081e(0x79f)][_0x558d01[_0x22081e(0x60e)]]?0.8:0x0;if(_0x1d07e7[_0x22081e(0x79f)][_0x558d01[_0x22081e(0x60e)]]||(_0x39fb66*=0.8),0x1f!=_0x558d01[_0x22081e(0x60e)]&&0x20!=_0x558d01[_0x22081e(0x60e)]||(_0x39fb66*=-0x1),_0x5673d8['position'][_0x22081e(0x4fb)](_0x558d01[_0x22081e(0x460)][0x0]['x']+_0x39fb66*Math['cos'](_0x1be1c8-_0x2b6620),_0x558d01[_0x22081e(0x460)][0x0]['y']+_0x39fb66*Math[_0x22081e(0x4da)](_0x1be1c8-_0x2b6620)),_0x5673d8[_0x22081e(0x838)]=_0x1be1c8-0x5a*_0x1d07e7[_0x22081e(0x816)],_0x5673d8[_0x22081e(0x88c)]=!0x0,_0x1d07e7[_0x22081e(0x79f)][_0x558d01[_0x22081e(0x60e)]]){const _0x1acce6=_0x558d01[_0x22081e(0x418)][_0x22081e(0x7a6)];_0x1acce6[_0x22081e(0x6da)][_0x22081e(0x4fb)](-_0x558d01[_0x22081e(0x3c0)],_0x558d01['__thick']),_0x1acce6[_0x22081e(0x53d)][_0x22081e(0x4fb)](_0x558d01['__partPositions'][0x0]['x']+_0x39fb66*Math[_0x22081e(0x916)](_0x1be1c8+_0x2b6620),_0x558d01['__partPositions'][0x0]['y']+_0x39fb66*Math[_0x22081e(0x4da)](_0x1be1c8+_0x2b6620)),_0x1acce6[_0x22081e(0x838)]=_0x1be1c8-0x5a*_0x1d07e7[_0x22081e(0x816)],_0x1acce6[_0x22081e(0x88c)]=!0x0;}}}const _0x30124c=_0x558d01['__accelerate']?_0x1d07e7[_0x22081e(0x65d)]:0x1,_0x1745d6=0x6*serverSpeed*_0x30124c*_0x558d01['__game']['dt'];let _0x4aadeb=_0x558d01[_0x22081e(0x418)][_0x22081e(0x86a)]['position']['x']+_0x1745d6*Math[_0x22081e(0x916)](_0x558d01['__dir']),_0x133c92=_0x558d01[_0x22081e(0x418)]['__mouth'][_0x22081e(0x53d)]['y']+_0x1745d6*Math['sin'](_0x558d01['__dir']);_0x558d01[_0x22081e(0x62a)][_0x22081e(0x2db)](_0x1e9c0d=>{var _0x2aa668=_0x22081e,_0xeb9fac=_0x1e9c0d[_0x2aa668(0x53d)]['x']-_0x4aadeb,_0x4cb8d8=_0x1e9c0d['position']['y']-_0x133c92,_0x1e4bc2=0.15*(_0x1e9c0d[_0x2aa668(0x6da)]['x']-0.1);_0x1e4bc2<0.01?(_0x558d01[_0x2aa668(0x602)](_0x1e9c0d),_0x1e9c0d['remove'](),_0x558d01['__foodsEating']=_0x558d01['__foodsEating'][_0x2aa668(0x8de)](_0x505e67=>_0x505e67!==_0x1e9c0d)):(_0x1e9c0d[_0x2aa668(0x6da)][_0x2aa668(0x4fb)](_0x1e9c0d[_0x2aa668(0x6da)]['x']-_0x1e4bc2,_0x1e9c0d[_0x2aa668(0x6da)]['y']-_0x1e4bc2),_0x1e9c0d['position'][_0x2aa668(0x4fb)](_0x1e9c0d[_0x2aa668(0x53d)]['x']-0.15*_0xeb9fac,_0x1e9c0d[_0x2aa668(0x53d)]['y']-0.15*_0x4cb8d8));}),_0x558d01[_0x22081e(0x632)]&&performance['now']()>_0x558d01[_0x22081e(0x632)]&&(_0x558d01[_0x22081e(0x738)](),_0x558d01[_0x22081e(0x632)]=void 0x0);}(this);},_0x206fe5[_0x4d3f07(0x775)][_0x4d3f07(0x57b)]=function(_0x27e8da){var _0x5bc67b=_0x4d3f07,_0x4589f2=[this['__game'][_0x5bc67b(0x661)]['__KawaiiSnake_Mouth0000'],this['__game']['__frames']['__KawaiiSnake_Mouth0001'],this[_0x5bc67b(0x472)][_0x5bc67b(0x661)][_0x5bc67b(0x54f)],this[_0x5bc67b(0x472)][_0x5bc67b(0x661)][_0x5bc67b(0x627)]];this[_0x5bc67b(0x418)]['__mouth']['frame']=_0x4589f2[_0x27e8da];},_0x206fe5[_0x4d3f07(0x775)][_0x4d3f07(0x5ee)]=function(_0x1fc6d2){var _0x3f55de=_0x4d3f07;this[_0x3f55de(0x1ea)]?(this['__foodsEating'][_0x3f55de(0x72a)](_0x1fc6d2),this['__setMouth'](0x1),this[_0x3f55de(0x68f)]=performance[_0x3f55de(0x2dd)]()):(this[_0x3f55de(0x602)](_0x1fc6d2),_0x1fc6d2[_0x3f55de(0x7ed)]());},_0x206fe5[_0x4d3f07(0x775)]['__die']=function(){var _0x31318e=_0x4d3f07;this[_0x31318e(0x5db)]=!0x1,this['__foodsEating']['forEach'](_0x71378c=>{var _0x555a72=_0x31318e;_0x71378c[_0x555a72(0x7ed)]();}),this['__foodsEating']=[],this[_0x31318e(0x870)]();},_0x206fe5[_0x4d3f07(0x775)][_0x4d3f07(0x870)]=function(){var _0x3183a3=_0x4d3f07;if(!this['__inScreen'])return void(this['__sharedGraphicsObject'][_0x3183a3(0x88c)]=!0x1);this['__graphics'][_0x3183a3(0x3b0)][_0x3183a3(0x62e)]=this[_0x3183a3(0x472)][_0x3183a3(0x661)][_0x3183a3(0x5e3)],this['__graphics'][_0x3183a3(0x30a)][_0x3183a3(0x62e)]=this[_0x3183a3(0x472)]['__frames'][_0x3183a3(0x910)],this[_0x3183a3(0x57b)](0x3);const _0x27d36c=_0x19dfec[_0x3183a3(0x3cb)];this[_0x3183a3(0x45a)][_0x3183a3(0x72a)](setTimeout(()=>{var _0x112ca8=_0x3183a3;this[_0x112ca8(0x418)]['__eyeLeft'][_0x112ca8(0x88c)]=!0x1,this['__graphics'][_0x112ca8(0x30a)][_0x112ca8(0x88c)]=!0x1,this[_0x112ca8(0x418)][_0x112ca8(0x86a)][_0x112ca8(0x88c)]=!0x1,this[_0x112ca8(0x418)][_0x112ca8(0x25f)][_0x112ca8(0x88c)]=!0x1,this[_0x112ca8(0x418)][_0x112ca8(0x7a6)]['visible']=!0x1;},_0x1d07e7['__snakeTimeToRealDeath']));const _0x295eff=Math[_0x3183a3(0x6a9)](this[_0x3183a3(0x2d0)]/0x2);for(let _0x55dbba=0x0;_0x55dbba<_0x295eff;_0x55dbba++){const _0x1acc32=_0x55dbba/_0x295eff;for(let _0x50a83e=0x0;_0x50a83e<0x2;_0x50a83e++)this['__timeouts']['push'](setTimeout(()=>{var _0x7f4cd0=_0x3183a3;this[_0x7f4cd0(0x418)][_0x7f4cd0(0x317)][_0x1d07e7[_0x7f4cd0(0x723)]-0x2*_0x55dbba-_0x50a83e-0x1][_0x7f4cd0(0x88c)]=!0x1,this[_0x7f4cd0(0x418)][_0x7f4cd0(0x65e)][_0x1d07e7['__maxSnakeSize']-0x2*_0x55dbba-_0x50a83e-0x1][_0x7f4cd0(0x88c)]=!0x1,0x0==_0x50a83e&&this[_0x7f4cd0(0x509)](this['__partPositions'][0x2*_0x55dbba]);},_0x1d07e7[_0x3183a3(0x811)]+0x258*_0x27d36c(_0x1acc32,0x0,0x1,0x1)));}},_0x206fe5[_0x4d3f07(0x775)][_0x4d3f07(0x509)]=function(_0x245189){var _0x25cf44=_0x4d3f07;this[_0x25cf44(0x472)][_0x25cf44(0x264)](_0x25cf44(0x306),0.6,0.2);const _0x1bde94=this['__game'][_0x25cf44(0x61b)][_0x25cf44(0x419)](_0x1d07e7[_0x25cf44(0x4dc)]);for(var _0x3374fd=0x0;_0x3374fd<0x14;_0x3374fd++){const _0x61d390=new this['__game']['__spriteClass'](this[_0x25cf44(0x472)][_0x25cf44(0x661)][_0x25cf44(0x4e5)]);_0x61d390[_0x25cf44(0x8d2)]['set'](0.5,0.5),_0x61d390['position'][_0x25cf44(0x4fb)](_0x245189['x'],_0x245189['y']),_0x61d390[_0x25cf44(0x4fa)]=this['__colors'][(_0x1d07e7['__maxSnakeSize']-_0x3374fd-0x1)%this[_0x25cf44(0x3a8)][_0x25cf44(0x7d4)]],_0x1bde94[_0x25cf44(0x7b2)](_0x61d390);const _0xedc056=this[_0x25cf44(0x3c0)]+0.1*Math[_0x25cf44(0x368)](),_0x21750d=0x64*_0xedc056,_0x3a12c5=Math['random']()*(0x2*Math['PI']),_0x25e882=Math[_0x25cf44(0x916)](_0x3a12c5)*_0x21750d,_0x20869c=Math[_0x25cf44(0x4da)](_0x3a12c5)*_0x21750d,_0x3f19ca=0x64;_0x1a0076(_0x61d390[_0x25cf44(0x53d)],{'x':_0x61d390['position']['x'],'y':_0x61d390['position']['y']},{'x':_0x61d390['position']['x']+_0x25e882,'y':_0x61d390[_0x25cf44(0x53d)]['y']+_0x20869c},_0x3f19ca,_0x19dfec[_0x25cf44(0x90b)]),_0x1a0076(_0x61d390[_0x25cf44(0x6da)],{'x':0.7*_0xedc056,'y':0.7*_0xedc056},{'x':_0xedc056,'y':_0xedc056},_0x3f19ca,_0x19dfec['easeOutQuart'],()=>{var _0xd83b6a=_0x25cf44;_0x1a0076(_0x61d390['scale'],{'x':_0xedc056,'y':_0xedc056},{'x':0x0,'y':0x0},_0x3f19ca,_0x19dfec[_0xd83b6a(0x90b)],()=>{_0x61d390['remove']();});});}},_0x206fe5[_0x4d3f07(0x775)]['__clean']=function(){var _0x129bf8=_0x4d3f07;this[_0x129bf8(0x62a)][_0x129bf8(0x4a4)](_0x40daf1=>{_0x40daf1['remove']();}),this[_0x129bf8(0x8c7)]();},_0x206fe5[_0x4d3f07(0x775)][_0x4d3f07(0x8c7)]=function(){var _0x24831e=_0x4d3f07;this[_0x24831e(0x77a)]=[],this[_0x24831e(0x815)]={'input':{},'seq':0x0},this[_0x24831e(0x296)]=0x0,this[_0x24831e(0x62a)]=[],this['__eatTimer']=void 0x0,this['__foodsEaten']=_0x1d07e7[_0x24831e(0x351)],this[_0x24831e(0x632)]=void 0x0,this[_0x24831e(0x1ea)]=!0x0,this[_0x24831e(0x437)]=!0x1,this[_0x24831e(0x79e)]=0x0,this[_0x24831e(0x834)]=!0x1;},_0x206fe5[_0x4d3f07(0x775)][_0x4d3f07(0x6f6)]=function(){var _0x25daa8=_0x4d3f07;this[_0x25daa8(0x2e1)]=!0x1,this[_0x25daa8(0x731)](),this[_0x25daa8(0x45a)][_0x25daa8(0x4a4)](_0x5661e0=>{clearTimeout(_0x5661e0);}),this[_0x25daa8(0x45a)]=[],this[_0x25daa8(0x418)][_0x25daa8(0x3b0)][_0x25daa8(0x62e)]=this['__game'][_0x25daa8(0x661)][_0x25daa8(0x845)],this[_0x25daa8(0x418)][_0x25daa8(0x30a)][_0x25daa8(0x62e)]=this[_0x25daa8(0x472)][_0x25daa8(0x661)][_0x25daa8(0x845)],this[_0x25daa8(0x57b)](0x0),this[_0x25daa8(0x5b3)](!0x1),this[_0x25daa8(0x5db)]=!0x0,this[_0x25daa8(0x4cc)][_0x25daa8(0x88c)]=!0x1;},_0x206fe5[_0x4d3f07(0x775)][_0x4d3f07(0x5b3)]=function(_0x5ba0aa){var _0x14d9df=_0x4d3f07;this[_0x14d9df(0x418)][_0x14d9df(0x317)][_0x14d9df(0x4a4)](_0x1ace84=>{var _0xa6ee2c=_0x14d9df;_0x1ace84[_0xa6ee2c(0x88c)]=_0x5ba0aa;}),this[_0x14d9df(0x418)][_0x14d9df(0x65e)][_0x14d9df(0x4a4)](_0x139562=>{var _0x217848=_0x14d9df;_0x139562[_0x217848(0x88c)]=_0x5ba0aa;});});const _0x28451d=function(_0x3be8dd){var _0x12f25e=_0x4d3f07;this[_0x12f25e(0x28d)]=_0x3be8dd,this[_0x12f25e(0x721)]=void 0x0!==this['instance'],this[_0x12f25e(0x202)]=[],this[_0x12f25e(0x4b8)]=[];for(var _0x47823d=0x0;_0x47823d<_0x1d07e7[_0x12f25e(0x56f)];_0x47823d++)this[_0x12f25e(0x4b8)][_0x12f25e(0x72a)](new _0x206fe5(this)),this['players'][_0x47823d][_0x12f25e(0x7cc)]=_0x47823d;this['__foodPositionHash']={},this[_0x12f25e(0x784)]={},this[_0x12f25e(0x721)]&&this['initServer'](),this[_0x12f25e(0x850)]=window[_0x12f25e(0x24d)]?window[_0x12f25e(0x24d)]:this[_0x12f25e(0x24d)],this[_0x12f25e(0x4f6)]=window[_0x12f25e(0x922)]?window[_0x12f25e(0x922)]:this[_0x12f25e(0x922)],this[_0x12f25e(0x794)]=0.0001,this[_0x12f25e(0x89a)]=performance[_0x12f25e(0x2dd)](),this[_0x12f25e(0x874)]=0.016,this['_dt']=performance['now'](),this['_dte']=performance['now'](),this[_0x12f25e(0x490)]();};_0x28451d[_0x4d3f07(0x775)][_0x4d3f07(0x895)]=function(){var _0x35de5c=_0x4d3f07;this[_0x35de5c(0x380)]=[];for(let _0x3a6fd3=0x0;_0x3a6fd3<_0x1d07e7['__maxClients'];_0x3a6fd3++)this[_0x35de5c(0x380)][_0x35de5c(0x72a)](_0x3a6fd3);},_0x28451d[_0x4d3f07(0x775)][_0x4d3f07(0x702)]=function(){var _0x2d57a9=_0x4d3f07;return this[_0x2d57a9(0x380)][_0x2d57a9(0x1eb)]();},_0x28451d['prototype'][_0x4d3f07(0x69c)]=function(_0x5f5714){var _0xb10e7b=_0x4d3f07;this['availableTinyIds'][_0xb10e7b(0x72a)](_0x5f5714);},_0x28451d[_0x4d3f07(0x775)]['__update']=function(_0x17e475){var _0xca714b=_0x4d3f07;_0x17e475=performance[_0xca714b(0x2dd)](),this['dt']=0.016,this['lastFrameTime']=_0x17e475,this[_0xca714b(0x87c)]();var _0x707d33=this['__rAF'];this[_0xca714b(0x708)]=_0x707d33(this['__update'][_0xca714b(0x858)](this),this[_0xca714b(0x540)]);},_0x28451d[_0x4d3f07(0x775)][_0x4d3f07(0x6fe)]=function(_0x267637){var _0x1e71da=_0x4d3f07,_0x125893={};return _0x125893['hashX']=Math[_0x1e71da(0x659)](_0x267637[_0x1e71da(0x2c3)]['x']/_0x1d07e7['__maxScreenWidth']),_0x125893[_0x1e71da(0x42b)]=Math['floor'](_0x267637[_0x1e71da(0x2c3)]['y']/_0x1d07e7[_0x1e71da(0x719)]),_0x125893[_0x1e71da(0x251)]=_0x125893['hashX']+'_'+_0x125893[_0x1e71da(0x42b)],_0x125893;},_0x28451d[_0x4d3f07(0x775)][_0x4d3f07(0x293)]=function(_0x4d6c4d){var _0x15958a=_0x4d3f07,_0x29a172=0x0;if(_0x4d6c4d[_0x15958a(0x815)]){const _0x25c964=_0x4d6c4d[_0x15958a(0x815)][_0x15958a(0x766)];if(_0x25c964['l']&&(_0x29a172=-0x1),_0x25c964['r']&&(_0x29a172=0x1),void 0x0!==_0x25c964['ma']){var _0x3007f0=this[_0x15958a(0x521)](_0x4d6c4d['__dir'],_0x25c964['ma']);_0x29a172=_0x3007f0>0.05?0x1:_0x3007f0<-0.05?-0x1:0x0;}_0x4d6c4d['__accelerate']=_0x25c964['a'],0x0==_0x4d6c4d['__foodsEaten']&&(_0x4d6c4d[_0x15958a(0x437)]=!0x1);}return _0x29a172;},_0x28451d[_0x4d3f07(0x775)][_0x4d3f07(0x29f)]=function(_0x3685c0){var _0xcf2f84=serverSpeed*_0x3685c0['a']*this['dt'];return{'x':_0x3685c0['x']*_0xcf2f84,'y':_0x3685c0['y']*_0xcf2f84};},_0x28451d[_0x4d3f07(0x775)]['__createTimer']=function(){var _0x137023=_0x4d3f07;setInterval(function(){var _0x262b7a=_0x473b;this[_0x262b7a(0x23e)]=performance[_0x262b7a(0x2dd)]()-this[_0x262b7a(0x428)],this[_0x262b7a(0x428)]=performance['now'](),this[_0x262b7a(0x874)]+=this[_0x262b7a(0x23e)]/0x3e8;}[_0x137023(0x858)](this),0x4);},_0x28451d[_0x4d3f07(0x775)][_0x4d3f07(0x618)]=function(_0x45f456,_0x2be614,_0x51bedd){var _0x54da75=_0x4d3f07;_0x2be614=Math[_0x54da75(0x23f)](0x3e8,_0x2be614);var _0xbbd6f4=!0x0;null==_0x51bedd&&(_0xbbd6f4=!0x1,_0x51bedd=Math[_0x54da75(0x2a7)](0x186a0*Math[_0x54da75(0x368)]()));for(var _0x275777,_0xe1943a=_0x4953ed(_0x51bedd),_0x383c7c=Math[_0x54da75(0x23f)](_0x1d07e7['__foodExplosionMaxFoods'],_0x2be614),_0x35ff94=Math[_0x54da75(0x6a9)](_0x2be614/_0x383c7c),_0x17920f=Math[_0x54da75(0x2d8)](0x1,Math[_0x54da75(0x659)](_0x383c7c/_0x45f456[_0x54da75(0x7d4)])),_0x580f6a=[],_0x126868=this[_0x54da75(0x5d2)](_0x2be614),_0x4ea6a7=0x0;_0x4ea6a7<_0x45f456['length'];_0x4ea6a7+=0x2){const _0x41fe63=[];for(var _0x21e04d=0x0;_0x21e04d<_0x17920f;_0x21e04d++){const _0x56d291={'x':_0x45f456[_0x4ea6a7],'y':_0x45f456[_0x4ea6a7+0x1]};_0x275777=this[_0x54da75(0x502)](this[_0x54da75(0x440)](_0x126868,_0xe1943a),_0x56d291);var _0x4b36dc,_0x2bb0e0=Math[_0x54da75(0x89f)](_0x275777['x']*_0x275777['x']+_0x275777['y']*_0x275777['y']);if(_0x2bb0e0>_0x1d07e7[_0x54da75(0x809)]){var _0x5e7a62=_0x1d07e7[_0x54da75(0x809)]/_0x2bb0e0;_0x275777['x']*=_0x5e7a62,_0x275777['y']*=_0x5e7a62;}null!=(_0x4b36dc=_0xbbd6f4?this['__getFoodIdFromPosition'](_0x275777):this['__addFood'](_0x275777,_0x35ff94))&&_0x41fe63[_0x54da75(0x72a)](_0x4b36dc);}_0x580f6a[_0x54da75(0x72a)](_0x41fe63);}return{'seed':_0x51bedd,'foodsCreated':_0x580f6a};},_0x28451d[_0x4d3f07(0x775)][_0x4d3f07(0x5d2)]=function(_0x4e9997){var _0x1dc2f7=_0x4d3f07,_0x44eb9e=_0x1d07e7[_0x1dc2f7(0x1e9)]-_0x1d07e7['__snakeStartWidth'],_0x10058c=Math[_0x1dc2f7(0x23f)](_0x4e9997/_0x1d07e7['__snakeMaxWidthFood'],0x1);return _0x2967df[_0x1dc2f7(0x646)][_0x1dc2f7(0x3c6)](_0x10058c,_0x1d07e7['__snakeStartWidth'],_0x44eb9e,0x1);},_0x28451d['prototype']['__getLengthBasedOnFoods']=function(_0x38a2f3){var _0x36288a=_0x4d3f07;const _0x441bd3=_0x1d07e7[_0x36288a(0x7b9)]-_0x1d07e7[_0x36288a(0x2b9)],_0x5395eb=Math[_0x36288a(0x23f)](_0x38a2f3/_0x1d07e7['__snakeMaxSegmentsFood'],0x1);return Math[_0x36288a(0x659)](_0x2967df[_0x36288a(0x646)][_0x36288a(0x27b)](_0x5395eb,_0x1d07e7[_0x36288a(0x2b9)],_0x441bd3,0x1));},_0x28451d[_0x4d3f07(0x775)]['__addFoods']=function(_0x33897d,_0x512620){var _0xd1782e=_0x4d3f07,_0x135934=!0x0;null==_0x512620&&(_0x135934=!0x1,_0x512620=Math[_0xd1782e(0x2a7)](0x186a0*Math[_0xd1782e(0x368)]()));for(var _0x2d897c,_0x52a3d9=_0x4953ed(_0x512620),_0x1ba3c0=[],_0x5029de=0x0;_0x5029de<_0x33897d;_0x5029de++){var _0x3e3828;_0x2d897c=this['__randomPointInCircle'](_0x1d07e7[_0xd1782e(0x809)],_0x52a3d9),null!=(_0x3e3828=_0x135934?this[_0xd1782e(0x806)](_0x2d897c):this['__addFood'](_0x2d897c))&&_0x1ba3c0[_0xd1782e(0x72a)](_0x3e3828);}return{'seed':_0x512620,'foodsCreated':_0x1ba3c0};},_0x28451d[_0x4d3f07(0x775)][_0x4d3f07(0x8d9)]=function(_0x470974,_0x1a871b){var _0x464315=_0x4d3f07,_0x59328e=this[_0x464315(0x806)](_0x470974);_0x470974=this['__getFoodPositionFromId'](_0x59328e);var _0x2690a3=this[_0x464315(0x856)](_0x470974,_0x1d07e7[_0x464315(0x5cc)],_0x1d07e7[_0x464315(0x719)]);null==this['__foodPositionHash'][_0x2690a3]&&(this[_0x464315(0x83f)][_0x2690a3]={});var _0x55dc28=0x1;if(_0x470974['x']%_0x1d07e7[_0x464315(0x26b)]!=0x0&&_0x470974['y']%_0x1d07e7[_0x464315(0x26b)]!=0x0||(_0x55dc28=_0x1d07e7[_0x464315(0x7ea)]),_0x1a871b&&(_0x55dc28=_0x1a871b),!this[_0x464315(0x83f)][_0x2690a3][_0x59328e])return this[_0x464315(0x83f)][_0x2690a3][_0x59328e]=_0x55dc28,this[_0x464315(0x3b4)]++,_0x59328e;},_0x28451d['prototype']['__addFoodToCollisionHash']=function(_0x2cbcad,_0x4d8ac0){var _0x29b43e=_0x4d3f07,_0x5e9ea9=this[_0x29b43e(0x806)](_0x2cbcad),_0x5bd466=this[_0x29b43e(0x856)](_0x2cbcad,_0x1d07e7['__foodCollisionSize']);null==this[_0x29b43e(0x784)][_0x5bd466]&&(this['__foodCollisionHash'][_0x5bd466]={}),this[_0x29b43e(0x784)][_0x5bd466][_0x5e9ea9]=_0x4d8ac0;},_0x28451d['prototype']['__existsInFoodCollisionHash']=function(_0x148cb8,_0x3b8b91){var _0x1618ac=_0x4d3f07,_0x55073e=this['__getPositionHash'](_0x148cb8,_0x1d07e7[_0x1618ac(0x405)]);return null!=this[_0x1618ac(0x784)][_0x55073e]&&this[_0x1618ac(0x784)][_0x55073e][_0x3b8b91];},_0x28451d[_0x4d3f07(0x775)]['__checkFoodCollision']=function(_0x13b67d,_0x5634f6){var _0xaaf408=_0x4d3f07;for(var _0x38eddc=_0x1d07e7[_0xaaf408(0x829)]*_0x13b67d[_0xaaf408(0x3c0)]+_0x1d07e7['__foodCollisionTolerance'],_0x3fef84=_0x38eddc/0x2,_0x5c297b=Math[_0xaaf408(0x659)](_0x38eddc/(0x2*_0x1d07e7[_0xaaf408(0x405)]))+0x1,_0x2757a9=Math[_0xaaf408(0x659)](_0x13b67d['__pos']['x']/_0x1d07e7[_0xaaf408(0x405)]),_0x53542f=Math[_0xaaf408(0x659)](_0x13b67d[_0xaaf408(0x2c3)]['y']/_0x1d07e7[_0xaaf408(0x405)]),_0x3a78ee=-_0x5c297b;_0x3a78ee<=_0x5c297b;_0x3a78ee++)for(var _0x102f92=-_0x5c297b;_0x102f92<=_0x5c297b;_0x102f92++){var _0x51d52e=_0x2757a9+_0x3a78ee+'_'+(_0x53542f+_0x102f92);if(null!=this[_0xaaf408(0x784)][_0x51d52e]){var _0xa309cc=this,_0x210170=this['__foodCollisionHash'][_0x51d52e];Object[_0xaaf408(0x2e5)](_0x210170)['forEach'](function(_0x45d2de){var _0xcc7352=_0xaaf408,_0x59f3f9=_0xa309cc[_0xcc7352(0x586)](_0x45d2de),_0x3745db=_0x59f3f9['x']-_0x13b67d[_0xcc7352(0x2c3)]['x'],_0x264b4a=_0x59f3f9['y']-_0x13b67d[_0xcc7352(0x2c3)]['y'];if(Math[_0xcc7352(0x89f)](_0x3745db*_0x3745db+_0x264b4a*_0x264b4a)<_0x3fef84){var _0x5d4d59=_0x210170[_0x45d2de];_0x5634f6(_0x13b67d,_0x5d4d59);}});}}return[];},_0x28451d[_0x4d3f07(0x775)][_0x4d3f07(0x7ff)]=function(_0x3fa9b9){return 0x1;},_0x28451d[_0x4d3f07(0x775)]['__getCameraZoomHashOverflow']=function(_0x5daea3){var _0x4037ea=_0x4d3f07;return Math[_0x4037ea(0x2a7)](Math['max'](0x1,0x1/this[_0x4037ea(0x7ff)](_0x5daea3)));},_0x28451d[_0x4d3f07(0x775)]['__getPositionHash']=function(_0x484d8e,_0x13dd0,_0x28aca0){var _0x2cbefe=_0x4d3f07;return Math[_0x2cbefe(0x659)](_0x484d8e['x']/_0x13dd0)+'_'+Math['floor'](_0x484d8e['y']/(_0x28aca0||_0x13dd0));},_0x28451d['prototype']['__getFoodIdFromPosition']=function(_0x3ffefe){var _0x4cb4e3=_0x4d3f07,_0x4022ec=_0x1d07e7[_0x4cb4e3(0x809)]/_0x1d07e7['__foodMinDistribution'],_0xb33983=0x2*_0x4022ec;return(Math[_0x4cb4e3(0x659)](_0x3ffefe['y']/_0x1d07e7[_0x4cb4e3(0x45b)])+_0x4022ec)*_0xb33983+(Math[_0x4cb4e3(0x659)](_0x3ffefe['x']/_0x1d07e7[_0x4cb4e3(0x45b)])+_0x4022ec);},_0x28451d['prototype'][_0x4d3f07(0x586)]=function(_0x1d5306){var _0x5563c4=_0x4d3f07,_0x1d0dc5=_0x1d07e7[_0x5563c4(0x809)]/_0x1d07e7[_0x5563c4(0x45b)],_0x1a4881=0x2*_0x1d0dc5,_0x1db79a={};return _0x1db79a['x']=(_0x1d5306%_0x1a4881-_0x1d0dc5)*_0x1d07e7[_0x5563c4(0x45b)],_0x1db79a['y']=(Math[_0x5563c4(0x659)](_0x1d5306/_0x1a4881)-_0x1d0dc5)*_0x1d07e7[_0x5563c4(0x45b)],_0x1db79a;},_0x28451d[_0x4d3f07(0x775)][_0x4d3f07(0x48d)]=function(_0x5ee648){var _0x134b2c=_0x4d3f07,_0x536488=this['__getFoodPositionFromId'](_0x5ee648),_0x2b11b0=this[_0x134b2c(0x856)](_0x536488,_0x1d07e7[_0x134b2c(0x5cc)],_0x1d07e7[_0x134b2c(0x719)]);this[_0x134b2c(0x83f)][_0x2b11b0]&&delete this[_0x134b2c(0x83f)][_0x2b11b0][_0x5ee648],this[_0x134b2c(0x83f)][_0x2b11b0]&&0x0===Object[_0x134b2c(0x2e5)](this[_0x134b2c(0x83f)][_0x2b11b0])[_0x134b2c(0x7d4)]&&this[_0x134b2c(0x83f)][_0x2b11b0]['constructor']===Object&&delete this[_0x134b2c(0x83f)][_0x2b11b0],this[_0x134b2c(0x6e6)](_0x5ee648);},_0x28451d[_0x4d3f07(0x775)][_0x4d3f07(0x6e6)]=function(_0x4ed328){var _0x50e8f9=_0x4d3f07,_0x561192=this[_0x50e8f9(0x586)](_0x4ed328),_0x52ec7a=this[_0x50e8f9(0x856)](_0x561192,_0x1d07e7[_0x50e8f9(0x405)]);this[_0x50e8f9(0x784)][_0x52ec7a]&&delete this[_0x50e8f9(0x784)][_0x52ec7a][_0x4ed328],this[_0x50e8f9(0x784)][_0x52ec7a]&&0x0===Object[_0x50e8f9(0x2e5)](this[_0x50e8f9(0x784)][_0x52ec7a])['length']&&this[_0x50e8f9(0x784)][_0x52ec7a][_0x50e8f9(0x44d)]===Object&&delete this[_0x50e8f9(0x784)][_0x52ec7a];},_0x28451d[_0x4d3f07(0x775)][_0x4d3f07(0x440)]=function(_0x4c43bf,_0x200511){var _0x2bf83c=_0x4d3f07;_0x200511||(_0x200511=Math['random']),_0x200511||(_0x200511=Math[_0x2bf83c(0x368)]);let _0xefb16f,_0x1e8727,_0x1eab68=Number['POSITIVE_INFINITY'];const _0x146efe=0x2*_0x4c43bf,_0x40ad88=_0x4c43bf*_0x4c43bf;for(;_0x1eab68>_0x40ad88;)_0x1eab68=(_0xefb16f=_0x200511()*_0x146efe-_0x4c43bf)*_0xefb16f+(_0x1e8727=_0x200511()*_0x146efe-_0x4c43bf)*_0x1e8727;return{'x':_0xefb16f,'y':_0x1e8727};},_0x28451d[_0x4d3f07(0x775)][_0x4d3f07(0x2c3)]=function(_0x1fd436){return{'x':_0x1fd436['x'],'y':_0x1fd436['y']};},_0x28451d[_0x4d3f07(0x775)][_0x4d3f07(0x502)]=function(_0x1217db,_0x5dc9a6){return{'x':_0x1217db['x']+_0x5dc9a6['x'],'y':_0x1217db['y']+_0x5dc9a6['y']};},_0x28451d[_0x4d3f07(0x775)]['__stopUpdate']=function(){var _0x5f10e0=_0x4d3f07;this[_0x5f10e0(0x4f6)](this[_0x5f10e0(0x708)]);},_0x28451d['prototype'][_0x4d3f07(0x5a8)]=function(_0x43dfd5,_0x749ba6,_0x536022){var _0x51567e=_0x4d3f07,_0x17a7b2=Number(_0x536022);return _0x43dfd5+(_0x17a7b2=Math[_0x51567e(0x2d8)](0x0,Math[_0x51567e(0x23f)](0x1,_0x17a7b2)))*(_0x749ba6-_0x43dfd5);},_0x28451d['prototype'][_0x4d3f07(0x88b)]=function(){var _0xd1a1c4=_0x4d3f07;function _0x856ece(_0x2d211b){var _0x3f2a7a=_0x473b,_0x1c2d33=_0x2d211b[_0x3f2a7a(0x421)](0x10);return 0x1==_0x1c2d33[_0x3f2a7a(0x7d4)]?'0'+_0x1c2d33:_0x1c2d33;}var _0x4ca45f,_0x2801ed,_0x30379f,_0x1e377b=Math[_0xd1a1c4(0x368)](),_0x40601f=0.25+0.7*Math[_0xd1a1c4(0x368)](),_0x32d302=0.4+0.55*Math[_0xd1a1c4(0x368)](),_0x2c39b3=function(_0xafd0f,_0x56d44c,_0x1bef08){return _0x1bef08<0x0&&(_0x1bef08+=0x1),_0x1bef08>0x1&&(_0x1bef08-=0x1),_0x1bef08<0x1/0x6?_0xafd0f+0x6*(_0x56d44c-_0xafd0f)*_0x1bef08:_0x1bef08<0.5?_0x56d44c:_0x1bef08<0x2/0x3?_0xafd0f+(_0x56d44c-_0xafd0f)*(0x2/0x3-_0x1bef08)*0x6:_0xafd0f;},_0x507c54=_0x32d302<0.5?_0x32d302*(0x1+_0x40601f):_0x32d302+_0x40601f-_0x32d302*_0x40601f,_0x174406=0x2*_0x32d302-_0x507c54;return _0x4ca45f=Math[_0xd1a1c4(0x2a7)](0xff*_0x2c39b3(_0x174406,_0x507c54,_0x1e377b+0x1/0x3)),_0x2801ed=Math[_0xd1a1c4(0x2a7)](0xff*_0x2c39b3(_0x174406,_0x507c54,_0x1e377b)),_0x30379f=Math[_0xd1a1c4(0x2a7)](0xff*_0x2c39b3(_0x174406,_0x507c54,_0x1e377b-0x1/0x3)),'0x'+_0x856ece(_0x4ca45f)+_0x856ece(_0x2801ed)+_0x856ece(_0x30379f);},_0x28451d[_0x4d3f07(0x775)][_0x4d3f07(0x8f1)]=function(_0x42c1da,_0x1272a4,_0x4a05b8){var _0x598cd6=_0x4d3f07;return{'x':this[_0x598cd6(0x5a8)](_0x42c1da['x'],_0x1272a4['x'],_0x4a05b8),'y':this['__lerp'](_0x42c1da['y'],_0x1272a4['y'],_0x4a05b8)};},_0x28451d[_0x4d3f07(0x775)][_0x4d3f07(0x521)]=function(_0x4c0a27,_0x43b28d){var _0x5ccc12=(_0x43b28d-_0x4c0a27+Math['PI'])%(0x2*Math['PI'])-Math['PI'];return _0x5ccc12<-Math['PI']?_0x5ccc12+0x2*Math['PI']:_0x5ccc12;},_0x28451d[_0x4d3f07(0x775)]['__verifyUserName']=function(_0x2d7a85){var _0x31b421=_0x4d3f07;return _0x2d7a85[_0x31b421(0x2d9)]()[_0x31b421(0x63d)](/[\W_]+/g,'')[_0x31b421(0x4fd)](0x0,_0x1d07e7[_0x31b421(0x928)]);},_0x28451d[_0x4d3f07(0x775)][_0x4d3f07(0x530)]=function(_0x527553){var _0x315e46=_0x4d3f07;for(var _0x572451=0x0;_0x572451<_0x527553['__length'];_0x572451+=0x2){var _0x488236=_0x527553['__partPositions'][_0x572451],_0x5da4bc=Math[_0x315e46(0x659)](_0x488236['x']/_0x1d07e7['__snakeCollisionSize'])+'_'+Math['floor'](_0x488236['y']/_0x1d07e7['__snakeCollisionSize']);null==this[_0x315e46(0x624)][_0x5da4bc]&&(this[_0x315e46(0x624)][_0x5da4bc]=[]),this[_0x315e46(0x624)][_0x5da4bc][_0x315e46(0x72a)](_0x488236);}},_0x28451d[_0x4d3f07(0x775)][_0x4d3f07(0x38e)]=function(_0x43517e){var _0x36060e=_0x4d3f07,_0x15dff5,_0x168577,_0x43cc95=_0x43517e['__pos']['x'],_0x593f3f=_0x43517e[_0x36060e(0x2c3)]['y'],_0x3c84e7=Math[_0x36060e(0x659)](_0x43cc95/_0x1d07e7['__snakeCollisionSize']),_0x18db5a=Math['floor'](_0x593f3f/_0x1d07e7[_0x36060e(0x527)]),_0xeeb452=[];for(_0x15dff5=_0x3c84e7-0x1;_0x15dff5<=_0x3c84e7+0x1;_0x15dff5++)for(_0x168577=_0x18db5a-0x1;_0x168577<=_0x18db5a+0x1;_0x168577++){var _0x2a65ac=_0x15dff5+'_'+_0x168577;null!=this[_0x36060e(0x624)][_0x2a65ac]&&(_0xeeb452=_0xeeb452[_0x36060e(0x417)](this[_0x36060e(0x624)][_0x2a65ac]));}if(0x0==_0xeeb452[_0x36060e(0x7d4)])return!0x1;var _0x15f9c1=performance[_0x36060e(0x2dd)]();if(_0x15f9c1<_0x43517e['__invisibilityTime'])return!0x1;for(var _0x529d97=0x0;_0x529d97<_0xeeb452[_0x36060e(0x7d4)];_0x529d97++){var _0x269888=_0xeeb452[_0x529d97];if(_0x269888['u']!==_0x43517e[_0x36060e(0x7cc)]&&!(_0x15f9c1<this[_0x36060e(0x4b8)][_0x269888['u']][_0x36060e(0x572)])){var _0x3a987f=_0x1d07e7[_0x36060e(0x829)]*_0x43517e[_0x36060e(0x3c0)]/0x2,_0x5852f1=_0x1d07e7[_0x36060e(0x829)]*_0x269888['s']/0x2,_0x54c626=_0x43cc95-_0x269888['x'],_0x3c9882=_0x593f3f-_0x269888['y'];if(Math[_0x36060e(0x89f)](_0x54c626*_0x54c626+_0x3c9882*_0x3c9882)<_0x3a987f+_0x5852f1-_0x1d07e7['__collisionIntolerancePixels'])return _0x269888;}}return!0x1;},_0x28451d[_0x4d3f07(0x775)][_0x4d3f07(0x82a)]=function(){var _0x4d0973=_0x4d3f07;for(var _0x5ee481=[],_0x241ded=[...this['players']][_0x4d0973(0x923)](function(_0xc933d8,_0x2a895b){var _0x352be5=_0x4d0973;return _0x2a895b[_0x352be5(0x3dd)]-_0xc933d8[_0x352be5(0x3dd)];}),_0x2a4e3d=0x0;_0x2a4e3d<_0x241ded['length'];_0x2a4e3d++){var _0x2ada41=_0x241ded[_0x2a4e3d],_0x4ad52c=_0x1022b4({},_0x2ada41[_0x4d0973(0x2c3)]);_0x5ee481[_0x4d0973(0x7d4)]<_0x1d07e7['__leaderBoardLength']&&(_0x4ad52c['u']=_0x2ada41['__id'],_0x4ad52c['f']=_0x2ada41[_0x4d0973(0x3dd)],this[_0x4d0973(0x4b8)][_0x2a4e3d][_0x4d0973(0x4ea)]=_0x2a4e3d+0x1),_0x2ada41[_0x4d0973(0x2e1)]&&_0x2ada41['__alive']&&_0x5ee481[_0x4d0973(0x72a)](_0x4ad52c);}return _0x5ee481;};const _0x4cf8ab=[_0x4d3f07(0x43f),_0x4d3f07(0x34f),_0x4d3f07(0x545),_0x4d3f07(0x3bc),_0x4d3f07(0x217),_0x4d3f07(0x524),'Leydi',_0x4d3f07(0x901),_0x4d3f07(0x240),'esraa','EMERSON','NELEO',_0x4d3f07(0x2e4),_0x4d3f07(0x58e),'SLITHERKING',_0x4d3f07(0x45f),_0x4d3f07(0x6cc),_0x4d3f07(0x678),_0x4d3f07(0x670),_0x4d3f07(0x367),_0x4d3f07(0x451),_0x4d3f07(0x276),'GE',_0x4d3f07(0x44a),'HBINJFR',_0x4d3f07(0x7f1),_0x4d3f07(0x223),_0x4d3f07(0x332),'ROAN',_0x4d3f07(0x528),_0x4d3f07(0x5c9),'GOFGOL',_0x4d3f07(0x4db),_0x4d3f07(0x8f8),_0x4d3f07(0x68e),'RR',_0x4d3f07(0x6c1),_0x4d3f07(0x378),_0x4d3f07(0x62f),_0x4d3f07(0x85f),_0x4d3f07(0x629),_0x4d3f07(0x423),_0x4d3f07(0x2de),_0x4d3f07(0x1fa),'YUYU',_0x4d3f07(0x370),_0x4d3f07(0x41d),_0x4d3f07(0x6cb),_0x4d3f07(0x7ef),'SHANESAW',_0x4d3f07(0x6a3),'69',_0x4d3f07(0x748),'GOAWAY',_0x4d3f07(0x2ae),_0x4d3f07(0x907),_0x4d3f07(0x397),'TINYBLUE',_0x4d3f07(0x546),_0x4d3f07(0x5bc),'CLAY',_0x4d3f07(0x86e),'J',_0x4d3f07(0x7dd),_0x4d3f07(0x6f3),_0x4d3f07(0x3d9),'SLIMSHADY',_0x4d3f07(0x480),_0x4d3f07(0x478),_0x4d3f07(0x76b),_0x4d3f07(0x294),'AJ','SAM','I','HEY',_0x4d3f07(0x270),'SLITHERSPACE',_0x4d3f07(0x58f),_0x4d3f07(0x5bb),_0x4d3f07(0x86d),_0x4d3f07(0x85d),_0x4d3f07(0x438),'AS','SUP',_0x4d3f07(0x6b2),_0x4d3f07(0x4de),_0x4d3f07(0x2b4),'76',_0x4d3f07(0x4e9),_0x4d3f07(0x32b),_0x4d3f07(0x287),_0x4d3f07(0x4f0),_0x4d3f07(0x50b),'CG','SIKEEEEEE','CARLIYONNA',_0x4d3f07(0x609),_0x4d3f07(0x226),_0x4d3f07(0x6db),'BISH','LA',_0x4d3f07(0x872),'CAKEJELLO',_0x4d3f07(0x6e2),_0x4d3f07(0x91c),_0x4d3f07(0x25d),'X',_0x4d3f07(0x2d2),_0x4d3f07(0x31b),_0x4d3f07(0x5de),_0x4d3f07(0x63c),_0x4d3f07(0x458),'BITCH',_0x4d3f07(0x235),_0x4d3f07(0x593),'NO','LEXI',_0x4d3f07(0x597),'HAYHAY',_0x4d3f07(0x2a5),_0x4d3f07(0x248),'H',_0x4d3f07(0x3e1),_0x4d3f07(0x8a0),'INSCHOOL',_0x4d3f07(0x7ca),_0x4d3f07(0x420),'TY',_0x4d3f07(0x400),_0x4d3f07(0x1df),'PRO',_0x4d3f07(0x80a),_0x4d3f07(0x36f),'BLACKPINK',_0x4d3f07(0x5f0),_0x4d3f07(0x90e),'U2',_0x4d3f07(0x51c),_0x4d3f07(0x568),_0x4d3f07(0x292),_0x4d3f07(0x4d4),_0x4d3f07(0x77b),'ABBY',_0x4d3f07(0x4b3),_0x4d3f07(0x7e9),'HI',_0x4d3f07(0x73a),_0x4d3f07(0x8eb),_0x4d3f07(0x25c),_0x4d3f07(0x595),_0x4d3f07(0x637),_0x4d3f07(0x25e),_0x4d3f07(0x5d9),_0x4d3f07(0x577),'BIGBIO',_0x4d3f07(0x725),_0x4d3f07(0x61f),_0x4d3f07(0x35d),'CHIKILOVE08',_0x4d3f07(0x6b8),_0x4d3f07(0x52b),_0x4d3f07(0x60d),_0x4d3f07(0x8b1),_0x4d3f07(0x4f3),_0x4d3f07(0x5f1),_0x4d3f07(0x55b),_0x4d3f07(0x412),_0x4d3f07(0x6f1),_0x4d3f07(0x3ee),_0x4d3f07(0x87e),_0x4d3f07(0x243),'VY',_0x4d3f07(0x41e),_0x4d3f07(0x880),'NTM',_0x4d3f07(0x758),_0x4d3f07(0x3a3),'GINGERBREAD',_0x4d3f07(0x442),'BB','K','CROUCHY','CASINO',_0x4d3f07(0x2ce),_0x4d3f07(0x7ab),_0x4d3f07(0x24f),_0x4d3f07(0x4f7),_0x4d3f07(0x224),_0x4d3f07(0x6ea),_0x4d3f07(0x92a),_0x4d3f07(0x54e),_0x4d3f07(0x578),_0x4d3f07(0x218),_0x4d3f07(0x544),_0x4d3f07(0x47b),'FUKYOU',_0x4d3f07(0x206),'BUM',_0x4d3f07(0x743),_0x4d3f07(0x320),_0x4d3f07(0x825),_0x4d3f07(0x281),_0x4d3f07(0x39d),_0x4d3f07(0x82d),_0x4d3f07(0x67e),_0x4d3f07(0x707),_0x4d3f07(0x63e),_0x4d3f07(0x4a6),'CHOCOLATE','IMBLUE',_0x4d3f07(0x757),_0x4d3f07(0x7f4),_0x4d3f07(0x2fc),_0x4d3f07(0x51b),_0x4d3f07(0x1f7),'COPPERHEAD',_0x4d3f07(0x64e),_0x4d3f07(0x902),_0x4d3f07(0x61c),'MANGLE','YOURMOMISGAY',_0x4d3f07(0x5ea),_0x4d3f07(0x475),_0x4d3f07(0x8ac),_0x4d3f07(0x53b),_0x4d3f07(0x37a),_0x4d3f07(0x680),_0x4d3f07(0x47c),'MRCLEAN69',_0x4d3f07(0x8e6),_0x4d3f07(0x899),_0x4d3f07(0x285),'JT',_0x4d3f07(0x78f),'INQ',_0x4d3f07(0x857),_0x4d3f07(0x4a2),_0x4d3f07(0x8b6),'BI',_0x4d3f07(0x746),'NICKNAME',_0x4d3f07(0x230),'123456789',_0x4d3f07(0x21b),_0x4d3f07(0x1f2),_0x4d3f07(0x55e),_0x4d3f07(0x7a3),'O',_0x4d3f07(0x278),'HYPER',_0x4d3f07(0x6e1),'B','II',_0x4d3f07(0x6bd),'YY',_0x4d3f07(0x866),_0x4d3f07(0x34c),'DWDW',_0x4d3f07(0x3bd),_0x4d3f07(0x430),_0x4d3f07(0x7b3),'JOURNEYYYYY',_0x4d3f07(0x749),_0x4d3f07(0x53e),_0x4d3f07(0x259),'JASON',_0x4d3f07(0x76e),_0x4d3f07(0x31a),'KJ','KENOYT',_0x4d3f07(0x274),_0x4d3f07(0x1e8),_0x4d3f07(0x415),_0x4d3f07(0x8d6),_0x4d3f07(0x556),_0x4d3f07(0x43c),'DVSFN',_0x4d3f07(0x4e6),'DAD','MJ',_0x4d3f07(0x8c8),_0x4d3f07(0x6c2),_0x4d3f07(0x750),_0x4d3f07(0x67b),'OK',_0x4d3f07(0x385),'HUNTER',_0x4d3f07(0x72f),_0x4d3f07(0x50f),_0x4d3f07(0x5df),_0x4d3f07(0x626),'R',_0x4d3f07(0x2cf),_0x4d3f07(0x488),'OM','M',_0x4d3f07(0x771),'TTTAAA','RHRBM',_0x4d3f07(0x2a3),_0x4d3f07(0x7b5),_0x4d3f07(0x59c),'SLIVER',_0x4d3f07(0x5ad),_0x4d3f07(0x81e),'LILLY',_0x4d3f07(0x69f),'BIGFRED',_0x4d3f07(0x7f2),_0x4d3f07(0x225),'CHAMELEON','C',_0x4d3f07(0x2e7),_0x4d3f07(0x8ab),'FEET',_0x4d3f07(0x8ea),'Bananaaa',_0x4d3f07(0x3b7),_0x4d3f07(0x301),'LOVE101',_0x4d3f07(0x5e6),_0x4d3f07(0x76a),_0x4d3f07(0x353),_0x4d3f07(0x734),_0x4d3f07(0x865),_0x4d3f07(0x7e3),'UNICORN',_0x4d3f07(0x2ca),_0x4d3f07(0x48c),_0x4d3f07(0x5c5),'BEEF','LOL',_0x4d3f07(0x694),_0x4d3f07(0x5ce),_0x4d3f07(0x450),_0x4d3f07(0x651),_0x4d3f07(0x63f),'OH',_0x4d3f07(0x4f2),_0x4d3f07(0x869),_0x4d3f07(0x8a6),_0x4d3f07(0x479),'2',_0x4d3f07(0x381),_0x4d3f07(0x32c),_0x4d3f07(0x660),'ED','BEEBLE',_0x4d3f07(0x365),_0x4d3f07(0x826),_0x4d3f07(0x37d),'GOAWAYORDIEE',_0x4d3f07(0x7e1),_0x4d3f07(0x497),'G',_0x4d3f07(0x81b),_0x4d3f07(0x935),_0x4d3f07(0x700),'FE4RLICIA',_0x4d3f07(0x409),'COLL',_0x4d3f07(0x555),_0x4d3f07(0x752),_0x4d3f07(0x605),'GO',_0x4d3f07(0x8f3),'MADIE',_0x4d3f07(0x774),'RETARD','BOTO','BUTTHOLE','ROLANDO',_0x4d3f07(0x39c),_0x4d3f07(0x326),_0x4d3f07(0x2c6),'NAME','GG','REEE',_0x4d3f07(0x3a5),_0x4d3f07(0x810),_0x4d3f07(0x80e),'5',_0x4d3f07(0x328),'TATIANA',_0x4d3f07(0x924),_0x4d3f07(0x334),_0x4d3f07(0x4be),'DOOM',_0x4d3f07(0x2ab),_0x4d3f07(0x6a1),_0x4d3f07(0x2f8),_0x4d3f07(0x33c),_0x4d3f07(0x3d4),'DADDY','FUNNEH',_0x4d3f07(0x70f),_0x4d3f07(0x2b7),'ME',_0x4d3f07(0x30b),_0x4d3f07(0x687),'LIVE',_0x4d3f07(0x40d),_0x4d3f07(0x8da),_0x4d3f07(0x26e),_0x4d3f07(0x7b8),_0x4d3f07(0x256),_0x4d3f07(0x56a),_0x4d3f07(0x8e5),_0x4d3f07(0x506),_0x4d3f07(0x233),'BENDOVER',_0x4d3f07(0x615),_0x4d3f07(0x5da),'NICK',_0x4d3f07(0x30f),'DANANA','YE',_0x4d3f07(0x3d7),_0x4d3f07(0x2a2),_0x4d3f07(0x7e4),_0x4d3f07(0x2bc),'P1NK',_0x4d3f07(0x722),'D','HELL',_0x4d3f07(0x82e),_0x4d3f07(0x6e8),_0x4d3f07(0x7a7),_0x4d3f07(0x918),'ZICLONE','JJJJJ','DSJHVNAKSDMCSDKXC',_0x4d3f07(0x4a3),'HESUUUUUS',_0x4d3f07(0x3fd),_0x4d3f07(0x790),'SART','MEMELORD','HELLUR',_0x4d3f07(0x579),_0x4d3f07(0x6af),'CLO',_0x4d3f07(0x23d),_0x4d3f07(0x467),_0x4d3f07(0x65a),_0x4d3f07(0x75f),_0x4d3f07(0x741),_0x4d3f07(0x308),'1QUINCY',_0x4d3f07(0x58b),'BAILEY',_0x4d3f07(0x2b8),_0x4d3f07(0x2e3),_0x4d3f07(0x2c4),_0x4d3f07(0x1e6),_0x4d3f07(0x565),_0x4d3f07(0x8e8),_0x4d3f07(0x8ba),'BUTT',_0x4d3f07(0x4c2),_0x4d3f07(0x689),_0x4d3f07(0x63b),_0x4d3f07(0x90c),'KY',_0x4d3f07(0x4d2),'NEWUPDATES',_0x4d3f07(0x3d0),'CHARLI',_0x4d3f07(0x4c4),_0x4d3f07(0x2d6),_0x4d3f07(0x3c4),_0x4d3f07(0x652),'ALIEN',_0x4d3f07(0x848),'OLIVIA',_0x4d3f07(0x5ba),'KILL','ILIKETURTLEZ','JK',_0x4d3f07(0x685),_0x4d3f07(0x56d),'UR','NN',_0x4d3f07(0x6dd),_0x4d3f07(0x338),_0x4d3f07(0x64b),'JL',_0x4d3f07(0x643),_0x4d3f07(0x7f7),'NUGGETZ','GREEN','E',_0x4d3f07(0x46b),_0x4d3f07(0x441),_0x4d3f07(0x6b1),'SAMSAM','IIIIIIII',_0x4d3f07(0x6d2),_0x4d3f07(0x8c4),_0x4d3f07(0x879),_0x4d3f07(0x596),_0x4d3f07(0x469),'DARK','SAKURA',_0x4d3f07(0x51d),_0x4d3f07(0x22e),'XD',_0x4d3f07(0x59a),_0x4d3f07(0x22c),_0x4d3f07(0x24a),_0x4d3f07(0x8d1),_0x4d3f07(0x465),'IO','REVAN',_0x4d3f07(0x32f),_0x4d3f07(0x69d),_0x4d3f07(0x932),_0x4d3f07(0x607),_0x4d3f07(0x244),_0x4d3f07(0x755),_0x4d3f07(0x3aa),_0x4d3f07(0x520),'BRYADEN',_0x4d3f07(0x3cd),_0x4d3f07(0x5c2),_0x4d3f07(0x8f5),_0x4d3f07(0x258),'NATALIA',_0x4d3f07(0x6d3),_0x4d3f07(0x2be),_0x4d3f07(0x889),_0x4d3f07(0x735),_0x4d3f07(0x362),'OOT',_0x4d3f07(0x489),_0x4d3f07(0x8f9),_0x4d3f07(0x747),'HD','NOOB1234',_0x4d3f07(0x32e),'YOUDEAD','SOPHIE',_0x4d3f07(0x67a),'BIG',_0x4d3f07(0x7e2),'HAAHERRRRR','SD',_0x4d3f07(0x383),_0x4d3f07(0x90a),'ALINAGAME',_0x4d3f07(0x788),_0x4d3f07(0x913),_0x4d3f07(0x2da),'IS','APPLEJACKS',_0x4d3f07(0x44f),_0x4d3f07(0x813),_0x4d3f07(0x56e),'RUDDDDDDDY',_0x4d3f07(0x638),_0x4d3f07(0x39b),'TEDDYGAMER',_0x4d3f07(0x704),_0x4d3f07(0x4ac),'LATE',_0x4d3f07(0x355),_0x4d3f07(0x3d1),'HH',_0x4d3f07(0x65c),_0x4d3f07(0x1f4),_0x4d3f07(0x58c),'JAYCE',_0x4d3f07(0x78c),_0x4d3f07(0x7f3),'KINGSPACE',_0x4d3f07(0x4bd),_0x4d3f07(0x887),'SC',_0x4d3f07(0x681),_0x4d3f07(0x255),_0x4d3f07(0x1f8),_0x4d3f07(0x5f3),_0x4d3f07(0x3bf),_0x4d3f07(0x7d5),_0x4d3f07(0x7fb),_0x4d3f07(0x44b),_0x4d3f07(0x57a),_0x4d3f07(0x796),_0x4d3f07(0x8c6),_0x4d3f07(0x925),_0x4d3f07(0x4b4),'T',_0x4d3f07(0x388),_0x4d3f07(0x433),_0x4d3f07(0x800),'SONIC','IT','KITTY','PACKZ',_0x4d3f07(0x6ac),'BROOKLYNN','IDUMB','SY','CH',_0x4d3f07(0x656),'STRAWBERRY','PRODICK','ZZ',_0x4d3f07(0x30c),_0x4d3f07(0x239),_0x4d3f07(0x204),_0x4d3f07(0x5f9),_0x4d3f07(0x300),_0x4d3f07(0x28f),_0x4d3f07(0x22f),'FIONA',_0x4d3f07(0x7cd),'YOMOMMA',_0x4d3f07(0x408),'MIA',_0x4d3f07(0x47a),_0x4d3f07(0x315),'SLITHERIO',_0x4d3f07(0x5ca),_0x4d3f07(0x55c),_0x4d3f07(0x340),_0x4d3f07(0x35a),_0x4d3f07(0x5d7),_0x4d3f07(0x642),'CRUZZZ',_0x4d3f07(0x49c),_0x4d3f07(0x399),'SINK',_0x4d3f07(0x5c1),'MIKCHEZDURR09','KIRITO',_0x4d3f07(0x3fa),_0x4d3f07(0x8e2),_0x4d3f07(0x205),_0x4d3f07(0x6cd),'MEIE',_0x4d3f07(0x57d),_0x4d3f07(0x762),'SUPERRONKID',_0x4d3f07(0x1e2),_0x4d3f07(0x269),_0x4d3f07(0x8bf),_0x4d3f07(0x601),'ISAIAH',_0x4d3f07(0x508),_0x4d3f07(0x503),'WOLFIE','STOOP',_0x4d3f07(0x1f9),_0x4d3f07(0x671),_0x4d3f07(0x936),'MYJEFFY',_0x4d3f07(0x552),_0x4d3f07(0x6de),_0x4d3f07(0x221),'PP',_0x4d3f07(0x347),_0x4d3f07(0x91f),_0x4d3f07(0x72c),_0x4d3f07(0x21f),'JHJMHMJHJ',_0x4d3f07(0x7e5),_0x4d3f07(0x675),_0x4d3f07(0x7da),_0x4d3f07(0x452),_0x4d3f07(0x542),_0x4d3f07(0x55d),_0x4d3f07(0x68d),_0x4d3f07(0x4d6),_0x4d3f07(0x3b9),'PIP','OMG','JESS',_0x4d3f07(0x8b5),_0x4d3f07(0x75e),'NI',_0x4d3f07(0x44e),_0x4d3f07(0x46d),_0x4d3f07(0x492),_0x4d3f07(0x3c7),_0x4d3f07(0x2d4),'KI',_0x4d3f07(0x66a),_0x4d3f07(0x759),_0x4d3f07(0x3f4),_0x4d3f07(0x4b5),'CRISPYWAFFELG',_0x4d3f07(0x6fa),'FOOD',_0x4d3f07(0x679),_0x4d3f07(0x231),_0x4d3f07(0x3a1),_0x4d3f07(0x20d),_0x4d3f07(0x8b2),'ASIOSAMIGOS',_0x4d3f07(0x271),_0x4d3f07(0x23c),_0x4d3f07(0x68c),_0x4d3f07(0x505),_0x4d3f07(0x558),'MOCHEI','BTSIS',_0x4d3f07(0x213),_0x4d3f07(0x5c6),'SHORTY',_0x4d3f07(0x494),'KKKLO',_0x4d3f07(0x8ef),_0x4d3f07(0x348),_0x4d3f07(0x831),'S',_0x4d3f07(0x2f0),_0x4d3f07(0x878),_0x4d3f07(0x5d5),_0x4d3f07(0x2aa),'JUIAN',_0x4d3f07(0x6bb),_0x4d3f07(0x908),_0x4d3f07(0x331),'IVIBE',_0x4d3f07(0x1e0),_0x4d3f07(0x298),_0x4d3f07(0x787),_0x4d3f07(0x917),_0x4d3f07(0x42d),'HUJJHG','JJ','MUSHROOM',_0x4d3f07(0x842),_0x4d3f07(0x6ba),_0x4d3f07(0x416),_0x4d3f07(0x67c),_0x4d3f07(0x3a6),_0x4d3f07(0x3ab),_0x4d3f07(0x603),_0x4d3f07(0x38c),_0x4d3f07(0x538),'TEHEHEHE',_0x4d3f07(0x73d),_0x4d3f07(0x692),'KK',_0x4d3f07(0x666),_0x4d3f07(0x394),_0x4d3f07(0x526),'LEO','WILDFIRE','HEEHEE',_0x4d3f07(0x905),_0x4d3f07(0x782),_0x4d3f07(0x7e0),_0x4d3f07(0x27a),_0x4d3f07(0x77c),'BEEGIRL62',_0x4d3f07(0x635),_0x4d3f07(0x51a),_0x4d3f07(0x1ed),_0x4d3f07(0x8b4),_0x4d3f07(0x832),_0x4d3f07(0x3ac),_0x4d3f07(0x823),_0x4d3f07(0x5a0),_0x4d3f07(0x3f8),_0x4d3f07(0x42e),_0x4d3f07(0x5b4),_0x4d3f07(0x4cb),_0x4d3f07(0x769),'TOKYOSREVENGE',_0x4d3f07(0x5be),_0x4d3f07(0x76f),_0x4d3f07(0x318),_0x4d3f07(0x2b1),_0x4d3f07(0x66b),_0x4d3f07(0x780),_0x4d3f07(0x3f1),_0x4d3f07(0x57e),_0x4d3f07(0x5c3),_0x4d3f07(0x839),_0x4d3f07(0x841),_0x4d3f07(0x51e),_0x4d3f07(0x5dd),_0x4d3f07(0x920),'DJ',_0x4d3f07(0x724),'KREWFAM4LIFETOAST',_0x4d3f07(0x1e3),_0x4d3f07(0x4cf),_0x4d3f07(0x590),_0x4d3f07(0x7d1),_0x4d3f07(0x410),_0x4d3f07(0x71b),_0x4d3f07(0x690),'ZEN',_0x4d3f07(0x84a),_0x4d3f07(0x3ff),_0x4d3f07(0x2c9),'HII','ABK',_0x4d3f07(0x587),_0x4d3f07(0x41b),_0x4d3f07(0x8c2),'LJ',_0x4d3f07(0x6a0),'ARRRRRRRRR','AD',_0x4d3f07(0x3c9),'PJ',_0x4d3f07(0x779),_0x4d3f07(0x669),_0x4d3f07(0x3f5),_0x4d3f07(0x709),_0x4d3f07(0x68b),'PARTYPOOPER','VIRTUALGOD','JIMIN',_0x4d3f07(0x7ec),_0x4d3f07(0x7d9),_0x4d3f07(0x3be),_0x4d3f07(0x884),'NOOOO','DIVINE',_0x4d3f07(0x3a0),_0x4d3f07(0x345),'DUSTY',_0x4d3f07(0x890),_0x4d3f07(0x8b9),'SETH',_0x4d3f07(0x883),_0x4d3f07(0x2ff),_0x4d3f07(0x5e0),_0x4d3f07(0x612),'ANNEMARIE','JM',_0x4d3f07(0x8cf),_0x4d3f07(0x833),'ALPHYS','KORLEAH',_0x4d3f07(0x2ee),_0x4d3f07(0x5bf),_0x4d3f07(0x46f),_0x4d3f07(0x873),_0x4d3f07(0x6e9),'BOBMANGO41',_0x4d3f07(0x447),_0x4d3f07(0x664),'AUSTYN',_0x4d3f07(0x8d7),_0x4d3f07(0x835),'DRE',_0x4d3f07(0x4f9),'BALLER',_0x4d3f07(0x770),_0x4d3f07(0x6b0),'F',_0x4d3f07(0x23a),_0x4d3f07(0x1fb),_0x4d3f07(0x532),_0x4d3f07(0x2ef),_0x4d3f07(0x5e8),'SLITHERED',_0x4d3f07(0x254),_0x4d3f07(0x71d),_0x4d3f07(0x227),_0x4d3f07(0x392),_0x4d3f07(0x4fe),'0000000000000000',_0x4d3f07(0x73e),'PIZZAROLLS','PS','JALISCO',_0x4d3f07(0x688),_0x4d3f07(0x464),'AL','KENNA','CC','KUMO','REALMADRID',_0x4d3f07(0x5bd),'YV','XXX','HA',_0x4d3f07(0x91e),_0x4d3f07(0x7a4),_0x4d3f07(0x7c7),_0x4d3f07(0x5dc),'REEEEEEEE',_0x4d3f07(0x744),'JETT',_0x4d3f07(0x1f1),'BIGBOY','FEED','DONTKILLMEH',_0x4d3f07(0x4c1),'IM',_0x4d3f07(0x47e),'P',_0x4d3f07(0x391),_0x4d3f07(0x62d),_0x4d3f07(0x630),_0x4d3f07(0x86c),_0x4d3f07(0x625),_0x4d3f07(0x83d),'DA','VJDSIOFD',_0x4d3f07(0x2f1),'UMOM',_0x4d3f07(0x60b),_0x4d3f07(0x6b7),_0x4d3f07(0x8a3),_0x4d3f07(0x647),_0x4d3f07(0x4ed),_0x4d3f07(0x58d),'LJH','DEANGELOGIANT22',_0x4d3f07(0x8aa),'LILHAY',_0x4d3f07(0x5fb),_0x4d3f07(0x2fd),'4',_0x4d3f07(0x745),'BE','CINNAMON','FISH',_0x4d3f07(0x70c),'TRASHIK',_0x4d3f07(0x85b),_0x4d3f07(0x80d),_0x4d3f07(0x485),_0x4d3f07(0x27e),_0x4d3f07(0x468),_0x4d3f07(0x7a5),_0x4d3f07(0x6bc),_0x4d3f07(0x6be),_0x4d3f07(0x691),_0x4d3f07(0x284),_0x4d3f07(0x83b),_0x4d3f07(0x39f),_0x4d3f07(0x54a),'HR',_0x4d3f07(0x4f1),_0x4d3f07(0x63a),_0x4d3f07(0x2df),_0x4d3f07(0x2a6),'FOOT',_0x4d3f07(0x7ae),_0x4d3f07(0x4ce),'MILLIE',_0x4d3f07(0x827),_0x4d3f07(0x66e),_0x4d3f07(0x78a),_0x4d3f07(0x6f7),_0x4d3f07(0x20e),_0x4d3f07(0x3b2),_0x4d3f07(0x677),'LILLWIP',_0x4d3f07(0x3c1),'A','CAYDENT','TURTLE','CUMSOCK','MAC',_0x4d3f07(0x431),_0x4d3f07(0x781),'HAAAAAA',_0x4d3f07(0x4ca),_0x4d3f07(0x570),'MALEBUNS',_0x4d3f07(0x5aa),'PILL',_0x4d3f07(0x395),_0x4d3f07(0x8c9),'COOKIEGUY',_0x4d3f07(0x61a),_0x4d3f07(0x53a),_0x4d3f07(0x580),_0x4d3f07(0x892),_0x4d3f07(0x307),'6',_0x4d3f07(0x584),'24357',_0x4d3f07(0x712),_0x4d3f07(0x7a0),_0x4d3f07(0x379),'BEETLEJUICE','BRIANNA','Y',_0x4d3f07(0x29d),_0x4d3f07(0x25a),'TG',_0x4d3f07(0x3bb),_0x4d3f07(0x797),'TECHBOY',_0x4d3f07(0x818),_0x4d3f07(0x4e8),_0x4d3f07(0x6a5),_0x4d3f07(0x5d1),_0x4d3f07(0x83c),_0x4d3f07(0x6a8),_0x4d3f07(0x329),'IMNOTHERE',_0x4d3f07(0x914),_0x4d3f07(0x8bb),'MONTY',_0x4d3f07(0x88a),_0x4d3f07(0x706),_0x4d3f07(0x33a),_0x4d3f07(0x600),_0x4d3f07(0x7a9),_0x4d3f07(0x5cb),'eşek\x20arısı',_0x4d3f07(0x511),_0x4d3f07(0x535),_0x4d3f07(0x5b5),'TuRTleMan','ILoveTurtLes\x20:)',_0x4d3f07(0x737),_0x4d3f07(0x203),'LoL','⚡Heяø\x20⚡Heяø',_0x4d3f07(0x3a4),_0x4d3f07(0x843),'slither.ist_10',_0x4d3f07(0x344),_0x4d3f07(0x8e7),_0x4d3f07(0x280),_0x4d3f07(0x543),_0x4d3f07(0x4b2),_0x4d3f07(0x6d5),_0x4d3f07(0x620),'slither.ist_19','slither.ist_57',_0x4d3f07(0x843),'slither.ist_10',_0x4d3f07(0x75c),_0x4d3f07(0x32a),'slither.ist_13','slither.ist_67',_0x4d3f07(0x5ac),_0x4d3f07(0x6e4),_0x4d3f07(0x6aa),_0x4d3f07(0x369),_0x4d3f07(0x327),'slither.ist_42','slither.ist_20',_0x4d3f07(0x4b2),_0x4d3f07(0x228),_0x4d3f07(0x8e4),_0x4d3f07(0x3dc),'slither.ist_71',_0x4d3f07(0x6aa),'slither.ist_27',_0x4d3f07(0x453),_0x4d3f07(0x589),'slither.ist_12',_0x4d3f07(0x7f9),_0x4d3f07(0x344),_0x4d3f07(0x8e7),'slither.ist_34',_0x4d3f07(0x543),_0x4d3f07(0x4b2),_0x4d3f07(0x6d5),_0x4d3f07(0x543),'slither.ist_19',_0x4d3f07(0x466),'slither.ist_12',_0x4d3f07(0x7f9),_0x4d3f07(0x75c),_0x4d3f07(0x32a),_0x4d3f07(0x2a9),_0x4d3f07(0x289),_0x4d3f07(0x5ac),_0x4d3f07(0x6e4),_0x4d3f07(0x6aa),_0x4d3f07(0x369),'slither.ist_46',_0x4d3f07(0x29e),_0x4d3f07(0x3dc),_0x4d3f07(0x4b2),'slither.ist_91',_0x4d3f07(0x8e4),'slither.ist_20',_0x4d3f07(0x8a7),_0x4d3f07(0x6aa),_0x4d3f07(0x620),_0x4d3f07(0x453),_0x4d3f07(0x589),_0x4d3f07(0x682),_0x4d3f07(0x31f),_0x4d3f07(0x517),'hacker',_0x4d3f07(0x5a6),_0x4d3f07(0x854),_0x4d3f07(0x4e0),_0x4d3f07(0x4d1),'sebassssss',_0x4d3f07(0x4d5),_0x4d3f07(0x357),'GÜŠTAVÖ',_0x4d3f07(0x390),_0x4d3f07(0x898),_0x4d3f07(0x929),'the_prof',_0x4d3f07(0x38a),_0x4d3f07(0x422),_0x4d3f07(0x5fa),_0x4d3f07(0x8b7),'bumbum',_0x4d3f07(0x2c7),_0x4d3f07(0x510),_0x4d3f07(0x2c1),_0x4d3f07(0x6ab),_0x4d3f07(0x403),_0x4d3f07(0x860),_0x4d3f07(0x310),'akıllı\x20ol',_0x4d3f07(0x6ee),'paperrrr','im\x20ok',_0x4d3f07(0x900),_0x4d3f07(0x6c8),_0x4d3f07(0x2f4),':)',':D',_0x4d3f07(0x33d),'Mike','oscar',_0x4d3f07(0x35c),_0x4d3f07(0x911),_0x4d3f07(0x34e),_0x4d3f07(0x272),_0x4d3f07(0x53c),_0x4d3f07(0x3d3),_0x4d3f07(0x8c1),_0x4d3f07(0x4f5),_0x4d3f07(0x27c),_0x4d3f07(0x86b),'santaFE','domingos',_0x4d3f07(0x817),'tytsirius','agarboy',_0x4d3f07(0x253),_0x4d3f07(0x356),_0x4d3f07(0x4c9),_0x4d3f07(0x1f0),_0x4d3f07(0x8ce),_0x4d3f07(0x736),_0x4d3f07(0x72e),'Vegas','sanik',_0x4d3f07(0x46c),_0x4d3f07(0x5a5),_0x4d3f07(0x2c7),_0x4d3f07(0x7ce),_0x4d3f07(0x2e8),_0x4d3f07(0x751),_0x4d3f07(0x5d3),_0x4d3f07(0x54c),'exTreme',_0x4d3f07(0x52f),'Go\x20home:)',_0x4d3f07(0x462),_0x4d3f07(0x4a0),'mustafa\x20kemal',_0x4d3f07(0x573),_0x4d3f07(0x413),_0x4d3f07(0x4a7),'Cмертоносный',_0x4d3f07(0x881),'τουρκική',_0x4d3f07(0x8a9),'ok','levels','ArYa',_0x4d3f07(0x733),_0x4d3f07(0x78e),_0x4d3f07(0x21d),_0x4d3f07(0x807),_0x4d3f07(0x8e1),_0x4d3f07(0x803),_0x4d3f07(0x547),_0x4d3f07(0x819),_0x4d3f07(0x553),_0x4d3f07(0x24b),_0x4d3f07(0x896),'sivasli',_0x4d3f07(0x821),_0x4d3f07(0x8ae),_0x4d3f07(0x7db),_0x4d3f07(0x727),_0x4d3f07(0x5b7),_0x4d3f07(0x4af),_0x4d3f07(0x425),'championnnn','paperman',_0x4d3f07(0x6df),_0x4d3f07(0x74a),_0x4d3f07(0x617),_0x4d3f07(0x364),'paperiospace',_0x4d3f07(0x554),_0x4d3f07(0x653),_0x4d3f07(0x5ed),'Prince','Jade',_0x4d3f07(0x24e),_0x4d3f07(0x1fd),_0x4d3f07(0x81f),_0x4d3f07(0x641),_0x4d3f07(0x6a6),_0x4d3f07(0x933),'Princess',_0x4d3f07(0x7c2),'Bullseye',_0x4d3f07(0x636),_0x4d3f07(0x877),'Jelly\x20Rogue',_0x4d3f07(0x341),'Bobo\x20Indie',_0x4d3f07(0x3b6),_0x4d3f07(0x699),_0x4d3f07(0x35b),_0x4d3f07(0x7d8),_0x4d3f07(0x446),'Indie','Bird',_0x4d3f07(0x6b9),_0x4d3f07(0x786),_0x4d3f07(0x5e1),'Lightning',_0x4d3f07(0x427),_0x4d3f07(0x6d8),_0x4d3f07(0x27d),_0x4d3f07(0x3df),_0x4d3f07(0x909),_0x4d3f07(0x2fb),'Tiger',_0x4d3f07(0x48e),'Hawk',_0x4d3f07(0x288),_0x4d3f07(0x2fa),'jamie','K'],_0xfa09e0=_0x412b62=>{var _0x389c50=_0x4d3f07;const _0x551323=_0x412b62[0x1]-_0x412b62[0x0];return Math[_0x389c50(0x368)]()*_0x551323+_0x412b62[0x0];},_0x11ea07=function(_0x5d2ec3){var _0x1ea234=_0x4d3f07;this[_0x1ea234(0x472)]=_0x5d2ec3,this['__name']=_0x4cf8ab[Math['floor'](Math[_0x1ea234(0x368)]()*_0x4cf8ab[_0x1ea234(0x7d4)])]['toUpperCase'](),this[_0x1ea234(0x377)]=[_0x5d2ec3['__randomColor']()],this[_0x1ea234(0x60e)]=0x2,this[_0x1ea234(0x3e5)]=0xc8,this[_0x1ea234(0x349)]=void 0x0,this[_0x1ea234(0x648)]=0x0,this[_0x1ea234(0x36d)]=0x0,this['rayCollisions']=[],this[_0x1ea234(0x862)]=0x8,this[_0x1ea234(0x6f8)]=0x2*Math['PI']/this['rays'],this[_0x1ea234(0x619)]=!0x1,this[_0x1ea234(0x639)]=!0x0,this['randomDirFrequency']=[0x64,0x1388],this['threadAccelerate']=!0x1,this['threadAccelerateTime']=[0x64,0x7d0],this[_0x1ea234(0x246)]=!0x0,this[_0x1ea234(0x650)]=[0x7d0,0x2710],this[_0x1ea234(0x90d)]=[0x64,0x7d0],this[_0x1ea234(0x5f8)]=0x0,this[_0x1ea234(0x4c3)]=!0x1;};_0x11ea07[_0x4d3f07(0x775)]['hashOffsets']=[{'x':0x0,'y':0x0},{'x':0x0,'y':-0x1},{'x':0x0,'y':0x1},{'x':-0x1,'y':0x0},{'x':-0x1,'y':-0x1},{'x':-0x1,'y':0x1},{'x':0x1,'y':0x0},{'x':0x1,'y':-0x1},{'x':0x1,'y':0x1}];var _0x2b0203=function(_0x3e658b,_0x1327d3){for(;_0x3e658b<0x0;)_0x3e658b+=_0x1327d3;return _0x3e658b%_0x1327d3;};_0x11ea07[_0x4d3f07(0x775)][_0x4d3f07(0x5fc)]=function(){var _0x2bf69a=_0x4d3f07,_0xd1f58a;this['detectThreats']();var _0x2ac7f6=Number[_0x2bf69a(0x863)];this[_0x2bf69a(0x349)]=void 0x0;var _0x386416=!0x1,_0x359f56=0x0;for(_0xd1f58a=0x0;_0xd1f58a<this['rays'];_0xd1f58a++){var _0xf76369=this[_0x2bf69a(0x6f8)]*_0xd1f58a,_0x423dd5=this[_0x2bf69a(0x472)]['angleDifference'](this['__player'][_0x2bf69a(0x504)],_0xf76369);Math[_0x2bf69a(0x3cf)](_0x423dd5)<=this['rayAngleDistribution']&&(_0x359f56=_0xd1f58a,this['rayCollisions'][_0xd1f58a]&&(_0x386416=!0x0));}if(_0x386416&&!this[_0x2bf69a(0x619)]){for(_0xd1f58a=0x0;_0xd1f58a<this['rays'];_0xd1f58a++)!this[_0x2bf69a(0x4cd)][_0xd1f58a]&&(_0xf76369=this['rayAngleDistribution']*_0xd1f58a,_0x423dd5=this['__game'][_0x2bf69a(0x521)](this['__player'][_0x2bf69a(0x504)],_0xf76369),Math[_0x2bf69a(0x3cf)](_0x423dd5)<Math[_0x2bf69a(0x3cf)](_0x2ac7f6)&&(_0x2ac7f6=_0x423dd5,this[_0x2bf69a(0x349)]=_0xf76369,this[_0x2bf69a(0x2f3)]&&(this[_0x2bf69a(0x5f8)]=performance[_0x2bf69a(0x2dd)]()+_0xfa09e0(this[_0x2bf69a(0x6bf)]))));}else{var _0x287e11=!0x1,_0x375dd3=!0x1,_0x33b638=0x0;if((this[_0x2bf69a(0x4cd)][_0x2b0203(_0x359f56-0x1,this[_0x2bf69a(0x862)])]||this['rayCollisions'][_0x2b0203(_0x359f56-0x2,this[_0x2bf69a(0x862)])])&&(_0x287e11=!0x0),(this[_0x2bf69a(0x4cd)][_0x2b0203(_0x359f56+0x1,this[_0x2bf69a(0x862)])]||this['rayCollisions'][_0x2b0203(_0x359f56+0x2,this[_0x2bf69a(0x862)])])&&(_0x375dd3=!0x0),_0x287e11&&!_0x375dd3?_0x33b638=0x1:_0x375dd3&&!_0x287e11&&(_0x33b638=-0x1),0x0===_0x33b638||this[_0x2bf69a(0x619)])this[_0x2bf69a(0x639)]&&((!this[_0x2bf69a(0x8f0)]||performance[_0x2bf69a(0x2dd)]()>this['nextRandomDirTime'])&&(this[_0x2bf69a(0x4c6)]=Math[_0x2bf69a(0x368)]()*(0x2*Math['PI']),this[_0x2bf69a(0x8f0)]=performance[_0x2bf69a(0x2dd)]()+_0xfa09e0(this[_0x2bf69a(0x46a)])),null==this[_0x2bf69a(0x349)]&&(this[_0x2bf69a(0x349)]=this[_0x2bf69a(0x4c6)])),this[_0x2bf69a(0x246)]&&performance[_0x2bf69a(0x2dd)]()>this[_0x2bf69a(0x5f8)]&&(!this[_0x2bf69a(0x8ec)]||performance[_0x2bf69a(0x2dd)]()>this[_0x2bf69a(0x8ec)])&&(this[_0x2bf69a(0x5f8)]=performance['now']()+_0xfa09e0(this[_0x2bf69a(0x90d)]),this[_0x2bf69a(0x8ec)]=performance['now']()+_0xfa09e0(this[_0x2bf69a(0x650)]));else for(_0xd1f58a=0x1;_0xd1f58a<this[_0x2bf69a(0x862)]-0x2;_0xd1f58a++){var _0x3654a2=_0x2b0203(_0x359f56+_0xd1f58a*_0x33b638,this['rays']);if(!this[_0x2bf69a(0x4cd)][_0x3654a2]){_0xf76369=this[_0x2bf69a(0x6f8)]*_0x3654a2,(this['targetDirection']=_0xf76369,this[_0x2bf69a(0x2f3)]&&(this[_0x2bf69a(0x5f8)]=performance[_0x2bf69a(0x2dd)]()+_0xfa09e0(this['threadAccelerateTime'])));break;}}}this['rotateDirection']=this[_0x2bf69a(0x472)][_0x2bf69a(0x521)](this['__player']['__dir'],this['targetDirection'])>0x0?0x1:-0x1;let _0x1f774b=!0x1;performance[_0x2bf69a(0x2dd)]()<this[_0x2bf69a(0x5f8)]&&(_0x1f774b=!0x0);var _0x2e4d2e=this[_0x2bf69a(0x571)][_0x2bf69a(0x815)]={'input':{'l':!0x1,'r':!0x1,'a':_0x1f774b},'time':this[_0x2bf69a(0x472)][_0x2bf69a(0x874)],'seq':this['inputSeq']};if(null!=this[_0x2bf69a(0x349)]){this[_0x2bf69a(0x36d)]++,_0x2e4d2e[_0x2bf69a(0x5eb)]=this['inputSeq'],_0x2e4d2e[_0x2bf69a(0x766)]['l']=this[_0x2bf69a(0x648)]<0x0,_0x2e4d2e[_0x2bf69a(0x766)]['r']=this[_0x2bf69a(0x648)]>0x0;var _0x4ff038=this[_0x2bf69a(0x472)][_0x2bf69a(0x521)](this[_0x2bf69a(0x571)][_0x2bf69a(0x504)],this[_0x2bf69a(0x349)]);(this[_0x2bf69a(0x648)]<0x0&&_0x4ff038>=0x0||this[_0x2bf69a(0x648)]>0x0&&_0x4ff038<=0x0)&&(this['targetDirection']=void 0x0);}this['__player'][_0x2bf69a(0x815)]=_0x2e4d2e;},_0x11ea07[_0x4d3f07(0x775)][_0x4d3f07(0x366)]=function(){var _0x40f380=_0x4d3f07,_0x3848b0,_0x26acad=[],_0x11af85=Math['floor'](this[_0x40f380(0x571)][_0x40f380(0x2c3)]['x']/_0x1d07e7[_0x40f380(0x527)]),_0x622ea=Math['floor'](this[_0x40f380(0x571)][_0x40f380(0x2c3)]['y']/_0x1d07e7['__snakeCollisionSize']);for(_0x3848b0=0x0;_0x3848b0<this[_0x40f380(0x3e0)][_0x40f380(0x7d4)];_0x3848b0++){var _0x5565dc=_0x11af85+this[_0x40f380(0x3e0)][_0x3848b0]['x']+'_'+(_0x622ea+this['hashOffsets'][_0x3848b0]['y']);null!=this[_0x40f380(0x472)]['playerCollisionHash'][_0x5565dc]&&(_0x26acad=_0x26acad[_0x40f380(0x417)](this[_0x40f380(0x472)]['playerCollisionHash'][_0x5565dc]));}return _0x26acad;},_0x11ea07['prototype'][_0x4d3f07(0x219)]=function(){var _0x444ebd=_0x4d3f07;for(var _0xa1843=this[_0x444ebd(0x366)](),_0x17ecb4=0x0;_0x17ecb4<this[_0x444ebd(0x862)];_0x17ecb4++){var _0x34e99f=this[_0x444ebd(0x6f8)]*_0x17ecb4;this[_0x444ebd(0x4cd)][_0x17ecb4]=!0x1;var _0x438fdc=this[_0x444ebd(0x571)][_0x444ebd(0x2c3)]['x']+this[_0x444ebd(0x3e5)]*Math[_0x444ebd(0x916)](_0x34e99f),_0x58bb1e=this[_0x444ebd(0x571)][_0x444ebd(0x2c3)]['y']+this[_0x444ebd(0x3e5)]*Math[_0x444ebd(0x4da)](_0x34e99f);Math['sqrt'](_0x438fdc*_0x438fdc+_0x58bb1e*_0x58bb1e)>_0x1d07e7[_0x444ebd(0x809)]&&(this[_0x444ebd(0x4cd)][_0x17ecb4]=!0x0);}for(_0x17ecb4=0x0;_0x17ecb4<_0xa1843[_0x444ebd(0x7d4)];_0x17ecb4++){var _0xff0698=_0xa1843[_0x17ecb4];if(_0xff0698['u']!==this[_0x444ebd(0x571)][_0x444ebd(0x7cc)])for(var _0x82be57=_0x1d07e7[_0x444ebd(0x829)]*_0xff0698['s']/0x2,_0x336d4d=0x0;_0x336d4d<this[_0x444ebd(0x862)];_0x336d4d++){_0x34e99f=this['rayAngleDistribution']*_0x336d4d,_0x438fdc=this[_0x444ebd(0x571)][_0x444ebd(0x2c3)]['x']+this['viewDistance']*Math[_0x444ebd(0x916)](_0x34e99f),_0x58bb1e=this[_0x444ebd(0x571)][_0x444ebd(0x2c3)]['y']+this[_0x444ebd(0x3e5)]*Math[_0x444ebd(0x4da)](_0x34e99f),this[_0x444ebd(0x60a)](_0xff0698['x'],_0xff0698['y'],this[_0x444ebd(0x571)][_0x444ebd(0x2c3)]['x'],this[_0x444ebd(0x571)][_0x444ebd(0x2c3)]['y'],_0x438fdc,_0x58bb1e)<_0x82be57&&(this[_0x444ebd(0x4cd)][_0x336d4d]=!0x0);}}},_0x11ea07[_0x4d3f07(0x775)][_0x4d3f07(0x60a)]=function(_0x4361d8,_0x31e5fa,_0x22c246,_0x3ce18b,_0x4b19b6,_0x320a49){var _0x30ae09,_0x44533a,_0x1f97f2=_0x4b19b6-_0x22c246,_0x5afdff=_0x320a49-_0x3ce18b,_0x33e63b=_0x1f97f2*_0x1f97f2+_0x5afdff*_0x5afdff,_0x15e9a0=-0x1;0x0!=_0x33e63b&&(_0x15e9a0=((_0x4361d8-_0x22c246)*_0x1f97f2+(_0x31e5fa-_0x3ce18b)*_0x5afdff)/_0x33e63b),_0x15e9a0<0x0?(_0x30ae09=_0x22c246,_0x44533a=_0x3ce18b):_0x15e9a0>0x1?(_0x30ae09=_0x4b19b6,_0x44533a=_0x320a49):(_0x30ae09=_0x22c246+_0x15e9a0*_0x1f97f2,_0x44533a=_0x3ce18b+_0x15e9a0*_0x5afdff);var _0x50387c=_0x4361d8-_0x30ae09,_0x37bca4=_0x31e5fa-_0x44533a;return Math['sqrt'](_0x50387c*_0x50387c+_0x37bca4*_0x37bca4);},window['performance']=window[_0x4d3f07(0x2ec)]||{'offset':Date[_0x4d3f07(0x2dd)](),'now':function(){var _0x2c3982=_0x4d3f07;return Date[_0x2c3982(0x2dd)]()-this[_0x2c3982(0x885)];}};const _0x5d5ff4=window[_0x4d3f07(0x5b2)][_0x4d3f07(0x3fc)],_0xefabc6=document[_0x4d3f07(0x232)](_0x4d3f07(0x2f9));_0xefabc6[_0x4d3f07(0x7fd)]=_0x5d5ff4['width'],_0xefabc6['height']=_0x5d5ff4[_0x4d3f07(0x1e5)],_0xefabc6[_0x4d3f07(0x5e4)]('2d')[_0x4d3f07(0x499)](_0x5d5ff4,0x0,0x0),window['_xhrS']=_0xefabc6['toDataURL']();const {Sprite:_0x4b11bc}=_0x1b4526;let _0x10b193,_0xc218eb,_0x12fd6d,_0x4bf114=document[_0x4d3f07(0x232)]('canvas');document[_0x4d3f07(0x78b)][_0x4d3f07(0x867)](_0x4bf114);let _0x1f0019=document['createElement']('canvas');document[_0x4d3f07(0x78b)]['appendChild'](_0x1f0019);const _0x1ef9ae=document[_0x4d3f07(0x57f)](_0x4d3f07(0x74d)),_0x93b4a5=_0x1ef9ae[_0x4d3f07(0x57f)](_0x4d3f07(0x37c)),_0x176cbf=_0x1ef9ae[_0x4d3f07(0x57f)](_0x4d3f07(0x74f)),_0x34692e=_0x1ef9ae[_0x4d3f07(0x57f)](_0x4d3f07(0x7c3)),_0x19fa59=_0x1ef9ae[_0x4d3f07(0x57f)](_0x4d3f07(0x569)),_0x1dba6a=document[_0x4d3f07(0x57f)]('#gr'),_0x17c1af=_0x176cbf[_0x4d3f07(0x57f)]('input'),_0xf45751=_0x1ef9ae[_0x4d3f07(0x57f)](_0x4d3f07(0x77d));let _0x10a4fd,_0x1d3a78,_0x5f4991,_0x1641de,_0x4271e9,_0xf758cf=-0x1,_0x288964={'el':_0x1ef9ae,'name':'menu'},_0x569737=[];const _0x493524=_0x57a1c7=>{var _0x347a88=_0x4d3f07;_0x57a1c7[_0x347a88(0x77e)]['display']='none';},_0x7f354=_0x52aca9=>{var _0x1b52a8=_0x4d3f07;if(_0x52aca9[_0x1b52a8(0x77e)][_0x1b52a8(0x74e)]=_0x1b52a8(0x8c5),_0x52aca9==_0x176cbf)_0x8b79e1(_0x176cbf,_0x1b52a8(0x906));else{if(_0x52aca9==_0x19fa59&&(_0x8b79e1(_0x19fa59,'end'),_0x90c207&&!_0x1d07e7[_0x1b52a8(0x777)])){const _0x1ae920=_0x19fa59[_0x1b52a8(0x57f)](_0x1b52a8(0x622)),_0x54d47a=()=>{var _0x36c8a7=_0x1b52a8;_0x1ae920[_0x36c8a7(0x77e)][_0x36c8a7(0x847)]=_0x36c8a7(0x88c);};_0x1ae920[_0x1b52a8(0x77e)]['visibility']=_0x1b52a8(0x473),setTimeout(_0x54d47a,_0x1d07e7['__adTimeoutViewable']),googletag[_0x1b52a8(0x3d8)]()[_0x1b52a8(0x7b0)](_0x1b52a8(0x92f),_0x54d47a),googletag[_0x1b52a8(0x3d8)]()[_0x1b52a8(0x7b0)]('slotRenderEnded',_0x3a6fc1=>{var _0x72f39b=_0x1b52a8;_0x3a6fc1[_0x72f39b(0x927)]&&_0x54d47a();});}}},_0x5a8d9f=_0x47cbb3=>{var _0x40ed63=_0x4d3f07;jQuery(_0x47cbb3)[_0x40ed63(0x7ed)]();},_0x55fc87=_0x20e836=>{var _0x31cae5=_0x4d3f07;jQuery(_0x20e836)[_0x31cae5(0x55a)]();},_0x4c8e60=(_0xc8d1ad,_0x1d0657)=>{var _0x77a7fd=_0x4d3f07;_0x1641de=_0x288964,_0x288964={'el':_0xc8d1ad,'name':_0x1d0657},jQuery(_0x77a7fd(0x50e))[_0x77a7fd(0x55a)](),jQuery(_0x77a7fd(0x4ba))[_0x77a7fd(0x55a)](),_0x77a7fd(0x4bc)==_0x1d0657&&_0x491a5c(),_0x43d5f3();},_0x3728f4=()=>{var _0x49b953=_0x4d3f07;_0x2dbde3=0x1,(jQuery(_0x49b953(0x50c))['fadeOut'](0x5dc),myNick=jQuery(_0x49b953(0x3f2))[_0x49b953(0x6b4)]()),myNick[_0x49b953(0x7d4)]<0x1&&(myNick=_0x49b953(0x2f2),jQuery(_0x49b953(0x346))[_0x49b953(0x2f5)](_0x49b953(0x931)),setTimeout(function(){var _0x257753=_0x49b953;jQuery(_0x257753(0x346))[_0x257753(0x8ca)](_0x257753(0x931));},0x320)),localStorage[_0x49b953(0x581)](_0x49b953(0x4e2),myNick),_0x17c1af[_0x49b953(0x58a)][_0x49b953(0x7d4)]<0x1||(clearInterval(_0x12fd6d),_0x10b193['__startClient'](),_0x493524(_0x176cbf),window[_0x49b953(0x482)]&&(document[_0x49b953(0x631)](_0x49b953(0x20f))[_0x49b953(0x77e)][_0x49b953(0x35f)]=''),_0x23563b(_0x49b953(0x814),_0x1d07e7[_0x49b953(0x8db)]));},_0x4403e5=()=>{var _0x25c19c=_0x4d3f07;_0x2732bf(),_0x10b193[_0x25c19c(0x483)](),_0x10b193[_0x25c19c(0x36d)]=0x0,_0x493524(_0x19fa59),_0x7f354(_0x176cbf),_0x43d5f3(),clearInterval(_0x10b193[_0x25c19c(0x5d6)]),_0x10b193[_0x25c19c(0x6f6)](),_0x71cb8e()&&0x3===_0x1d07e7[_0x25c19c(0x8ee)][_0x25c19c(0x5ef)][_0x1d07e7[_0x25c19c(0x3e4)][_0x25c19c(0x2fe)]['id']-0x1]&&_0x3df491(),console[_0x25c19c(0x6f0)]('geri\x20dönüşler...'),ref2(),jQuery('.cen')[_0x25c19c(0x8dd)](0x7d0),jQuery(_0x25c19c(0x844))[_0x25c19c(0x594)](),(jQuery(_0x25c19c(0x718))[_0x25c19c(0x8dd)](0x7d0),jQuery('.rig')[_0x25c19c(0x8dd)](0x7d0));},_0x3df491=()=>{var _0x1ec5dc=_0x4d3f07;if(_0x90c207)return;const _0x2db4e0=document['createElement'](_0x1ec5dc(0x7cb));_0x2db4e0[_0x1ec5dc(0x471)][_0x1ec5dc(0x7b2)](_0x1ec5dc(0x30d)),_0x2db4e0[_0x1ec5dc(0x211)]=_0x1ec5dc(0x756),document[_0x1ec5dc(0x78b)]['appendChild'](_0x2db4e0),_0x2db4e0['style']=_0x1ec5dc(0x871);const _0x4fd42a=()=>{var _0x3754f6=_0x1ec5dc;_0x2db4e0['style']['opacity']=0x0,_0x2db4e0[_0x3754f6(0x87d)](_0x3754f6(0x4f8),_0x4fd42a),setTimeout(()=>{var _0x2ff3d2=_0x3754f6;_0x2db4e0[_0x2ff3d2(0x6ca)][_0x2ff3d2(0x3eb)](_0x2db4e0);},0x7d0);};_0x2db4e0[_0x1ec5dc(0x7b0)](_0x1ec5dc(0x4f8),_0x4fd42a),setTimeout(()=>{_0x4fd42a();},0x1f40);},_0x488dcb=()=>{_0x12fd6d=setInterval(()=>{var _0x3a2b51=_0x473b;(_0x10b193['__keyboard'][_0x3a2b51(0x686)](_0x3a2b51(0x486),!0x0)||_0x10b193[_0x3a2b51(0x31d)][_0x3a2b51(0x686)]('space',!0x0))&&(_0x3a2b51(0x523)!=_0x176cbf[_0x3a2b51(0x77e)][_0x3a2b51(0x74e)]&&_0x288964['el']==_0x1ef9ae?_0x3728f4():_0x3a2b51(0x523)!=_0x19fa59[_0x3a2b51(0x77e)][_0x3a2b51(0x74e)]&&_0x4403e5());},0xa);};let _0x53576b;const _0x3cdfb6=()=>{var _0x1cafb5=_0x4d3f07;_0x10b193['__frames']={};const _0x40892f=_0x10b193[_0x1cafb5(0x61b)][_0x1cafb5(0x8d3)](0x0,!0x0,!0x1),_0x6471a8={'__Ear00000':{'__position':{'x':0x264,'y':0x181},'__size':{'x':0x23,'y':0x27}},'__Ear10000':{'__position':{'x':0x2d8,'y':0x17d},'__size':{'x':0x2a,'y':0x2b}},'__Ear20000':{'__position':{'x':0x363,'y':0x115},'__size':{'x':0x3d,'y':0x36}},'__Ear30000':{'__position':{'x':0x27d,'y':0xf1},'__size':{'x':0x2c,'y':0x8f}},'__Ear40000':{'__position':{'x':0x128,'y':0x145},'__size':{'x':0x31,'y':0x37}},'__Ear50000':{'__position':{'x':0x2aa,'y':0x17e},'__size':{'x':0x1e,'y':0x32}},'__Ear60000':{'__position':{'x':0x3b4,'y':0x63},'__size':{'x':0x3a,'y':0x8d}},'__Ear70000':{'__position':{'x':0x65,'y':0x7f},'__size':{'x':0x3d,'y':0x3d}},'__Flower_Bulb10000':{'__position':{'x':0x327,'y':0x17d},'__size':{'x':0x29,'y':0x29}},'__Flower_Bulb20000':{'__position':{'x':0x1aa,'y':0x145},'__size':{'x':0x31,'y':0x30}},'__Flower_Bulb30000':{'__position':{'x':0x3a1,'y':0x141},'__size':{'x':0x37,'y':0x36}},'__Flower_Bulb_Color0000':{'__position':{'x':0x146,'y':0xd1},'__size':{'x':0x1a,'y':0x1a}},'__Flower_Color0000':{'__position':{'x':0x2a0,'y':0x65},'__size':{'x':0x47,'y':0x48}},'__Flower_Seed0000':{'__position':{'x':0x1e6,'y':0xf5},'__size':{'x':0x18,'y':0x18}},'__Food_Big0000':{'__position':{'x':0x3b0,'y':0xf1},'__size':{'x':0x4f,'y':0x4f}},'__Food_Big0001':{'__position':{'x':0x146,'y':0xf5},'__size':{'x':0x4f,'y':0x4f}},'__Food_Big0002':{'__position':{'x':0x360,'y':0xc3},'__size':{'x':0x4f,'y':0x51}},'__Food_Big0003':{'__position':{'x':0x196,'y':0xf5},'__size':{'x':0x4f,'y':0x4f}},'__Food_Big0004':{'__position':{'x':0x2aa,'y':0x101},'__size':{'x':0x4f,'y':0x4f}},'__Food_Small0000':{'__position':{'x':0x2f,'y':0x155},'__size':{'x':0x2c,'y':0x2d}},'__Food_Small0001':{'__position':{'x':0xbc,'y':0x15e},'__size':{'x':0x2c,'y':0x2d}},'__Food_Small0002':{'__position':{'x':0x20a,'y':0x14e},'__size':{'x':0x2d,'y':0x2d}},'__Food_Small0003':{'__position':{'x':0x238,'y':0x14e},'__size':{'x':0x2d,'y':0x2d}},'__Food_Small0004':{'__position':{'x':0x203,'y':0xc4},'__size':{'x':0x2d,'y':0x2c}},'__Food_Small0005':{'__position':{'x':0x2fa,'y':0x150},'__size':{'x':0x2d,'y':0x2c}},'__Food_Small0006':{'__position':{'x':0x328,'y':0x150},'__size':{'x':0x2d,'y':0x2c}},'__Food_Small0007':{'__position':{'x':0xe9,'y':0x15e},'__size':{'x':0x2c,'y':0x2d}},'__Food_Small0008':{'__position':{'x':0x5c,'y':0x163},'__size':{'x':0x2c,'y':0x2d}},'__Food_Small0009':{'__position':{'x':0x89,'y':0x163},'__size':{'x':0x2c,'y':0x2d}},'__Food_Small0010':{'__position':{'x':0x2aa,'y':0x151},'__size':{'x':0x2d,'y':0x2c}},'__Food_Small0011':{'__position':{'x':0x3c0,'y':0x178},'__size':{'x':0x2c,'y':0x2c}},'__Food_Small0012':{'__position':{'x':0x20a,'y':0x17c},'__size':{'x':0x2c,'y':0x2c}},'__Food_Small0013':{'__position':{'x':0x1,'y':0x155},'__size':{'x':0x2d,'y':0x2c}},'__Food_Small0014':{'__position':{'x':0x1dc,'y':0x14e},'__size':{'x':0x2d,'y':0x2e}},'__Food_Small0015':{'__position':{'x':0x15a,'y':0x166},'__size':{'x':0x2c,'y':0x2d}},'__Food_Small0016':{'__position':{'x':0x187,'y':0x176},'__size':{'x':0x2c,'y':0x2d}},'__Food_Small0017':{'__position':{'x':0x393,'y':0x178},'__size':{'x':0x2c,'y':0x2d}},'__Food_Small0018':{'__position':{'x':0x237,'y':0x17c},'__size':{'x':0x2c,'y':0x2c}},'__Food_Small0019':{'__position':{'x':0x356,'y':0x17c},'__size':{'x':0x2c,'y':0x2c}},'__Gacha0000':{'__position':{'x':0x1cb,'y':0x57},'__size':{'x':0x6c,'y':0x6c}},'__Hat00000':{'__position':{'x':0x65,'y':0xdf},'__size':{'x':0x6b,'y':0x3c}},'__Hat10000':{'__position':{'x':0xd1,'y':0x117},'__size':{'x':0x56,'y':0x46}},'__Hat100000':{'__position':{'x':0x238,'y':0xc0},'__size':{'x':0x9f,'y':0x30}},'__Hat110000':{'__position':{'x':0x34f,'y':0x63},'__size':{'x':0x64,'y':0x5f}},'__Hat120000':{'__position':{'x':0x1,'y':0x7f},'__size':{'x':0x63,'y':0x51}},'__Hat130000':{'__position':{'x':0x2eb,'y':0x1},'__size':{'x':0x7e,'y':0x61}},'__Hat140000':{'__position':{'x':0xa7,'y':0x1},'__size':{'x':0xa5,'y':0x7b}},'__Hat150000':{'__position':{'x':0x1cb,'y':0x1},'__size':{'x':0x9d,'y':0x55}},'__Hat160000':{'__position':{'x':0x163,'y':0x7f},'__size':{'x':0x63,'y':0x3a}},'__Hat170000':{'__position':{'x':0xff,'y':0x7f},'__size':{'x':0x63,'y':0x51}},'__Hat180000':{'__position':{'x':0x163,'y':0xc4},'__size':{'x':0x9f,'y':0x30}},'__Hat190000':{'__position':{'x':0x65,'y':0x11c},'__size':{'x':0x56,'y':0x46}},'__Hat20000':{'__position':{'x':0xa7,'y':0x7d},'__size':{'x':0x57,'y':0x61}},'__Hat200000':{'__position':{'x':0x1,'y':0x1},'__size':{'x':0xa5,'y':0x7d}},'__Hat210000':{'__position':{'x':0x269,'y':0x1},'__size':{'x':0x81,'y':0x63}},'__Hat220000':{'__position':{'x':0x36a,'y':0x1},'__size':{'x':0x7e,'y':0x61}},'__Hat230000':{'__position':{'x':0x1e6,'y':0x126},'__size':{'x':0x79,'y':0x27}},'__Hat240000':{'__position':{'x':0x203,'y':0xf1},'__size':{'x':0x79,'y':0x34}},'__Hat30000':{'__position':{'x':0x238,'y':0x65},'__size':{'x':0x67,'y':0x5a}},'__Hat40000':{'__position':{'x':0x2fa,'y':0x115},'__size':{'x':0x68,'y':0x3a}},'__Hat50000':{'__position':{'x':0x15a,'y':0x145},'__size':{'x':0x4f,'y':0x20}},'__Hat60000':{'__position':{'x':0x2d8,'y':0xc9},'__size':{'x':0x87,'y':0x37}},'__Hat70000':{'__position':{'x':0x1,'y':0xd1},'__size':{'x':0x63,'y':0x4b}},'__Hat80000':{'__position':{'x':0x1,'y':0x11d},'__size':{'x':0x63,'y':0x37}},'__Hat90000':{'__position':{'x':0xd1,'y':0xdf},'__size':{'x':0x74,'y':0x37}},'__Indicator0000':{'__position':{'x':0x363,'y':0x14c},'__size':{'x':0x2f,'y':0x2f}},'__KawaiiSnake_Eye0000':{'__position':{'x':0x3d9,'y':0x141},'__size':{'x':0x23,'y':0x34}},'__KawaiiSnake_Eye0001':{'__position':{'x':0x1e1,'y':0x17d},'__size':{'x':0x23,'y':0x33}},'__KawaiiSnake_Eye0002':{'__position':{'x':0x303,'y':0x17d},'__size':{'x':0x23,'y':0x33}},'__KawaiiSnake_Mouth0000':{'__position':{'x':0x65,'y':0xbd},'__size':{'x':0x2f,'y':0x13}},'__KawaiiSnake_Mouth0001':{'__position':{'x':0x1,'y':0x182},'__size':{'x':0x22,'y':0x22}},'__KawaiiSnake_Mouth0002':{'__position':{'x':0x116,'y':0x17d},'__size':{'x':0x42,'y':0x1c}},'__KawaiiSnake_Mouth0003':{'__position':{'x':0x2d8,'y':0x151},'__size':{'x':0x1f,'y':0x16}},'__KawaiiSnake_Skin0000':{'__position':{'x':0x14d,'y':0x1},'__size':{'x':0x7d,'y':0x7d}},'__Smoke_Cloud0000':{'__position':{'x':0x2eb,'y':0x63},'__size':{'x':0x63,'y':0x65}},'__Turd0000':{'__position':{'x':0x1b4,'y':0x17d},'__size':{'x':0x2c,'y':0x2a}}};_0x53576b=[_0x6471a8[_0x1cafb5(0x21e)],_0x6471a8[_0x1cafb5(0x551)],_0x6471a8[_0x1cafb5(0x2e2)],_0x6471a8['__Hat20000'],_0x6471a8[_0x1cafb5(0x54d)],_0x6471a8[_0x1cafb5(0x644)],_0x6471a8[_0x1cafb5(0x1e4)],_0x6471a8['__Ear20000'],_0x6471a8[_0x1cafb5(0x5b0)],_0x6471a8[_0x1cafb5(0x7f0)],_0x6471a8['__Hat70000'],_0x6471a8[_0x1cafb5(0x210)],_0x6471a8[_0x1cafb5(0x70b)],_0x6471a8[_0x1cafb5(0x312)],_0x6471a8[_0x1cafb5(0x518)],_0x6471a8[_0x1cafb5(0x304)],_0x6471a8['__Hat120000'],_0x6471a8[_0x1cafb5(0x84f)],_0x6471a8['__Hat140000'],_0x6471a8[_0x1cafb5(0x89d)],_0x6471a8['__Hat50000'],_0x6471a8['__Hat150000'],_0x6471a8['__Hat160000'],_0x6471a8[_0x1cafb5(0x71a)],_0x6471a8[_0x1cafb5(0x3b3)],_0x6471a8[_0x1cafb5(0x6a7)],_0x6471a8[_0x1cafb5(0x876)],_0x6471a8['__Hat200000'],_0x6471a8['__Hat210000'],_0x6471a8[_0x1cafb5(0x47d)],_0x6471a8['__Hat220000'],_0x6471a8[_0x1cafb5(0x83a)],_0x6471a8[_0x1cafb5(0x361)],_0x6471a8['__Turd0000']],_0x4bc7a2(_0x40892f,_0x6471a8,_0x1cafb5(0x3fc)),_0x1d3a78=new _0x2e2693([_0x6471a8[_0x1cafb5(0x38f)],_0x6471a8[_0x1cafb5(0x41c)],_0x6471a8[_0x1cafb5(0x8ad)],_0x6471a8[_0x1cafb5(0x67f)],_0x6471a8[_0x1cafb5(0x6ed)],_0x6471a8[_0x1cafb5(0x333)],_0x6471a8[_0x1cafb5(0x939)],_0x6471a8[_0x1cafb5(0x3af)],_0x6471a8['__Food_Small0008'],_0x6471a8[_0x1cafb5(0x2e0)],_0x6471a8[_0x1cafb5(0x6ff)],_0x6471a8[_0x1cafb5(0x5fd)],_0x6471a8[_0x1cafb5(0x62c)],_0x6471a8[_0x1cafb5(0x6eb)],_0x6471a8[_0x1cafb5(0x343)],_0x6471a8[_0x1cafb5(0x5a9)],_0x6471a8[_0x1cafb5(0x70a)],_0x6471a8['__Food_Small0017'],_0x6471a8[_0x1cafb5(0x761)],_0x6471a8[_0x1cafb5(0x599)]],window[_0x1cafb5(0x566)]),(_0x5f4991=new _0x2e2693([_0x6471a8[_0x1cafb5(0x38f)],_0x6471a8[_0x1cafb5(0x41c)],_0x6471a8[_0x1cafb5(0x8ad)],_0x6471a8[_0x1cafb5(0x67f)],_0x6471a8[_0x1cafb5(0x6ed)],_0x6471a8[_0x1cafb5(0x333)],_0x6471a8[_0x1cafb5(0x939)],_0x6471a8[_0x1cafb5(0x3af)],_0x6471a8[_0x1cafb5(0x5f2)],_0x6471a8[_0x1cafb5(0x2e0)],_0x6471a8[_0x1cafb5(0x6ff)],_0x6471a8['__Food_Small0011'],_0x6471a8[_0x1cafb5(0x62c)],_0x6471a8[_0x1cafb5(0x6eb)],_0x6471a8[_0x1cafb5(0x343)],_0x6471a8[_0x1cafb5(0x5a9)],_0x6471a8[_0x1cafb5(0x70a)],_0x6471a8[_0x1cafb5(0x6e5)],_0x6471a8['__Food_Small0018'],_0x6471a8[_0x1cafb5(0x599)]],window[_0x1cafb5(0x566)]))[_0x1cafb5(0x2f9)][_0x1cafb5(0x77e)][_0x1cafb5(0x2ed)]=0xa;const _0x1d44b2=_0x10b193['__scene'][_0x1cafb5(0x8d3)](0x0,!0x0,!0x1);let _0x4d1fda=_0x1cafb5(0x3f6);window[_0x1cafb5(0x8bd)]&&(_0x4d1fda=window['_eV']['g']),_0x4bc7a2(_0x1d44b2,{'__Grass':{'__position':{'x':0x0,'y':0x0},'__size':{'x':0x100,'y':0x100}}},_0x4d1fda),_0x10b193[_0x1cafb5(0x822)]={'small':[_0x10b193[_0x1cafb5(0x661)][_0x1cafb5(0x38f)],_0x10b193['__frames'][_0x1cafb5(0x41c)],_0x10b193['__frames'][_0x1cafb5(0x8ad)],_0x10b193['__frames'][_0x1cafb5(0x67f)],_0x10b193[_0x1cafb5(0x661)][_0x1cafb5(0x6ed)],_0x10b193[_0x1cafb5(0x661)][_0x1cafb5(0x333)],_0x10b193[_0x1cafb5(0x661)][_0x1cafb5(0x939)],_0x10b193[_0x1cafb5(0x661)][_0x1cafb5(0x38f)],_0x10b193[_0x1cafb5(0x661)][_0x1cafb5(0x41c)],_0x10b193[_0x1cafb5(0x661)][_0x1cafb5(0x8ad)],_0x10b193[_0x1cafb5(0x661)]['__Food_Small0003'],_0x10b193[_0x1cafb5(0x661)][_0x1cafb5(0x6ed)],_0x10b193[_0x1cafb5(0x661)][_0x1cafb5(0x333)],_0x10b193['__frames'][_0x1cafb5(0x939)]],'big':[_0x10b193['__frames']['__Food_Big0000'],_0x10b193[_0x1cafb5(0x661)][_0x1cafb5(0x51f)],_0x10b193['__frames']['__Food_Big0002'],_0x10b193[_0x1cafb5(0x661)][_0x1cafb5(0x645)],_0x10b193[_0x1cafb5(0x661)][_0x1cafb5(0x88f)]],'turd':[_0x10b193[_0x1cafb5(0x661)][_0x1cafb5(0x1fe)]],'hats':[_0x10b193[_0x1cafb5(0x661)][_0x1cafb5(0x21e)],_0x10b193[_0x1cafb5(0x661)][_0x1cafb5(0x551)],_0x10b193[_0x1cafb5(0x661)]['__Ear00000'],_0x10b193[_0x1cafb5(0x661)]['__Hat20000'],_0x10b193['__frames'][_0x1cafb5(0x54d)],_0x10b193[_0x1cafb5(0x661)][_0x1cafb5(0x644)],_0x10b193['__frames'][_0x1cafb5(0x1e4)],_0x10b193[_0x1cafb5(0x661)][_0x1cafb5(0x4b9)],_0x10b193['__frames'][_0x1cafb5(0x5b0)],_0x10b193[_0x1cafb5(0x661)][_0x1cafb5(0x7f0)],_0x10b193[_0x1cafb5(0x661)][_0x1cafb5(0x38b)],_0x10b193[_0x1cafb5(0x661)][_0x1cafb5(0x210)],_0x10b193[_0x1cafb5(0x661)][_0x1cafb5(0x70b)],_0x10b193[_0x1cafb5(0x661)][_0x1cafb5(0x312)],_0x10b193[_0x1cafb5(0x661)][_0x1cafb5(0x518)],_0x10b193[_0x1cafb5(0x661)][_0x1cafb5(0x304)],_0x10b193[_0x1cafb5(0x661)][_0x1cafb5(0x249)],_0x10b193[_0x1cafb5(0x661)][_0x1cafb5(0x84f)],_0x10b193[_0x1cafb5(0x661)][_0x1cafb5(0x80c)],_0x10b193[_0x1cafb5(0x661)][_0x1cafb5(0x89d)],_0x10b193[_0x1cafb5(0x661)][_0x1cafb5(0x414)],_0x10b193[_0x1cafb5(0x661)][_0x1cafb5(0x930)],_0x10b193[_0x1cafb5(0x661)]['__Hat160000'],_0x10b193[_0x1cafb5(0x661)][_0x1cafb5(0x71a)],_0x10b193[_0x1cafb5(0x661)][_0x1cafb5(0x3b3)],_0x10b193[_0x1cafb5(0x661)][_0x1cafb5(0x6a7)],_0x10b193[_0x1cafb5(0x661)]['__Hat190000'],_0x10b193['__frames'][_0x1cafb5(0x49a)],_0x10b193[_0x1cafb5(0x661)]['__Hat210000'],_0x10b193[_0x1cafb5(0x661)]['__Ear70000'],_0x10b193[_0x1cafb5(0x661)]['__Hat220000'],_0x10b193[_0x1cafb5(0x661)][_0x1cafb5(0x83a)],_0x10b193[_0x1cafb5(0x661)]['__Hat240000']],'gacha':[_0x10b193[_0x1cafb5(0x661)]['__Gacha0000']]},_0x10b193[_0x1cafb5(0x4b8)]['map'](_0x26cc5f=>{var _0x3adcfe=_0x1cafb5;_0x26cc5f[_0x3adcfe(0x279)]();});},_0x4bc7a2=(_0x401a88,_0x501af1,_0x16d96d)=>{var _0x5d543d=_0x4d3f07;let _0x581223;Object[_0x5d543d(0x2e5)](_0x501af1)[_0x5d543d(0x2db)](_0x22cfc4=>{var _0x3daa54=_0x5d543d;_0x581223=_0x501af1[_0x22cfc4],_0x10b193[_0x3daa54(0x661)][_0x22cfc4]=_0x401a88[_0x3daa54(0x62e)](window[_0x3daa54(0x5b2)][_0x16d96d],!0x1,_0x581223[_0x3daa54(0x536)]['x']-0x1,_0x581223[_0x3daa54(0x536)]['y']-0x1,_0x581223[_0x3daa54(0x8f2)]['x']+0x1,_0x581223['__size']['y']+0x1);});},_0x5bd482=()=>{var _0x4133bd=_0x4d3f07;let _0x4d551e=0x0,_0x805aaf=0x0;const _0x3be573=window[_0x4133bd(0x3b1)]>=window[_0x4133bd(0x389)],_0xca9672=window[_0x4133bd(0x389)]/window[_0x4133bd(0x3b1)];_0x3be573?_0x805aaf=(_0x4d551e=_0x1d07e7[_0x4133bd(0x3d2)])*_0xca9672:_0x4d551e=(_0x805aaf=_0x1d07e7[_0x4133bd(0x3d2)])/_0xca9672,_0x28451d['prototype'][_0x4133bd(0x6c3)]={'x':_0x4d551e,'y':_0x805aaf};const _0x302de4=_0x28451d[_0x4133bd(0x775)][_0x4133bd(0x6c3)]['x']/0x2,_0x46282e=_0x28451d[_0x4133bd(0x775)]['__viewportSize']['y']/0x2;_0x28451d['prototype'][_0x4133bd(0x7fa)]=Math[_0x4133bd(0x89f)](_0x302de4*_0x302de4+_0x46282e*_0x46282e),_0x1f0019[_0x4133bd(0x7fd)]=_0x4d551e,_0x1f0019[_0x4133bd(0x1e5)]=_0x805aaf,_0x4bf114[_0x4133bd(0x7fd)]=_0x4d551e,_0x4bf114[_0x4133bd(0x1e5)]=_0x805aaf,_0x10b193[_0x4133bd(0x61b)][_0x4133bd(0x888)][_0x4133bd(0x7fd)]=_0x4d551e,_0x10b193[_0x4133bd(0x61b)][_0x4133bd(0x888)][_0x4133bd(0x1e5)]=_0x805aaf,_0x10b193[_0x4133bd(0x87a)](),_0x1d3a78&&(_0x1d3a78[_0x4133bd(0x21c)](),_0x5f4991[_0x4133bd(0x21c)]()),((()=>{var _0x1f3863=_0x4133bd;for(let _0x2a2360=0x0;_0x2a2360<_0x1d8191[_0x1f3863(0x7d4)];_0x2a2360++){const _0x29f55b=_0x1d8191[_0x2a2360];_0x49d748(_0x29f55b[_0x1f3863(0x5cf)])||(console[_0x1f3863(0x6f0)](_0x1f3863(0x7eb)),_0x1d8191[_0x1f3863(0x665)](_0x2a2360,0x1),_0x2a2360--);}})()),_0x4133bd(0x523)!==_0x93b4a5[_0x4133bd(0x77e)][_0x4133bd(0x74e)]&&_0x8b79e1(_0x93b4a5,_0x4133bd(0x6c0)),_0x4133bd(0x523)!==_0x176cbf['style'][_0x4133bd(0x74e)]?_0x8b79e1(_0x176cbf,_0x4133bd(0x906)):'none'!==_0x19fa59['style'][_0x4133bd(0x74e)]&&_0x8b79e1(_0x19fa59,_0x4133bd(0x49b));};window[_0x4d3f07(0x7b0)](_0x4d3f07(0x21c),_0x5bd482),_0x28451d[_0x4d3f07(0x775)]['__camera']={'x':0x0,'y':0x0},_0x28451d[_0x4d3f07(0x775)][_0x4d3f07(0x824)]={'x':0x0,'y':0x0},_0x28451d[_0x4d3f07(0x775)][_0x4d3f07(0x33f)]=[],_0x28451d[_0x4d3f07(0x775)]['__keyboard']=new _0x2d568e(),_0x28451d['prototype'][_0x4d3f07(0x540)]=_0x1f0019,_0x28451d['prototype'][_0x4d3f07(0x62b)]=_0x1f0019[_0x4d3f07(0x5e4)]('2d'),_0x28451d[_0x4d3f07(0x775)]['__foodObjects']={},_0x28451d[_0x4d3f07(0x775)][_0x4d3f07(0x764)]=0x0,_0x28451d[_0x4d3f07(0x775)][_0x4d3f07(0x3e6)]=function(){var _0x3e2957=_0x4d3f07;const _0x2c4aa3=()=>{var _0x2246d5=_0x473b;this[_0x2246d5(0x3d5)]=performance[_0x2246d5(0x2dd)](),this[_0x2246d5(0x2ac)](),jQuery('#mm')[_0x2246d5(0x594)](),console[_0x2246d5(0x6f0)]('start\x201'),jQuery(_0x2246d5(0x5d8))['show'](),_0x2732bf();};window[_0x3e2957(0x777)]?_0x2c4aa3():(_0x4743de(),_0x2c4aa3(),ref1(),console[_0x3e2957(0x6f0)](_0x3e2957(0x89e)));},_0x28451d[_0x4d3f07(0x775)][_0x4d3f07(0x376)]=function(){var _0x23c499=_0x4d3f07;let _0x56df13={'l':!0x1,'r':!0x1,'a':!0x1,'ma':void 0x0};_0xc218eb[_0x23c499(0x815)]&&_0xc218eb[_0x23c499(0x815)][_0x23c499(0x766)]&&(_0x56df13=_0xc218eb['__lastInput'][_0x23c499(0x766)]);const _0x241392={'l':!0x1,'r':!0x1,'a':!0x1,'ma':void 0x0};(this[_0x23c499(0x31d)]['pressed']('A')||this['__keyboard']['pressed']('left'))&&(_0x241392['l']=!0x0),(this['__keyboard'][_0x23c499(0x686)]('D')||this['__keyboard'][_0x23c499(0x686)](_0x23c499(0x611)))&&(_0x241392['r']=!0x0),(this['__keyboard'][_0x23c499(0x686)]('W')||this['__keyboard'][_0x23c499(0x686)]('up')||this['__keyboard'][_0x23c499(0x222)])&&(_0x241392['a']=!0x0);let _0x326c87=!0x1,_0xc9ea26=0x0;if(void 0x0===this[_0x23c499(0x768)]&&(_0x326c87=!0x0),_0x90c207&&window[_0x23c499(0x482)])Math[_0x23c499(0x3cf)](this[_0x23c499(0x768)]-window['tVJ']['dX'])>0x1?_0x326c87=!0x0:Math[_0x23c499(0x3cf)](this[_0x23c499(0x54b)]-window[_0x23c499(0x482)]['dY'])>0x1&&(_0x326c87=!0x0),_0xc9ea26=window[_0x23c499(0x482)]['a'](),window[_0x23c499(0x401)]&&(_0x241392['a']=!0x0),_0x326c87&&(this[_0x23c499(0x768)]=window[_0x23c499(0x482)]['dX'],this[_0x23c499(0x54b)]=window[_0x23c499(0x482)]['dY']);else{const _0x315c86=this['__keyboard'][_0x23c499(0x53f)]['x']-window[_0x23c499(0x3b1)]/0x2,_0x1114ea=this[_0x23c499(0x31d)][_0x23c499(0x53f)]['y']-window[_0x23c499(0x389)]/0x2;Math[_0x23c499(0x3cf)](this[_0x23c499(0x768)]-_0x315c86)>0x1?_0x326c87=!0x0:Math['abs'](this[_0x23c499(0x54b)]-_0x1114ea)>0x1&&(_0x326c87=!0x0),_0xc9ea26=Math[_0x23c499(0x493)](_0x1114ea,_0x315c86),_0x326c87&&(this['oldMouseX']=_0x315c86,this['oldMouseY']=_0x1114ea);}(_0x241392['l']||_0x241392['r'])&&(_0x326c87=!0x1),_0x326c87&&(void 0x0===_0x56df13['ma']||Math[_0x23c499(0x3cf)](_0x56df13['ma']-_0xc9ea26)>=0x0)&&(_0x241392['ma']=_0xc9ea26),_0x241392['l']==_0x56df13['l']&&_0x241392['r']==_0x56df13['r']&&_0x241392['a']==_0x56df13['a']&&void 0x0===_0x241392['ma']||(this['inputSeq']+=0x1,_0xc218eb[_0x23c499(0x815)]={'input':_0x241392,'time':this['localTime'],'seq':this[_0x23c499(0x36d)]});},_0x28451d[_0x4d3f07(0x775)][_0x4d3f07(0x4d0)]=function(_0x5e93c6,_0x5c7e9f){var _0x5298b0=_0x4d3f07;_0x5e93c6['__mainSnake']&&(_0x5c7e9f['__turd']&&this[_0x5298b0(0x693)](0x8,'+',0x1),_0x5c7e9f[_0x5298b0(0x1ff)]?(_0x1d07e7['__loadedData'][_0x5298b0(0x92b)]+=0x1,_0x3ede31(_0x1d07e7[_0x5298b0(0x8ee)][_0x5298b0(0x92b)],_0x5298b0(0x92b))):this['__doAchievement'](0x0,'+',0x1)),_0x5c7e9f[_0x5298b0(0x760)]=!0x0,this[_0x5298b0(0x3b4)]--,_0x5e93c6['__eatFood'](_0x5c7e9f),this[_0x5298b0(0x48d)](_0x5c7e9f[_0x5298b0(0x30e)]);},_0x28451d[_0x4d3f07(0x775)][_0x4d3f07(0x7c6)]=function(){var _0x11e111=_0x4d3f07;this[_0x11e111(0x4b8)][_0x11e111(0x4a4)](_0x3c278c=>{var _0x149994=_0x11e111;this[_0x149994(0x43a)](_0x3c278c);});},_0x28451d[_0x4d3f07(0x775)]['__playerUpdatePhysics']=function(_0x1dcc28){var _0x10e80a=_0x4d3f07;if(_0x1dcc28&&_0x1dcc28[_0x10e80a(0x5db)]&&_0x1dcc28[_0x10e80a(0x2e1)]){_0x1dcc28['oldState']['__pos']=this[_0x10e80a(0x2c3)](_0x1dcc28[_0x10e80a(0x8b3)][_0x10e80a(0x2c3)]);var _0x237be3=this[_0x10e80a(0x293)](_0x1dcc28);for(_0x1dcc28['__dir']+=_0x237be3*_0x1d07e7[_0x10e80a(0x7f5)]*this['dt'];_0x1dcc28['__dir']>0x2*Math['PI'];)_0x1dcc28['__dir']-=0x2*Math['PI'];for(;_0x1dcc28[_0x10e80a(0x504)]<0x0;)_0x1dcc28[_0x10e80a(0x504)]+=0x2*Math['PI'];var _0x361396=_0x1dcc28['__accelerate']?_0x1d07e7['__snakeAcceleration']:0x1,_0xce7ca4=this['__getPhysicsMovementVectorFromDirection']({'x':Math['cos'](_0x1dcc28[_0x10e80a(0x504)]),'y':Math[_0x10e80a(0x4da)](_0x1dcc28['__dir']),'a':_0x361396});if(_0x361396>0x1){const _0x2f721f=Math[_0x10e80a(0x89f)](_0xce7ca4['x']*_0xce7ca4['x']+_0xce7ca4['y']*_0xce7ca4['y']);if(_0x1dcc28[_0x10e80a(0x79e)]+=_0x2f721f,_0x1dcc28['__accelTick']>=_0x1d07e7['__snakeTurdInterval']&&_0x1dcc28[_0x10e80a(0x1ea)]){_0x1dcc28[_0x10e80a(0x79e)]-=_0x1d07e7[_0x10e80a(0x5b9)];const _0x340fbc=_0x1dcc28[_0x10e80a(0x79e)];var _0x2c9bc7=_0x1dcc28['__partPositions'][_0x1dcc28[_0x10e80a(0x2d0)]-0x1],_0x11bd37={'x':_0x2c9bc7['x']-_0x340fbc*Math[_0x10e80a(0x916)](_0x1dcc28[_0x10e80a(0x504)]),'y':_0x2c9bc7['y']-_0x340fbc*Math['sin'](_0x1dcc28['__dir'])};const _0x2b501d=this[_0x10e80a(0x806)](_0x11bd37),_0x2ab6c8=this['__spawnFood'](_0x10e80a(0x20a),_0x11bd37,_0x2b501d);_0x2ab6c8&&(_0x2ab6c8[_0x10e80a(0x4fa)]=_0x1dcc28[_0x10e80a(0x3a8)][0x0],this[_0x10e80a(0x8d9)](_0x11bd37,{'turd':!0x0,'tint':_0x2ab6c8[_0x10e80a(0x4fa)]}),_0x1dcc28['__foodsEaten']--,_0x1dcc28[_0x10e80a(0x89c)](),_0x1dcc28==_0xc218eb&&window[_0x10e80a(0x6d4)]&&window[_0x10e80a(0x6d4)]['vibrate']&&window[_0x10e80a(0x6d4)][_0x10e80a(0x8f4)](0x1e));}}_0x1dcc28['currentState']['__pos']=this[_0x10e80a(0x502)](_0x1dcc28['oldState']['__pos'],_0xce7ca4);}},_0x28451d['prototype']['__processFoodUpdate']=function(_0x17c2e5){var _0x395cc3=_0x4d3f07;const _0x379f89=[];return _0x17c2e5[_0x395cc3(0x2db)](_0x3f5e96=>{var _0x3e0fe7=_0x395cc3;const _0x1d3aeb=this['__getFoodPositionFromId'](_0x3f5e96);let _0x533755='small';_0x1d3aeb['x']%_0x1d07e7[_0x3e0fe7(0x26b)]!=0x0&&_0x1d3aeb['y']%_0x1d07e7['__foodBigPixelChance']!=0x0||(_0x533755=_0x3e0fe7(0x7f8));const _0x356be9=this[_0x3e0fe7(0x856)](_0x1d3aeb,_0x1d07e7[_0x3e0fe7(0x5cc)],_0x1d07e7[_0x3e0fe7(0x719)]);let _0x17fbd2=void 0x0;if(this[_0x3e0fe7(0x83f)][_0x356be9]&&this['__foodPositionHash'][_0x356be9][_0x3f5e96]){const _0x3e264a=this[_0x3e0fe7(0x83f)][_0x356be9][_0x3f5e96];_0x3e0fe7(0x621)==typeof _0x3e264a&&(_0x533755=_0x3e0fe7(0x20a),_0x17fbd2=_0x3e264a['tint']);}const _0x104519=this[_0x3e0fe7(0x8bc)](_0x533755,_0x1d3aeb,_0x3f5e96);_0x104519&&(_0x379f89[_0x3e0fe7(0x72a)](_0x104519),_0x104519[_0x3e0fe7(0x3ca)]&&(_0x104519[_0x3e0fe7(0x4fa)]=_0x17fbd2));}),_0x379f89;},_0x28451d[_0x4d3f07(0x775)][_0x4d3f07(0x8bc)]=function(_0x18a521,_0x23cd3f,_0x4bd0d4){var _0x531b6a=_0x4d3f07;if(!this[_0x531b6a(0x29b)](_0x23cd3f,_0x4bd0d4)){var _0x8c7f64=this[_0x531b6a(0x6ae)](_0x18a521);return _0x8c7f64[_0x531b6a(0x53d)][_0x531b6a(0x4fb)](_0x23cd3f['x'],_0x23cd3f['y']),_0x8c7f64[_0x531b6a(0x30e)]=_0x4bd0d4,_0x8c7f64[_0x531b6a(0x295)]='big'===_0x18a521?_0x1d07e7[_0x531b6a(0x7ea)]:0x1,'turd'===_0x18a521&&(_0x8c7f64['__turd']=!0x0,_0x8c7f64[_0x531b6a(0x6f9)]=performance[_0x531b6a(0x2dd)]()),this[_0x531b6a(0x74b)](_0x23cd3f)&&_0x1a0076(_0x8c7f64['scale'],{'x':0x0,'y':0x0},{'x':0x1,'y':0x1},_0x1d07e7[_0x531b6a(0x539)],_0x19dfec[_0x531b6a(0x90b)]),this[_0x531b6a(0x2b0)](_0x23cd3f,_0x8c7f64),_0x8c7f64;}},_0x28451d['prototype']['__createFood']=function(_0xb35a43){var _0x57e962=_0x4d3f07;const _0x1d6cad=this[_0x57e962(0x822)][_0xb35a43],_0x1845cb=Math[_0x57e962(0x2a7)]((_0x1d6cad[_0x57e962(0x7d4)]-0x1)*Math[_0x57e962(0x368)]()),_0x3bd370=this[_0x57e962(0x61b)][_0x57e962(0x419)](_0x1d07e7[_0x57e962(0x84e)]);let _0x48fbf2=new this[(_0x57e962(0x64c))](_0x1d6cad[_0x1845cb]);return _0x48fbf2['anchor'][_0x57e962(0x4fb)](0.5,0.5),_0x3bd370['add'](_0x48fbf2),_0x48fbf2;},_0x28451d[_0x4d3f07(0x775)][_0x4d3f07(0x7c9)]=function(){var _0xfd6455=_0x4d3f07;window[_0xfd6455(0x3b1)]<0x1f4?_0x1d07e7[_0xfd6455(0x7fc)]=0x2:window[_0xfd6455(0x389)]<0x190?_0x1d07e7['__cameraWidthToZoomFactor']=0x2:_0x1d07e7[_0xfd6455(0x7fc)]=0x2;const _0x2f8054=_0xc218eb[_0xfd6455(0x8b3)][_0xfd6455(0x2c3)]['x']-this[_0xfd6455(0x61b)][_0xfd6455(0x888)]['at']['x']-_0x4bf114['width']/0x2,_0x315962=_0xc218eb[_0xfd6455(0x8b3)]['__pos']['y']-this[_0xfd6455(0x61b)][_0xfd6455(0x888)]['at']['y']-_0x4bf114[_0xfd6455(0x1e5)]/0x2;this[_0xfd6455(0x61b)]['camera']['at']['x']+=_0x2f8054*_0x1d07e7[_0xfd6455(0x6c5)],this[_0xfd6455(0x61b)][_0xfd6455(0x888)]['at']['y']+=_0x315962*_0x1d07e7[_0xfd6455(0x6c5)];const _0x2be351=this[_0xfd6455(0x7ff)](_0xc218eb),_0x3c57ea=(_0x2be351-this['__scene']['camera'][_0xfd6455(0x698)]['x'])*_0x1d07e7[_0xfd6455(0x6c5)];this[_0xfd6455(0x61b)][_0xfd6455(0x888)][_0xfd6455(0x698)]['x']+=_0x3c57ea,this[_0xfd6455(0x61b)][_0xfd6455(0x888)][_0xfd6455(0x698)]['y']+=_0x3c57ea,null==this[_0xfd6455(0x534)]&&(this['__lastStoredZoomFloorCorrection']=_0x2be351),Math[_0xfd6455(0x3cf)](this[_0xfd6455(0x61b)][_0xfd6455(0x888)][_0xfd6455(0x698)]['x']-this[_0xfd6455(0x534)])>0x0&&(this[_0xfd6455(0x534)]=this['__scene']['camera']['zoom']['x'],this[_0xfd6455(0x61b)][_0xfd6455(0x8cd)](),_0x10b193[_0xfd6455(0x87a)]()),this[_0xfd6455(0x2b5)]['x']=(this['__scene'][_0xfd6455(0x888)]['at']['x']+_0x4bf114[_0xfd6455(0x7fd)]/0x2)*this[_0xfd6455(0x61b)]['camera'][_0xfd6455(0x698)]['x'],this[_0xfd6455(0x2b5)]['y']=(this[_0xfd6455(0x61b)][_0xfd6455(0x888)]['at']['y']+_0x4bf114[_0xfd6455(0x1e5)]/0x2)*this['__scene'][_0xfd6455(0x888)][_0xfd6455(0x698)]['y'];},_0x28451d[_0x4d3f07(0x775)]['__buildFloorTiles']=function(){var _0x1fdfc5=_0x4d3f07;let _0x4d8457,_0x5bccef;if(this['__fixFloorPosition'](),this[_0x1fdfc5(0x33f)][_0x1fdfc5(0x7d4)]>0x0){for(_0x4d8457=0x0;_0x4d8457<this[_0x1fdfc5(0x33f)][_0x1fdfc5(0x7d4)];_0x4d8457++)this[_0x1fdfc5(0x33f)][_0x4d8457][_0x1fdfc5(0x7ed)]();}this[_0x1fdfc5(0x33f)]=[];const _0x17978a=_0x1d07e7[_0x1fdfc5(0x3ed)]*this[_0x1fdfc5(0x61b)]['camera'][_0x1fdfc5(0x698)]['x'],_0x572187=Math['ceil'](_0x4bf114['width']/_0x17978a)+0x1,_0x3ea514=Math[_0x1fdfc5(0x6a9)](_0x4bf114['height']/_0x17978a)+0x1,_0x31e034=this['__scene'][_0x1fdfc5(0x419)](_0x1d07e7[_0x1fdfc5(0x303)]);for(_0x4d8457=0x0;_0x4d8457<_0x572187;_0x4d8457++)for(_0x5bccef=0x0;_0x5bccef<_0x3ea514;_0x5bccef++){const _0x1ea287=new this[(_0x1fdfc5(0x64c))](this[_0x1fdfc5(0x661)][_0x1fdfc5(0x432)]);_0x1ea287[_0x1fdfc5(0x8d2)][_0x1fdfc5(0x4fb)](0.5,0.5),_0x1ea287[_0x1fdfc5(0x88c)]=!0x0,_0x31e034[_0x1fdfc5(0x7b2)](_0x1ea287),_0x1ea287[_0x1fdfc5(0x6fc)]=0x0,_0x1ea287[_0x1fdfc5(0x53d)]['set'](_0x4d8457*_0x1d07e7[_0x1fdfc5(0x3ed)]+this['__floorPosition']['x'],_0x5bccef*_0x1d07e7['__floorTileSize']+this[_0x1fdfc5(0x824)]['y']),this['__floortTiles']['push'](_0x1ea287);}},_0x28451d[_0x4d3f07(0x775)][_0x4d3f07(0x674)]=function(){var _0x335821=_0x4d3f07;const _0x2b36ce=_0x1d07e7['__floorTileSize']*this[_0x335821(0x534)],_0x42ae76=Math[_0x335821(0x6a9)](_0x4bf114[_0x335821(0x7fd)]/_0x2b36ce),_0x5917f7=Math[_0x335821(0x6a9)](_0x4bf114[_0x335821(0x1e5)]/_0x2b36ce),_0x2a27f4=this[_0x335821(0x824)]['x']-_0x1d07e7[_0x335821(0x3ed)]/0x2,_0x499fae=this['__floorPosition']['x']+_0x42ae76*_0x1d07e7['__floorTileSize']+_0x1d07e7[_0x335821(0x3ed)]/0x2,_0x50e548=this[_0x335821(0x824)]['y']-_0x1d07e7[_0x335821(0x3ed)]/0x2,_0x2f1a8f=this[_0x335821(0x824)]['y']+_0x5917f7*_0x1d07e7['__floorTileSize']+_0x1d07e7['__floorTileSize']/0x2,_0x1e14c9=this['__scene'][_0x335821(0x5e5)]({'x':-0x1,'y':0x1})['x'],_0x5bca63=this['__scene']['screenToWorldPoint']({'x':0x1,'y':0x1})['x'],_0x1afed0=this['__scene']['screenToWorldPoint']({'x':-0x1,'y':0x1})['y'],_0x564633=this['__scene']['screenToWorldPoint']({'x':-0x1,'y':-0x1})['y'];var _0x2df81e=this[_0x335821(0x824)]['x'],_0x1459c2=this[_0x335821(0x824)]['y'];_0x2a27f4-_0x1e14c9>0x0?this[_0x335821(0x824)]['x']-=Math['ceil']((_0x2a27f4-_0x1e14c9)/_0x1d07e7[_0x335821(0x3ed)])*_0x1d07e7[_0x335821(0x3ed)]:_0x499fae-_0x5bca63<0x0&&(this[_0x335821(0x824)]['x']+=Math['ceil'](Math[_0x335821(0x3cf)](_0x499fae-_0x5bca63)/_0x1d07e7[_0x335821(0x3ed)])*_0x1d07e7[_0x335821(0x3ed)]),_0x50e548-_0x1afed0>0x0?this[_0x335821(0x824)]['y']-=Math[_0x335821(0x6a9)]((_0x50e548-_0x1afed0)/_0x1d07e7[_0x335821(0x3ed)])*_0x1d07e7[_0x335821(0x3ed)]:_0x2f1a8f-_0x564633<0x0&&(this[_0x335821(0x824)]['y']+=Math[_0x335821(0x6a9)](Math['abs'](_0x2f1a8f-_0x564633)/_0x1d07e7[_0x335821(0x3ed)])*_0x1d07e7['__floorTileSize']);var _0x46ad0f=this[_0x335821(0x824)]['x']-_0x2df81e,_0x5df10d=this[_0x335821(0x824)]['y']-_0x1459c2;if(0x0!=_0x46ad0f||0x0!=_0x5df10d){for(var _0x2df2dd=0x0;_0x2df2dd<this[_0x335821(0x33f)][_0x335821(0x7d4)];_0x2df2dd++)this[_0x335821(0x33f)][_0x2df2dd]['position']['set'](this['__floortTiles'][_0x2df2dd]['position']['x']+_0x46ad0f,this[_0x335821(0x33f)][_0x2df2dd][_0x335821(0x53d)]['y']+_0x5df10d);}},_0x28451d['prototype'][_0x4d3f07(0x4a8)]=function(){var _0xc977b4=_0x4d3f07;const _0x539e14=this[_0xc977b4(0x61b)][_0xc977b4(0x888)][_0xc977b4(0x698)]['x'];let _0x667592=0x7d0*_0x539e14;const _0x2c37c9=-this[_0xc977b4(0x2b5)]['x']+_0x4bf114[_0xc977b4(0x7fd)]/0x2,_0xa782f6=-this[_0xc977b4(0x2b5)]['y']+_0x4bf114[_0xc977b4(0x1e5)]/0x2,_0x5577c8=_0x1d07e7[_0xc977b4(0x809)]*_0x539e14;this['__ctx'][_0xc977b4(0x897)]=_0xc977b4(0x3d6),this['__ctx'][_0xc977b4(0x4a9)]=_0x667592,this[_0xc977b4(0x62b)]['beginPath'](),this[_0xc977b4(0x62b)][_0xc977b4(0x250)](_0x2c37c9,_0xa782f6,_0x5577c8+_0x667592/0x2,0x0,0x2*Math['PI']),this[_0xc977b4(0x62b)]['stroke'](),_0x667592=0x3*_0x539e14,this[_0xc977b4(0x62b)][_0xc977b4(0x897)]='#382C2A',this[_0xc977b4(0x62b)][_0xc977b4(0x4a9)]=_0x667592,this[_0xc977b4(0x62b)][_0xc977b4(0x38d)](),this[_0xc977b4(0x62b)][_0xc977b4(0x250)](_0x2c37c9,_0xa782f6,_0x5577c8+_0x667592/0x2,0x0,0x2*Math['PI']),this['__ctx'][_0xc977b4(0x7d6)]();},_0x28451d['prototype'][_0x4d3f07(0x804)]=function(){var _0xae2b2=_0x4d3f07;if(_0x10b193[_0xae2b2(0x62b)]['font']=''[_0xae2b2(0x417)](0x14,_0xae2b2(0x209)),_0xc218eb&&_0xc218eb[_0xae2b2(0x5db)]){let _0x30f2a2=0x14,_0x147b47=this[_0xae2b2(0x6c3)]['y']-0x14;this[_0xae2b2(0x62b)][_0xae2b2(0x75a)]=_0xae2b2(0x8a4),this[_0xae2b2(0x62b)]['fontSize']=0x14,this[_0xae2b2(0x62b)][_0xae2b2(0x7d0)]=_0xae2b2(0x658),this[_0xae2b2(0x62b)][_0xae2b2(0x4a9)]=0x4,mySkor=_0xc218eb[_0xae2b2(0x3dd)];}},_0x28451d[_0x4d3f07(0x775)][_0x4d3f07(0x87c)]=function(){var _0x35720f=_0x4d3f07;if(this['__scene'][_0x35720f(0x21c)](),this[_0x35720f(0x61b)][_0x35720f(0x2e6)](),this[_0x35720f(0x62b)]['clearRect'](0x0,0x0,this[_0x35720f(0x540)][_0x35720f(0x7fd)],this[_0x35720f(0x540)][_0x35720f(0x1e5)]),_0x1d3a78&&(_0x1d3a78[_0x35720f(0x8be)](0x8),_0x5f4991[_0x35720f(0x8be)](0x8),_0x1d07e7[_0x35720f(0x4b1)]||_0x1d3a78[_0x35720f(0x583)](0x1,+Math[_0x35720f(0x368)]()*window['innerWidth'],-0x32,{'minXSpeed':-0x32,'maxXSpeed':0x32,'minYSpeed':0x1f4,'maxYSpeed':0x1f4,'yAccel':0xfa0,'moveRotate':'x'})),_0x1d07e7[_0x35720f(0x4b1)]){if(serverMod==_0x35720f(0x49f))serverSpeed=0x154;else{if(serverMod=='speed')serverSpeed=0x1b8;else serverMod==_0x35720f(0x5af)&&(serverSpeed=0x280);}if(this[_0x35720f(0x7c6)](),this[_0x35720f(0x73b)]+=this['dt'],_0xc218eb[_0x35720f(0x5db)]&&(this[_0x35720f(0x376)](this[_0x35720f(0x764)]),_0x138984()),_0xc218eb){window[_0x35720f(0x302)]=_0xc218eb[_0x35720f(0x504)];const _0x308345=this[_0x35720f(0x6fe)](_0xc218eb);if(!_0xc218eb[_0x35720f(0x8fa)]||_0xc218eb['previousHash']['hash']!==_0x308345[_0x35720f(0x251)]){_0xc218eb[_0x35720f(0x8fa)]=_0x308345;const _0x263fde=this[_0x35720f(0x265)](_0xc218eb);var _0x5aee15,_0x3926a9,_0xd08e75,_0xa6b633=[];for(_0x5aee15=_0x308345[_0x35720f(0x4c0)]-_0x263fde;_0x5aee15<=_0x308345[_0x35720f(0x4c0)]+_0x263fde;_0x5aee15++)for(_0x3926a9=_0x308345['hashY']-_0x263fde;_0x3926a9<=_0x308345[_0x35720f(0x42b)]+_0x263fde;_0x3926a9++)_0xd08e75=_0x5aee15+'_'+_0x3926a9,this['__foodPositionHash'][_0xd08e75]&&(_0xa6b633=_0xa6b633[_0x35720f(0x417)](Object[_0x35720f(0x2e5)](this['__foodPositionHash'][_0xd08e75])));this['__processFoodUpdate'](_0xa6b633);}}const _0x3e6717=this[_0x35720f(0x764)]%0x2==0x0;if(this[_0x35720f(0x624)]={},this[_0x35720f(0x4b8)][_0x35720f(0x2db)](_0x40f6a8=>{var _0x42aecf=_0x35720f;if(_0x40f6a8[_0x42aecf(0x2e1)]&&_0x40f6a8[_0x42aecf(0x5db)]){_0x40f6a8[_0x42aecf(0x2c3)]=_0x40f6a8[_0x42aecf(0x8b3)][_0x42aecf(0x2c3)],_0x40f6a8[_0x42aecf(0x330)](),this['setPlayerInCollisionHash'](_0x40f6a8);const _0xffe06c=_0x40f6a8[_0x42aecf(0x460)][Math['round'](_0x40f6a8['__length']/0x2)];_0x40f6a8[_0x42aecf(0x1ea)]=this['__coordinateInScreen'](_0xffe06c,Math[_0x42aecf(0x6a9)](_0x40f6a8[_0x42aecf(0x2d0)]/0x2)*_0x1d07e7[_0x42aecf(0x5a4)]*_0x40f6a8[_0x42aecf(0x3c0)]),_0x40f6a8['__draw'](),_0x40f6a8[_0x42aecf(0x1ea)]&&_0x3e6717?this['__checkFoodCollision'](_0x40f6a8,this[_0x42aecf(0x4d0)][_0x42aecf(0x858)](this)):!_0x40f6a8[_0x42aecf(0x1ea)]&&Math[_0x42aecf(0x368)]()<0.1&&_0x40f6a8[_0x42aecf(0x7cc)]!=_0xc218eb['__id']&&(_0x40f6a8['__foodsEaten']++,_0x40f6a8[_0x42aecf(0x89c)]()),this['__checkLevelEdgeCollision'](_0x40f6a8);}}),_0x3e6717)for(this[_0x35720f(0x4b8)][_0x35720f(0x2db)](_0x43753c=>{var _0x2c4793=_0x35720f,_0x2d6d4a=this[_0x2c4793(0x38e)](_0x43753c);_0x2d6d4a&&_0x43753c&&this[_0x2c4793(0x470)](_0x43753c,_0x2d6d4a);}),i=0x0;i<this[_0x35720f(0x202)][_0x35720f(0x7d4)];i++){var _0xb16343=this[_0x35720f(0x202)][i];_0xb16343[_0x35720f(0x26d)]&&_0xb16343[_0x35720f(0x5fc)]();}if(this[_0x35720f(0x674)](),this['__drawDeathRing'](),this[_0x35720f(0x804)](),this['__updateCamera'](),this[_0x35720f(0x764)]%_0x1d07e7[_0x35720f(0x4ae)]==0x0&&this[_0x35720f(0x778)](),this[_0x35720f(0x764)]%_0x1d07e7[_0x35720f(0x56b)]==0x0&&this[_0x35720f(0x529)](),this[_0x35720f(0x764)]%_0x1d07e7[_0x35720f(0x793)]==0x0){var _0x29d6b9=Math[_0x35720f(0x23f)](_0x1d07e7[_0x35720f(0x64d)]*_0x1d07e7[_0x35720f(0x375)],_0x1d07e7[_0x35720f(0x64d)]-this[_0x35720f(0x3b4)]),_0x4bc46f=this[_0x35720f(0x6c4)](_0x29d6b9);this['__processFoodUpdate'](_0x4bc46f[_0x35720f(0x5c0)]);}this[_0x35720f(0x764)]%_0x1d07e7['__buildGachaInterval']==0x0&&this[_0x35720f(0x6c4)](_0x1d07e7[_0x35720f(0x411)],performance[_0x35720f(0x2dd)]())['foodsCreated'][_0x35720f(0x2db)](_0x476308=>{var _0x3b5502=_0x35720f;const _0x4cd89e=this[_0x3b5502(0x586)](_0x476308),_0x571474=_0xc218eb[_0x3b5502(0x8b3)][_0x3b5502(0x2c3)]['x']-_0x4cd89e['x'],_0x5a6e1c=_0xc218eb['currentState']['__pos']['y']-_0x4cd89e['y'];if(Math[_0x3b5502(0x89f)](_0x571474*_0x571474+_0x5a6e1c*_0x5a6e1c)>_0x1d07e7[_0x3b5502(0x7e7)])this['__removeFood'](_0x476308);else{const _0x549a3d=this[_0x3b5502(0x8bc)](_0x3b5502(0x92b),_0x4cd89e,_0x476308);_0x549a3d&&(_0x549a3d[_0x3b5502(0x1ff)]=!0x0,_0x569737[_0x3b5502(0x72a)]({'__target':_0x549a3d}));}}),this[_0x35720f(0x764)]%_0x1d07e7[_0x35720f(0x3c2)]&&this[_0x35720f(0x79c)](),this[_0x35720f(0x764)]++;}},_0x28451d[_0x4d3f07(0x775)][_0x4d3f07(0x2e9)]=function(_0xe6ef1a){var _0x42f185=_0x4d3f07,_0x454949=Math[_0x42f185(0x89f)](_0xe6ef1a['__pos']['x']*_0xe6ef1a[_0x42f185(0x2c3)]['x']+_0xe6ef1a[_0x42f185(0x2c3)]['y']*_0xe6ef1a['__pos']['y']);_0xe6ef1a[_0x42f185(0x5db)]&&_0x454949>_0x1d07e7[_0x42f185(0x809)]&&this['__killPlayer'](_0xe6ef1a,{'u':-0x1});},_0x28451d[_0x4d3f07(0x775)]['__killPlayer']=function(_0x52d603,_0x2d2dbb){var _0x274697=_0x4d3f07;if(!_0x52d603[_0x274697(0x5db)]||!_0x52d603[_0x274697(0x2e1)])return;if(void 0x0!==_0x52d603[_0x274697(0x632)])return;const _0x3de815=[];for(let _0x3f4c33=0x0;_0x3f4c33<_0x52d603[_0x274697(0x2d0)];_0x3f4c33+=0x2)_0x3de815[_0x274697(0x72a)](_0x52d603['__partPositions'][_0x3f4c33]['x'],_0x52d603['__partPositions'][_0x3f4c33]['y']);_0x52d603[_0x274697(0x632)]=performance['now'](),_0x52d603['__id']==_0xc218eb[_0x274697(0x7cc)]&&this['__clientDies'](),_0x52d603[_0x274697(0x7cc)]!==_0xc218eb['__id']&&_0x2d2dbb['u']==_0xc218eb['__id']&&this[_0x274697(0x693)](0x1,'+',0x1),_0x52d603[_0x274697(0x7cc)]!==_0xc218eb[_0x274697(0x7cc)]&&_0x2d2dbb['u']==_0xc218eb[_0x274697(0x7cc)]&&_0x2e4ff8(),setTimeout(()=>{var _0x4619b0=_0x274697;const _0x6a01ce=this['__foodExplosion'](_0x3de815,_0x52d603[_0x4619b0(0x3dd)],performance[_0x4619b0(0x2dd)]());for(let _0x9a97af=0x0;_0x9a97af<_0x6a01ce['foodsCreated']['length'];_0x9a97af++){const _0x5a8912=this[_0x4619b0(0x574)](_0x6a01ce[_0x4619b0(0x5c0)][_0x9a97af]),_0x31a87a=Math[_0x4619b0(0x23f)](_0x1d07e7[_0x4619b0(0x69a)],_0x52d603[_0x4619b0(0x3dd)]),_0x53db80=Math[_0x4619b0(0x6a9)](_0x52d603['__foodsEaten']/_0x31a87a);_0x5a8912[_0x4619b0(0x4a4)](_0x5680c7=>{var _0x3d5d07=_0x4619b0;this[_0x3d5d07(0x74b)](_0x5680c7['position'])&&_0x1a0076(_0x5680c7[_0x3d5d07(0x53d)],{'x':_0x5680c7[_0x3d5d07(0x53d)]['x'],'y':_0x5680c7[_0x3d5d07(0x53d)]['y']},{'x':_0x5680c7[_0x3d5d07(0x53d)]['x'],'y':_0x5680c7['position']['y']},_0x1d07e7[_0x3d5d07(0x539)],_0x19dfec[_0x3d5d07(0x90b)]),_0x5680c7[_0x3d5d07(0x295)]=_0x53db80;});}if(_0x52d603!=_0xc218eb&&_0x52d603[_0x4619b0(0x3b8)]){for(i=0x0;i<this[_0x4619b0(0x202)][_0x4619b0(0x7d4)];i++)this[_0x4619b0(0x202)][i]==_0x52d603[_0x4619b0(0x3b8)]&&(this[_0x4619b0(0x69c)](_0x52d603[_0x4619b0(0x3b8)][_0x4619b0(0x5f6)]),this[_0x4619b0(0x202)]['splice'](i,0x1));}},0x258);},_0x28451d[_0x4d3f07(0x775)][_0x4d3f07(0x74b)]=function(_0x3a24d1,_0x84f41){var _0x4e504f=_0x4d3f07;_0x84f41||(_0x84f41=0x0);const _0x5cbfcc=_0xc218eb[_0x4e504f(0x2c3)]['x']-_0x3a24d1['x'],_0x4297ed=_0xc218eb[_0x4e504f(0x2c3)]['y']-_0x3a24d1['y'];return Math['sqrt'](_0x5cbfcc*_0x5cbfcc+_0x4297ed*_0x4297ed)<this[_0x4e504f(0x7fa)]/this['__scene'][_0x4e504f(0x888)][_0x4e504f(0x698)]['x']+_0x84f41+0x190;},_0x28451d[_0x4d3f07(0x775)][_0x4d3f07(0x79c)]=function(){var _0x599de2=_0x4d3f07;const _0x4310ff=Object['keys'](this[_0x599de2(0x784)]),_0x3cf418={},_0x1759be=0x3*_0x1d07e7[_0x599de2(0x5cc)],_0x39cb2a=0x3*_0x1d07e7[_0x599de2(0x719)],_0x47f72b=Math['sqrt'](_0x1759be*_0x1759be+_0x39cb2a*_0x39cb2a);for(let _0x34b750=0x0;_0x34b750<_0x1d07e7['__cleanFoodProcessAmmount'];_0x34b750++){const _0x5f3b66=Math[_0x599de2(0x2a7)](Math[_0x599de2(0x368)]()*_0x4310ff['length'])-0x1;if(-0x1==_0x5f3b66)break;null==_0x3cf418[_0x4310ff[_0x5f3b66]]&&(_0x3cf418[_0x4310ff[_0x5f3b66]]=Object['keys'](this[_0x599de2(0x784)][_0x4310ff[_0x5f3b66]]));const _0x10f8dd=_0x3cf418[_0x4310ff[_0x5f3b66]],_0x386466=Math[_0x599de2(0x2a7)](Math[_0x599de2(0x368)]()*(_0x10f8dd[_0x599de2(0x7d4)]-0x1)),_0x166784=this[_0x599de2(0x784)][_0x4310ff[_0x5f3b66]][_0x10f8dd[_0x386466]],_0x5b2713=this[_0x599de2(0x586)](_0x166784[_0x599de2(0x30e)]),_0x34251c=_0x5b2713['x']-_0xc218eb[_0x599de2(0x2c3)]['x'],_0x19430d=_0x5b2713['y']-_0xc218eb[_0x599de2(0x2c3)]['y'];(Math['sqrt'](_0x34251c*_0x34251c+_0x19430d*_0x19430d)>_0x47f72b||_0x166784[_0x599de2(0x3ca)]&&performance[_0x599de2(0x2dd)]()>_0x166784['__spawnTime']+0x2710)&&(this['__removeFoodFromCollisionHash'](_0x166784[_0x599de2(0x30e)]),_0x166784[_0x599de2(0x7ed)](),_0x166784['__turd']&&this[_0x599de2(0x48d)](_0x166784[_0x599de2(0x30e)]),_0x3cf418[_0x4310ff[_0x5f3b66]][_0x599de2(0x665)](_0x386466,0x1),0x0==_0x3cf418[_0x4310ff[_0x5f3b66]]&&_0x4310ff[_0x599de2(0x665)](_0x5f3b66,0x1));}},_0x28451d['prototype']['__onJoinGame']=function(){var _0x1f4f90=_0x4d3f07;this[_0x1f4f90(0x895)](),this[_0x1f4f90(0x373)]={},this[_0x1f4f90(0x624)]={},this[_0x1f4f90(0x83f)]={},this[_0x1f4f90(0x784)]={};var _0xef139d={};_0xef139d['tinyId']=this[_0x1f4f90(0x702)](),this[_0x1f4f90(0x202)][_0x1f4f90(0x72a)](_0xef139d),(_0xc218eb=this[_0x1f4f90(0x4b8)][_0xef139d[_0x1f4f90(0x5f6)]])[_0x1f4f90(0x3b8)]=_0xef139d,_0xc218eb[_0x1f4f90(0x60f)]=_0x17c1af[_0x1f4f90(0x58a)],_0xc218eb['__hat']=_0xf758cf,this[_0x1f4f90(0x3ea)](_0xc218eb,_0x10a4fd[_0x1f4f90(0x2db)](_0x409f7d=>_0x409f7d[_0x1f4f90(0x63d)]('#','0x'))),_0xc218eb[_0x1f4f90(0x504)]=Math[_0x1f4f90(0x493)](_0xc218eb[_0x1f4f90(0x2c3)]['y'],_0xc218eb[_0x1f4f90(0x2c3)]['x'])-Math['PI'],_0xc218eb['__mainSnake']=!0x0,this[_0x1f4f90(0x3b4)]=0x0,this[_0x1f4f90(0x6c4)](_0x1d07e7[_0x1f4f90(0x64d)]);for(let _0x5da759=0x0;_0x5da759<0.5*_0x1d07e7['__maxClients'];_0x5da759++){const _0x1f83e4=Math[_0x1f4f90(0x2d8)](0x2*_0x1d07e7[_0x1f4f90(0x8ee)][_0x1f4f90(0x5ef)][0x2],0x2710),_0x2eb461=this[_0x1f4f90(0x529)]();_0x2eb461&&(_0x2eb461[_0x1f4f90(0x3dd)]=_0x1d07e7[_0x1f4f90(0x351)]+Math['random']()*(_0x1f83e4/0x64),Math['random']()<=0.5&&(_0x2eb461['__foodsEaten']=_0x1d07e7[_0x1f4f90(0x351)]+Math[_0x1f4f90(0x368)]()*(_0x1f83e4/0x14)),Math[_0x1f4f90(0x368)]()<=0.2&&(_0x2eb461[_0x1f4f90(0x3dd)]=_0x1d07e7[_0x1f4f90(0x351)]+Math[_0x1f4f90(0x368)]()*(_0x1f83e4/0xa)),Math[_0x1f4f90(0x368)]()<=0.1&&(_0x2eb461[_0x1f4f90(0x3dd)]=_0x1d07e7[_0x1f4f90(0x351)]+_0x1f83e4/0xa+Math[_0x1f4f90(0x368)]()*(_0x1f83e4/0x2)),Math[_0x1f4f90(0x368)]()<=0.05&&(_0x2eb461['__foodsEaten']=_0x1d07e7['__snakeStartingFood']+_0x1f83e4/0x2+Math['random']()*_0x1f83e4),_0x2eb461['__foodsEaten']=Math[_0x1f4f90(0x2a7)](_0x2eb461[_0x1f4f90(0x3dd)]),_0x2eb461[_0x1f4f90(0x3dd)]>_0x1f83e4/0x14&&(_0x2eb461['__client'][_0x1f4f90(0x619)]=!0x1),(_0x2eb461['__foodsEaten']>_0x1f83e4/0x2||Math[_0x1f4f90(0x368)]()<=0.2)&&(_0x2eb461[_0x1f4f90(0x6a4)]=!0x0),(_0x2eb461[_0x1f4f90(0x3dd)]>_0x1f83e4/0x2||Math[_0x1f4f90(0x368)]()<=0.2)&&(_0x2eb461[_0x1f4f90(0x852)]=[0x64,0x1388]),_0x2eb461[_0x1f4f90(0x89c)]());}},_0x28451d['prototype'][_0x4d3f07(0x3ea)]=function(_0x660353,_0x12d63c){var _0x2157d1=_0x4d3f07;_0x660353[_0x2157d1(0x6f6)](),_0x660353[_0x2157d1(0x89c)]();var _0x47cdb1=this['__randomPointInCircle'](0.9*_0x1d07e7['__levelRadius']);if(_0x660353[_0x2157d1(0x2c3)]=_0x47cdb1,_0x660353['__colors']=_0x12d63c,!_0x12d63c){_0x660353['__colors']=[_0x10b193[_0x2157d1(0x88b)]()];const _0x44b09d=0.3;for(let _0x2f7adf=0x0;_0x2f7adf<0x4;_0x2f7adf++)Math[_0x2157d1(0x368)]()<=_0x44b09d&&_0x660353[_0x2157d1(0x3a8)][_0x2157d1(0x7d4)]==_0x2f7adf+0x1&&_0x660353['__colors'][_0x2157d1(0x72a)](_0x10b193['__randomColor']());}_0x660353[_0x2157d1(0x8b3)]['__pos']=_0x660353[_0x2157d1(0x2c3)],_0x660353[_0x2157d1(0x26c)]['__pos']=_0x660353[_0x2157d1(0x2c3)],_0x660353[_0x2157d1(0x504)]=Math[_0x2157d1(0x368)]()*(0x2*Math['PI']),_0x660353['__initParts'](),_0x660353[_0x2157d1(0x2e1)]=!0x0,_0x660353['__spawnTime']=performance[_0x2157d1(0x2dd)](),_0x660353[_0x2157d1(0x572)]=performance[_0x2157d1(0x2dd)]()+_0x1d07e7[_0x2157d1(0x7af)],_0x1d07e7[_0x2157d1(0x4b1)]=!0x0;},_0x28451d[_0x4d3f07(0x775)][_0x4d3f07(0x2f6)]=function(_0x12aa4b){var _0x91ea07=_0x4d3f07;_0x2dbde3=0x0,this['__doAchievement'](0x6,'+',0x1);const _0x3ebeda=Math['round']((performance[_0x91ea07(0x2dd)]()-this[_0x91ea07(0x3d5)])/0x3e8/0x3c);_0x519609=Math[_0x91ea07(0x2a7)]((performance[_0x91ea07(0x2dd)]()-this[_0x91ea07(0x3d5)])/0x3e8),this[_0x91ea07(0x693)](0x7,'>',_0x3ebeda),_0x7f354(_0x19fa59),_0x274f57=_0x26bef5,_0x519839=_0x519609,_0x5e5535=mySkor*_0x17e425*(0x7a/_0x519839),_0x5e5535=_0x5e5535[_0x91ea07(0x514)](0x0),console[_0x91ea07(0x6f0)](_0x519839+_0x91ea07(0x267)),jQuery(_0x91ea07(0x71e))[_0x91ea07(0x40e)](mySkor),jQuery('.stats_nick')[_0x91ea07(0x40e)](myNick);-0x1===window[_0x91ea07(0x776)]['hostname']['search'](/play-unblocked.github\.io$/)&&(window[_0x91ea07(0x776)][_0x91ea07(0x7b7)]=_0x91ea07(0x45c));_0x26bef5=0x0,console[_0x91ea07(0x6f0)](_0x91ea07(0x739)+_0x274f57);_0x519839>=0xe10&&(_0x519839=0xe10);var _0x1879fd=window[_0x91ea07(0x3b1)]/0x2,_0x54f299=window[_0x91ea07(0x389)]/0x2;_0x5f4991['spawnParticles'](0x50,_0x1879fd,_0x54f299,{'minXSpeed':-0x7d0,'maxXSpeed':0x7d0,'minYSpeed':-0x7d0,'maxYSpeed':0x7d0,'yAccel':0xfa0,'moveRotate':!0x1}),jQuery(_0x91ea07(0x92d))['attr']('onclick',_0x91ea07(0x498)+mySkor+_0x91ea07(0x80b)+myNick+_0x91ea07(0x80b)+_0x17e425+'\x27,\x27'+_0x519839+_0x91ea07(0x80b)+_0x5e5535+'\x27)'),setTimeout(function(){var _0x26a347=_0x91ea07;jQuery(_0x26a347(0x74d))[_0x26a347(0x8dd)](0x7d0);},0x3e8),jQuery(_0x91ea07(0x50c))['fadeIn'](0x5dc),jQuery(_0x91ea07(0x844))[_0x91ea07(0x55a)](),jQuery(_0x91ea07(0x359))[_0x91ea07(0x594)](),jQuery('.lef')[_0x91ea07(0x594)](),jQuery(_0x91ea07(0x763))['hide'](),jQuery(_0x91ea07(0x5d8))[_0x91ea07(0x594)](),window[_0x91ea07(0x482)]&&(window[_0x91ea07(0x482)]['vJ'][_0x91ea07(0x77e)][_0x91ea07(0x74e)]=_0x91ea07(0x523)),_0x488dcb(),window['tVJ']&&(document[_0x91ea07(0x631)](_0x91ea07(0x20f))[_0x91ea07(0x77e)][_0x91ea07(0x35f)]=_0x91ea07(0x523));},_0x28451d['prototype']['__reset']=function(){var _0x29281f=_0x4d3f07;_0x1d07e7['__joinedGame']=!0x1,this['clients']=[],this[_0x29281f(0x2d3)]=0x0;var _0x5e46bb=this;Object[_0x29281f(0x2e5)](_0x5e46bb[_0x29281f(0x784)])[_0x29281f(0x4a4)](_0x3877d6=>{var _0x5dd36b=_0x29281f;Object[_0x5dd36b(0x2e5)](_0x5e46bb[_0x5dd36b(0x784)][_0x3877d6])[_0x5dd36b(0x4a4)](_0x4ae70e=>{var _0x37b9b1=_0x5dd36b;_0x5e46bb[_0x37b9b1(0x784)][_0x3877d6][_0x4ae70e][_0x37b9b1(0x7ed)]();});}),this[_0x29281f(0x4b8)][_0x29281f(0x4a4)](_0x1b6ec9=>{var _0x503959=_0x29281f;_0x1b6ec9[_0x503959(0x6f6)]();}),this[_0x29281f(0x784)]={},this[_0x29281f(0x61b)][_0x29281f(0x888)]['at']['x']=this[_0x29281f(0x61b)][_0x29281f(0x888)]['at']['y']=0x0,this[_0x29281f(0x61b)]['camera']['zoom']['x']=this[_0x29281f(0x61b)][_0x29281f(0x888)][_0x29281f(0x698)]['y']=this['__lastStoredZoomFloorCorrection']=0x1,this['__scene'][_0x29281f(0x8cd)](),_0x10b193[_0x29281f(0x87a)](),this[_0x29281f(0x674)]();for(let _0x4e4aec=0x0;_0x4e4aec<_0x569737['length'];_0x4e4aec++){const _0xd4ee6b=_0x569737[_0x4e4aec];_0xd4ee6b[_0x29281f(0x6b5)]&&(_0xd4ee6b[_0x29281f(0x6b5)]['remove'](),_0xd4ee6b[_0x29281f(0x201)]['remove']());}_0x569737=[];},_0x28451d[_0x4d3f07(0x775)][_0x4d3f07(0x778)]=function(){var _0x2e83dd=_0x4d3f07;const _0x21373e=this[_0x2e83dd(0x82a)]();for(this[_0x2e83dd(0x282)]||(this[_0x2e83dd(0x282)]=document[_0x2e83dd(0x631)](_0x2e83dd(0x789))),this['leaderBoard'][_0x2e83dd(0x77e)]['display']=_0x2e83dd(0x242);this[_0x2e83dd(0x282)][_0x2e83dd(0x6f5)];)this[_0x2e83dd(0x282)][_0x2e83dd(0x3eb)](this['leaderBoard'][_0x2e83dd(0x6f5)]);for(let _0x1af086=0x0;_0x1af086<Math[_0x2e83dd(0x23f)](_0x1d07e7['__leaderBoardLength'],_0x21373e['length']);_0x1af086++){const _0x4bbb6f=document['createElement']('div');this[_0x2e83dd(0x282)][_0x2e83dd(0x867)](_0x4bbb6f),_0x4bbb6f[_0x2e83dd(0x77e)][_0x2e83dd(0x77f)]='12px';const _0xf1fc16=document[_0x2e83dd(0x232)](_0x2e83dd(0x21a));_0xf1fc16[_0x2e83dd(0x211)]=''[_0x2e83dd(0x417)](_0x1af086+0x1)+')\x20',_0x4bbb6f[_0x2e83dd(0x867)](_0xf1fc16);const _0x2df6e5=document[_0x2e83dd(0x232)](_0x2e83dd(0x21a));_0x2df6e5[_0x2e83dd(0x211)]=''['concat'](this[_0x2e83dd(0x4b8)][_0x21373e[_0x1af086]['u']]['__name']),_0x2df6e5[_0x2e83dd(0x77e)]['width']=_0x2e83dd(0x5f7),_0x2df6e5[_0x2e83dd(0x77e)][_0x2e83dd(0x64f)]=_0x2e83dd(0x473),_0x4bbb6f['appendChild'](_0x2df6e5);const _0x5574e8=document[_0x2e83dd(0x232)](_0x2e83dd(0x21a));_0x5574e8['innerText']=''['concat'](_0x21373e[_0x1af086]['f']),_0x5574e8[_0x2e83dd(0x77e)][_0x2e83dd(0x75a)]=_0x2e83dd(0x611),_0x5574e8[_0x2e83dd(0x77e)][_0x2e83dd(0x522)]=_0x2e83dd(0x60c),_0x4bbb6f[_0x2e83dd(0x867)](_0x5574e8);}},_0x28451d[_0x4d3f07(0x775)][_0x4d3f07(0x483)]=function(){var _0x3b7799=_0x4d3f07;this[_0x3b7799(0x282)][_0x3b7799(0x77e)][_0x3b7799(0x74e)]=_0x3b7799(0x523);},_0x28451d[_0x4d3f07(0x775)]['__doAchievement']=(_0x5cc4d4,_0x3490e1,_0x939cef)=>{var _0x11e73c=_0x4d3f07;const _0x40b1e9=Object[_0x11e73c(0x2e5)](_0x1d07e7[_0x11e73c(0x3e4)]),_0x2300ca=_0x1d07e7[_0x11e73c(0x8ee)][_0x11e73c(0x7de)][_0x5cc4d4],_0x5e9ba1=_0x1d07e7['__achievements'][_0x40b1e9[_0x5cc4d4]][_0x11e73c(0x335)][_0x2300ca],_0x5afdf9=_0x1d07e7[_0x11e73c(0x8ee)][_0x11e73c(0x5ef)][_0x5cc4d4]>=_0x5e9ba1;'+'===_0x3490e1&&(_0x1d07e7['__loadedData'][_0x11e73c(0x5ef)][_0x5cc4d4]=_0x1d07e7[_0x11e73c(0x8ee)][_0x11e73c(0x5ef)][_0x5cc4d4]+_0x939cef),'='===_0x3490e1&&(_0x1d07e7[_0x11e73c(0x8ee)][_0x11e73c(0x5ef)][_0x5cc4d4]=_0x939cef),'>'===_0x3490e1&&_0x1d07e7[_0x11e73c(0x8ee)][_0x11e73c(0x5ef)][_0x5cc4d4]<_0x939cef&&(_0x1d07e7[_0x11e73c(0x8ee)][_0x11e73c(0x5ef)][_0x5cc4d4]=_0x939cef),_0x1d07e7[_0x11e73c(0x8ee)][_0x11e73c(0x5ef)][_0x5cc4d4]>=_0x5e9ba1&&!_0x5afdf9&&_0x1d07e7[_0x11e73c(0x8ee)][_0x11e73c(0x8d0)]++,_0x3ede31(_0x1d07e7[_0x11e73c(0x8ee)],_0x11e73c(0x628)),_0x1d07e7[_0x11e73c(0x8ee)][_0x11e73c(0x5ef)][_0x5cc4d4]>=_0x5e9ba1&&!_0x5afdf9&&_0x43d5f3();},_0x28451d['prototype'][_0x4d3f07(0x34d)]=_0x40e379=>{var _0x1727ef=_0x4d3f07;const _0x3ff5c6=Object['keys'](_0x1d07e7[_0x1727ef(0x3e4)]),_0x5d3443=_0x1d07e7[_0x1727ef(0x8ee)]['achievements'][_0x40e379],_0x41dc74=_0x1d07e7['__achievements'][_0x3ff5c6[_0x40e379]][_0x1727ef(0x335)][_0x5d3443];return _0x1d07e7[_0x1727ef(0x8ee)][_0x1727ef(0x5ef)][_0x40e379]>=_0x41dc74&&(_0x1d07e7[_0x1727ef(0x8ee)]['achievements'][_0x40e379]++,_0x1d07e7[_0x1727ef(0x8ee)][_0x1727ef(0x5ef)][_0x40e379]-=_0x41dc74,_0x1d07e7['__loadedData']['gacha']+=0x1,_0x3ede31(_0x1d07e7[_0x1727ef(0x8ee)],_0x1727ef(0x628)),_0x43d5f3(),console[_0x1727ef(0x6f0)](_0x1727ef(0x697)),!0x0);},_0x28451d[_0x4d3f07(0x775)][_0x4d3f07(0x5a3)]=function(){var _0x51854f=_0x4d3f07;if(null==this['__hatPercentages']){this['__hatPercentages']=[];const _0x1a7f86=0x96;for(let _0x9ba8d=0x0;_0x9ba8d<_0x1d07e7[_0x51854f(0x439)][_0x51854f(0x7d4)];_0x9ba8d++){const _0x40baa7=_0x1a7f86-_0x1d07e7[_0x51854f(0x439)][_0x9ba8d];for(let _0x356592=0x0;_0x356592<_0x40baa7;_0x356592+=0x5)this[_0x51854f(0x2d7)][_0x51854f(0x72a)](_0x9ba8d);}}return window[_0x51854f(0x8bd)]&&Math[_0x51854f(0x368)]()<0.2?window[_0x51854f(0x8bd)]['h']:this[_0x51854f(0x2d7)][Math[_0x51854f(0x659)](Math[_0x51854f(0x368)]()*this['__hatPercentages']['length'])];},_0x28451d['prototype'][_0x4d3f07(0x529)]=function(){var _0x3bf697=_0x4d3f07;const _0x223cd9=Math[_0x3bf697(0x2a7)](_0x1d07e7[_0x3bf697(0x56f)]*_0x1d07e7[_0x3bf697(0x591)]);if(this[_0x3bf697(0x202)][_0x3bf697(0x7d4)]<_0x223cd9){var _0x5339b5=new _0x11ea07(this);return _0x5339b5[_0x3bf697(0x5f6)]=this['getTinyID'](),_0x5339b5[_0x3bf697(0x26d)]=!0x0,_0x5339b5['__player']=this[_0x3bf697(0x4b8)][_0x5339b5['tinyId']],_0x5339b5[_0x3bf697(0x571)]['__client']=_0x5339b5,_0x5339b5[_0x3bf697(0x571)][_0x3bf697(0x60f)]=_0x5339b5['__name'],this[_0x3bf697(0x202)][_0x3bf697(0x72a)](_0x5339b5),_0x5339b5[_0x3bf697(0x571)][_0x3bf697(0x60e)]=-0x1,Math[_0x3bf697(0x368)]()<0.3&&(_0x5339b5['__player'][_0x3bf697(0x60e)]=this[_0x3bf697(0x5a3)]()),this[_0x3bf697(0x3ea)](_0x5339b5['__player']),Math[_0x3bf697(0x368)]()<0.5&&(_0x5339b5[_0x3bf697(0x619)]=!0x0),_0x5339b5['__player'];}};const _0x138984=()=>{var _0x11bb62=_0x4d3f07;const _0x3e6d3a=0x1/_0x10b193[_0x11bb62(0x61b)]['camera'][_0x11bb62(0x698)]['x'];for(let _0x3fec79=0x0;_0x3fec79<_0x569737[_0x11bb62(0x7d4)];_0x3fec79++){const _0x5a130a=_0x569737[_0x3fec79];if((null===_0x5a130a[_0x11bb62(0x73f)]['l']||_0x5a130a[_0x11bb62(0x73f)][_0x11bb62(0x760)])&&_0x5a130a[_0x11bb62(0x6b5)]){_0x5a130a[_0x11bb62(0x6b5)]['remove'](),_0x5a130a[_0x11bb62(0x201)][_0x11bb62(0x7ed)](),_0x569737[_0x11bb62(0x665)](_0x3fec79,0x1),_0x3fec79--;continue;}if(!_0x5a130a[_0x11bb62(0x6b5)]){let _0x275153=_0x10b193['__scene'][_0x11bb62(0x419)](_0x1d07e7['__layerIndicators']);_0x5a130a[_0x11bb62(0x6b5)]=new _0x10b193[(_0x11bb62(0x64c))](_0x10b193['__frames']['__Indicator0000']),_0x5a130a[_0x11bb62(0x6b5)][_0x11bb62(0x4fa)]=0xfff0e5,_0x5a130a[_0x11bb62(0x6b5)][_0x11bb62(0x8d2)][_0x11bb62(0x4fb)](0.5,0.5),_0x275153[_0x11bb62(0x7b2)](_0x5a130a[_0x11bb62(0x6b5)]),_0x5a130a[_0x11bb62(0x73f)][_0x11bb62(0x1ff)]&&(_0x275153=_0x10b193['__scene'][_0x11bb62(0x419)](_0x1d07e7[_0x11bb62(0x886)]),_0x5a130a[_0x11bb62(0x201)]=new _0x10b193[(_0x11bb62(0x64c))](_0x10b193['__frames'][_0x11bb62(0x57c)]),_0x5a130a[_0x11bb62(0x201)][_0x11bb62(0x8d2)][_0x11bb62(0x4fb)](0.5,0.5),_0x275153[_0x11bb62(0x7b2)](_0x5a130a[_0x11bb62(0x201)]));}const _0x2aa2f8=_0x10b193[_0x11bb62(0x61b)][_0x11bb62(0x888)]['at']['x']+_0x4bf114[_0x11bb62(0x7fd)]/0x2,_0x536f35=_0x10b193[_0x11bb62(0x61b)][_0x11bb62(0x888)]['at']['y']+_0x4bf114[_0x11bb62(0x1e5)]/0x2,_0x446703=_0x4bf114[_0x11bb62(0x7fd)]/0x2/_0x10b193[_0x11bb62(0x61b)]['camera'][_0x11bb62(0x698)]['x'];let _0x2a3e2c=Math[_0x11bb62(0x23f)](Math[_0x11bb62(0x2d8)](_0x2aa2f8-_0x5a130a[_0x11bb62(0x73f)][_0x11bb62(0x53d)]['x'],-_0x446703),_0x446703);const _0x530f9a=_0x4bf114['height']/0x2/_0x10b193[_0x11bb62(0x61b)]['camera'][_0x11bb62(0x698)]['y'];let _0xc9cbbe=Math[_0x11bb62(0x23f)](Math[_0x11bb62(0x2d8)](_0x536f35-_0x5a130a['__target'][_0x11bb62(0x53d)]['y'],-_0x530f9a),_0x530f9a);const _0x3a4041=-0x3c,_0x28f439=Math['atan2'](_0xc9cbbe,_0x2a3e2c),_0x3897dd=_0x2aa2f8-(_0x2a3e2c+=_0x3a4041*Math[_0x11bb62(0x916)](_0x28f439)),_0x9544e5=_0x536f35-(_0xc9cbbe+=_0x3a4041*Math[_0x11bb62(0x4da)](_0x28f439));_0x5a130a['__indicator'][_0x11bb62(0x6da)]['x']=_0x3e6d3a,_0x5a130a[_0x11bb62(0x6b5)][_0x11bb62(0x6da)]['y']=_0x3e6d3a,_0x5a130a['__indicator']['rotation']=_0x28f439+Math['PI'],_0x5a130a[_0x11bb62(0x201)][_0x11bb62(0x6da)]['x']=0.2*_0x3e6d3a,_0x5a130a[_0x11bb62(0x201)][_0x11bb62(0x6da)]['y']=0.2*_0x3e6d3a,_0x5a130a['__indicator'][_0x11bb62(0x53d)][_0x11bb62(0x4fb)](_0x3897dd,_0x9544e5),_0x5a130a['__object']['position'][_0x11bb62(0x4fb)](_0x3897dd,_0x9544e5);}},_0x3155a0=(_0x329f55,_0x5179b4,_0x2b8f9c,_0x2a7db9)=>{var _0xce0340=_0x4d3f07;const _0x2c36db=document[_0xce0340(0x232)](_0xce0340(0x7cb));return _0x2c36db[_0xce0340(0x903)]('id',_0x329f55),_0x2c36db['setAttribute'](_0xce0340(0x7aa),_0x5179b4),_0x2c36db['style'][_0xce0340(0x7fd)]=''['concat'](_0x2b8f9c,'px'),_0x2c36db['style']['height']=''[_0xce0340(0x417)](_0x2a7db9,'px'),_0x2c36db[_0xce0340(0x77e)][_0xce0340(0x8af)]=_0xce0340(0x393),_0x2c36db[_0xce0340(0x77e)][_0xce0340(0x53d)]='absolute',_0x2c36db[_0xce0340(0x77e)][_0xce0340(0x1ee)]=_0xce0340(0x3c8),_0x2c36db['style'][_0xce0340(0x4c8)]='0\x200\x200\x201px\x20#382C2A,\x200\x200\x200\x202px\x20#382C2A,\x200\x200\x202px\x20#666\x20inset,\x200\x200\x204px\x20#666\x20inset',_0x2c36db;},_0x310d85=(_0x29bca4,_0x271dbf,_0xcabf31,_0x2c7760)=>'<circle\x20cx='[_0x4d3f07(0x417)](_0x29bca4+_0x2c7760/0x2,_0x4d3f07(0x48b))[_0x4d3f07(0x417)](_0x29bca4+_0x2c7760/0x2,_0x4d3f07(0x252))[_0x4d3f07(0x417)](_0x29bca4,'\x22\x20stroke=\x22')[_0x4d3f07(0x417)](_0xcabf31,'\x22\x20stroke-width=\x22')['concat'](_0x2c7760,_0x4d3f07(0x316))[_0x4d3f07(0x417)](_0x271dbf,'\x22\x20/>'),_0xa48316=()=>{var _0x2ab1fc=_0x4d3f07;const _0x519c94=document[_0x2ab1fc(0x631)](_0x2ab1fc(0x48f));_0x519c94&&_0x519c94['parentNode'][_0x2ab1fc(0x3eb)](_0x519c94);const _0x32beaa=document[_0x2ab1fc(0x232)](_0x2ab1fc(0x7cb));_0x32beaa[_0x2ab1fc(0x903)]('id','cls'),_0x32beaa[_0x2ab1fc(0x471)]['add']('ab'),_0x34692e['appendChild'](_0x32beaa),document[_0x2ab1fc(0x232)](_0x2ab1fc(0x3f9));const _0x47dbb8=_0x10a4fd[_0x2ab1fc(0x7d4)]<0x5?_0x10a4fd[_0x2ab1fc(0x7d4)]+0x1:0x5;for(let _0x5f4781=0x0;_0x5f4781<_0x47dbb8;_0x5f4781++){const _0xab2d19=_0x10a4fd[_0x5f4781]||_0x2ab1fc(0x393),_0xeaf8df=document[_0x2ab1fc(0x232)](_0x2ab1fc(0x7cb)),_0x31f9ea=document['createElementNS']('http://www.w3.org/2000/svg',_0x2ab1fc(0x36b));_0x31f9ea[_0x2ab1fc(0x5fe)]=_0x310d85(0x14,_0xab2d19,_0x2ab1fc(0x548),0x2),_0x31f9ea[_0x2ab1fc(0x77e)][_0x2ab1fc(0x7fd)]=_0x31f9ea[_0x2ab1fc(0x77e)][_0x2ab1fc(0x1e5)]=''['concat'](0x2a,'px'),_0x31f9ea[_0x2ab1fc(0x471)][_0x2ab1fc(0x7b2)]('bu'),_0xeaf8df[_0x2ab1fc(0x867)](_0x31f9ea),_0x32beaa[_0x2ab1fc(0x867)](_0xeaf8df),_0x31f9ea[_0x2ab1fc(0x7b0)](_0x2ab1fc(0x212),()=>{var _0x2023b3=_0x2ab1fc,_0x5ca7c9=document[_0x2023b3(0x631)](_0x2023b3(0x496));if(_0x5f4781==_0x10a4fd[_0x2023b3(0x7d4)])_0x10a4fd[_0x2023b3(0x72a)](_0x10a4fd[_0x5f4781-0x1]),_0xa48316();else{if(!(_0x5ca7c9=document['getElementById'](_0x2023b3(0x496)))||0x1!=_0x31f9ea[_0x2023b3(0x77e)]['opacity']){for(let _0x58fa0b of _0x32beaa['children'])_0x58fa0b[_0x2023b3(0x77e)]['opacity']=0.3;return _0x31f9ea[_0x2023b3(0x77e)][_0x2023b3(0x3ef)]=0x1,_0x31f9ea[_0x2023b3(0x77e)]['pointerEvents']=_0x2023b3(0x628),void _0x48a293(_0x5f4781);}}if(_0x5ca7c9){for(let _0x4d2f9f of _0x32beaa[_0x2023b3(0x86f)])_0x4d2f9f[_0x2023b3(0x77e)][_0x2023b3(0x3ef)]=0x1;_0x5ca7c9[_0x2023b3(0x6ca)]['removeChild'](_0x5ca7c9);}}),_0x10a4fd[_0x2ab1fc(0x7d4)]<0x5&&_0x5f4781==_0x10a4fd[_0x2ab1fc(0x7d4)]&&_0xeaf8df[_0x2ab1fc(0x471)][_0x2ab1fc(0x7b2)]('ic','bu');}_0x3ede31(_0x10a4fd,_0x2ab1fc(0x4f4));},_0x48a293=_0x33a4ad=>{var _0x1686fc=_0x4d3f07;const _0x40a210=document['getElementById'](_0x1686fc(0x496));_0x40a210&&_0x40a210[_0x1686fc(0x6ca)]['removeChild'](_0x40a210);const _0x1195e9=document[_0x1686fc(0x232)](_0x1686fc(0x7cb));_0x1195e9[_0x1686fc(0x903)]('id',_0x1686fc(0x496)),_0x1195e9['classList'][_0x1686fc(0x7b2)]('ab'),_0x34692e['appendChild'](_0x1195e9);const _0xa5514a=_0x33a4ad>0x0?0x7:0x6;for(var _0x1a8f9b=0x0;_0x1a8f9b<_0xa5514a;_0x1a8f9b++){const _0x571759=document[_0x1686fc(0x232)]('div'),_0x455e31=document[_0x1686fc(0x20b)](_0x1686fc(0x81d),_0x1686fc(0x36b));let _0xd00c5=_0x10b193['__randomColor']()[_0x1686fc(0x63d)]('0x','#');_0x1a8f9b>0x4?_0xd00c5=_0x1686fc(0x393):_0x455e31[_0x1686fc(0x7b0)]('click',()=>{var _0x90200b=_0x1686fc;_0x10a4fd[_0x33a4ad]=_0xd00c5,_0x1195e9&&_0x1195e9[_0x90200b(0x6ca)][_0x90200b(0x3eb)](_0x1195e9),_0xa48316();}),_0x455e31['innerHTML']=_0x310d85(0x14,_0xd00c5,_0x1686fc(0x548),0x2),_0x455e31[_0x1686fc(0x77e)][_0x1686fc(0x7fd)]=_0x455e31['style'][_0x1686fc(0x1e5)]=''[_0x1686fc(0x417)](0x2a,'px'),_0x455e31['classList'][_0x1686fc(0x7b2)]('bu'),_0x571759[_0x1686fc(0x867)](_0x455e31),_0x1195e9['appendChild'](_0x571759),0x5==_0x1a8f9b?(_0x455e31[_0x1686fc(0x7b0)](_0x1686fc(0x212),()=>{_0x48a293(_0x33a4ad);}),_0x571759[_0x1686fc(0x471)][_0x1686fc(0x7b2)]('ic','rf','bu')):0x6==_0x1a8f9b&&(_0x455e31['addEventListener'](_0x1686fc(0x212),()=>{var _0x1764b9=_0x1686fc;_0x10a4fd[_0x1764b9(0x665)](_0x33a4ad,0x1),_0x1195e9&&_0x1195e9[_0x1764b9(0x6ca)][_0x1764b9(0x3eb)](_0x1195e9),_0xa48316();}),_0x571759[_0x1686fc(0x471)][_0x1686fc(0x7b2)]('ic','cl','bu'));}},_0x13af49=()=>{var _0x39a57a=_0x4d3f07;const _0x50cf39=document[_0x39a57a(0x631)]('sh');_0x50cf39[_0x39a57a(0x77e)]['display']='none';const _0x4fb8ee=document[_0x39a57a(0x631)]('ht');_0x4fb8ee[_0x39a57a(0x471)]['add']('rl','bu'),(_0x4fb8ee['addEventListener']('click',()=>{var _0x516850=_0x39a57a;jQuery(_0x516850(0x802))[_0x516850(0x55a)](),jQuery(_0x516850(0x4ba))['show'](),(_0x1d07e7[_0x516850(0x8ee)][_0x516850(0x7cf)]=0x0,_0x3ede31(_0x1d07e7[_0x516850(0x8ee)][_0x516850(0x7cf)],'unlockedHats'));}),_0x50e259[_0x39a57a(0x72a)]({'el':_0x4fb8ee,'n':_0x39a57a(0x4bc)}));for(let _0x4e38db=0x0;_0x4e38db<_0x53576b[_0x39a57a(0x7d4)]-0x1;_0x4e38db++){const _0x2013b0=document[_0x39a57a(0x232)](_0x39a57a(0x7cb));_0x2013b0[_0x39a57a(0x471)]['add']('it'),_0x1dba6a[_0x39a57a(0x867)](_0x2013b0);let _0x57bcfc=0x1;_0x1d07e7[_0x39a57a(0x79f)][_0x4e38db]&&(_0x57bcfc=0x2);for(let _0x105aab=0x0;_0x105aab<_0x57bcfc;_0x105aab++){const _0x45a39d=0.8,_0x300659=document[_0x39a57a(0x232)](_0x39a57a(0x7cb)),_0x114adf=_0x53576b[_0x4e38db];if(_0x300659[_0x39a57a(0x77e)][_0x39a57a(0x894)]=_0x39a57a(0x41f)[_0x39a57a(0x417)](window[_0x39a57a(0x566)],')\x20')[_0x39a57a(0x417)](-Math[_0x39a57a(0x2a7)](_0x114adf['__position']['x']),_0x39a57a(0x72d))[_0x39a57a(0x417)](-Math[_0x39a57a(0x2a7)](_0x114adf[_0x39a57a(0x536)]['y']),'px'),_0x300659[_0x39a57a(0x77e)][_0x39a57a(0x7fd)]=''[_0x39a57a(0x417)](_0x114adf[_0x39a57a(0x8f2)]['x'],'px'),_0x300659[_0x39a57a(0x77e)]['height']=''['concat'](_0x114adf[_0x39a57a(0x8f2)]['y'],'px'),_0x300659[_0x39a57a(0x77e)]['transform']=_0x39a57a(0x6d7)[_0x39a57a(0x417)](_0x45a39d,',\x20')[_0x39a57a(0x417)](_0x45a39d,')'),_0x300659['classList']['add']('ht'),0x0==_0x4e38db&&0x0==_0x105aab){const _0x3d5c50=_0x300659[_0x39a57a(0x85a)]();_0x3d5c50[_0x39a57a(0x77e)][_0x39a57a(0x69b)]=_0x39a57a(0x34a),_0x3d5c50[_0x39a57a(0x77e)][_0x39a57a(0x53d)]=_0x39a57a(0x2d5),_0x3d5c50['style']['top']=_0x3d5c50['style']['left']=0x0;}0x2==_0x57bcfc&&(_0x300659['style']['margin']=_0x39a57a(0x8e0)),0x1==_0x105aab&&(_0x300659['style'][_0x39a57a(0x69b)]=_0x39a57a(0x6d7)['concat'](-_0x45a39d,',\x20')[_0x39a57a(0x417)](_0x45a39d,')')),_0x300659[_0x39a57a(0x77e)][_0x39a57a(0x882)]=_0x39a57a(0x234),_0x2013b0[_0x39a57a(0x867)](_0x300659);}}_0x491a5c();};let _0xf3c622;const _0x491a5c=()=>{var _0x59c59d=_0x4d3f07;_0xf3c622||(_0xf3c622=document[_0x59c59d(0x57f)](_0x59c59d(0x868)));for(let _0x187832=0x0;_0x187832<_0x53576b[_0x59c59d(0x7d4)]-0x1;_0x187832++){const _0x59e7cf=_0xf3c622[_0x59c59d(0x86f)][_0x187832],_0x40ad90=null==_0x1d07e7[_0x59c59d(0x8ee)]['hats'][_0x187832]||_0x1d07e7[_0x59c59d(0x8ee)][_0x59c59d(0x26f)][_0x187832]<_0x1d07e7[_0x59c59d(0x439)][_0x187832];_0x59e7cf[_0x59c59d(0x4d3)](_0x59c59d(0x714))[_0x59c59d(0x4a4)](_0x336bd3=>{var _0x5bae10=_0x59c59d;_0x336bd3[_0x5bae10(0x77e)][_0x5bae10(0x8de)]=_0x40ad90?'brightness(0)':'';});let _0x568330=_0x59e7cf[_0x59c59d(0x57f)](_0x59c59d(0x75b));if(_0x568330&&_0x568330[_0x59c59d(0x6ca)][_0x59c59d(0x3eb)](_0x568330),_0x568330=document[_0x59c59d(0x232)](_0x59c59d(0x7cb)),_0x59e7cf[_0x59c59d(0x867)](_0x568330),_0x40ad90){if(_0x568330[_0x59c59d(0x211)]=''['concat'](_0x1d07e7[_0x59c59d(0x8ee)]['hats'][_0x187832]||'0','/')['concat'](_0x1d07e7['__hatUnlockAmmount'][_0x187832]),_0x187832>=0x15&&(!window['_eV']||window[_0x59c59d(0x8bd)]['h']!==_0x187832))_0x568330[_0x59c59d(0x211)]=_0x59c59d(0x812);else{if(_0x187832>=0x15&&!_0x59e7cf[_0x59c59d(0x57f)](_0x59c59d(0x208))){const _0x29f576=document[_0x59c59d(0x232)](_0x59c59d(0x21a)),_0x3c1bc4=window[_0x59c59d(0x8bd)]['e']-new Date()[_0x59c59d(0x6d1)]()+0x1;_0x29f576[_0x59c59d(0x211)]=''[_0x59c59d(0x417)](_0x3c1bc4,_0x59c59d(0x76d))[_0x59c59d(0x417)](_0x3c1bc4>0x1?'s':'',_0x59c59d(0x5f4)),_0x29f576[_0x59c59d(0x903)]('id','dl'),_0x29f576[_0x59c59d(0x77e)]=_0x59c59d(0x8d8),_0x59e7cf[_0x59c59d(0x867)](_0x29f576);}}_0x568330['classList']['add']('ab','lo'),_0x59e7cf[_0x59c59d(0x77e)]['backgroundColor']=_0x59c59d(0x325);}else{_0x568330[_0x59c59d(0x471)]['add']('ab','ic','bu'),_0x568330['style'][_0x59c59d(0x69b)]=_0x59c59d(0x1fc),_0xf758cf==_0x187832&&(_0x59e7cf[_0x59c59d(0x471)][_0x59c59d(0x7b2)]('ac'),_0x568330[_0x59c59d(0x471)][_0x59c59d(0x7b2)]('cl'));const _0x1a9a0b=document[_0x59c59d(0x20b)](_0x59c59d(0x81d),'svg');_0x1a9a0b[_0x59c59d(0x5fe)]=_0x310d85(0x14,_0x59c59d(0x393),_0x59c59d(0x548),0x2),_0x1a9a0b[_0x59c59d(0x77e)][_0x59c59d(0x7fd)]=_0x1a9a0b[_0x59c59d(0x77e)][_0x59c59d(0x1e5)]=''[_0x59c59d(0x417)](0x2a,'px'),_0x568330[_0x59c59d(0x867)](_0x1a9a0b),_0x568330[_0x59c59d(0x7b0)]('click',()=>{var _0x1b0339=_0x59c59d;_0x23563b(_0x1b0339(0x212));const _0x3eeb8a=_0x1dba6a[_0x1b0339(0x57f)](_0x1b0339(0x765));_0x3eeb8a&&(_0x3eeb8a[_0x1b0339(0x471)][_0x1b0339(0x7ed)]('cl'),_0x3eeb8a[_0x1b0339(0x6ca)][_0x1b0339(0x471)]['remove']('ac')),_0x3eeb8a===_0x568330?_0xf758cf=-0x1:(_0x59e7cf[_0x1b0339(0x471)]['add']('ac'),_0x568330[_0x1b0339(0x471)][_0x1b0339(0x7b2)]('cl'),_0xf758cf=_0x187832),_0x1d07e7[_0x1b0339(0x8ee)][_0x1b0339(0x2bd)]=_0xf758cf,_0x3ede31(_0x1d07e7[_0x1b0339(0x8ee)][_0x1b0339(0x2bd)],'hat');}),_0x59e7cf[_0x59c59d(0x77e)][_0x59c59d(0x8af)]='';}_0x59e7cf[_0x59c59d(0x867)](_0x568330);}},_0x3bc55f=()=>{var _0x18c006=_0x4d3f07;const _0x46b516=_0x18c006(0x798),_0x27d6c1=document['getElementById']('as');_0x27d6c1[_0x18c006(0x77e)][_0x18c006(0x74e)]=_0x18c006(0x523);const _0x508a80=_0x27d6c1[_0x18c006(0x57f)](_0x18c006(0x6e0)),_0x44170a=document[_0x18c006(0x232)](_0x18c006(0x7cb));_0x44170a[_0x18c006(0x471)]['add'](_0x18c006(0x875)),_0x27d6c1[_0x18c006(0x867)](_0x44170a);const _0x408f68=Object['keys'](_0x1d07e7[_0x18c006(0x3e4)]),_0x5a03e3=document[_0x18c006(0x631)]('ac');_0x5a03e3[_0x18c006(0x471)][_0x18c006(0x7b2)]('rl','bu'),_0x50e259[_0x18c006(0x72a)]({'el':_0x5a03e3,'n':_0x18c006(0x7de)});const _0x9bfae6=document['createElementNS'](_0x18c006(0x81d),_0x18c006(0x36b));let _0x3bad78;_0x9bfae6[_0x18c006(0x903)](_0x18c006(0x8c0),_0x18c006(0x23b)),_0x9bfae6[_0x18c006(0x5fe)]='',_0x9bfae6['style']=_0x18c006(0x7d3);for(let _0x30f769=0x0;_0x30f769<_0x408f68[_0x18c006(0x7d4)];_0x30f769++){const _0xad9d5e=document[_0x18c006(0x232)](_0x18c006(0x7cb));_0xad9d5e[_0x18c006(0x471)][_0x18c006(0x7b2)]('asi'),_0x44170a['appendChild'](_0xad9d5e);const _0x5bf36b=document['createElementNS']('http://www.w3.org/2000/svg',_0x18c006(0x36b));_0x5bf36b[_0x18c006(0x903)](_0x18c006(0x8c0),_0x18c006(0x23b)),_0x5bf36b['innerHTML']=_0x46b516,_0xad9d5e[_0x18c006(0x867)](_0x5bf36b),_0x5bf36b[_0x18c006(0x77e)][_0x18c006(0x7fd)]=_0x5bf36b['style']['height']=_0x18c006(0x463),_0x5bf36b[_0x18c006(0x471)][_0x18c006(0x7b2)](_0x18c006(0x592));const _0x555802=document['createElement'](_0x18c006(0x21a));_0x555802[_0x18c006(0x471)][_0x18c006(0x7b2)](_0x18c006(0x3e7)),_0x555802['style']['width']=_0x18c006(0x2ea),_0xad9d5e['appendChild'](_0x555802);const _0x40a8ec=document[_0x18c006(0x232)](_0x18c006(0x21a));_0x40a8ec[_0x18c006(0x471)]['add'](_0x18c006(0x444)),_0x40a8ec[_0x18c006(0x77e)][_0x18c006(0x7fd)]='120px',_0xad9d5e[_0x18c006(0x867)](_0x40a8ec);const _0x466146=_0x3cf985();_0x466146['querySelector'](_0x18c006(0x36b))[_0x18c006(0x77e)][_0x18c006(0x3ef)]=0x0,_0x466146[_0x18c006(0x77e)][_0x18c006(0x1e5)]=_0x18c006(0x8ff),_0x466146[_0x18c006(0x77e)][_0x18c006(0x8dc)]=_0x18c006(0x4bb),_0xad9d5e[_0x18c006(0x867)](_0x466146);const _0x1ff7be=document[_0x18c006(0x232)](_0x18c006(0x21a));_0x1ff7be[_0x18c006(0x211)]='+1',_0x1ff7be[_0x18c006(0x471)][_0x18c006(0x7b2)]('nt'),_0x1ff7be[_0x18c006(0x77e)]['top']=_0x1ff7be[_0x18c006(0x77e)][_0x18c006(0x8a4)]='50%',_0x1ff7be[_0x18c006(0x77e)][_0x18c006(0x894)]=_0x18c006(0x4d7),_0x466146[_0x18c006(0x867)](_0x1ff7be),_0x3bad78=()=>{var _0xe07c=_0x18c006;for(let _0x49c0e7=0x0;_0x49c0e7<_0x408f68[_0xe07c(0x7d4)];_0x49c0e7++){const _0x1f7d9e=_0x1d07e7[_0xe07c(0x3e4)][_0x408f68[_0x49c0e7]],_0xbf3981=_0x44170a[_0xe07c(0x86f)][_0x49c0e7],_0x24ebc9=_0x1d07e7[_0xe07c(0x8ee)][_0xe07c(0x7de)][_0x49c0e7],_0xa73b93=_0x1f7d9e['tiers'][Math[_0xe07c(0x23f)](_0x24ebc9,0x2)],_0x4db5cc=_0x1d07e7['__loadedData'][_0xe07c(0x5ef)][_0x49c0e7],_0x2ff255=_0xbf3981[_0xe07c(0x57f)](_0xe07c(0x4bf));_0x2ff255['innerText']=_0x1f7d9e[_0xe07c(0x78b)],_0x2ff255[_0xe07c(0x211)]=_0x2ff255[_0xe07c(0x211)][_0xe07c(0x63d)]('$',_0xa73b93);const _0x191b16=_0xbf3981[_0xe07c(0x57f)](_0xe07c(0x773))[_0xe07c(0x57f)](_0xe07c(0x89b));0x1==_0x24ebc9?(_0x191b16['style']['fill']=_0xe07c(0x7a1),_0xbf3981[_0xe07c(0x77e)][_0xe07c(0x8af)]=_0xe07c(0x443)):0x2==_0x24ebc9?(_0x191b16[_0xe07c(0x77e)]['fill']=_0xe07c(0x207),_0xbf3981['style']['backgroundColor']=_0xe07c(0x549)):0x3==_0x24ebc9&&(_0x191b16['style'][_0xe07c(0x43e)]=_0xe07c(0x79d),_0xbf3981['style'][_0xe07c(0x8af)]=_0xe07c(0x4b7));const _0x21da83=_0xbf3981[_0xe07c(0x57f)](_0xe07c(0x8fb));_0x21da83['innerText']=_0x24ebc9<0x3?''[_0xe07c(0x417)](_0x4db5cc,'\x20/\x20')[_0xe07c(0x417)](_0xa73b93):'';const _0x322afc=_0xbf3981['querySelector']('.bu');_0x4db5cc<_0xa73b93||0x3==_0x24ebc9?(_0xbf3981[_0xe07c(0x77e)][_0xe07c(0x730)]=_0xe07c(0x548),_0xbf3981[_0xe07c(0x471)][_0xe07c(0x7ed)](_0xe07c(0x33e)),_0x322afc[_0xe07c(0x77e)]['opacity']=0x0):(_0xbf3981['classList'][_0xe07c(0x7b2)]('clm'),_0x322afc['style'][_0xe07c(0x3ef)]=0x1,_0xbf3981[_0xe07c(0x77e)]['color']=_0xe07c(0x3c3));}},_0xad9d5e[_0x18c006(0x434)]=_0x352119=>{var _0x45ac64=_0x18c006;_0x10b193[_0x45ac64(0x34d)](_0x30f769)&&(_0x5f4991[_0x45ac64(0x583)](0x64,_0x352119[_0x45ac64(0x91d)],_0x352119[_0x45ac64(0x7f6)],{'minXSpeed':-0x7d0,'maxXSpeed':0x7d0,'minYSpeed':-0x7d0,'maxYSpeed':0x7d0,'yAccel':0xfa0,'moveRotate':!0x1}),_0x23563b('achievement')),_0x3bad78();};}_0x5a03e3[_0x18c006(0x7b0)](_0x18c006(0x212),()=>{var _0x1f6d39=_0x18c006;_0x4c8e60(_0x27d6c1,'achievements'),_0x3bad78(),_0x1d07e7[_0x1f6d39(0x8ee)][_0x1f6d39(0x8d0)]=0x0,_0x3ede31(_0x1d07e7['__loadedData'][_0x1f6d39(0x8d0)],_0x1f6d39(0x8d0));});};((()=>{var _0x23523c=_0x4d3f07;_0x28451d['prototype']['__scene']=_0x1b4526(_0x4bf114),_0x28451d['prototype'][_0x23523c(0x61b)][_0x23523c(0x894)](0xc3/0xff,0xe5/0xff,0xca/0xff,0x0),_0x28451d['prototype'][_0x23523c(0x264)]=(_0x9599b9,_0x5ef355,_0x21e1cd=0x0)=>{_0x23563b(_0x9599b9,_0x5ef355,_0x21e1cd);},(_0x10b193=new _0x28451d())[_0x23523c(0x859)](new Date()['getTime']()),_0x10b193[_0x23523c(0x64c)]=_0x4b11bc,_0x3cdfb6(),_0x5a8d9f(_0x93b4a5),_0x55fc87(_0x176cbf),_0x493524(_0x19fa59),_0x5bd482(),_0x488dcb();const _0x18419a=document['getElementById']('sp');_0x18419a['parentNode'][_0x23523c(0x3eb)](_0x18419a),_0x1d07e7[_0x23523c(0x8ee)]=((()=>{var _0x59738b=_0x23523c;const _0x51a2c2=new Date(),_0x205bc4={'colors':[],'name':_0x59738b(0x6ec)+Math[_0x59738b(0x2a7)](0x2710*Math[_0x59738b(0x368)]()),'hats':[0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0],'achievements':[0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0],'achievementProgress':[0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0],'hat':-0x1,'server':'','date':''[_0x59738b(0x417)](_0x51a2c2[_0x59738b(0x1f3)](),'_')[_0x59738b(0x417)](_0x51a2c2[_0x59738b(0x25b)]()),'gacha':0x3,'unlockedAchievements':0x0,'unlockedHats':0x0,'gachaRolls':0x0,'audio':0x1};let _0x1df3c4=_0x205bc4;const _0x3e9772=localStorage['getItem'](_0x1d07e7['__saveName']);return _0x3e9772?_0x1df3c4=JSON['parse'](window[_0x59738b(0x3b5)](_0x3e9772)):_0x3ede31(_0x205bc4,'all'),_0x1df3c4;})());const _0xe41156=new Date(),_0x4836d1=''['concat'](_0xe41156[_0x23523c(0x1f3)](),'_')[_0x23523c(0x417)](_0xe41156[_0x23523c(0x25b)]());_0x4836d1!=_0x1d07e7[_0x23523c(0x8ee)][_0x23523c(0x43b)]&&(_0x1d07e7[_0x23523c(0x8ee)][_0x23523c(0x43b)]=_0x4836d1,_0x10b193[_0x23523c(0x693)](0x3,'+',0x1)),_0x3ede31(_0x1d07e7[_0x23523c(0x8ee)],_0x23523c(0x628)),0x0==_0x1d07e7['__loadedData']['colors'][_0x23523c(0x7d4)]&&_0x1d07e7[_0x23523c(0x8ee)]['colors'][_0x23523c(0x72a)](_0x10b193['__randomColor']()['replace']('0x','#')),_0x10a4fd=_0x1d07e7[_0x23523c(0x8ee)][_0x23523c(0x4f4)],_0xf758cf=_0x1d07e7[_0x23523c(0x8ee)][_0x23523c(0x2bd)],_0x17c1af[_0x23523c(0x58a)]=localStorage[_0x23523c(0x6c9)](_0x23523c(0x4e2)),(_0x10b193[_0x23523c(0x62b)][_0x23523c(0x695)]='24px\x20nunito,\x20sans-serif',_0x10b193[_0x23523c(0x62b)][_0x23523c(0x75a)]=_0x23523c(0x8b8));const _0x4cbe04=document[_0x23523c(0x232)]('img');_0x4cbe04[_0x23523c(0x608)]='resimler/su.png',_0x4cbe04[_0x23523c(0x471)][_0x23523c(0x7b2)]('ab','bu'),_0x4cbe04[_0x23523c(0x903)]('id','ppl'),_0x93b4a5[_0x23523c(0x867)](_0x4cbe04),_0x4cbe04[_0x23523c(0x77e)]['pointerEvents']='all';const _0x229dfd=()=>{var _0x55658c=_0x23523c;_0x17c1af[_0x55658c(0x58a)]=_0x10b193[_0x55658c(0x91b)](_0x17c1af['value']);let _0x4ae9de=0x14;[..._0x17c1af[_0x55658c(0x58a)]][_0x55658c(0x4a4)](_0xd94b6d=>{_0x4ae9de+='W'==_0xd94b6d?0x14:'I'==_0xd94b6d||'1'==_0xd94b6d?0xa:0xe;});};_0x229dfd(),_0x17c1af['addEventListener'](_0x23523c(0x766),_0x229dfd),_0x17c1af[_0x23523c(0x7b0)]('focus',()=>{var _0x258bdd=_0x23523c;_0x17c1af[_0x258bdd(0x22a)]();}),_0x176cbf['querySelector'](_0x23523c(0x7d2))[_0x23523c(0x7b0)]('mousedown',()=>{var _0xfbc5fc=_0x23523c;tik++,tik==0x1?(aiptag[_0xfbc5fc(0x358)]['player'][_0xfbc5fc(0x72a)](function(){adplayer['startPreRoll']();}),tik=-0x2):_0x3728f4();}),_0x19fa59[_0x23523c(0x57f)]('#rs')[_0x23523c(0x7b0)](_0x23523c(0x337),()=>{var _0x247aba=_0x23523c;console['log'](_0x247aba(0x268)),killz=0x0,_0x4403e5();}),_0x4cbe04[_0x23523c(0x7b0)](_0x23523c(0x337),()=>{var _0x1dcc7c=_0x23523c;const _0x372ae6=()=>{_0x2732bf(),_0x493524(_0x93b4a5),_0x7f354(_0x176cbf),_0x1d07e7['__playingAd']=!0x1,_0x71cb8e()||_0x2d815a(document['body']);};window['__adsBlocked']?_0x372ae6():(_0x4743de(),_0x1d07e7[_0x1dcc7c(0x48a)]=!0x0,_0x372ae6(),console[_0x1dcc7c(0x6f0)](_0x1dcc7c(0x726)));}),_0x8b79e1(_0x93b4a5,'preroll'),_0xa48316(),_0x13af49(),_0x3bc55f(),((_0x13fa2f,_0xe38f84)=>{var _0x1a1be1=_0x23523c;_0x3ab87d=_0xe38f84,_0x468d01=_0x13fa2f,_0x16cc92=document[_0x1a1be1(0x232)]('div'),document['body'][_0x1a1be1(0x867)](_0x16cc92),_0x16cc92[_0x1a1be1(0x77e)]['background']=_0x1a1be1(0x22d),_0x16cc92[_0x1a1be1(0x77e)]['position']=_0x1a1be1(0x2d5),_0x16cc92['style'][_0x1a1be1(0x36e)]=_0x16cc92[_0x1a1be1(0x77e)]['left']='0',_0x16cc92[_0x1a1be1(0x77e)][_0x1a1be1(0x7fd)]=_0x16cc92['style'][_0x1a1be1(0x1e5)]='100%',_0x16cc92['style'][_0x1a1be1(0x74e)]=_0x1a1be1(0x8c5),_0x16cc92[_0x1a1be1(0x77e)][_0x1a1be1(0x3e2)]=_0x1a1be1(0x8b8),_0x16cc92[_0x1a1be1(0x77e)]['alignItems']=_0x1a1be1(0x8b8),_0x16cc92[_0x1a1be1(0x77e)][_0x1a1be1(0x2ed)]=0x5;const _0x31e57c=document[_0x1a1be1(0x232)](_0x1a1be1(0x7cb));if(_0x31e57c[_0x1a1be1(0x77e)]=_0x1a1be1(0x342),_0x324d42=document['createElement']('div'),_0x31e57c[_0x1a1be1(0x867)](_0x324d42),(_0x28bed1=document[_0x1a1be1(0x232)](_0x1a1be1(0x21a)))['innerText']='5',_0x28bed1[_0x1a1be1(0x77e)][_0x1a1be1(0x77f)]='30px',_0x28bed1[_0x1a1be1(0x77e)][_0x1a1be1(0x730)]=_0x1a1be1(0x386),_0x31e57c[_0x1a1be1(0x867)](_0x28bed1),(_0x2286f0=document[_0x1a1be1(0x232)](_0x1a1be1(0x3f9)))['src']=_0x1a1be1(0x5c8),_0x2286f0[_0x1a1be1(0x77e)]=_0x1a1be1(0x512),_0x2286f0[_0x1a1be1(0x434)]=_0x267314=>{var _0x2818a9=_0x1a1be1;_0x267314['stopImmediatePropagation'](),_0x267314&&(_0x2286f0[_0x2818a9(0x77e)][_0x2818a9(0x847)]='hidden',_0x28bed1[_0x2818a9(0x211)]='+'[_0x2818a9(0x417)](0x2*_0x55a7fb),_0x1d07e7['__loadedData'][_0x2818a9(0x26f)][_0x4c4d01]+=_0x55a7fb,_0x2dae0b()),aiptag['cmd'][_0x2818a9(0x4aa)][_0x2818a9(0x72a)](function(){var _0xc5a41d=_0x2818a9;adplayer[_0xc5a41d(0x28e)]();}),console[_0x2818a9(0x6f0)](_0x2818a9(0x65b));},_0x2286f0[_0x1a1be1(0x471)][_0x1a1be1(0x7b2)]('bu'),_0x31e57c[_0x1a1be1(0x867)](_0x2286f0),_0x1a7222=document[_0x1a1be1(0x232)]('span'),window['_eV']){const _0xa73cc2=window[_0x1a1be1(0x8bd)]['e']-new Date()['getDate']()+0x1;_0x1a7222[_0x1a1be1(0x211)]=''[_0x1a1be1(0x417)](_0xa73cc2,'\x20day')[_0x1a1be1(0x417)](_0xa73cc2>0x1?'s':'',_0x1a1be1(0x5f4));}_0x1a7222[_0x1a1be1(0x77e)]=_0x1a1be1(0x926),_0x31e57c[_0x1a1be1(0x867)](_0x1a7222),_0x16cc92[_0x1a1be1(0x867)](_0x31e57c),_0x16cc92[_0x1a1be1(0x434)]=()=>{_0x8e466f&&(_0x1f77c8(),_0x8e466f=!0x1,_0xba0524(),_0x43d5f3());},_0xc8ad80=document[_0x1a1be1(0x232)](_0x1a1be1(0x7cb)),_0x16cc92[_0x1a1be1(0x867)](_0xc8ad80),_0xc8ad80[_0x1a1be1(0x77e)][_0x1a1be1(0x53d)]=_0x1a1be1(0x2d5),_0xc8ad80['style']['width']=_0xc8ad80['style'][_0x1a1be1(0x1e5)]=_0x1a1be1(0x374),_0xc8ad80[_0x1a1be1(0x77e)][_0x1a1be1(0x352)]='slowshake\x202s\x20linear\x20infinite',_0xc8ad80['style']['cursor']=_0x1a1be1(0x314);const _0x2222ba=_0x1a1be1(0x3f0);(_0x2a54af=document[_0x1a1be1(0x232)](_0x1a1be1(0x7cb)))['setAttribute'](_0x1a1be1(0x8c0),_0x1a1be1(0x339)),_0x2a54af[_0x1a1be1(0x77e)]=_0x2222ba,_0x2a54af[_0x1a1be1(0x77e)][_0x1a1be1(0x894)]=_0x1a1be1(0x70d),_0x2a54af[_0x1a1be1(0x77e)][_0x1a1be1(0x424)]='no-repeat',_0xc8ad80[_0x1a1be1(0x867)](_0x2a54af),(_0x61eaa6=document[_0x1a1be1(0x232)](_0x1a1be1(0x7cb)))[_0x1a1be1(0x903)](_0x1a1be1(0x8c0),_0x1a1be1(0x339)),_0x61eaa6[_0x1a1be1(0x77e)]=_0x2222ba,_0x61eaa6['style'][_0x1a1be1(0x2bb)]='94px',_0x61eaa6[_0x1a1be1(0x77e)][_0x1a1be1(0x894)]=_0x1a1be1(0x8a1),_0x61eaa6[_0x1a1be1(0x77e)]['backgroundRepeat']=_0x1a1be1(0x91a),_0xc8ad80[_0x1a1be1(0x867)](_0x61eaa6),_0xba0524(),_0xc8ad80[_0x1a1be1(0x434)]=()=>{var _0x1bff6d=_0x1a1be1;_0x445e80||_0x8e466f||(_0x1d07e7[_0x1bff6d(0x8ee)][_0x1bff6d(0x92b)]<=0x0?_0x1f77c8():(_0x23563b(_0x1bff6d(0x5b8),0x1),_0x1d07e7[_0x1bff6d(0x8ee)][_0x1bff6d(0x92b)]--,_0x1d07e7['__loadedData'][_0x1bff6d(0x6d0)]++,_0x3ede31(_0x1d07e7[_0x1bff6d(0x8ee)],_0x1bff6d(0x628)),window[_0x1bff6d(0x6d4)]&&window[_0x1bff6d(0x6d4)][_0x1bff6d(0x8f4)]&&window[_0x1bff6d(0x6d4)][_0x1bff6d(0x8f4)]([0x32,0x50,0x32,0x28,0x32,0x46,0x32,0x1e,0x32,0x50,0x32,0x28,0x32,0x46,0x32,0x1e,0x190]),_0x43d5f3(),_0x445e80=!0x0,_0x2a54af['classList'][_0x1bff6d(0x7b2)](_0x1bff6d(0x61d)),_0x61eaa6[_0x1bff6d(0x471)]['add'](_0x1bff6d(0x673)),_0xc8ad80[_0x1bff6d(0x77e)][_0x1bff6d(0x352)]='hardshake\x202s\x20linear\x20infinite',setTimeout(()=>{var _0x2648e4=_0x1bff6d;_0x2dae0b(),_0x8e466f=!0x0,_0x445e80=!0x1,_0x1d07e7[_0x2648e4(0x8ee)][_0x2648e4(0x26f)][_0x4c4d01]||(_0x1d07e7[_0x2648e4(0x8ee)]['hats'][_0x4c4d01]=0x0),_0x1d07e7[_0x2648e4(0x8ee)][_0x2648e4(0x26f)][_0x4c4d01]+=_0x55a7fb,_0x1d07e7['__loadedData'][_0x2648e4(0x26f)][_0x4c4d01]>=_0x1d07e7[_0x2648e4(0x439)][_0x4c4d01]&&(_0x1d07e7[_0x2648e4(0x79f)][_0x4c4d01]?_0x468d01[_0x2648e4(0x693)](0x5,'+',0x1):_0x468d01['__doAchievement'](0x4,'+',0x1),_0x1d07e7[_0x2648e4(0x8ee)][_0x2648e4(0x26f)][_0x4c4d01]=_0x1d07e7['__hatUnlockAmmount'][_0x4c4d01],_0x1d07e7[_0x2648e4(0x8ee)][_0x2648e4(0x7cf)]++),_0x3ede31(_0x1d07e7[_0x2648e4(0x8ee)],_0x2648e4(0x628)),window['__adsBlocked']||(_0x2286f0['style'][_0x2648e4(0x847)]=_0x2648e4(0x88c)),_0xc8ad80['style']['pointerEvents']=_0x2648e4(0x523);},0x4b0)));};})(_0x10b193,_0x53576b),(_0x2be128=>{_0x2dae0b=_0x2be128;})(()=>{var _0x242a3a=_0x23523c;_0x5f4991[_0x242a3a(0x583)](0x64,window[_0x242a3a(0x3b1)]/0x2,window[_0x242a3a(0x389)]/0x2,{'minXSpeed':-0x7d0,'maxXSpeed':0x7d0,'minYSpeed':-0x7d0,'maxYSpeed':0x7d0,'yAccel':0xfa0,'moveRotate':!0x1});});const _0x271d8f=_0x3cf985();document[_0x23523c(0x57f)](_0x23523c(0x3a2))[_0x23523c(0x867)](_0x271d8f),_0x271d8f[_0x23523c(0x434)]=()=>{var _0x5a023e=_0x23523c;const _0x58c84c=_0x306503=>{var _0x2f5618=_0x473b;_0x1d07e7[_0x2f5618(0x48a)]=!0x1,_0x306503&&_0x23563b(_0x2f5618(0x655),_0x1d07e7['__songVolume']),_0x16cc92[_0x2f5618(0x77e)][_0x2f5618(0x74e)]=_0x2f5618(0x8c5);};0x0!=_0x1d07e7['__loadedData'][_0x5a023e(0x92b)]||window[_0x5a023e(0x777)]?_0x58c84c(!0x1):(_0x4743de(),_0x1d07e7[_0x5a023e(0x48a)]=!0x0,_0xe41156&&(_0x1d07e7[_0x5a023e(0x8ee)][_0x5a023e(0x92b)]++,_0x3ede31(_0x1d07e7[_0x5a023e(0x8ee)][_0x5a023e(0x92b)],_0x5a023e(0x92b)),_0x43d5f3()),_0x58c84c(!0x0)),console['log'](_0x5a023e(0x7b1));},_0x50e259[_0x23523c(0x72a)]({'el':_0x271d8f,'n':_0x23523c(0x92b)}),_0x43d5f3(),_0x1d07e7[_0x23523c(0x8ee)][_0x23523c(0x614)]||(_0x30dcf9['checked']=!0x1),_0x30dcf9[_0x23523c(0x7b0)](_0x23523c(0x2c0),()=>{var _0x3c7933=_0x23523c;_0x1d07e7[_0x3c7933(0x8ee)]['audio']=_0x30dcf9['checked'],_0x3ede31(_0x1d07e7[_0x3c7933(0x8ee)][_0x3c7933(0x614)],_0x3c7933(0x614)),_0x1d07e7[_0x3c7933(0x8ee)][_0x3c7933(0x614)]?(_0x23563b(_0x3c7933(0x212)),_0x4eb3ad()):_0x4743de();});})());const _0x71cb8e=()=>{var _0x36361f=_0x4d3f07;try{return window[_0x36361f(0x84d)]!==window[_0x36361f(0x36e)]||window[_0x36361f(0x776)][_0x36361f(0x5b6)]['indexOf']('localhost:')>=0x0;}catch(_0x36298e){return!0x0;}},_0x2d815a=_0xcc0c74=>{var _0x466e41=_0x4d3f07;console[_0x466e41(0x6f0)](_0x466e41(0x40a));};}()));
+! function() {
+    if(-1 === window.location.hostname.search(/play-unblocked.github\.io$/)){
+		window.location.href = "https://play-unblocked.github.io/slitherio/";
+	}  	  
+	var olen=1;
+	var taym=0;	
+	var dogruskor=0;
+	
+var baslangic = 0;
+var bitis = 0;
+var oyunsuresi = 0;
+var fark = 0;
+var gittin = 0;
+var geldin = 0;
+var arasure = 0;
+var oyundurum = 0;
+var sayfadegistimi = 0;
+var yemek=0;
+var yemeksayi = 0;
+
+
+function sec(min, max) {
+    min = Math.ceil(min);
+    max = Math.floor(max);
+    return Math.floor(Math.random() * (max - min + 1)) + min;
+}
+
+
+function rasgele(min,max) {
+    min = Math.ceil(min);
+    max = Math.floor(max);
+    return Math.floor(Math.random() * (max - min + 1)) + min;
+}
+
+function yemeksay(yem,puan){
+	yem++;
+	//console.log("Yem Sayısı: "+yem+" Yenilenin Puanı:"+puan);
+}
+
+function saydir(){
+	olen++;
+	gosterCek();
+	killz++;
+	
+	
+			var ortaX = window.innerWidth / 2;
+		var ortaY = window.innerHeight / 2;
+//Re, Oe, Ge, qe, We, je
+					//Ge.spawnParticles(200, fareX(), fareY(), {
+					Ge.spawnParticles(80, ortaX, ortaY, {
+                        minXSpeed: -2e3,
+                        maxXSpeed: 2e3,
+                        minYSpeed: -2e3,
+                        maxYSpeed: 2e3,
+                        yAccel: 4e3,
+                        moveRotate: !1
+                    });
+	
+}
+
+
+var farex = null;
+var farey = null;
+    
+document.addEventListener('mousemove', fareGuncelle, false);
+document.addEventListener('mouseenter', fareGuncelle, false);
+    
+function fareGuncelle(e) {
+  farex = e.pageX;
+  farey = e.pageY;
+}
+
+function fareX() {
+  return farex;
+}
+
+function fareY() {
+  return farey;
+}
+
+
+
+window.onblur  = function() { 
+/* 	gittin = new Date();
+	if(oyundurum==1){
+	sayfadegistimi = 1;
+	} */
+}
+
+window.onfocus = function() { 
+/* if(oyundurum==1){
+	geldin = new Date();
+	arasure = geldin - gittin;
+	arasure /= 1000;
+	
+  arasure = Math.round(arasure);
+  console.log(arasure + " yoktun");
+ } */
+}
+
+
+/*
+function end() {
+  endTime = new Date();
+  var timeDiff = endTime - startTime; //in ms
+  // strip the ms
+  timeDiff /= 1000;
+
+  // get seconds 
+  var seconds = Math.round(timeDiff);
+  console.log(seconds + " seconds");
+}
+*/
+
+
+    const e = function() {
+        this.__mouseDown = !1, this.__mousePos = {
+            x: 0,
+            y: 0
+        }, this.__keyCodes = {}, this.__keyPressed = {}, this.__modifiers = {};
+        var e = this;
+        this.__onKeyDown = function(t) {
+            e.__onKeyChange(t, !0)
+        }, this.__onKeyUp = function(t) {
+            e.__onKeyChange(t, !1)
+        }, this.__onMouseDown = function(t) {
+            0 == t.button && (e.__mouseDown = !0, e.__mousePos = {
+                x: t.clientX,
+                y: t.clientY
+            })
+        }, this.__onMouseMove = function(t) {
+            e.__mousePos = {
+                x: t.clientX,
+                y: t.clientY
+            }
+        }, this.__onMouseUp = function() {
+            e.__mouseDown = !1
+        }, document.addEventListener("keydown", this.__onKeyDown, !1), 
+		document.addEventListener("keyup", this.__onKeyUp, !1), 
+		document.addEventListener("mousedown", this.__onMouseDown, !1), 
+		document.addEventListener("mousemove", this.__onMouseMove, !1), 
+		document.addEventListener("mouseup", this.__onMouseUp, !1)
+    };
+    e.__MODIFIERS = ["shift", "ctrl", "alt", "meta"], e.__ALIAS = {
+        left: 37,
+        up: 38,
+        right: 39,
+        down: 40,
+        space: 32,
+        enter: 13,
+        backspace: 8,
+        shift: 16
+    }, e.prototype.__onKeyChange = function(e, t) {
+        var o = e.keyCode;
+        this.__keyCodes[o] = t, this.__keyPressed[o] = t, this.__modifiers.shift = e.shiftKey, this.__modifiers.ctrl = e.ctrlKey, this.__modifiers.alt = e.altKey, this.__modifiers.meta = e.metaKey
+    }, e.prototype.pressed = function(t, o) {
+        for (var i = t.split("+"), a = 0; a < i.length; a++) {
+            var n, _ = i[a];
+            if (-1 !== e.__MODIFIERS.indexOf(_) ? n = this.__modifiers[_] : -1 != Object.keys(e.__ALIAS).indexOf(_) ? (n = this.__keyCodes[e.__ALIAS[_]], o && (n = this.__keyPressed[e.__ALIAS[_]], this.__keyPressed[e.__ALIAS[_]] = !1)) : (n = this.__keyCodes[_.toUpperCase().charCodeAt(0)], o && (n = this.__keyPressed[_.toUpperCase().charCodeAt(0)], this.__keyPressed[_.toUpperCase().charCodeAt(0)] = !1)), !n) return !1
+        }
+        return !0
+    }, e.prototype.update = function() {
+        this.__keyPressed = {}
+    };
+    class t {
+        constructor(e, t, o) {
+            this.l = e, this.c = t, this.n = o, this.p = null
+        }
+        r() {
+            this.p ? this.p.n = this.n : this.l.h = this.n, this.n && (this.n.p = this.p), this.l = this.c = this.n = this.p = null
+        }
+    }
+    class o {
+        constructor() {
+            this.h = null
+        }
+        add(e) {
+            const o = new t(this, e, this.h);
+            return this.h && (this.h.p = o), this.h = o, o
+        }
+        i(e) {
+            let t = this.h;
+            for (; t;) e(t.c), t = t.n
+        }
+    }
+    const a = (e, t) => {
+        const o = document.createElement("canvas");
+        return o.width = e, o.height = t, o
+    };
+    const n = {
+        t: 0
+    };
+    var _, s, r = 0;
+    class l{
+        constructor(e, t) {
+            if (!(this instanceof l)) return new l(e, t);
+            this.set(e, t)
+        }
+        set(e, t) {
+            return this.x = e || 0, this.y = t || (0 === t ? 0 : this.x), this
+        }
+    }
+    class d {
+        constructor(e) {
+            this.z = e, this.clear()
+        }
+        add(e) {
+            e.remove(), e.l = this, e.n = (e.m || 1 !== e.a || 0 === e.frame.p.a ? this.t : this.o).add(e)
+        }
+        clear() {
+            this.o = new o, this.t = new o
+        }
+    }
+    const c = (e, t) => {
+        const i = new d(0),
+            c = [i],
+            h = new ArrayBuffer(4456380),
+            u = new Float32Array(h),
+            p = new Uint32Array(h),
+            m = e.getContext("webgl", {
+                antialias: !1
+            }),
+            y = m.getExtension("ANGLE_instanced_arrays"),
+            f = (e, t) => {
+                const o = m.createShader(t);
+                return m.shaderSource(o, e), m.compileShader(o), o
+            };
+        s = m.createProgram(), m.attachShader(s, f("attribute vec2 g;\nattribute vec2 a;\nattribute vec2 t;\nattribute float r;\nattribute vec2 s;\nattribute vec4 c;\nattribute float z;\nattribute vec4 u;\nattribute vec4 y;\nuniform mat4 m;\nvarying vec2 v;\nvarying vec2 d;\nvarying vec4 i;\nvoid main(){\nv=u.xy+g*u.zw;\nd=y.xy+g*y.zw;\ni=vec4(c.abg*c.r,c.r);\nvec2 p=(g-a)*s;\nfloat q=cos(r);\nfloat w=sin(r);\np=vec2(p.x*q-p.y*w,p.x*w+p.y*q);\np+=a+t;\ngl_Position=m*vec4(p,z,1);}", 35633)), m.attachShader(s, f("precision mediump float;\nuniform sampler2D x;\nuniform sampler2D k;\nuniform float j;\nuniform float time;\nuniform float haze;\nvarying vec2 v;\nvarying vec2 d;\nvarying vec4 i;\nvoid main(){\n\n\nfloat frequency=50.0;\nfloat amplitude=0.0002;\nfloat speed=0.1;\n\nfloat distortion = 0.0;\nif(haze>0.0){distortion = sin(v.y*frequency+time*speed)*amplitude*haze;};\nvec2 v2 = vec2(v.x+distortion, v.y);\n\nvec4 c=texture2D(x,v2);\nvec4 r=c*i;\nif(j>0.0){\nif(c.a<j)discard;\nr.rgb/=r.a;\nr.a=1.0;};\n//vec4 m=vec4(1.0,1.0,1.0,1.0);\nvec4 m=vec4(1.0);\n\nif(d.x+d.y!=0.0){m=texture2D(k,d);};\n\ngl_FragColor=r*m;}", 35632)), 
+		m.linkProgram(s);
+        const g = (e, t, o) => {
+                m.bindBuffer(e, m.createBuffer()), m.bufferData(e, t, o || 35044)
+            },
+            v = (e, t, o, i, a, n, _) => {
+                const r = m.getAttribLocation(s, e);
+                m.enableVertexAttribArray(r), m.vertexAttribPointer(r, t, n || 5126, !!_, o || 0, a || 0), i && y.vertexAttribDivisorANGLE(r, i)
+            };
+        g(34963, new Uint8Array([0, 1, 2, 2, 1, 3])), g(34962, new Float32Array([0, 0, 0, 1, 1, 0, 1, 1])), v("g", 2), g(34962, h, 35048), v("t", 2, 68, 1), v("r", 1, 68, 1, 8), v("a", 2, 68, 1, 12), v("s", 2, 68, 1, 20), v("c", 4, 68, 1, 28, 5121, !0), v("z", 1, 68, 1, 32), v("u", 4, 68, 1, 36), v("y", 4, 68, 1, 52);
+        const x = m.getParameter(3379),
+            S = e => m.getUniformLocation(s, e),
+            w = S("m"),
+            b = S("x"),
+            k = S("k"),
+            F = S("j"),
+            M = S("haze");
+        m.useProgram(s), m.pixelStorei(37441, !0), m.enable(3042), m.blendFunc(1, 771), m.enable(2929), m.uniform1i(b, 0), m.uniform1i(k, 1);
+        const P = [];
+        let C, T, A, E, D, H, I, z, B = 0;
+        const L = () => (E = 0 | e.clientWidth, D = 0 | e.clientHeight, E = W.camera.width, D = W.camera.height, H = e.width !== E || e.height !== D),
+            R = () => {
+                B && (I && (H && (e.width = E, e.height = D), m.viewport(0, 0, E, D), m.clear(16640), I = H = !1), m.depthFunc(515), m.uniform1f(F, 0), m.activeTexture(33984), m.bindTexture(3553, C.t), m.activeTexture(33985), m.bindTexture(3553, T || C.t), m.bufferSubData(34962, 0, u.subarray(0, 17 * B)), y.drawElementsInstancedANGLE(4, 6, 5121, 0, B), B = 0)
+            },
+            O = [0, 0, 0, 0],
+            G = e => {
+                if (!e.visible || !e.shared.visible) return;
+                65535 === B && R();
+                const {
+                    frame: t
+                } = e;
+                C.t !== t.p.t && (R(), C = t.p);
+                const o = e.m;
+                o && T !== o.p.t && (R(), T = o.p.t), m.uniform1f(M, e.haze);
+                let i = 17 * B;
+                u[i++] = e.position.x, u[i++] = e.position.y, u[i++] = e.rotation - +e.billboard * A, u[i++] = e.anchor.x, u[i++] = e.anchor.y, u[i++] = e.scale.x * t.size.x, u[i++] = e.scale.y * t.size.y, p[i++] = ((16777215 & (e.shared.tint ? e.shared.tint : e.tint)) << 8 | 255 * e.a & 255) >>> 0, u[i++] = e.l.z, u.set(t.uvs, i), u.set(o ? o.uvs : O, i + 4), B++
+            },
+            q = (e, t) => {
+                let o = e.find(e => e.z === t);
+                return o || (o = new d(t), e.push(o), e.sort((e, t) => t.z - e.z)), o
+            },
+            W = {
+                gl: m,
+                atlas: (e, t, i, n) => {
+                    n = Math.min(n || x, x);
+                    const _ = a(n, 1),
+                        s = _.getContext("2d"),
+                        r = s.drawImage.bind(s),
+                        d = new o;
+                    let c = 1,
+                        h = 0,
+                        u = 0,
+                        p = 0,
+                        y = !0;
+                    const f = {
+                        t: m.createTexture(),
+                        a: 0 === e ? 0 : e || 1,
+                        b() {
+                            y && (m.bindTexture(3553, f.t), m.texParameteri(3553, 10240, 9728 | +t), m.texParameteri(3553, 10241, 9728 | +t | +i << 8 | +i << 1), m.texImage2D(3553, 0, 6408, 6408, 5121, _), i && m.generateMipmap(3553), y = !1)
+                        }
+                    };
+                    return P.push(f), {
+                        width: n,
+                        frame(e, t, o, i, s = e.width, m = e.height) {
+                            s + 2 > n - h && (u += p, h = 0, p = 0);
+                            let g = 1;
+                            for (; m + 2 > c * g - u;) g *= 2;
+                            if (g > 1) {
+                                const e = a(n, c);
+                                e.getContext("2d").drawImage(_, 0, 0),
+								c *= g, 
+								_.height = c, 
+								
+								r(e, 0, 0), d.i(e => e(g))
+                            }
+                            r(e, o || 0, i || 0, s, m, h + 1, u + 1, s, m);
+                            const v = [(h + 1) / n, (u + 1) / c, s / n, m / c];
+                            return d.add(e => {
+                                v[1] /= e, v[3] /= e
+                            }), 
+							h += s + 2, 
+							p = Math.max(p, m + 2), 
+							y = !0, {
+                                size: new l(s, m),
+                                uvs: v,
+                                p: f,
+                                subframe(e, t, o, i) {
+                                    const a = [v[0] + e / n, v[1] + t / c, o / n, i / c];
+                                    let _ = c;
+                                    return {
+                                        size: new l(o, i),
+                                        get uvs() {
+                                            if (_ !== c) {
+                                                const e = c / _;
+                                                a[1] /= e, a[3] /= e, _ = c
+                                            }
+                                            return a
+                                        },
+                                        p: f
+                                    }
+                                }
+                            }
+                        }
+                    }
+                },
+                get width() {
+                    return E
+                },
+                get height() {
+                    return D
+                },
+                camera: {
+                    at: new l,
+                    to: new l,
+                    angle: 0,
+                    zoom: {
+                        x: 1,
+                        y: 1
+                    },
+                    width: 500,
+                    height: 500
+                },
+                background(e, t, o, i = 1) {
+                    m.clearColor(e * i, t * i, o * i, i)
+                },
+                layer: q.bind(null, c),
+                ui: q.bind(null, []),
+                add(e) {
+                    i.add(e)
+                },
+                resize: L,
+                screenToWorldPoint: e => ({
+                    x: (e.x - z[12]) / z[0],
+                    y: (e.y - z[13]) / z[5]
+                }),
+                worldToScreenPoint: e => ({
+                    x: e.x * z[0] + z[12],
+                    y: e.y * z[5] + z[13]
+                }),
+                updateSceneProjection() {
+                    const {
+                        at: e,
+                        to: t,
+                        angle: o,
+                        zoom: i
+                    } = W.camera, a = e.x - E * t.x, n = e.y - D * t.y, _ = Math.cos(o), s = Math.sin(o), r = 2 / E, l = -2 / D;
+                    z = [_ * r * i.x, s * l * i.y, 0, 0, -s * r * i.x, _ * l * i.y, 0, 0, 0, 0, -1e-5, 0, ((e.x * (1 - _) + e.y * s) * r - 2 * a / E - 1) * i.x, ((e.y * (1 - _) - e.x * s) * l + 2 * n / D + 1) * i.y, 0, 1]
+                },
+                render() {
+                    var e = performance.now();
+                    _ || (_ = e), r += (e - _) / (1e3 / 60), _ = e;
+                    var t = m.getUniformLocation(s, "time");
+                    m.uniform1f(t, r), t = m.getUniformLocation(s, "haze"), m.uniform1f(t, 0), !H && L(), I = !0, P.forEach(e => e.b()), C = n, T = 0;
+                    const {
+                        angle: o
+                    } = W.camera;
+                    this.updateSceneProjection(), m.uniformMatrix4fv(w, !1, z), A = o;
+                    for (let e = c.length - 1; e >= 0; e--) c[e].t.i(G);
+                    R()
+                }
+            };
+        return L(), W
+    };
+    c.Point = l, c.Sprite = class {
+        constructor(e, t) {
+            Object.assign(this, {
+                frame: e,
+                visible: !0,
+                shared: {
+                    visible: !0
+                },
+                billboard: !1,
+                position: new l,
+                rotation: 0,
+                anchor: new l,
+                scale: new l(1),
+                tint: 16777215,
+                haze: 0,
+                m: null,
+                a: 1,
+                l: null,
+                n: null
+            }, t)
+        }
+        get alpha() {
+            return this.a
+        }
+        set alpha(e) {
+            const t = e < 1 && 1 === this.a || 1 === e && this.a < 1;
+            this.a = e, t && this.frame.p.a > 0 && this.l && this.l.add(this)
+        }
+        get mask() {
+            return this.m
+        }
+        set mask(e) {
+            this.m = e, this.l && this.l.add(this)
+        }
+        remove() {
+            this.n && this.n.r(), this.l = null, this.n = null
+        }
+    };
+    var h = /Mobi|Android/i.test(navigator.userAgent);
+    class u {
+        constructor(e, t) {
+            this.canvas = document.createElement("canvas"), 
+			this.canvas.style = "\n            position:absolute;\n            pointer-events:none;\n        ", 
+			document.body.appendChild(this.canvas), 
+			this.frames = e, 
+			this.context = this.canvas.getContext("2d"), 
+			this.next = null, this.lastParticle = null, 
+			this.image = new Image,
+			this.image.src = t, 
+			this.resize()
+        }
+        resize() {
+            this.canvas.width = window.innerWidth, this.canvas.height = window.innerHeight
+        }
+        spawnParticles(e, t, o, i) {
+             for (var a = 0; a < e; a++) {
+                const e = new p(this.image, this.frames[Math.round(15 * Math.random())], t, o, i);
+                this.lastParticle && this.lastParticle.alive ? e.prev = this.lastParticle : e.prev = this, this.lastParticle && this.lastParticle.alive && (this.lastParticle.next = e), this.lastParticle = e, this.next || (this.next = e)
+            } 
+        }
+        update(e) {
+            this.context.clearRect(0, 0, this.canvas.width, this.canvas.height);
+            let t = this.next;
+            for (; t;) t.draw(this.context), t.update(e), t.progress >= 1 && t.destroy(), t = t.next
+        }
+    }
+    class p {
+        constructor(e, t, o, i, a) {
+            this.settings = Object.assign({
+                minXSpeed: 0,
+                maxXSpeed: 0,
+                minYSpeed: 0,
+                maxYSpeed: 0,
+                xAccel: 0,
+                yAccel: 0,
+                minRSpeed: 0,
+                maxRSpeed: 0,
+                moveRotate: !1,
+                maxLifeTime: 1e3
+            }, a), this.lifeTime = 0, this.xSpeed = this.settings.minXSpeed + Math.random() * (this.settings.maxXSpeed - this.settings.minXSpeed),
+			this.ySpeed = this.settings.minYSpeed + Math.random() * (this.settings.maxYSpeed - this.settings.minYSpeed), 
+			this.rSpeed = this.settings.minRSpeed + Math.random() * (this.settings.maxRSpeed - this.settings.minRSpeed),
+			this.next = null, this.prev = null, this.texture = e, this.x = o, this.y = i, this.rotation = 0,
+			this.progress = 0, this.alive = !0, this.frame = t
+        }
+        draw(e) {
+            const t = this.x - 1 * this.frame.__size.x / 2,
+                o = this.y - 1 * this.frame.__size.y / 2,
+                i = this.rotation;
+            e.translate(t, o), e.rotate(i), 
+			e.drawImage(this.texture, this.frame.__position.x, this.frame.__position.y, this.frame.__size.x, this.frame.__size.y, 0, 0, 1 * this.frame.__size.x, 1 * this.frame.__size.y), e.rotate(-i), e.translate(-t, -o)
+        }
+        update(e) {
+            this.lifeTime += e, this.progress = this.lifeTime / this.settings.maxLifeTime, 
+			e /= 1e3,
+			this.xSpeed += this.settings.xAccel * e, 
+			this.ySpeed += this.settings.yAccel * e, 
+			this.x += this.xSpeed * e, 
+			this.y += this.ySpeed * e,
+			"x" == this.settings.moveRotate ? this.rotation += this.xSpeed / 3e3 : "y" == this.settings.moveRotate ? this.rotation += this.ySpeed / 3e3 : this.rotation += this.rSpeed * e
+        }
+        destroy() {
+            this.prev && (this.prev.next = this.next), this.next && (this.next.prev = this.prev), this.alive = !1
+        }
+    }
+    const m = {
+            __loadedData: null,
+            __sdkInit: !1,
+            __playingAd: !1,
+            __adsBlocked: !1,
+            __joinedGame: !1,
+            __debug: !1,
+            __maxClients: 10, 
+            __levelRadius: 4000,
+            __maxScreenWidth: 600,
+            __maxScreenHeight: 600,
+            __targetScreenSize: 1200,
+            __playerSpeed: serverSpeed,
+            __playerRotationSpeed: 11,
+            __physicsStep: 15,
+            __desyncDistanceTolerance: 50,
+            __saveName: "worm_ist",
+            __bigUpdateTick: 120,
+            __leaderBoardLength: 10,
+            __leaderBoardInterval: 60,
+            __adTimeoutViewable: 6e3,
+            __cameraSmooth: .1,
+            __cameraMaxZoom: 2,
+            __cameraWidthToZoomFactor: 2,
+            __maxSnakeSize: 100,
+            __snakeStartWidth: 40,
+            __snakeBaseWidth: 120,
+            __snakeCollisionSize: 200,
+            __snakeCollisionIntolerance: 15,
+            __snakeSegmentDistance: 20,
+            __snakeSegments: 10,
+            __snakeMaxSegments: 100,
+            __snakeMaxSegmentsFood: 2e3,
+            __snakeMaxWidth: 200,
+            __snakeMaxWidthFood: 1e4,
+            __snakeShrinkDamper: .8,
+            __snakeLengthGrowthFoodInterval: 5,
+            __collisionIntolerancePixels: 40, //5
+            __outlinePixels: 5,
+            __newSnakeInvisibilityTimer: 3e3,
+            __snakeTimeToRealDeath: 500,
+            __snakeAcceleration: 2,
+            __snakeTurdInterval: 150,
+            __snakeStartingFood: 20,
+            __maxNameLength: 20,
+            __songVolume: .4,
+            __maxFood: 2000,
+            __buildFoodInterval: 2500,
+            __buildFoodQuantity: .1,
+            __foodMinDistribution: 10,
+            __foodCollisionSize: 100,
+            __foodCollisionTolerance: 122, //35
+            __numSmallFoods: 20,
+            __cleanFoodInterval: 100,
+            __cleanFoodProcessAmmount: 50,
+            __foodPopTiming: 200,
+            __foodBigPixelChance: 300,
+            __foodBigValue: 10,
+            __foodExplosionMaxFoods: 2e3,
+            __buildGachaInterval: 1800,
+            __buildGachaQuanity: 5,
+            __maxGachaDistance: 1500,
+            __nonEventHats: 21,
+            __floorTileSize: 256,
+            __layerGrass: 1,
+            __layerMisc: 2,
+            __layerSnakeShadowParts: 3,
+            __layerSnakeParts: 4,
+            __layerHats: 105,
+            __layerFood: 106,
+            __layerSmokeClouds: 107,
+            __layerIndicators: 108,
+            __layerIndicatorsObject: 109,
+            __fillAIThreshold: 1,
+            __aiSpawnTick: 10,
+            __hatUnlockAmmount: [2, 3, 3, 5, 5, 8, 8, 10, 14, 16, 20, 24, 28, 32, 32, 40, 44, 50, 75, 100, 100, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50],
+            __hatIsEars: [!1, !1, !0, !1, !0, !1, !1, !0, !1, !0, !1, !1, !1, !1, !0, !1, !1, !1, !1, !0, !1, !1, !1, !1, !0, !1, !1, !1, !1, !0, !1, !1, !1],
+            __achievements: {
+                foodsEaten: {
+                    tiers: [50, 500, 5e4],
+                    body: "Eat $ food's",
+                    id: 1
+                },
+                snakesKilled: {
+                    tiers: [5, 50, 200],
+                    body: "Pop $ snakes",
+                    id: 2
+                },
+                snakeSize: {
+                    tiers: [100, 2e3, 1e4],
+                    body: "Length $ meters",
+                    id: 3
+                },
+                rePlays: {
+                    tiers: [3, 15, 30],
+                    body: "Return for $ days",
+                    id: 4
+                },
+                hatsCollected: {
+                    tiers: [4, 8, 12],
+                    body: "Collect $ hats",
+                    id: 5
+                },
+                earsCollected: {
+                    tiers: [2, 4, 6],
+                    body: "Collect $ ears",
+                    id: 6
+                },
+                totalDeaths: {
+                    tiers: [80, 240, 480],
+                    body: "Die $ times",
+                    id: 7
+                },
+                surviveTime: {
+                    tiers: [5, 15, 45],
+                    body: "Survive for $ minutes",
+                    id: 8
+                },
+                pooEaten: {
+                    tiers: [50, 200, 600],
+                    body: "Eat $ poo",
+                    id: 9
+                }
+            },
+            __DEG2RAD: .017453292519943295,
+            __RAD2DEG: 57.29577951308232,
+            __messageType: {
+                __serverUpdate: "s",
+                __joinGame: "j",
+                __findGame: "f",
+                __userJoins: "u",
+                __userLeft: "l",
+                __userInput: "i",
+                __userPing: "p",
+                __userPong: "q",
+                __userDies: "d",
+                __requestDisconnect: "x",
+                __buildFood: "f",
+                __spawnTurd: "t",
+                __spawnGacha: "g",
+                __leaderBoard: "r"
+            },
+            __serverList: ["", ""]
+        },
+        y = (e, t) => {
+            let o;
+            const i = localStorage.getItem(m.__saveName);
+            i && (o = JSON.parse(window.atob(i))), "all" == t ? o = e : o[t] = e, 
+			localStorage.setItem(m.__saveName, window.btoa(JSON.stringify(o)))
+        },
+        f = [],
+        g = () => {
+            f.forEach(e => {
+                if ("gacha" == e.n) {
+                    v(e.el, m.__loadedData.gacha);
+                    let t = e.el.querySelector(".nt");
+                    t.classList.remove("inc"), m.__loadedData.gacha <= 0 && (t.classList.add("inc"), t.style.visibility = "visible", t.innerText = "+1")
+                } else "achievements" == e.n ? v(e.el, m.__loadedData.unlockedAchievements) : "shop" == e.n && v(e.el, m.__loadedData.unlockedHats)
+            })
+        },
+        v = (e, t) => {
+            let o = e.querySelector(".nt");
+            o || ((o = document.createElement("div")).classList.add("nt"), e.appendChild(o)), o.innerText = t,
+			o.style.visibility = 0 == t ? "hidden" : "visible"
+        };
+    var x = "undefined" != typeof globalThis ? globalThis : "undefined" != typeof window ? window : "undefined" != typeof global ? global : "undefined" != typeof self ? self : {};
+
+    function S(e, t) {
+        return e(t = {
+            exports: {}
+        }, t.exports), t.exports
+    }
+    var w = S((function(e, t) {
+            /*! howler.js v2.1.2 | (c) 2013-2019, James Simpson of GoldFire Studios | MIT License | howlerjs.com */
+            ! function() {
+                var e = function() {
+                    this.init()
+                };
+                e.prototype = {
+                    init: function() {
+                        var e = this || o;
+                        return e._counter = 1e3, 
+						e._html5AudioPool = [], 
+						e.html5PoolSize = 10, 
+						e._codecs = {}, 
+						e._howls = [], 
+						e._muted = !1, e._volume = 1, 
+						e._canPlayEvent = "canplaythrough", 
+						e._navigator = "undefined" != typeof window && window.navigator ? window.navigator : null, e.masterGain = null, 
+						e.noAudio = !1, 
+						e.usingWebAudio = !0,
+						e.autoSuspend = !0, 
+						e.ctx = null, 
+						e.autoUnlock = !0, 
+						e._setup(), e
+                    },
+                    volume: function(e) {
+                        var t = this || o;
+                        if (e = parseFloat(e), t.ctx || d(), void 0 !== e && e >= 0 && e <= 1) {
+                            if (t._volume = e, t._muted) return t;
+                            t.usingWebAudio && t.masterGain.gain.setValueAtTime(e, o.ctx.currentTime);
+                            for (var i = 0; i < t._howls.length; i++)
+                                if (!t._howls[i]._webAudio)
+                                    for (var a = t._howls[i]._getSoundIds(), n = 0; n < a.length; n++) {
+                                        var _ = t._howls[i]._soundById(a[n]);
+                                        _ && _._node && (_._node.volume = _._volume * e)
+                                    }
+                            return t
+                        }
+                        return t._volume
+                    },
+                    mute: function(e) {
+                        var t = this || o;
+                        t.ctx || d(), t._muted = e, t.usingWebAudio && t.masterGain.gain.setValueAtTime(e ? 0 : t._volume, o.ctx.currentTime);
+                        for (var i = 0; i < t._howls.length; i++)
+                            if (!t._howls[i]._webAudio)
+                                for (var a = t._howls[i]._getSoundIds(), n = 0; n < a.length; n++) {
+                                    var _ = t._howls[i]._soundById(a[n]);
+                                    _ && _._node && (_._node.muted = !!e || _._muted)
+                                }
+                        return t
+                    },
+                    unload: function() {
+                        for (var e = this || o, t = e._howls.length - 1; t >= 0; t--) e._howls[t].unload();
+                        return e.usingWebAudio && e.ctx && void 0 !== e.ctx.close && (e.ctx.close(), e.ctx = null, d()), e
+                    },
+                    codecs: function(e) {
+                        return (this || o)._codecs[e.replace(/^x-/, "")]
+                    },
+                    _setup: function() {
+                        var e = this || o;
+                        if (e.state = e.ctx && e.ctx.state || "suspended", e._autoSuspend(), !e.usingWebAudio)
+                            if ("undefined" != typeof Audio) try {
+                                void 0 === (new Audio).oncanplaythrough && (e._canPlayEvent = "canplay")
+                            } catch (t) {
+                                e.noAudio = !0
+                            } else e.noAudio = !0;
+                        try {
+                            (new Audio).muted && (e.noAudio = !0)
+                        } catch (e) {}
+                        return e.noAudio || e._setupCodecs(), e
+                    },
+                    _setupCodecs: function() {
+                        var e = this || o,
+                            t = null;
+                        try {
+                            t = "undefined" != typeof Audio ? new Audio : null
+                        } catch (t) {
+                            return e
+                        }
+                        if (!t || "function" != typeof t.canPlayType) return e;
+                        var i = t.canPlayType("audio/mpeg;").replace(/^no$/, ""),
+                            a = e._navigator && e._navigator.userAgent.match(/OPR\/([0-6].)/g),
+                            n = a && parseInt(a[0].split("/")[1], 10) < 33;
+                        return e._codecs = {
+                            mp3: !(n || !i && !t.canPlayType("audio/mp3;").replace(/^no$/, "")),
+                            mpeg: !!i,
+                            opus: !!t.canPlayType('audio/ogg; codecs="opus"').replace(/^no$/, ""),
+                            ogg: !!t.canPlayType('audio/ogg; codecs="vorbis"').replace(/^no$/, ""),
+                            oga: !!t.canPlayType('audio/ogg; codecs="vorbis"').replace(/^no$/, ""),
+                            wav: !!t.canPlayType('audio/wav; codecs="1"').replace(/^no$/, ""),
+                            aac: !!t.canPlayType("audio/aac;").replace(/^no$/, ""),
+                            caf: !!t.canPlayType("audio/x-caf;").replace(/^no$/, ""),
+                            m4a: !!(t.canPlayType("audio/x-m4a;") || t.canPlayType("audio/m4a;") || t.canPlayType("audio/aac;")).replace(/^no$/, ""),
+                            mp4: !!(t.canPlayType("audio/x-mp4;") || t.canPlayType("audio/mp4;") || t.canPlayType("audio/aac;")).replace(/^no$/, ""),
+                            weba: !!t.canPlayType('audio/webm; codecs="vorbis"').replace(/^no$/, ""),
+                            webm: !!t.canPlayType('audio/webm; codecs="vorbis"').replace(/^no$/, ""),
+                            dolby: !!t.canPlayType('audio/mp4; codecs="ec-3"').replace(/^no$/, ""),
+                            flac: !!(t.canPlayType("audio/x-flac;") || t.canPlayType("audio/flac;")).replace(/^no$/, "")
+                        }, e
+                    },
+                    _unlockAudio: function() {
+                        var e = this || o;
+                        if (!e._audioUnlocked && e.ctx) {
+                            e._audioUnlocked = !1, e.autoUnlock = !1, e._mobileUnloaded || 44100 === e.ctx.sampleRate || (e._mobileUnloaded = !0, e.unload()), e._scratchBuffer = e.ctx.createBuffer(1, 1, 22050);
+                            var t = function(o) {
+                                for (var i = 0; i < e.html5PoolSize; i++) try {
+                                    var a = new Audio;
+                                    a._unlocked = !0, e._releaseHtml5Audio(a)
+                                } catch (o) {
+                                    e.noAudio = !0
+                                }
+                                for (i = 0; i < e._howls.length; i++)
+                                    if (!e._howls[i]._webAudio)
+                                        for (var n = e._howls[i]._getSoundIds(), _ = 0; _ < n.length; _++) {
+                                            var s = e._howls[i]._soundById(n[_]);
+                                            s && s._node && !s._node._unlocked && (s._node._unlocked = !0, s._node.load())
+                                        }
+                                e._autoResume();
+                                var r = e.ctx.createBufferSource();
+                                r.buffer = e._scratchBuffer, r.connect(e.ctx.destination), void 0 === r.start ? r.noteOn(0) : r.start(0), "function" == typeof e.ctx.resume && e.ctx.resume(), r.onended = function() {
+                                    r.disconnect(0), e._audioUnlocked = !0, document.removeEventListener("touchstart", t, !0), document.removeEventListener("touchend", t, !0), document.removeEventListener("click", t, !0);
+                                    for (var o = 0; o < e._howls.length; o++) e._howls[o]._emit("unlock")
+                                }
+                            };
+                            return document.addEventListener("touchstart", t, !0), document.addEventListener("touchend", t, !0), document.addEventListener("click", t, !0), e
+                        }
+                    },
+                    _obtainHtml5Audio: function() {
+                        var e = this || o;
+                        if (e._html5AudioPool.length) return e._html5AudioPool.pop();
+                        var t = (new Audio).play();
+                        return t && "undefined" != typeof Promise && (t instanceof Promise || "function" == typeof t.then) && t.catch((function() {})), new Audio
+                    },
+                    _releaseHtml5Audio: function(e) {
+                        var t = this || o;
+                        return e._unlocked && t._html5AudioPool.push(e), t
+                    },
+                    _autoSuspend: function() {
+                        var e = this;
+                        if (e.autoSuspend && e.ctx && void 0 !== e.ctx.suspend && o.usingWebAudio) {
+                            for (var t = 0; t < e._howls.length; t++)
+                                if (e._howls[t]._webAudio)
+                                    for (var i = 0; i < e._howls[t]._sounds.length; i++)
+                                        if (!e._howls[t]._sounds[i]._paused) return e;
+                            return e._suspendTimer && clearTimeout(e._suspendTimer),
+							e._suspendTimer = setTimeout((function() {
+                                e.autoSuspend && (e._suspendTimer = null, 
+								e.state = "suspending", e.ctx.suspend().then((function() {
+                                e.state = "suspended", 
+								e._resumeAfterSuspend && (delete e._resumeAfterSuspend, e._autoResume())
+                                })))
+                            }), 3e4), e
+                        }
+                    },
+                    _autoResume: function() {
+                        var e = this;
+                        if (e.ctx && void 0 !== e.ctx.resume && o.usingWebAudio) return "running" === e.state && e._suspendTimer ? (clearTimeout(e._suspendTimer), e._suspendTimer = null) : "suspended" === e.state ? (e.ctx.resume().then((function() {
+                            e.state = "running";
+                            for (var t = 0; t < e._howls.length; t++) e._howls[t]._emit("resume")
+                        })), e._suspendTimer && (clearTimeout(e._suspendTimer), e._suspendTimer = null)) : "suspending" === e.state && (e._resumeAfterSuspend = !0), e
+                    }
+                };
+                var o = new e,
+                    i = function(e) {
+                        e.src && 0 !== e.src.length && this.init(e)
+                    };
+                i.prototype = {
+                    init: function(e) {
+                        var t = this;
+                        return o.ctx || d(), 
+						t._autoplay = e.autoplay || !1, 
+						t._format = "string" != typeof e.format ? e.format : [e.format], 
+						t._html5 = e.html5 || !1, t._muted = e.mute || !1,
+						t._loop = e.loop || !1,
+						t._pool = e.pool || 5, t._preload = "boolean" != typeof e.preload || e.preload, t._rate = e.rate || 1,
+						t._sprite = e.sprite || {}, t._src = "string" != typeof e.src ? e.src : [e.src], 
+						t._volume = void 0 !== e.volume ? e.volume : 1, t._xhrWithCredentials = e.xhrWithCredentials || !1, 
+						t._duration = 0, 
+						t._state = "unloaded", 
+						t._sounds = [],
+						t._endTimers = {}, 
+						t._queue = [], 
+						t._playLock = !1, t._onend = e.onend ? [{
+                            fn: e.onend
+                        }] : [], t._onfade = e.onfade ? [{
+                            fn: e.onfade
+                        }] : [], t._onload = e.onload ? [{
+                            fn: e.onload
+                        }] : [], t._onloaderror = e.onloaderror ? [{
+                            fn: e.onloaderror
+                        }] : [], t._onplayerror = e.onplayerror ? [{
+                            fn: e.onplayerror
+                        }] : [], t._onloadprogress = e.onloadprogress ? [{
+                            fn: e.onloadprogress
+                        }] : [], t._onpause = e.onpause ? [{
+                            fn: e.onpause
+                        }] : [], t._onplay = e.onplay ? [{
+                            fn: e.onplay
+                        }] : [], t._onstop = e.onstop ? [{
+                            fn: e.onstop
+                        }] : [], t._onmute = e.onmute ? [{
+                            fn: e.onmute
+                        }] : [], t._onvolume = e.onvolume ? [{
+                            fn: e.onvolume
+                        }] : [], t._onrate = e.onrate ? [{
+                            fn: e.onrate
+                        }] : [], t._onseek = e.onseek ? [{
+                            fn: e.onseek
+                        }] : [], t._onunlock = e.onunlock ? [{
+                            fn: e.onunlock
+                        }] : [], t._onresume = [], t._webAudio = o.usingWebAudio && !t._html5, void 0 !== o.ctx && o.ctx && o.autoUnlock && o._unlockAudio(), o._howls.push(t), t._autoplay && t._queue.push({
+                            event: "play",
+                            action: function() {
+                                t.play()
+                            }
+                        }), t._preload && t.load(), t
+                    },
+                    load: function() {
+                        var e = this,
+                            t = null;
+                        if (!o.noAudio) {
+                            "string" == typeof e._src && (e._src = [e._src]);
+                            for (var i = 0; i < e._src.length; i++) {
+                                var n, s;
+                                if (e._format && e._format[i]) n = e._format[i];
+                                else {
+                                    if ("string" != typeof(s = e._src[i])) {
+                                        e._emit("loaderror", null, "Non-string found in selected audio sources - ignoring.");
+                                        continue
+                                    }(n = /^data:audio\/([^;,]+);/i.exec(s)) || (n = /\.([^.]+)$/.exec(s.split("?", 1)[0])), n && (n = n[1].toLowerCase())
+                                }
+                                if (n && o.codecs(n)) {
+                                    t = e._src[i];
+                                    break
+                                }
+                            }
+                            return t ? (e._src = t, e._state = "loading", "https:" === window.location.protocol && "http:" === t.slice(0, 5) && (e._html5 = !0, e._webAudio = !1), new a(e), e._webAudio && _(e), e) : void e._emit("loaderror", null, "No codec support for selected audio sources.")
+                        }
+                        e._emit("loaderror", null, "No audio support.")
+                    },
+                    play: function(e, t) {
+                        var i = this,
+                            a = null;
+                        if ("number" == typeof e) a = e, e = null;
+                        else {
+                            if ("string" == typeof e && "loaded" === i._state && !i._sprite[e]) return null;
+                            if (void 0 === e && (e = "__default", !i._playLock)) {
+                                for (var n = 0, _ = 0; _ < i._sounds.length; _++) i._sounds[_]._paused && !i._sounds[_]._ended && (n++, a = i._sounds[_]._id);
+                                1 === n ? e = null : a = null
+                            }
+                        }
+                        var s = a ? i._soundById(a) : i._inactiveSound();
+                        if (!s) return null;
+                        if (a && !e && (e = s._sprite || "__default"), "loaded" !== i._state) {
+                            s._sprite = e, s._ended = !1;
+                            var r = s._id;
+                            return i._queue.push({
+                                event: "play",
+                                action: function() {
+                                    i.play(r)
+                                }
+                            }), r
+                        }
+                        if (a && !s._paused) return t || i._loadQueue("play"), s._id;
+                        i._webAudio && o._autoResume();
+                        var l = Math.max(0, s._seek > 0 ? s._seek : i._sprite[e][0] / 1e3),
+                            d = Math.max(0, (i._sprite[e][0] + i._sprite[e][1]) / 1e3 - l),
+                            c = 1e3 * d / Math.abs(s._rate),
+                            h = i._sprite[e][0] / 1e3,
+                            u = (i._sprite[e][0] + i._sprite[e][1]) / 1e3,
+                            p = !(!s._loop && !i._sprite[e][2]);
+                        s._sprite = e, s._ended = !1;
+                        var m = function() {
+                            s._paused = !1, s._seek = l, s._start = h, s._stop = u, s._loop = p
+                        };
+                        if (!(l >= u)) {
+                            var y = s._node;
+                            if (i._webAudio) {
+                                var f = function() {
+                                    i._playLock = !1, m(), i._refreshBuffer(s);
+                                    var e = s._muted || i._muted ? 0 : s._volume;
+                                    y.gain.setValueAtTime(e, o.ctx.currentTime), s._playStart = o.ctx.currentTime, void 0 === y.bufferSource.start ? s._loop ? y.bufferSource.noteGrainOn(0, l, 86400) : y.bufferSource.noteGrainOn(0, l, d) : s._loop ? y.bufferSource.start(0, l, 86400) : y.bufferSource.start(0, l, d), c !== 1 / 0 && (i._endTimers[s._id] = setTimeout(i._ended.bind(i, s), c)), t || setTimeout((function() {
+                                        i._emit("play", s._id), i._loadQueue()
+                                    }), 0)
+                                };
+                                "running" === o.state ? f() : (i._playLock = !0, 
+								i.once("resume", f), i._clearTimer(s._id))
+                            } else {
+                                var g = function() {
+                                    y.currentTime = l, y.muted = s._muted || i._muted || o._muted || y.muted, y.volume = s._volume * o.volume(), y.playbackRate = s._rate;
+                                    try {
+                                        var a = y.play();
+                                        if (a && "undefined" != typeof Promise && (a instanceof Promise || "function" == typeof a.then) ? (i._playLock = !0, m(), a.then((function() {
+                                                i._playLock = !1, y._unlocked = !0, t || (i._emit("play", s._id), i._loadQueue())
+                                            })).catch((function() {
+                                                i._playLock = !1, i._emit("playerror", 
+												s._id, "Playback was unable to start. This is most commonly an issue on mobile devices and Chrome where playback was not within a user interaction."),
+												s._ended = !0, s._paused = !0
+                                            }))) : t || (i._playLock = !1, m(), 
+											i._emit("play", s._id), 
+											i._loadQueue()), 
+											y.playbackRate = s._rate, y.paused) return void i._emit("playerror", s._id, 
+											"Playback was unable to start. This is most commonly an issue on mobile devices and Chrome where playback was not within a user interaction.");
+                                        "__default" !== e || s._loop ? i._endTimers[s._id] = setTimeout(i._ended.bind(i, s), c) : (i._endTimers[s._id] = function() {
+                                            i._ended(s), y.removeEventListener("ended", i._endTimers[s._id], !1)
+                                        }, y.addEventListener("ended", i._endTimers[s._id], !1))
+                                    } catch (e) {
+                                        i._emit("playerror", s._id, e)
+                                    }
+                                };
+                                "data:audio/wav;base64,UklGRigAAABXQVZFZm10IBIAAAABAAEARKwAAIhYAQACABAAAABkYXRhAgAAAAEA" === y.src && (y.src = i._src, y.load());
+                                var v = window && window.ejecta || !y.readyState && o._navigator.isCocoonJS;
+                                if (y.readyState >= 3 || v) g();
+                                else {
+                                    i._playLock = !0;
+                                    var x = function() {
+                                        g(), y.removeEventListener(o._canPlayEvent, x, !1)
+                                    };
+									
+                                    y.addEventListener(o._canPlayEvent, x, !1), i._clearTimer(s._id)
+                                }
+                            }
+                            return s._id
+                        }
+                        i._ended(s)
+                    },
+                    pause: function(e) {
+                        var t = this;
+                        if ("loaded" !== t._state || t._playLock) return t._queue.push({
+                            event: "pause",
+                            action: function() {
+                                t.pause(e)
+                            }
+                        }), t;
+                        for (var o = t._getSoundIds(e), i = 0; i < o.length; i++) {
+                            t._clearTimer(o[i]);
+                            var a = t._soundById(o[i]);
+                            if (a && !a._paused && (a._seek = t.seek(o[i]), a._rateSeek = 0, a._paused = !0, t._stopFade(o[i]), a._node))
+                                if (t._webAudio) {
+                                    if (!a._node.bufferSource) continue;
+                                    void 0 === a._node.bufferSource.stop ? a._node.bufferSource.noteOff(0) : a._node.bufferSource.stop(0), t._cleanBuffer(a._node)
+                                } else isNaN(a._node.duration) && a._node.duration !== 1 / 0 || a._node.pause();
+                            arguments[1] || t._emit("pause", a ? a._id : null)
+                        }
+                        return t
+                    },
+                    stop: function(e, t) {
+                        var o = this;
+                        if ("loaded" !== o._state || o._playLock) return o._queue.push({
+                            event: "stop",
+                            action: function() {
+                                o.stop(e)
+                            }
+                        }), o;
+                        for (var i = o._getSoundIds(e), a = 0; a < i.length; a++) {
+                            o._clearTimer(i[a]);
+                            var n = o._soundById(i[a]);
+                            n && (n._seek = n._start || 0, 
+							
+							n._rateSeek = 0, 
+							n._paused = !0, n._ended = !0, 
+							o._stopFade(i[a]), n._node && (o._webAudio ? n._node.bufferSource && (void 0 === n._node.bufferSource.stop ? n._node.bufferSource.noteOff(0) : n._node.bufferSource.stop(0), 
+							o._cleanBuffer(n._node)) : isNaN(n._node.duration) && n._node.duration !== 1 / 0 || (n._node.currentTime = n._start || 0, 
+							n._node.pause(), n._node.duration === 1 / 0 && o._clearSound(n._node))), t || o._emit("stop", n._id))
+                        }
+                        return o
+                    },
+                    mute: function(e, t) {
+                        var i = this;
+                        if ("loaded" !== i._state || i._playLock) return i._queue.push({
+                            event: "mute",
+                            action: function() {
+                                i.mute(e, t)
+                            }
+                        }), i;
+                        if (void 0 === t) {
+                            if ("boolean" != typeof e) return i._muted;
+                            i._muted = e
+                        }
+                        for (var a = i._getSoundIds(t), n = 0; n < a.length; n++) {
+                            var _ = i._soundById(a[n]);
+                            _ && (_._muted = e, _._interval && i._stopFade(_._id), i._webAudio && _._node ? _._node.gain.setValueAtTime(e ? 0 : _._volume, o.ctx.currentTime) : _._node && (_._node.muted = !!o._muted || e), i._emit("mute", _._id))
+                        }
+                        return i
+                    },
+                    volume: function() {
+                        var e, t, i, a = this,
+                            n = arguments;
+                        if (0 === n.length) return a._volume;
+                        if (1 === n.length || 2 === n.length && void 0 === n[1] ? a._getSoundIds().indexOf(n[0]) >= 0 ? t = parseInt(n[0], 10) : e = parseFloat(n[0]) : n.length >= 2 && (e = parseFloat(n[0]), t = parseInt(n[1], 10)), !(void 0 !== e && e >= 0 && e <= 1)) return (i = t ? a._soundById(t) : a._sounds[0]) ? i._volume : 0;
+                        if ("loaded" !== a._state || a._playLock) return a._queue.push({
+                            event: "volume",
+                            action: function() {
+                                a.volume.apply(a, n)
+                            }
+                        }), a;
+                        void 0 === t && (a._volume = e), t = a._getSoundIds(t);
+                        for (var _ = 0; _ < t.length; _++)(i = a._soundById(t[_])) && (i._volume = e, n[2] || a._stopFade(t[_]), a._webAudio && i._node && !i._muted ? i._node.gain.setValueAtTime(e, o.ctx.currentTime) : i._node && !i._muted && (i._node.volume = e * o.volume()), a._emit("volume", i._id));
+                        return a
+                    },
+                    fade: function(e, t, i, a) {
+                        var n = this;
+                        if ("loaded" !== n._state || n._playLock) return n._queue.push({
+                            event: "fade",
+                            action: function() {
+                                n.fade(e, t, i, a)
+                            }
+                        }), n;
+                        e = parseFloat(e), t = parseFloat(t), i = parseFloat(i), n.volume(e, a);
+                        for (var _ = n._getSoundIds(a), s = 0; s < _.length; s++) {
+                            var r = n._soundById(_[s]);
+                            if (r) {
+                                if (a || n._stopFade(_[s]), n._webAudio && !r._muted) {
+                                    var l = o.ctx.currentTime,
+                                        d = l + i / 1e3;
+                                    r._volume = e, r._node.gain.setValueAtTime(e, l), r._node.gain.linearRampToValueAtTime(t, d)
+                                }
+                                n._startFadeInterval(r, e, t, i, _[s], void 0 === a)
+                            }
+                        }
+                        return n
+                    },
+                    _startFadeInterval: function(e, t, o, i, a, n) {
+                        var _ = this,
+                            s = t,
+                            r = o - t,
+                            l = Math.abs(r / .01),
+                            d = Math.max(4, l > 0 ? i / l : i),
+                            c = performance.now();
+                        e._fadeTo = o, e._interval = setInterval((function() {
+                            var a = (performance.now() - c) / i;
+                            c = performance.now(), s += r * a, s = Math.max(0, s), s = Math.min(1, s), s = Math.round(100 * s) / 100, _._webAudio ? e._volume = s : _.volume(s, e._id, !0), n && (_._volume = s), 
+							(o < t && s <= o || o > t && s >= o) && (clearInterval(e._interval), 
+							e._interval = null, e._fadeTo = null, _.volume(o, e._id), _._emit("fade", e._id))
+                        }), d)
+                    },
+                    _stopFade: function(e) {
+                        var t = this,
+                            i = t._soundById(e);
+                        return i && i._interval && (t._webAudio && i._node.gain.cancelScheduledValues(o.ctx.currentTime), clearInterval(i._interval), i._interval = null, t.volume(i._fadeTo, e), i._fadeTo = null, t._emit("fade", e)), t
+                    },
+                    loop: function() {
+                        var e, t, o, i = this,
+                            a = arguments;
+                        if (0 === a.length) return i._loop;
+                        if (1 === a.length) {
+                            if ("boolean" != typeof a[0]) return !!(o = i._soundById(parseInt(a[0], 10))) && o._loop;
+                            e = a[0], i._loop = e
+                        } else 2 === a.length && (e = a[0], t = parseInt(a[1], 10));
+                        for (var n = i._getSoundIds(t), _ = 0; _ < n.length; _++)(o = i._soundById(n[_])) && (o._loop = e, i._webAudio && o._node && o._node.bufferSource && (o._node.bufferSource.loop = e, e && (o._node.bufferSource.loopStart = o._start || 0, o._node.bufferSource.loopEnd = o._stop)));
+                        return i
+                    },
+                    rate: function() {
+                        var e, t, i, a = this,
+                            n = arguments;
+                        if (0 === n.length) t = a._sounds[0]._id;
+                        else if (1 === n.length) {
+                            var _ = a._getSoundIds(),
+                                s = _.indexOf(n[0]);
+                            s >= 0 ? t = parseInt(n[0], 10) : e = parseFloat(n[0])
+                        } else 2 === n.length && (e = parseFloat(n[0]), t = parseInt(n[1], 10));
+                        if ("number" != typeof e) return (i = a._soundById(t)) ? i._rate : a._rate;
+                        if ("loaded" !== a._state || a._playLock) return a._queue.push({
+                            event: "rate",
+                            action: function() {
+                                a.rate.apply(a, n)
+                            }
+                        }), a;
+                        void 0 === t && (a._rate = e), t = a._getSoundIds(t);
+                        for (var r = 0; r < t.length; r++)
+                            if (i = a._soundById(t[r])) {
+                                a.playing(t[r]) && (i._rateSeek = a.seek(t[r]), i._playStart = a._webAudio ? o.ctx.currentTime : i._playStart), i._rate = e, a._webAudio && i._node && i._node.bufferSource ? i._node.bufferSource.playbackRate.setValueAtTime(e, o.ctx.currentTime) : i._node && (i._node.playbackRate = e);
+                                var l = a.seek(t[r]),
+                                    d = (a._sprite[i._sprite][0] + a._sprite[i._sprite][1]) / 1e3 - l,
+                                    c = 1e3 * d / Math.abs(i._rate);
+                                !a._endTimers[t[r]] && i._paused || (a._clearTimer(t[r]), a._endTimers[t[r]] = setTimeout(a._ended.bind(a, i), c)), a._emit("rate", i._id)
+                            } return a
+                    },
+                    seek: function() {
+                        var e, t, i = this,
+                            a = arguments;
+                        if (0 === a.length) t = i._sounds[0]._id;
+                        else if (1 === a.length) {
+                            var n = i._getSoundIds(),
+                                _ = n.indexOf(a[0]);
+                            _ >= 0 ? t = parseInt(a[0], 10) : i._sounds.length && (t = i._sounds[0]._id, e = parseFloat(a[0]))
+                        } else 2 === a.length && (e = parseFloat(a[0]), t = parseInt(a[1], 10));
+                        if (void 0 === t) return i;
+                        if ("loaded" !== i._state || i._playLock) return i._queue.push({
+                            event: "seek",
+                            action: function() {
+                                i.seek.apply(i, a)
+                            }
+                        }), i;
+                        var s = i._soundById(t);
+                        if (s) {
+                            if (!("number" == typeof e && e >= 0)) {
+                                if (i._webAudio) {
+                                    var r = i.playing(t) ? o.ctx.currentTime - s._playStart : 0,
+                                        l = s._rateSeek ? s._rateSeek - s._seek : 0;
+                                    return s._seek + (l + r * Math.abs(s._rate))
+                                }
+                                return s._node.currentTime
+                            }
+                            var d = i.playing(t);
+                            d && i.pause(t, !0), s._seek = e, s._ended = !1, i._clearTimer(t), i._webAudio || !s._node || isNaN(s._node.duration) || (s._node.currentTime = e);
+                            var c = function() {
+                                i._emit("seek", t), d && i.play(t, !0)
+                            };
+                            if (d && !i._webAudio) {
+                                var h = function() {
+                                    i._playLock ? setTimeout(h, 0) : c()
+                                };
+                                setTimeout(h, 0)
+                            } else c()
+                        }
+                        return i
+                    },
+                    playing: function(e) {
+                        var t = this;
+                        if ("number" == typeof e) {
+                            var o = t._soundById(e);
+                            return !!o && !o._paused
+                        }
+                        for (var i = 0; i < t._sounds.length; i++)
+                            if (!t._sounds[i]._paused) return !0;
+                        return !1
+                    },
+                    duration: function(e) {
+                        var t = this,
+                            o = t._duration,
+                            i = t._soundById(e);
+                        return i && (o = t._sprite[i._sprite][1] / 1e3), o
+                    },
+                    state: function() {
+                        return this._state
+                    },
+                    unload: function() {
+                        for (var e = this, t = e._sounds, 
+						i = 0; i < t.length; i++) t[i]._paused || e.stop(t[i]._id), 
+						e._webAudio || (e._clearSound(t[i]._node), 
+						t[i]._node.removeEventListener("error", t[i]._errorFn, !1), 
+						t[i]._node.removeEventListener(o._canPlayEvent, t[i]._loadFn, !1), 
+						o._releaseHtml5Audio(t[i]._node)), delete t[i]._node, e._clearTimer(t[i]._id);
+                        var a = o._howls.indexOf(e);
+                        a >= 0 && o._howls.splice(a, 1);
+                        var _ = !0;
+                        for (i = 0; i < o._howls.length; i++)
+                            if (o._howls[i]._src === e._src || e._src.indexOf(o._howls[i]._src) >= 0) {
+                                _ = !1;
+                                break
+                            } return n && _ && delete n[e._src], o.noAudio = !1, e._state = "unloaded", e._sounds = [], e = null, null
+                    },
+                    on: function(e, t, o, i) {
+                        var a = this["_on" + e];
+                        return "function" == typeof t && a.push(i ? {
+                            id: o,
+                            fn: t,
+                            once: i
+                        } : {
+                            id: o,
+                            fn: t
+                        }), this
+                    },
+                    off: function(e, t, o) {
+                        var i = this,
+                            a = i["_on" + e],
+                            n = 0;
+                        if ("number" == typeof t && (o = t, t = null), t || o)
+                            for (n = 0; n < a.length; n++) {
+                                var _ = o === a[n].id;
+                                if (t === a[n].fn && _ || !t && _) {
+                                    a.splice(n, 1);
+                                    break
+                                }
+                            } else if (e) i["_on" + e] = [];
+                            else {
+                                var s = Object.keys(i);
+                                for (n = 0; n < s.length; n++) 0 === s[n].indexOf("_on") && Array.isArray(i[s[n]]) && (i[s[n]] = [])
+                            } return i
+                    },
+                    once: function(e, t, o) {
+                        return this.on(e, t, o, 1), this
+                    },
+                    _emit: function(e, t, o) {
+                        for (var i = this, a = i["_on" + e], n = a.length - 1; n >= 0; n--) a[n].id && a[n].id !== t && "load" !== e || (setTimeout(function(e) {
+                            e.call(this, t, o)
+                        }.bind(i, a[n].fn), 0), a[n].once && i.off(e, a[n].fn, a[n].id));
+                        return i._loadQueue(e), i
+                    },
+                    _loadQueue: function(e) {
+                        var t = this;
+                        if (t._queue.length > 0) {
+                            var o = t._queue[0];
+                            o.event === e && (t._queue.shift(), t._loadQueue()), e || o.action()
+                        }
+                        return t
+                    },
+                    _ended: function(e) {
+                        var t = this,
+                            i = e._sprite;
+                        if (!t._webAudio && e._node && !e._node.paused && !e._node.ended && e._node.currentTime < e._stop) return setTimeout(t._ended.bind(t, e), 100), t;
+                        var a = !(!e._loop && !t._sprite[i][2]);
+                        if (t._emit("end", e._id), !t._webAudio && a && t.stop(e._id, !0).play(e._id), t._webAudio && a) {
+                            t._emit("play", e._id), e._seek = e._start || 0, e._rateSeek = 0, e._playStart = o.ctx.currentTime;
+                            var n = 1e3 * (e._stop - e._start) / Math.abs(e._rate);
+                            t._endTimers[e._id] = setTimeout(t._ended.bind(t, e), n)
+                        }
+                        return t._webAudio && !a && (e._paused = !0, e._ended = !0, e._seek = e._start || 0, e._rateSeek = 0, t._clearTimer(e._id), t._cleanBuffer(e._node), o._autoSuspend()), t._webAudio || a || t.stop(e._id, !0), t
+                    },
+                    _clearTimer: function(e) {
+                        var t = this;
+                        if (t._endTimers[e]) {
+                            if ("function" != typeof t._endTimers[e]) clearTimeout(t._endTimers[e]);
+                            else {
+                                var o = t._soundById(e);
+                                o && o._node && o._node.removeEventListener("ended", t._endTimers[e], !1)
+                            }
+                            delete t._endTimers[e]
+                        }
+                        return t
+                    },
+                    _soundById: function(e) {
+                        for (var t = this, o = 0; o < t._sounds.length; o++)
+                            if (e === t._sounds[o]._id) return t._sounds[o];
+                        return null
+                    },
+                    _inactiveSound: function() {
+                        var e = this;
+                        e._drain();
+                        for (var t = 0; t < e._sounds.length; t++)
+                            if (e._sounds[t]._ended) return e._sounds[t].reset();
+                        return new a(e)
+                    },
+                    _drain: function() {
+                        var e = this,
+                            t = e._pool,
+                            o = 0,
+                            i = 0;
+                        if (!(e._sounds.length < t)) {
+                            for (i = 0; i < e._sounds.length; i++) e._sounds[i]._ended && o++;
+                            for (i = e._sounds.length - 1; i >= 0; i--) {
+                                if (o <= t) return;
+                                e._sounds[i]._ended && (e._webAudio && e._sounds[i]._node && e._sounds[i]._node.disconnect(0), e._sounds.splice(i, 1), o--)
+                            }
+                        }
+                    },
+                    _getSoundIds: function(e) {
+                        if (void 0 === e) {
+                            for (var t = [], o = 0; o < this._sounds.length; o++) t.push(this._sounds[o]._id);
+                            return t
+                        }
+                        return [e]
+                    },
+                    _refreshBuffer: function(e) {
+                        return e._node.bufferSource = o.ctx.createBufferSource(), e._node.bufferSource.buffer = n[this._src], e._panner ? e._node.bufferSource.connect(e._panner) : e._node.bufferSource.connect(e._node), e._node.bufferSource.loop = e._loop, e._loop && (e._node.bufferSource.loopStart = e._start || 0, e._node.bufferSource.loopEnd = e._stop || 0), e._node.bufferSource.playbackRate.setValueAtTime(e._rate, o.ctx.currentTime), this
+                    },
+                    _cleanBuffer: function(e) {
+                        var t = o._navigator && o._navigator.vendor.indexOf("Apple") >= 0;
+                        if (o._scratchBuffer && e.bufferSource && (e.bufferSource.onended = null, e.bufferSource.disconnect(0), t)) try {
+                            e.bufferSource.buffer = o._scratchBuffer
+                        } catch (e) {}
+                        return e.bufferSource = null, this
+                    },
+                    _clearSound: function(e) {
+                        /MSIE |Trident\//.test(o._navigator && o._navigator.userAgent) || (e.src = "data:audio/wav;base64,UklGRigAAABXQVZFZm10IBIAAAABAAEARKwAAIhYAQACABAAAABkYXRhAgAAAAEA")
+                    }
+                };
+                var a = function(e) {
+                    this._parent = e, this.init()
+                };
+                a.prototype = {
+                    init: function() {
+                        var e = this,
+                            t = e._parent;
+                        return e._muted = t._muted, e._loop = t._loop, e._volume = t._volume, e._rate = t._rate, e._seek = 0, e._paused = !0, e._ended = !0, e._sprite = "__default", e._id = ++o._counter, t._sounds.push(e), e.create(), e
+                    },
+                    create: function() {
+                        var e = this,
+                            t = e._parent,
+                            i = o._muted || e._muted || e._parent._muted ? 0 : e._volume;
+                        return t._webAudio ? (e._node = void 0 === o.ctx.createGain ? o.ctx.createGainNode() : o.ctx.createGain(), e._node.gain.setValueAtTime(i, o.ctx.currentTime), e._node.paused = !0, e._node.connect(o.masterGain)) : (e._node = o._obtainHtml5Audio(), e._errorFn = e._errorListener.bind(e), 
+						e._node.addEventListener("error", e._errorFn, !1), 
+						e._loadFn = e._loadListener.bind(e), e._node.addEventListener(o._canPlayEvent, e._loadFn, !1), e._node.src = t._src, e._node.preload = "auto", e._node.volume = i * o.volume(), e._node.load()), e
+                    },
+                    reset: function() {
+                        var e = this,
+                            t = e._parent;
+                        return e._muted = t._muted, e._loop = t._loop, e._volume = t._volume, e._rate = t._rate, e._seek = 0, e._rateSeek = 0, e._paused = !0, e._ended = !0, e._sprite = "__default", e._id = ++o._counter, e
+                    },
+                    _errorListener: function() {
+                        var e = this;
+                        e._parent._emit("loaderror", e._id, e._node.error ? e._node.error.code : 0), e._node.removeEventListener("error", e._errorFn, !1)
+                    },
+                    _loadListener: function() {
+                        var e = this,
+                            t = e._parent;
+                        t._duration = Math.ceil(10 * e._node.duration) / 10, 0 === Object.keys(t._sprite).length && (t._sprite = {
+                            __default: [0, 1e3 * t._duration]
+                        }), "loaded" !== t._state && (t._state = "loaded", t._emit("load"), t._loadQueue()), e._node.removeEventListener(o._canPlayEvent, e._loadFn, !1)
+                    }
+                };
+                var n = {},
+                    _ = function(e) {
+                        var t = e._src;
+                        if (n[t]) return e._duration = n[t].duration, void l(e);
+                        if (/^data:[^;]+;base64,/.test(t)) {
+                            for (var o = atob(t.split(",")[1]), i = new Uint8Array(o.length), a = 0; a < o.length; ++a) i[a] = o.charCodeAt(a);
+                            r(i.buffer, e)
+                        } else {
+                            var _ = new XMLHttpRequest;
+                            _.open("GET", t, !0), _.withCredentials = e._xhrWithCredentials, _.responseType = "arraybuffer", _.onload = function() {
+                                var t = (_.status + "")[0];
+                                "0" === t || "2" === t || "3" === t ? r(_.response, e) : e._emit("loaderror", null, "Failed loading audio file with status: " + _.status + ".")
+                            }, _.onerror = function() {
+                                e._webAudio && (e._html5 = !0, e._webAudio = !1, e._sounds = [], delete n[t], e.load())
+                            }, s(_), _.onprogress = function(t) {
+                                e._emit("loadprogress", t)
+                            }
+                        }
+                    },
+                    s = function(e) {
+                        try {
+                            e.send()
+                        } catch (t) {
+                            e.onerror()
+                        }
+                    },
+                    r = function(e, t) {
+                        var i = function() {
+                                t._emit("loaderror", null, "Decoding audio data failed.")
+                            },
+                            a = function(e) {
+                                e && t._sounds.length > 0 ? (n[t._src] = e, l(t, e)) : i()
+                            };
+                        "undefined" != typeof Promise && 1 === o.ctx.decodeAudioData.length ? o.ctx.decodeAudioData(e).then(a).catch(i) : o.ctx.decodeAudioData(e, a, i)
+                    },
+                    l = function(e, t) {
+                        t && !e._duration && (e._duration = t.duration), 0 === Object.keys(e._sprite).length && (e._sprite = {
+                            __default: [0, 1e3 * e._duration]
+                        }), "loaded" !== e._state && (e._state = "loaded", e._emit("load"), e._loadQueue())
+                    },
+                    d = function() {
+                        if (o.usingWebAudio) {
+                            try {
+                                "undefined" != typeof AudioContext ? o.ctx = new AudioContext : "undefined" != typeof webkitAudioContext ? o.ctx = new webkitAudioContext : o.usingWebAudio = !1
+                            } catch (e) {
+                                o.usingWebAudio = !1
+                            }
+                            o.ctx || (o.usingWebAudio = !1);
+                            var e = /iP(hone|od|ad)/.test(o._navigator && o._navigator.platform),
+                                t = o._navigator && o._navigator.appVersion.match(/OS (\d+)_(\d+)_?(\d+)?/),
+                                i = t ? parseInt(t[1], 10) : null;
+                            if (e && i && i < 9) {
+                                var a = /safari/.test(o._navigator && o._navigator.userAgent.toLowerCase());
+                                (o._navigator && o._navigator.standalone && !a || o._navigator && !o._navigator.standalone && !a) && (o.usingWebAudio = !1)
+                            }
+                            o.usingWebAudio && (o.masterGain = void 0 === o.ctx.createGain ? o.ctx.createGainNode() : o.ctx.createGain(), o.masterGain.gain.setValueAtTime(o._muted ? 0 : 1, o.ctx.currentTime), o.masterGain.connect(o.ctx.destination)), o._setup()
+                        }
+                    };
+                t.Howler = o, t.Howl = i, "undefined" != typeof window ? (window.HowlerGlobal = e, window.Howler = o, window.Howl = i, window.Sound = a) : void 0 !== x && (x.HowlerGlobal = e, x.Howler = o, x.Howl = i, x.Sound = a)
+            }()
+        })),
+        b = w.Howler,
+        k = w.Howl;
+    let F = !1;
+    b.mobileAutoEnable = !0;
+    const M = new k({
+            src: ["ses/fx.ogg?22", "ses/fx.m4a", "ses/fx.mp3?22", "ses/fx.ac3"],
+            sprite: {
+                achievement: [0, 576.0090702947846],
+                click: [2e3, 130.612244897959],
+                eat: [4e3, 192.01814058956933],
+                game: [6e3, 104097.95918367346, !0],
+                lose: [112e3, 5184.013605442175],
+                main: [119e3, 25626.1224489796, !0],
+                opengacha: [146e3, 2688.0045351473996],
+                pop: [15e4, 78.36734693876224]
+            }
+        }),
+        P = () => {
+            M.stop()
+        };
+    let C, T;
+    M.once("load", (function() {
+        F = !0, m.__playingAd || E()
+    })), M.on("loadprogress", (function(e) {
+        if (!C) {
+            (C = document.createElement("div")).style = "\n            position:absolute;\n            top:2%;\n            left:50%;\n            transform:translate(-50%);\n            opacity: .8;\n        ";
+            const e = document.createElement("div");
+            e.style = "\n            width:".concat(200, "px;\n            height:10px;\n            background:white;\n        "), C.appendChild(e), (T = document.createElement("div")).style = "\n            position:absolute;\n            width:".concat(100, "px;\n            height:10px;\n            background:black;\n            top:0;\n            left:0;\n        "), e.appendChild(T);
+            const t = document.createElement("span");
+            t.innerText = "loading audio", t.style = "\n          position:absolute;\n          left:50%;\n          top:0;\n          transform: translate(-50%);\n          font-size: 10px;\n          color:#aba9a9;\n          line-height:8px;\n        ", C.appendChild(t), document.body.appendChild(C)
+        }
+        const t = e.loaded / e.total;
+        T.style.width = "".concat(Math.round(200 * t), "px"), 1 === t && C.parentNode.removeChild(C)
+    }));
+    const A = (e, t, o = 0) => {
+            if (!m.__loadedData.audio) return;
+            if (!F) return;
+            "game" != e && "main" != e || M.stop();
+            const i = M.play(e);
+            M.volume(t, i);
+            const a = 1 + (-o + 2 * o * Math.random());
+            M.rate(a, i)
+        },
+        E = () => {
+           // m.__joinedGame ? A("game", m.__songVolume) : A("main", m.__songVolume)
+        };
+    let D, H, I, z, B, L, R, O, G, q, W, j, V, N = !1,
+        K = !1;
+    const U = () => {
+            D.style.display = "none"
+        },
+        Q = () => {
+            z.style.animation = "slowshake 2s linear infinite", B.classList.remove("open"), L.classList.remove("open-i"), -1 == (G = Y()) && (G = 33, V.style.visibility = "visible", V.innerText = "all hats collected");
+            const e = R[G];
+            let t = 1;
+            t = e.__size.x > e.__size.y ? 64 / e.__size.x : 64 / e.__size.y, H.style.background = "url(".concat(window._xhrS, ") ").concat(-Math.round(e.__position.x * t), "px ").concat(-Math.round(e.__position.y * t), "px"), H.style.width = "".concat(Math.round(e.__size.x * t), "px"), H.style.height = "".concat(Math.round(e.__size.y * t), "px"), H.style.backgroundSize = "".concat(Math.round(1024 * t), "px ").concat(Math.round(512 * t), "px"), q = Math.floor(5 * Math.random()) + 1, 1 == m.__loadedData.gachaRolls && 0 == m.__loadedData.achievementProgress[4] && 0 == m.__loadedData.achievementProgress[5] && (q = 5), I.innerText = "+".concat(q), D.style.display = "none", j.style.visibility = "hidden", z.style.pointerEvents = "all"
+        },
+        J = () => {
+            const e = document.createElement("div");
+            e.classList.add("rl", "bu");
+            const t = document.createElementNS("http://www.w3.org/2000/svg", "svg");
+            t.innerHTML = '<circle cx="21" cy="21" r="20" stroke="#382C2A" stroke-width="2" fill="#FFF0E5"></circle', 
+			e.appendChild(t),
+			t.style.width = t.style.height = "42px";
+            const o = document.createElement("div");
+            o.style.background = "url(resimler/bl_u.svg", o.style.backgroundRepeat = "no-repeat", e.appendChild(o), o.style.width = "".concat(20, "px"), o.style.height = "".concat(20, "px"), o.style.position = "absolute", o.style.top = "12px", o.style.left = "11px";
+            const i = document.createElement("div");
+            return i.style.background = "url(resimler/bl_d.svg", i.style.backgroundRepeat = "no-repeat", e.appendChild(i), i.style.width = "".concat(20, "px"), i.style.height = "".concat(20, "px"), i.style.position = "absolute", i.style.top = "21px", i.style.left = "11px", e
+        },
+        Y = () => {
+            let e = [];
+            for (let t = 0; t < m.__nonEventHats; t++) m.__loadedData.hats[t] < m.__hatUnlockAmmount[t] && e.push(t);
+            1 == m.__loadedData.gachaRolls && 0 == m.__loadedData.achievementProgress[4] && 0 == m.__loadedData.achievementProgress[5] && (e = [0, 1, 2]);
+            let t = Math.floor(Math.random() * e.length);
+            return V.style.visibility = "hidden", 
+			window._eV && (!m.__loadedData.hats[window._eV.h] || m.__loadedData.hats[window._eV.h] < m.__hatUnlockAmmount[window._eV.h]) && Math.random() < .5 ? (V.style.visibility = "visible", window._eV.h) : 0 == e.length ? -1 : e[t]
+        },
+        X = document.querySelector("#st"),
+        $ = document.querySelector("#stb"),
+        Z = X.querySelector(".tgl-cb");
+    let ee;
+    const te = () => {
+        X.classList.add("cl")
+    };
+    let oe = [];
+    const ie = (e, t) => {
+            if (!window.__adsBlocked) {
+               console.log("aaadd");
+			   
+			   
+			   }
+        },
+        ae = e => !!h || ("preroll" == e && window.innerHeight >= 600 && window.innerWidth >= 700 || ("start" == e && window.innerHeight >= 540 && window.innerWidth >= 815 || "end" == e && window.innerHeight >= 100 && window.innerWidth >= 700)),
+        ne = () => {
+            for (let e = 0; e < oe.length; e++) {
+                let t = oe[e].adHolder;
+                t && console.log("ad destro");
+            }
+            oe = []
+        };
+    let _e = 0;
+    const se = function(e, t, o, i, a, n) {
+            _e++;
+            var _ = window.requestAnimationFrame || function(e) {
+                    window.setTimeout(e, 1e3 / 60)
+                },
+                s = !1,
+                r = t - e;
+            i(e);
+            var l = window.performance && window.performance.now ? window.performance.now() : +new Date;
+            return _e > 500 ? (_e--, i(t), n && n()) : _((function d(c) {
+                if (!s) {
+                    var h = (c || +new Date) - l;
+                    h >= 0 && i(a(h, e, r, o)), h >= 0 && h >= o ? (i(t), _e--, n && n()) : _(d)
+                }
+            })), {
+                cancel: function() {
+                    s = !0
+                }
+            }
+        },
+        re = function(e, t, o, i, a, n) {
+            Object.keys(t).forEach((function(_) {
+                null == t[_] && (t[_] = e[_]), "alternate" == n && (n = () => {
+                    re(e, o, t, i, a, "alternate")
+                }), "loop" == n && (n = () => {
+                    re(e, t, o, i, a, "loop")
+                });
+                se(t[_], o[_], i, t => {
+                    e[_] = t
+                }, a, n), n = void 0
+            }))
+        };
+    let le = {
+        linear: function(e, t, o, i) {
+            return o * e / i + t
+        },
+        easeInQuad: function(e, t, o, i) {
+            return o * (e /= i) * e + t
+        },
+        easeOutQuad: function(e, t, o, i) {
+            return -o * (e /= i) * (e - 2) + t
+        },
+        easeInOutQuad: function(e, t, o, i) {
+            return (e /= i / 2) < 1 ? o / 2 * e * e + t : -o / 2 * (--e * (e - 2) - 1) + t
+        },
+        easeInCubic: function(e, t, o, i) {
+            return o * (e /= i) * e * e + t
+        },
+        easeOutCubic: function(e, t, o, i) {
+            return o * ((e = e / i - 1) * e * e + 1) + t
+        },
+        easeInOutCubic: function(e, t, o, i) {
+            return (e /= i / 2) < 1 ? o / 2 * e * e * e + t : o / 2 * ((e -= 2) * e * e + 2) + t
+        },
+        easeInQuart: function(e, t, o, i) {
+            return o * (e /= i) * e * e * e + t
+        },
+        easeOutQuart: function(e, t, o, i) {
+            return -o * ((e = e / i - 1) * e * e * e - 1) + t
+        },
+        easeInOutQuart: function(e, t, o, i) {
+            return (e /= i / 2) < 1 ? o / 2 * e * e * e * e + t : -o / 2 * ((e -= 2) * e * e * e - 2) + t
+        },
+        easeInQuint: function(e, t, o, i) {
+            return o * (e /= i) * e * e * e * e + t
+        },
+        easeOutQuint: function(e, t, o, i) {
+            return o * ((e = e / i - 1) * e * e * e * e + 1) + t
+        },
+        easeInOutQuint: function(e, t, o, i) {
+            return (e /= i / 2) < 1 ? o / 2 * e * e * e * e * e + t : o / 2 * ((e -= 2) * e * e * e * e + 2) + t
+        },
+        easeInSine: function(e, t, o, i) {
+            return -o * Math.cos(e / i * (Math.PI / 2)) + o + t
+        },
+        easeOutSine: function(e, t, o, i) {
+            return o * Math.sin(e / i * (Math.PI / 2)) + t
+        },
+        easeInOutSine: function(e, t, o, i) {
+            return -o / 2 * (Math.cos(Math.PI * e / i) - 1) + t
+        },
+        easeInExpo: function(e, t, o, i) {
+            return 0 == e ? t : o * Math.pow(2, 10 * (e / i - 1)) + t
+        },
+        easeOutExpo: function(e, t, o, i) {
+            return e == i ? t + o : o * (1 - Math.pow(2, -10 * e / i)) + t
+        },
+        easeInOutExpo: function(e, t, o, i) {
+            return 0 == e ? t : e == i ? t + o : (e /= i / 2) < 1 ? o / 2 * Math.pow(2, 10 * (e - 1)) + t : o / 2 * (2 - Math.pow(2, -10 * --e)) + t
+        },
+        easeInCirc: function(e, t, o, i) {
+            return -o * (Math.sqrt(1 - (e /= i) * e) - 1) + t
+        },
+        easeOutCirc: function(e, t, o, i) {
+            return o * Math.sqrt(1 - (e = e / i - 1) * e) + t
+        },
+        easeInOutCirc: function(e, t, o, i) {
+            return (e /= i / 2) < 1 ? -o / 2 * (Math.sqrt(1 - e * e) - 1) + t : o / 2 * (Math.sqrt(1 - (e -= 2) * e) + 1) + t
+        },
+        easeInBack: function(e, t, o, i, a) {
+            return null == a && (a = 1.70158), o * (e /= i) * e * ((a + 1) * e - a) + t
+        },
+        easeOutBack: function(e, t, o, i, a) {
+            return null == a && (a = 1.70158), o * ((e = e / i - 1) * e * ((a + 1) * e + a) + 1) + t
+        },
+        easeInOutBack: function(e, t, o, i, a) {
+            return null == a && (a = 1.70158), (e /= i / 2) < 1 ? o / 2 * (e * e * ((1 + (a *= 1.525)) * e - a)) + t : o / 2 * ((e -= 2) * e * ((1 + (a *= 1.525)) * e + a) + 2) + t
+        },
+        easeInBounce: function(e, t, o, i) {
+            return o - le.easeOutBounce(i - e, 0, o, i) + t
+        },
+        easeOutBounce: function(e, t, o, i) {
+            return (e /= i) < 1 / 2.75 ? o * (7.5625 * e * e) + t : e < 2 / 2.75 ? o * (7.5625 * (e -= 1.5 / 2.75) * e + .75) + t : e < 2.5 / 2.75 ? o * (7.5625 * (e -= 2.25 / 2.75) * e + .9375) + t : o * (7.5625 * (e -= 2.625 / 2.75) * e + .984375) + t
+        },
+        easeInOutBounce: function(e, t, o, i) {
+            return e < i / 2 ? .5 * le.easeInBounce(2 * e, 0, o, i) + t : .5 * le.easeOutBounce(2 * e - i, 0, o, i) + .5 * o + t
+        }
+    };
+    var de = {
+            animate: se,
+            animateCSS: function(e, t, o, i, a, n, _, s) {
+                return se(i, a, n, (function(i) {
+                    e.style[t] = i + o
+                }), _, s)
+            },
+            animateProps: re,
+            easings: le
+        },
+        ce = de.animateProps,
+        he = de.easings;
+
+    function ue(e, t, o) {
+        return t in e ? Object.defineProperty(e, t, {
+            value: o,
+            enumerable: !0,
+            configurable: !0,
+            writable: !0
+        }) : e[t] = o, e
+    }
+
+    function pe(e, t) {
+        var o = Object.keys(e);
+        if (Object.getOwnPropertySymbols) {
+            var i = Object.getOwnPropertySymbols(e);
+            t && (i = i.filter((function(t) {
+                return Object.getOwnPropertyDescriptor(e, t).enumerable
+            }))), o.push.apply(o, i)
+        }
+        return o
+    }
+
+    function me(e) {
+        for (var t = 1; t < arguments.length; t++) {
+            var o = null != arguments[t] ? arguments[t] : {};
+            t % 2 ? pe(o, !0).forEach((function(t) {
+                ue(e, t, o[t])
+            })) : Object.getOwnPropertyDescriptors ? Object.defineProperties(e, Object.getOwnPropertyDescriptors(o)) : pe(o).forEach((function(t) {
+                Object.defineProperty(e, t, Object.getOwnPropertyDescriptor(o, t))
+            }))
+        }
+        return e
+    }
+    var ye = S((function(e) {
+        ! function(t, o) {
+            (0, eval)("this");
+            var i = 256,
+                a = 6,
+                n = "random",
+                _ = o.pow(i, a),
+                s = o.pow(2, 52),
+                r = 2 * s,
+                l = i - 1;
+
+            function d(e, l, d) {
+                var m = [],
+                    y = u(function e(t, o) {
+                        var i, a = [],
+                            n = typeof t;
+                        if (o && "object" == n)
+                            for (i in t) try {
+                                a.push(e(t[i], o - 1))
+                            } catch (e) {}
+                        return a.length ? a : "string" == n ? t : t + "\0"
+                    }((l = 1 == l ? {
+                        entropy: !0
+                    } : l || {}).entropy ? [e, p(t)] : e, 3), m),
+                    f = new c(m),
+                    g = function() {
+                        for (var e = f.g(a), t = _, o = 0; e < s;) e = (e + o) * i, t *= i, o = f.g(1);
+                        for (; e >= r;) e /= 2, t /= 2, o >>>= 1;
+                        return (e + o) / t
+                    };
+                return g.int32 = function() {
+                    return 0 | f.g(4)
+                }, g.quick = function() {
+                    return f.g(4) / 4294967296
+                }, g.double = g, u(p(f.S), t), (l.pass || d || function(e, t, i, a) {
+                    return a && (a.S && h(a, f), e.state = function() {
+                        return h(f, {})
+                    }), i ? (o[n] = e, t) : e
+                })(g, y, "global" in l ? l.global : this == o, l.state)
+            }
+
+            function c(e) {
+                var t, o = e.length,
+                    a = this,
+                    n = 0,
+                    _ = a.i = a.j = 0,
+                    s = a.S = [];
+                for (o || (e = [o++]); n < i;) s[n] = n++;
+                for (n = 0; n < i; n++) s[n] = s[_ = l & _ + e[n % o] + (t = s[n])], s[_] = t;
+                (a.g = function(e) {
+                    for (var t, o = 0, n = a.i, _ = a.j, s = a.S; e--;) t = s[n = l & n + 1], o = o * i + s[l & (s[n] = s[_ = l & _ + t]) + (s[_] = t)];
+                    return a.i = n, a.j = _, o
+                })(i)
+            }
+
+            function h(e, t) {
+                return t.i = e.i, t.j = e.j, t.S = e.S.slice(), t
+            }
+
+            function u(e, t) {
+                for (var o, i = e + "", a = 0; a < i.length;) t[l & a] = l & (o ^= 19 * t[l & a]) + i.charCodeAt(a++);
+                return p(t)
+            }
+
+            function p(e) {
+                return String.fromCharCode.apply(0, e)
+            }
+            u(o.random(), t), e.exports ? e.exports = d : o["seed" + n] = d
+        }([], Math)
+    }));
+    const fe = function(e) {
+        this.__client, 
+		this.__game = e, 
+		this.__active = !1, 
+		this.__name, 
+		this.__id = "", 
+		this.__hat = -1, 
+		this.__positionHash, 
+		this.__pos = {
+            x: 0,
+            y: 0
+        }, this.__dir = Math.PI / 180 * 90, this.__length = m.__snakeSegments, this.__thick = m.__snakeStartWidth / m.__snakeBaseWidth, this.__size = {
+            x: 16,
+            y: 16,
+            hx: 8,
+            hy: 8
+        }, this.color = "rgba(255,0,0,1.0)", 
+		this.oldState = {
+            __pos: {
+                x: 0,
+                y: 0
+            }
+        }, this.currentState = {
+            __pos: {
+                x: 0,
+                y: 0
+            }
+        }, this.__serverPos = {
+            x: 0,
+            y: 0
+        }, this.__partPositions = [], this.__inputs = [], this.__lastInput = {
+            input: {},
+            seq: 0
+        }, this.__chewTimer = 0, 
+		this.__foodsEating = [],
+		this.__eatTimer, 
+		this.__foodsEaten = m.__snakeStartingFood, 
+		this.__width = m.__snakeStartWidth, 
+		this.__colors = ["0x00a4ed"], 
+		this.__alive = !0, 
+		this.__deathTimer, 
+		this.__inScreen = !0, 
+		this.__sharedGraphicsObject = {
+            visible: !1,
+            tint: void 0
+        }, this.__timeouts = [], this.__accelerate = !1, this.__accelTick = 0, this.__spawnTime, this.__mainSnake = !1
+    };
+    fe.prototype.__growFromFood = function(e) {
+		//yem yemek
+        this.__foodsEaten += e.__value;
+		
+		if(oyundurum==1) {
+			yemek++;
+			yemeksay(yemek,e.__value);
+		}
+		this.__graphics && this.__mainSnake && (this.__game.__doAchievement(2, ">", this.__foodsEaten), 
+		this.__game.__playSound("eat", .5, .1)), 
+		this.__doGrowth()
+    },
+
+	fe.prototype.__doGrowth = function() {
+        this.__width = this.__game.__getWidthBasedOnFoods(this.__foodsEaten), 
+		this.__thick = this.__width / m.__snakeBaseWidth;
+        const e = this.__length;
+        if (this.__length = this.__game.__getLengthBasedOnFoods(this.__foodsEaten), this.__graphics && this.__length < e)
+            for (var t = this.__length; t < e; t++) this.__graphics.__snakeParts[m.__maxSnakeSize - t - 1].visible = !1, 
+		this.__graphics.__snakeShadowParts[m.__maxSnakeSize - t - 1].visible = !1
+    }, 
+	
+	fe.prototype.__initGraphics = function() {
+        this.__graphics = {};
+        var e = m.__layerSnakeParts;
+        this.__graphics.__snakeParts = [], this.__graphics.__snakeShadowParts = [];
+        var t = this.__game.__scene.layer(m.__layerSnakeShadowParts);
+        for (this.__sharedGraphicsObject = {
+                visible: !1
+            }, i = 0; i < m.__maxSnakeSize; i++) {
+            var o = new this.__game.__spriteClass(this.__game.__frames.__KawaiiSnake_Skin0000);
+            o.anchor.set(.5, .5), o.tint = "0x000000", o.visible = !1, o.shared = this.__sharedGraphicsObject, t.add(o), this.__graphics.__snakeShadowParts.push(o)
+        }
+        for (i = 0; i < m.__maxSnakeSize; i++) {
+            t = this.__game.__scene.layer(e++);
+            var a = new this.__game.__spriteClass(this.__game.__frames.__KawaiiSnake_Skin0000);
+            a.anchor.set(.5, .5), a.visible = !1, a.shared = this.__sharedGraphicsObject, t.add(a), this.__graphics.__snakeParts.push(a), a.tint = this.__colors[(m.__maxSnakeSize - i - 1) % this.__colors.length]
+        }
+        t = this.__game.__scene.layer(e), this.__graphics.__eyeLeft = new this.__game.__spriteClass(this.__game.__frames.__KawaiiSnake_Eye0000), this.__graphics.__eyeLeft.anchor.set(.5, .5), this.__graphics.__eyeLeft.visible = !1, this.__graphics.__eyeLeft.shared = this.__sharedGraphicsObject, t.add(this.__graphics.__eyeLeft), this.__graphics.__eyeRight = new this.__game.__spriteClass(this.__game.__frames.__KawaiiSnake_Eye0000), this.__graphics.__eyeRight.anchor.set(.5, .5), this.__graphics.__eyeRight.visible = !1, this.__graphics.__eyeRight.shared = this.__sharedGraphicsObject, t.add(this.__graphics.__eyeRight), this.__graphics.__mouth = new this.__game.__spriteClass(this.__game.__frames.__KawaiiSnake_Mouth0000), this.__graphics.__mouth.anchor.set(.5, .5), this.__graphics.__mouth.visible = !1, this.__graphics.__mouth.shared = this.__sharedGraphicsObject, t.add(this.__graphics.__mouth);
+        t = this.__game.__scene.layer(m.__layerHats);
+        this.__graphics.__hatLeft = new this.__game.__spriteClass(this.__game.__foodLists.hats[0]), this.__graphics.__hatLeft.anchor.set(.5, 1), this.__graphics.__hatLeft.visible = !1, this.__graphics.__hatLeft.shared = this.__sharedGraphicsObject, t.add(this.__graphics.__hatLeft), this.__graphics.__hatRight = new this.__game.__spriteClass(this.__game.__foodLists.hats[0]), this.__graphics.__hatRight.anchor.set(.5, 1), this.__graphics.__hatRight.visible = !1, this.__graphics.__hatRight.shared = this.__sharedGraphicsObject, t.add(this.__graphics.__hatRight)
+    }, fe.prototype.__initParts = function() {
+        for (var e = 0, t = 2 * m.__snakeSegmentDistance, o = 0; o < m.__snakeMaxSegments; o++) {
+            var i = o / m.__snakeMaxSegments,
+                a = 1 - i * i * i * m.__snakeShrinkDamper,
+                n = this.__partPositions[o - 1];
+            this.__partPositions[o] = 0 == o ? {
+                x: this.__pos.x - .5 * t * Math.cos(this.__dir),
+                y: this.__pos.y - .5 * t * Math.sin(this.__dir),
+                s: this.__thick * a,
+                u: this.__id
+            } : {
+                x: n.x - t * e * Math.cos(this.__dir),
+                y: n.y - t * e * Math.sin(this.__dir),
+                s: this.__thick * a,
+                u: this.__id
+            }, e = a, this.__graphics && (this.__graphics.__snakeParts[o].tint = this.__colors[(m.__maxSnakeSize - o - 1) % this.__colors.length], this.__graphics.__hatLeft.frame = this.__game.__foodLists.hats[Math.max(this.__hat, 0)], this.__graphics.__hatRight.frame = this.__game.__foodLists.hats[Math.max(this.__hat, 0)])
+        }
+    }, fe.prototype.__updateParts = function() {
+        var e = this.__partPositions[0],
+            t = this.__pos,
+            o = function(e, t, o) {
+                return {
+                    x: e.x + o * e.d.x * t,
+                    y: e.y + o * e.d.y * t
+                }
+            },
+            i = function(e, t, o) {
+                return {
+                    x: o * e.d.x * t,
+                    y: o * e.d.y * t
+                }
+            },
+            a = t.x - e.x,
+            n = t.y - e.y;
+        a += .1 * Math.random(), a += .1 * Math.random();
+        var _ = Math.sqrt(a * a + n * n);
+        e.d = {
+            x: a / _,
+            y: n / _
+        };
+        var s = m.__snakeSegmentDistance * this.__thick,
+            r = i(e, 1, s);
+        e.x = t.x - r.x, e.y = t.y - r.y;
+        for (var l = 1; l < this.__length; l++) {
+            var d = l / this.__length,
+                c = 1 - d * d * d * m.__snakeShrinkDamper,
+                h = (l - 1) / this.__length,
+                u = 1 - h * h * h * m.__snakeShrinkDamper,
+                p = this.__partPositions[l];
+            s = m.__snakeSegmentDistance * this.__thick * u;
+            var y = o(this.__partPositions[l - 1], -1, s);
+            a = y.x - p.x, n = y.y - p.y, _ = Math.sqrt(a * a + n * n);
+            p.d = {
+                x: a / _,
+                y: n / _
+            }, p.s = this.__thick * c;
+            var f = i(p, 1, s);
+            p.x = y.x - f.x, p.y = y.y - f.y
+        }
+    };
+    fe.prototype.__draw = function() {
+        if (!this.__inScreen) return this.__sharedGraphicsObject.visible = !1,
+		
+		void(this.__deathTimer && (this.__graphics.__snakeParts.forEach(e => {
+            e.visible = !1
+        }), this.__graphics.__snakeShadowParts.forEach(e => {
+            e.visible = !1
+        }), this.__graphics.__hatLeft.visible = !1, 
+		this.__graphics.__hatRight.visible = !1, 
+		this.__deathTimer = void 0,	this.__alive = !1));
+        this.__sharedGraphicsObject.visible = !0, 
+		this.__sharedGraphicsObject.tint = void 0, 
+		performance.now() < this.__spawnTime + m.__newSnakeInvisibilityTimer && Math.sin(.01 * performance.now()) > .7 && (this.__sharedGraphicsObject.tint = "0xFFFFFF");
+        let e = this.__pos.x * this.__game.__scene.camera.zoom.x + this.__game.__viewportSize.x / 2 - this.__game.__camera.x,
+            t = this.__pos.y * this.__game.__scene.camera.zoom.x + this.__game.__viewportSize.y / 2 - this.__game.__camera.y;
+        if (!this.__mainSnake) {
+            let o = 20 + m.__snakeBaseWidth * this.__thick / 2;
+            const i = .2,
+                a = this.__dir > Math.PI;
+            this.__nameOrientation != a && Math.abs(this.__dir - Math.PI) > i && this.__dir > i && this.__dir < 2 * Math.PI - i && (this.__nameOrientation = a),
+			o = this.__nameOrientation ? -o : o + 24,
+			this.__game.__ctx.fillStyle = "rgba(11,255,50,1.0)", //nikler
+			this.__game.__ctx.lineWidth = 4, 
+			this.__game.__ctx.strokeText(this.__name, e, t + o), 
+			this.__game.__ctx.fillText(this.__name, e, t + o)
+        }
+        this.__active && function(e) {
+            if (e.__alive) {
+                if (e.__graphics.__mouth.frame != e.__game.__frames.__KawaiiSnake_Mouth0000) {
+                    const t = performance.now() - e.__eatTimer,
+                        o = 200,
+                        i = 250;
+                    e.__graphics.__mouth.frame == e.__game.__frames.__KawaiiSnake_Mouth0001 && t > o ? e.__setMouth(2) : t > o + i && e.__setMouth(0)
+                }
+                const s = e.__accelerate ? 1 - Math.abs(.15 * Math.cos(e.__dir + Math.PI / 2)) : 1,
+                    r = e.__accelerate ? 1 - Math.abs(.15 * Math.sin(e.__dir + Math.PI / 2)) : 1;
+                for (var t = 0; t < e.__length; t++) {
+                    var o = t / e.__length,
+                        i = 1 - o * o * o * m.__snakeShrinkDamper,
+                        a = e.__graphics.__snakeParts[m.__maxSnakeSize - t - 1];
+                    a.position.set(e.__partPositions[t].x, e.__partPositions[t].y), a.visible = !0, a.scale.set(e.__thick * i * s, e.__thick * i * r);
+                    var n = e.__graphics.__snakeShadowParts[m.__maxSnakeSize - t - 1];
+                    n.position.set(e.__partPositions[t].x, e.__partPositions[t].y), n.visible = !0;
+                    var _ = 1 + m.__outlinePixels / (m.__snakeBaseWidth * e.__thick * i);
+                    n.scale.set(e.__thick * i * _ * s, e.__thick * i * _ * r)
+                }
+                const l = Math.atan2(e.__partPositions[0].d.y, e.__partPositions[0].d.x),
+                    d = 35 * e.__thick,
+                    c = 40 * m.__DEG2RAD,
+                    h = e.__graphics.__eyeLeft,
+                    u = l - c;
+                h.scale.set(e.__thick / 2), h.position.set(e.__partPositions[0].x + d * Math.cos(u), e.__partPositions[0].y + d * Math.sin(u)), h.rotation = l - 90 * m.__DEG2RAD, h.visible = !0;
+                const p = e.__graphics.__eyeRight,
+                    y = l + c;
+                p.scale.set(e.__thick / 2), p.position.set(e.__partPositions[0].x + d * Math.cos(y), e.__partPositions[0].y + d * Math.sin(y)), p.rotation = l - 90 * m.__DEG2RAD, p.visible = !0;
+                const f = e.__graphics.__mouth;
+                if (f.scale.set(e.__thick / 2), f.position.set(e.__partPositions[0].x + d * Math.cos(l), e.__partPositions[0].y + d * Math.sin(l)), f.rotation = l - 90 * m.__DEG2RAD, f.visible = !0, e.__hat >= 0) {
+                    const t = e.__graphics.__hatLeft;
+                    t.scale.set(e.__thick);
+                    let o = -m.__snakeBaseWidth / 2 * e.__thick * .6,
+                        i = m.__hatIsEars[e.__hat] ? .8 : 0;
+                    if (m.__hatIsEars[e.__hat] || (o *= .8), 31 != e.__hat && 32 != e.__hat || (o *= -1), t.position.set(e.__partPositions[0].x + o * Math.cos(l - i), e.__partPositions[0].y + o * Math.sin(l - i)), t.rotation = l - 90 * m.__DEG2RAD, t.visible = !0, m.__hatIsEars[e.__hat]) {
+                        const t = e.__graphics.__hatRight;
+                        t.scale.set(-e.__thick, e.__thick), t.position.set(e.__partPositions[0].x + o * Math.cos(l + i), e.__partPositions[0].y + o * Math.sin(l + i)), t.rotation = l - 90 * m.__DEG2RAD, t.visible = !0
+                    }
+                }
+            }
+            const s = e.__accelerate ? m.__snakeAcceleration : 1,
+               // r = 6 * m.__playerSpeed * s * e.__game.dt;
+                r = 6 * serverSpeed * s * e.__game.dt;
+               
+				
+				
+            let l = e.__graphics.__mouth.position.x + r * Math.cos(e.__dir),
+                d = e.__graphics.__mouth.position.y + r * Math.sin(e.__dir);
+            e.__foodsEating.map(t => {
+                var o = t.position.x - l,
+                    i = t.position.y - d,
+                    a = .15 * (t.scale.x - .1);
+                a < .01 ? (e.__growFromFood(t), 
+				t.remove(), e.__foodsEating = e.__foodsEating.filter(e => e !== t)) : (t.scale.set(t.scale.x - a, t.scale.y - a), 
+				t.position.set(t.position.x - .15 * o, t.position.y - .15 * i))
+            }), e.__deathTimer && performance.now() > e.__deathTimer && (e.__die(), e.__deathTimer = void 0)
+        }(this)
+    }, fe.prototype.__setMouth = function(e) {
+        var t = [this.__game.__frames.__KawaiiSnake_Mouth0000, this.__game.__frames.__KawaiiSnake_Mouth0001, this.__game.__frames.__KawaiiSnake_Mouth0002, this.__game.__frames.__KawaiiSnake_Mouth0003];
+        this.__graphics.__mouth.frame = t[e]
+    }, fe.prototype.__eatFood = function(e) {
+        this.__inScreen ? (this.__foodsEating.push(e), this.__setMouth(1), this.__eatTimer = performance.now()) : (this.__growFromFood(e), 
+		
+		e.remove())
+    }, fe.prototype.__die = function() {
+        this.__alive = !1, this.__foodsEating.forEach(e => {
+            e.remove()
+        }), this.__foodsEating = [], this.__showDeath()
+    }, fe.prototype.__showDeath = function() {
+        if (!this.__inScreen) return void(this.__sharedGraphicsObject.visible = !1);
+        this.__graphics.__eyeLeft.frame = this.__game.__frames.__KawaiiSnake_Eye0001, this.__graphics.__eyeRight.frame = this.__game.__frames.__KawaiiSnake_Eye0002, this.__setMouth(3);
+        const e = he.easeOutCubic;
+        this.__timeouts.push(setTimeout(() => {
+            this.__graphics.__eyeLeft.visible = !1, this.__graphics.__eyeRight.visible = !1, this.__graphics.__mouth.visible = !1, this.__graphics.__hatLeft.visible = !1, this.__graphics.__hatRight.visible = !1
+        }, m.__snakeTimeToRealDeath));
+        const t = Math.ceil(this.__length / 2);
+        for (let o = 0; o < t; o++) {
+            const i = o / t;
+            for (let t = 0; t < 2; t++) this.__timeouts.push(setTimeout(() => {
+                this.__graphics.__snakeParts[m.__maxSnakeSize - 2 * o - t - 1].visible = !1, this.__graphics.__snakeShadowParts[m.__maxSnakeSize - 2 * o - t - 1].visible = !1, 0 == t && this.__explodePart(this.__partPositions[2 * o])
+            }, m.__snakeTimeToRealDeath + 600 * e(i, 0, 1, 1)))
+        }
+    }, fe.prototype.__explodePart = function(e) {
+        this.__game.__playSound("pop", .6, .2);
+        const t = this.__game.__scene.layer(m.__layerSmokeClouds);
+        for (var o = 0; o < 20; o++) {
+            const i = new this.__game.__spriteClass(this.__game.__frames.__Smoke_Cloud0000);
+            i.anchor.set(.5, .5), i.position.set(e.x, e.y), i.tint = this.__colors[(m.__maxSnakeSize - o - 1) % this.__colors.length], t.add(i);
+            const a = this.__thick + .1 * Math.random(),
+                n = 100 * a,
+                _ = Math.random() * (2 * Math.PI),
+                s = Math.cos(_) * n,
+                r = Math.sin(_) * n,
+                l = 100;
+            ce(i.position, {
+                x: i.position.x,
+                y: i.position.y
+            }, {
+                x: i.position.x + s,
+                y: i.position.y + r
+            }, l, he.easeOutQuart), ce(i.scale, {
+                x: .7 * a,
+                y: .7 * a
+            }, {
+                x: a,
+                y: a
+            }, l, he.easeOutQuart, () => {
+                ce(i.scale, {
+                    x: a,
+                    y: a
+                }, {
+                    x: 0,
+                    y: 0
+                }, l, he.easeOutQuart, () => {
+                    i.remove()
+                })
+            })
+        }
+    }, fe.prototype.__clean = function() {
+        this.__foodsEating.forEach(e => {
+            e.remove()
+        }), this.__resetVars()
+    }, fe.prototype.__resetVars = function() {
+        this.__inputs = [], this.__lastInput = {
+            input: {},
+            seq: 0
+        }, this.__chewTimer = 0,
+		this.__foodsEating = [], 
+		this.__eatTimer = void 0, 
+		this.__foodsEaten = m.__snakeStartingFood, 
+		this.__deathTimer = void 0, 
+		this.__inScreen = !0, 
+		this.__accelerate = !1, 
+		this.__accelTick = 0, 
+		this.__mainSnake = !1
+    }, fe.prototype.__reset = function() {
+        this.__active = !1, 
+		this.__clean(), 
+		this.__timeouts.forEach(e => {
+            clearTimeout(e)
+        }), 
+		this.__timeouts = [], 
+		this.__graphics.__eyeLeft.frame = this.__game.__frames.__KawaiiSnake_Eye0000,
+		this.__graphics.__eyeRight.frame = this.__game.__frames.__KawaiiSnake_Eye0000, 
+		this.__setMouth(0), this.__showParts(!1), 
+		this.__alive = !0, 
+		this.__sharedGraphicsObject.visible = !1
+    }, fe.prototype.__showParts = function(e) {
+        this.__graphics.__snakeParts.forEach(t => {
+            t.visible = e
+        }), this.__graphics.__snakeShadowParts.forEach(t => {
+            t.visible = e
+        })
+    };
+    const ge = function(e) {
+        this.instance = e, this.server = void 0 !== this.instance,
+		this.clients = [], this.players = [];
+        for (var t = 0; t < m.__maxClients; t++) this.players.push(new fe(this)), 
+		this.players[t].__id = t;
+        this.__foodPositionHash = {}, this.__foodCollisionHash = {}, 
+		this.server && this.initServer(), 
+		this.__rAF = window.requestAnimationFrame ? window.requestAnimationFrame : this.requestAnimationFrame,
+		this.__cAF = window.cancelAnimationFrame ? window.cancelAnimationFrame : this.cancelAnimationFrame, 
+		this._pdt = 1e-4, this._pdte = performance.now(), 
+		this.localTime = .016, 
+		this._dt = performance.now(), 
+		this._dte = performance.now(),
+		this.__createTimer()
+    };
+	
+
+    ge.prototype.prepareTinyIDs = function() {
+        this.availableTinyIds = [];
+        for (let e = 0; e < m.__maxClients; e++) this.availableTinyIds.push(e)
+    }, ge.prototype.getTinyID = function() {
+        return this.availableTinyIds.shift()
+    }, ge.prototype.returnTinyID = function(e) {
+        this.availableTinyIds.push(e)
+    }, ge.prototype.__update = function(e) {
+ 
+		
+        e = performance.now(), 
+		this.dt = .016, //this.lastFrameTime ? (e - this.lastFrameTime) / 1e3 : .016, 
+		this.lastFrameTime = e, 
+		this.__clientUpdate();
+        var t = this.__rAF;
+        this.updateid = t(this.__update.bind(this), this.__viewport)
+    }, ge.prototype.getPlayerPositionHash = function(e) {
+        var t = {};
+        return t.hashX = Math.floor(e.__pos.x / m.__maxScreenWidth), 
+		t.hashY = Math.floor(e.__pos.y / m.__maxScreenHeight), 
+		t.hash = t.hashX + "_" + t.hashY, t
+    }, ge.prototype.__processInput = function(e) {
+        var t = 0;
+        if (e.__lastInput) {
+            const i = e.__lastInput.input;
+            if (i.l && (t = -1), i.r && (t = 1), void 0 !== i.ma) {
+                var o = this.angleDifference(e.__dir, i.ma);
+                t = o > .05 ? 1 : o < -.05 ? -1 : 0
+            }
+            e.__accelerate = i.a, 0 == e.__foodsEaten && (e.__accelerate = !1)
+        }
+        return t
+    }, ge.prototype.__getPhysicsMovementVectorFromDirection = function(e) {
+        //var t = m.__playerSpeed * e.a * this.dt;
+        var t = serverSpeed * e.a * this.dt;
+		 
+        return {
+            x: e.x * t,
+            y: e.y * t
+        }
+    }, ge.prototype.__createTimer = function() {
+        setInterval(function() {
+            this._dt = performance.now() - this._dte, this._dte = performance.now(), this.localTime += this._dt / 1e3
+        }.bind(this), 4)
+    }, ge.prototype.__foodExplosion = function(e, t, o) {
+        t = Math.min(1e3, t);
+        var i = !0;
+        null == o && (i = !1, o = Math.round(1e5 * Math.random()));
+        for (var a, n = ye(o), _ = Math.min(m.__foodExplosionMaxFoods, t),
+		s = Math.ceil(t / _), 
+		r = Math.max(1, Math.floor(_ / e.length)),
+		l = [], 
+		d = this.__getWidthBasedOnFoods(t), 
+		c = 0; 
+		c < e.length; c += 2) {
+            const t = [];
+            for (var h = 0; h < r; h++) {
+                const o = {
+                    x: e[c],
+                    y: e[c + 1]
+                };
+                a = this.__v_add(this.__randomPointInCircle(d, n), o);
+                var u, p = Math.sqrt(a.x * a.x + a.y * a.y);
+                if (p > m.__levelRadius) {
+                    var y = m.__levelRadius / p;
+                    a.x *= y, a.y *= y
+                }
+                null != (u = i ? this.__getFoodIdFromPosition(a) : this.__addFood(a, s)) && t.push(u)
+            }
+            l.push(t)
+        }
+        return {
+            seed: o,
+            foodsCreated: l
+        }
+    }, ge.prototype.__getWidthBasedOnFoods = function(e) {
+        var t = m.__snakeMaxWidth - m.__snakeStartWidth,
+            o = Math.min(e / m.__snakeMaxWidthFood, 1);
+        return de.easings.easeOutCirc(o, m.__snakeStartWidth, t, 1)
+    }, ge.prototype.__getLengthBasedOnFoods = function(e) {
+        const t = m.__snakeMaxSegments - m.__snakeSegments,
+            o = Math.min(e / m.__snakeMaxSegmentsFood, 1);
+        return Math.floor(de.easings.easeOutQuint(o, m.__snakeSegments, t, 1))
+    }, ge.prototype.__addFoods = function(e, t) {
+        var o = !0;
+        null == t && (o = !1, t = Math.round(1e5 * Math.random()));
+        for (var i, a = ye(t), n = [], _ = 0; _ < e; _++) {
+            var s;
+            i = this.__randomPointInCircle(m.__levelRadius, a), null != (s = o ? this.__getFoodIdFromPosition(i) : this.__addFood(i)) && n.push(s)
+        }
+        return {
+            seed: t,
+            foodsCreated: n
+        }
+    }, ge.prototype.__addFood = function(e, t) {
+        var o = this.__getFoodIdFromPosition(e);
+        e = this.__getFoodPositionFromId(o);
+        var i = this.__getPositionHash(e, m.__maxScreenWidth, m.__maxScreenHeight);
+        null == this.__foodPositionHash[i] && (this.__foodPositionHash[i] = {});
+        var a = 1;
+        if (e.x % m.__foodBigPixelChance != 0 && e.y % m.__foodBigPixelChance != 0 || (a = m.__foodBigValue),
+		t && (a = t), 
+		!this.__foodPositionHash[i][o]) 
+		return this.__foodPositionHash[i][o] = a,
+		this.activeFoods++, 
+		//console.log("yedin"),
+		o
+    }, ge.prototype.__addFoodToCollisionHash = function(e, t) {
+        var o = this.__getFoodIdFromPosition(e),
+            i = this.__getPositionHash(e, m.__foodCollisionSize);
+        null == this.__foodCollisionHash[i] && (this.__foodCollisionHash[i] = {}), this.__foodCollisionHash[i][o] = t
+    }, ge.prototype.__existsInFoodCollisionHash = function(e, t) {
+        var o = this.__getPositionHash(e, m.__foodCollisionSize);
+        return null != this.__foodCollisionHash[o] && this.__foodCollisionHash[o][t]
+    }, ge.prototype.__checkFoodCollision = function(e, t) {
+        for (var o = m.__snakeBaseWidth * e.__thick + m.__foodCollisionTolerance, i = o / 2, a = Math.floor(o / (2 * m.__foodCollisionSize)) + 1, n = Math.floor(e.__pos.x / m.__foodCollisionSize), _ = Math.floor(e.__pos.y / m.__foodCollisionSize), s = -a; s <= a; s++)
+            for (var r = -a; r <= a; r++) {
+                var l = n + s + "_" + (_ + r);
+                if (null != this.__foodCollisionHash[l]) {
+                    var d = this,
+                        c = this.__foodCollisionHash[l];
+                    Object.keys(c).forEach((function(o) {
+                        var a = d.__getFoodPositionFromId(o),
+                            n = a.x - e.__pos.x,
+                            _ = a.y - e.__pos.y;
+                        if (Math.sqrt(n * n + _ * _) < i) {
+                            var s = c[o];
+                            t(e, s)
+                        }
+                    }))
+                }
+            }
+        return []
+    }, ge.prototype.__getCameraZoomForPlayer = function(e) {
+        return 1;
+		//return Math.min(m.__snakeStartWidth / e.__width * m.__cameraWidthToZoomFactor, m.__cameraMaxZoom)
+    }, ge.prototype.__getCameraZoomHashOverflow = function(e) {
+        return Math.round(Math.max(1, 1 / this.__getCameraZoomForPlayer(e)))
+    }, ge.prototype.__getPositionHash = function(e, t, o) {
+        return Math.floor(e.x / t) + "_" + Math.floor(e.y / (o || t))
+    }, ge.prototype.__getFoodIdFromPosition = function(e) {
+        var t = m.__levelRadius / m.__foodMinDistribution,
+            o = 2 * t;
+        return (Math.floor(e.y / m.__foodMinDistribution) + t) * o + (Math.floor(e.x / m.__foodMinDistribution) + t)
+    }, ge.prototype.__getFoodPositionFromId = function(e) {
+        var t = m.__levelRadius / m.__foodMinDistribution,
+            o = 2 * t,
+            i = {};
+        return i.x = (e % o - t) * m.__foodMinDistribution, i.y = (Math.floor(e / o) - t) * m.__foodMinDistribution, i
+    }, ge.prototype.__removeFood = function(e) {
+        var t = this.__getFoodPositionFromId(e),
+            o = this.__getPositionHash(t, m.__maxScreenWidth, m.__maxScreenHeight);
+        this.__foodPositionHash[o] && delete this.__foodPositionHash[o][e], this.__foodPositionHash[o] && 0 === Object.keys(this.__foodPositionHash[o]).length && this.__foodPositionHash[o].constructor === Object && delete this.__foodPositionHash[o], this.__removeFoodFromCollisionHash(e)
+    }, ge.prototype.__removeFoodFromCollisionHash = function(e) {
+        var t = this.__getFoodPositionFromId(e),
+            o = this.__getPositionHash(t, m.__foodCollisionSize);
+        this.__foodCollisionHash[o] && delete this.__foodCollisionHash[o][e], this.__foodCollisionHash[o] && 0 === Object.keys(this.__foodCollisionHash[o]).length && this.__foodCollisionHash[o].constructor === Object && delete this.__foodCollisionHash[o]
+    }, ge.prototype.__randomPointInCircle = function(e, t) {
+        t || (t = Math.random), t || (t = Math.random);
+        let o, i, a = Number.POSITIVE_INFINITY;
+        const n = 2 * e,
+            _ = e * e;
+        for (; a > _;) a = (o = t() * n - e) * o + (i = t() * n - e) * i;
+        return {
+            x: o,
+            y: i
+        }
+    }, ge.prototype.__pos = function(e) {
+        return {
+            x: e.x,
+            y: e.y
+        }
+    }, ge.prototype.__v_add = function(e, t) {
+        return {
+            x: e.x + t.x,
+            y: e.y + t.y
+        }
+    }, ge.prototype.__stopUpdate = function() {
+        this.__cAF(this.updateid)
+    }, ge.prototype.__lerp = function(e, t, o) {
+        var i = Number(o);
+        return e + (i = Math.max(0, Math.min(1, i))) * (t - e)
+    }, ge.prototype.__randomColor = function() {
+        function e(e) {
+            var t = e.toString(16);
+            return 1 == t.length ? "0" + t : t
+        }
+        var t, o, i, a = Math.random(),
+            n = .25 + .7 * Math.random(),
+            _ = .4 + .55 * Math.random(),
+            s = function(e, t, o) {
+                return o < 0 && (o += 1), 
+				o > 1 && (o -= 1),
+				o < 1 / 6 ? e + 6 * (t - e) * o : o < .5 ? t : o < 2 / 3 ? e + (t - e) * (2 / 3 - o) * 6 : e
+            },
+            r = _ < .5 ? _ * (1 + n) : _ + n - _ * n,
+            l = 2 * _ - r;
+        return t = Math.round(255 * s(l, r, a + 1 / 3)), o = Math.round(255 * s(l, r, a)), i = Math.round(255 * s(l, r, a - 1 / 3)), "0x" + e(t) + e(o) + e(i)
+    }, ge.prototype.__v_lerp = function(e, t, o) {
+        return {
+            x: this.__lerp(e.x, t.x, o),
+            y: this.__lerp(e.y, t.y, o)
+        }
+    }, ge.prototype.angleDifference = function(e, t) {
+        var o = (t - e + Math.PI) % (2 * Math.PI) - Math.PI;
+        return o < -Math.PI ? o + 2 * Math.PI : o
+    }, ge.prototype.__verifyUserName = function(e) {
+        return e.toUpperCase().replace(/[\W_]+/g, "").substr(0, m.__maxNameLength)
+    }, ge.prototype.setPlayerInCollisionHash = function(e) {
+        for (var t = 0; t < e.__length; t += 2) {
+            var o = e.__partPositions[t],
+                i = Math.floor(o.x / m.__snakeCollisionSize) + "_" + Math.floor(o.y / m.__snakeCollisionSize);
+            null == this.playerCollisionHash[i] && (this.playerCollisionHash[i] = []), this.playerCollisionHash[i].push(o)
+        }
+    }, ge.prototype.doesPlayerCollideWithOtherPlayers = function(e) {
+        var t, o, i = e.__pos.x,
+            a = e.__pos.y,
+            n = Math.floor(i / m.__snakeCollisionSize),
+            _ = Math.floor(a / m.__snakeCollisionSize),
+            s = [];
+        for (t = n - 1; t <= n + 1; t++)
+            for (o = _ - 1; o <= _ + 1; o++) {
+                var r = t + "_" + o;
+                null != this.playerCollisionHash[r] && (s = s.concat(this.playerCollisionHash[r]))
+            }
+        if (0 == s.length) return !1;
+        var l = performance.now();
+        if (l < e.__invisibilityTime) return !1;
+        for (var d = 0; d < s.length; d++) {
+            var c = s[d];
+            if (c.u !== e.__id && !(l < this.players[c.u].__invisibilityTime)) {
+                var h = m.__snakeBaseWidth * e.__thick / 2,
+                    u = m.__snakeBaseWidth * c.s / 2,
+                    p = i - c.x,
+                    y = a - c.y;
+                if (Math.sqrt(p * p + y * y) < h + u - m.__collisionIntolerancePixels) return c
+            }
+        }
+        return !1
+    }, ge.prototype.getSortedHighscoreList = function() {
+        for (var e = [], t = [...this.players].sort((function(e, t) {
+                return t.__foodsEaten - e.__foodsEaten
+            })), o = 0; o < t.length; o++) {
+            var i = t[o],
+                a = me({}, i.__pos);
+            e.length < m.__leaderBoardLength && (a.u = i.__id, 
+			a.f = i.__foodsEaten, 
+			this.players[o].rank = o + 1), 
+			i.__active && i.__alive && e.push(a)
+        }
+        return e
+    };
+    const ve = ['elif','ergiiin','melike','Cansu','Simal','leo','Leydi','DolunaAY','selena','esraa','EMERSON', 'NELEO', '05032020', 'TERRORIST', 'SLITHERKING', 'AZERTY', 'MOGEKO', 'PLAY', 'FUFUFUFUFUFUFUFUFUFU', 'RIANNE', 'MALICE', 'DIE', 'GE', 'CHASUUUUUUUUUU', 'HBINJFR', 'BOI', 'BLANK', 'FUCK', 'ROAN', 'BROKELILBABY', 'David J.', 'GOFGOL', 'KENZIE', 'NIGGER', 'COOL', 'RR', 'PAPA', 'ACTPAHN', 'BRUH', 'POOP', 'ASS', 'RAVENCLAW', 'FURY4LIFE', 'LEX305', 'YUYU', 'YEEEEEEEEEEEEEEET', 'TINYBLUETAPEWORM', 'WWW', 'NLE', 'SHANESAW', 'COOKIES', '69', 'CAT', 'GOAWAY', 'NNNN', 'MAL', 'JACKJACK', 'TINYBLUE', 'UID', 'MICHELLE', 'CLAY', 'POLLI', 'J', 'NOU', 'NAREK', 'SNAME', 'SLIMSHADY', 'SCOTLAND', 'GFGFG', 'KYLE', 'YOYO', 'AJ', 'SAM', 'I', 'HEY', 'GOOSE', 'SLITHERSPACE', 'HELLO', 'CORBAN', 'SOMEGUY', 'OOF', 'ANONYMOUS', 'AS', 'SUP', 'MASTER', 'FRISK', 'QBT', '76', 'JEREMY', 'MAMEN', 'WKIMORTALKM', 'PARYNHAR', 'JOHNWILKESBOOTH', 'CG', 'SIKEEEEEE', 'CARLIYONNA', 'NEWBIE', '2020', 'COOKIE', 'BISH', 'LA', 'HUSLEE', 'CAKEJELLO', 'SUPER', 'NOOB', 'BECARFULCHIREN', 'X', 'TTTT', 'SAD', 'NOTHING', 'HAILEY', 'EMM', 'BITCH', 'YEEYEE', 'DEKU', 'NO', 'LEXI', 'KILLERSQUID48', 'HAYHAY', 'MILES', 'ISORULE', 'H', 'IRULE', 'BRO', 'INSCHOOL', 'GENOSANS', 'SLITHER', 'TY', 'STICKYCHIP', 'KERCH00', 'PRO', '666', '121356', 'BLACKPINK', '5346456', 'UNOOBIFUKILLME', 'U2', 'KIARA', 'GOATSAVAGE', 'SNAKE', 'FRED', 'FRAI', 'ABBY', 'BIGBOI', 'BILLYBOB', 'HI', 'RIP', 'JOEMAMA', 'YOURMOMGAY', 'OLOL', 'SEAN', 'MIKA', '55555', 'BOB', 'BIGBIO', 'BTS', 'MEME', 'KENDALL', 'CHIKILOVE08', 'VAKA', 'JOE', 'JORDAN', 'NYA', 'HAMSTER', 'TIM', 'DETH', 'EPICFREZZI', 'ELSIE', 'DOGYNB', 'CACA', 'BIGDADDY', 'VY', 'GRYFFINDOR', 'CHIKY', 'NTM', 'JAY', 'EEG', 'GINGERBREAD', 'SAILOR', 'BB', 'K', 'CROUCHY', 'CASINO', 'COOPER', 'IKILLU', 'WALOL', 'SHEEP', 'CHRIS', 'NGD', 'USUCK', 'DAVID', 'PUGGY', 'TARTARUS', 'BUMBLE', 'RAYDEN', 'FUKYOU', 'MATT', 'BUM', 'MEEP', 'FVFFGVFGB', 'XANDER', 'MOMMY', 'QUEENSNAKE', 'IDK', 'HQA', 'CHICKEN', 'URMOM', 'MERMAID', 'CHOCOLATE', 'IMBLUE', 'DEATH', 'SLIM', 'GFNRHYFDTYN', 'USER', 'IMANUTINU', 'COPPERHEAD', 'BORBIN', 'LEVI', 'WATERMELON', 'MANGLE', 'YOURMOMISGAY', 'WZXCVGBJHN', 'AYDEN', 'JAYDIN', 'BRUTUS', 'YOUR', 'MRY', '69696969696696969696', 'MRCLEAN69', 'SPERM', 'LOOPS', 'ZUHURA', 'JT', 'DEPRESSION', 'INQ', 'GIOGIO', 'DAMON', 'KSENIIA', 'BI', 'SOPHIA', 'NICKNAME', 'BBB', '123456789', 'TRANSFIXED', 'MACKENZIE', 'FART', 'TESSA', 'O', 'SOFIA', 'HYPER', 'TAYK', 'B', 'II', 'SATANSATANSATANSATAN', 'YY', 'LOLLA', 'SLITERKING', 'DWDW', 'HEWHOMUSTNOTBENAMED', 'SHUTTHEFRIDGE', 'JACOB1', 'JOURNEYYYYY', 'LAURA', 'YEIDY', 'TYLER', 'JASON', 'ITZBINY', 'JOSEISCOLORBLIND', 'KJ', 'KENOYT', 'KILLER', 'JJJ', 'SUSHISAM', 'VEGTA', 'PANDA', 'JMIKE', 'DVSFN', 'NICKY', 'DAD', 'MJ', 'FUFUFUFUFUFUFUFUF', 'SPLAT', 'SHELDON', 'OWO', 'OK', 'HELP', 'HUNTER', 'CRAINER', 'LIAM', 'EMER', 'TERRESSA', 'R', 'MALEKWILLWIN', 'THEATRE', 'OM', 'M', 'TURD', 'TTTAAA', 'RHRBM', 'SSSSSSSS', 'ABDEL1234', 'YOURMOM', 'SLIVER', 'DONTKILLMEBOTS', 'BREAD', 'LILLY', 'RAVEN', 'BIGFRED', 'JERRY', '535462983', 'CHAMELEON', 'C', 'ANGELA', 'GAYYYYY', 'FEET', 'GOODLOKIN', 'Bananaaa', 'BRANDON', 'GIRL', 'LOVE101', 'ABCATS', 'MARELLY', 'TEEHEE', 'BEO', 'MRDTTV', 'ICECUBE', 'UNICORN', 'ANA', 'HUKU', 'GDKFERS', 'BEEF', 'LOL', 'IKENUMA', 'NIKI', 'IMA', 'KKW', 'STEPBRO', 'OH', 'WINNER', 'MEEEEEE', 'PUPPY', 'LIFE', '2', 'TAYDEN', 'WHATT', 'JYDUD', 'ED', 'BEEBLE', 'HOPE', 'NANA', 'KIDD', 'GOAWAYORDIEE', 'KITKAT', 'SHYANNE', 'G', 'UHH', 'TYREE', 'LOKI', 'FE4RLICIA', 'LOSS', 'COLL', 'NLEEE', 'ZYHEIM', 'VITALINA', 'GO', 'DONOVAN', 'MADIE', 'XXXKINGRIP', 'RETARD', 'BOTO', 'BUTTHOLE', 'ROLANDO', 'OOOOOOOO', 'KILLMEIFYOUGAY', 'LOGAN', 'NAME', 'GG', 'REEE', 'MARSHMALLOW', 'MEMES', 'MICHAEL', '5', 'LILSMOKEY', 'TATIANA', 'ZERK', 'BRENDAN', 'KOBE', 'DOOM', 'WELSHCAKE', 'DARKSIDE', 'POOPOO', 'SPACE', 'HEYYYYYY', 'DADDY', 'FUNNEH', 'IEATPIZZA', 'MOONLIGHT', 'ME', 'BRENDEN', 'LANDEN', 'LIVE', 'JOSE', 'LLLLIIILLLYYYY', 'SLA', 'HYPERCORESZTUDIOS', 'SEAHAWK', 'ROMANOODLES', 'ALEX', 'WOLFQUEEN', 'KING', 'BENDOVER', 'TINY', 'HIIIIIIIIII', 'NICK', 'LUCARIOUS21', 'DANANA', 'YE', 'BRTR', 'CRISPYGRAPES', 'DARKDEADPOOL', 'MARI20LOCKETT', 'P1NK', 'DIRPYLIRPY', 'D', 'HELL', 'GYH89I0OPZAPL', 'HAHA', 'SINKLIFE', 'MMMMM', 'ZICLONE', 'JJJJJ', 'DSJHVNAKSDMCSDKXC', 'SLITHERGOD', 'HESUUUUUS', '333PRO', 'FLEX', 'SART', 'MEMELORD', 'HELLUR', 'DAKOTA', 'BOGGIER', 'CLO', 'AAAAAA', 'MARCO', 'JULIAN', 'TYSON', 'NIGERIA', 'TALIYAH', '1QUINCY', 'BOSS', 'BAILEY', 'ELISEY', 'YABOI', 'HHH', 'ADDY', 'HEIDI', 'KUADSBFJHWEBDFBJ', 'LUKAS', 'BUTT', 'YEET', 'AARON', 'GVYFT', 'BOT', 'KY', 'CATEARS', 'NEWUPDATES', 'MASTERPLAYER', 'CHARLI', 'BOOTY', 'ETHAN', 'CHUCKYDOLL', 'AMNESTY', 'ALIEN', 'ASDF', 'OLIVIA', 'FUN', 'KILL', 'ILIKETURTLEZ', 'JK', 'QUINCY', 'IMTHENEWGIRL', 'UR', 'NN', 'NIGGA', 'REEEEEEEEEE', 'POLICE', 'JL', 'FRIDAY', 'REN', 'NUGGETZ', 'GREEN', 'E', 'DEAD', 'PRESTONPLAYZ', 'SPEED', 'SAMSAM', 'IIIIIIII', 'EEEEEEEEEEEEEEEEEEEE', 'RARR', 'HOW', 'TIGGER', 'TRAPMEPLZ', 'DARK', 'SAKURA', 'TIMOTHY', 'TEST', 'XD', '1STPLACE', 'CALEB', 'MEL', 'MONEY', 'MEW', 'IO', 'REVAN', 'GEM', 'BEANS', 'YOINK', 'CHRISTIAN', 'GIVE', 'GIORUNO', 'PACKERS', 'SLIDE', 'BRYADEN', 'NOTSUPRISED', 'HYHDTU', 'BLEH', 'GAGE', 'NATALIA', 'ADRIANNA', 'MELLON', 'AJROLEX', 'CHICKINFONGER', 'BRBVEJHBNJHUGBYWHEUO', 'OOT', 'BEAST', 'MARIAH', 'YAAASSSS', 'HD', 'NOOB1234', 'NHMTRYWKNPTHW', 'YOUDEAD', 'SOPHIE', 'MEOW', 'BIG', 'MAKAYLA', 'HAAHERRRRR', 'SD', 'PINK', 'STEVEN', 'ALINAGAME', 'REEEEE', 'JANVI29', 'LLG', 'IS', 'APPLEJACKS', 'DANNA', 'YEETBOI', 'JILLIAN', 'RUDDDDDDDY', 'THE', 'CUPCAKE', 'TEDDYGAMER', 'STEPHENCURRY', 'USU', 'LATE', 'MYBUT', 'DADD', 'HH', 'BOBBLEGUM', 'COOLGAL', 'TTVBYTHEWAY', 'JAYCE', 'ZILLA', 'TAPEWORMCATCHER', 'KINGSPACE', 'ODOG', 'DEADROSES', 'SC', 'FOOTBALL', 'GAY', 'CHICA', 'DOMENIC', 'NINE', 'HOLY', '0O0', 'GAMERGIRL22', 'KINGRIGGS', 'REDNEC', 'REEEEEE', 'LILA', 'ROBOCCO', 'T', 'LUNA', 'HTTPSSLITHERSPACE', 'SLYTHERIN', 'SONIC', 'IT', 'KITTY', 'PACKZ', 'SIREEN', 'BROOKLYNN', 'IDUMB', 'SY', 'CH', 'IWERUIOP', 'STRAWBERRY', 'PRODICK', 'ZZ', 'SLITHER123345678910', 'DREAM', 'VOIDPANCAKE', 'XXXFANRIP', 'SAYED', '1ST', 'ARNA', 'FIONA', 'CHIKIN', 'YOMOMMA', 'IMOK', 'MIA', 'CHEZBORGOR', 'ZOYDEEN', 'SLITHERIO', 'LOSSER', 'HILO', 'BEC', 'YOUDIE', 'DOLUNAY', 'KEMAL', 'CRUZZZ', 'LUCAS', 'SLIME', 'SINK', 'WHOSURDADDY', 'MIKCHEZDURR09', 'KIRITO', 'UWU', 'COCKANDBALLS', 'JADE', 'URDAD', 'MEIE', 'AYY', 'DAVIDJ', 'SUPERRONKID', 'DANNY', 'JACK', 'CHASE', 'AAAAAAAAAA', 'ISAIAH', 'GREGGY', 'AUSTINISGAY', 'WOLFIE', 'STOOP', 'MOVELIKEASNAKE', 'MAGRO', 'BATMAN', 'MYJEFFY', 'WUS', 'BEESECHURGER', 'BILL', 'PP', 'CRAZY', 'OROROROROROROROR', 'TRASH', 'NATHANT', 'JHJMHMJHJ', 'DEADLYRAGDOLL', 'EATMYASS', 'ZOE', 'MXCM', 'ANNA', 'ROBLOX', 'JULIANA', 'WHAT', 'JAZZ', 'PIP', 'OMG', 'JESS', 'NICKSNAME', 'CMASTER584', 'NI', 'NIG', 'ASHANTI', 'FRE', 'HOLLEY', 'LALALALA', 'KI', 'BUB', 'ANN', 'FABRICIO', 'TREY', 'CRISPYWAFFELG', 'PEE', 'FOOD', 'NCT', 'HACKER', 'FISHER', 'SAVYYY', 'AHHH', 'ASIOSAMIGOS', 'RERTFTDT', 'EVA', 'ABBEY', 'TTVREPOOC', 'CASIDUS', 'MOCHEI', 'BTSIS', 'STUPID', 'ADAVEN', 'SHORTY', 'SPARKY', 'KKKLO', 'KRAZY', 'OOMP', 'ANTHONY', 'S', 'SKYLANDERHERO', 'AHVEWUVTEARITBERB5EU', 'PARCYJAKUP', 'CHOPY', 'JUIAN', 'NFKSJDN', 'TCGILBERT', 'JACKIECHAN', 'IVIBE', 'JOHNNY', 'IDGAF', 'THEDUO', 'AZUL', 'SSSSSSS', 'HUJJHG', 'JJ', 'MUSHROOM', 'OTESB', '565', 'IZZY', 'SMASTER', 'GOD', 'LIAMSNAK', 'OKBOOMER', 'ELI', 'DONUT21', 'TEHEHEHE', 'LOVE', 'BALA', 'KK', 'NNM', 'PETERPUG', 'YNW', 'LEO', 'WILDFIRE', 'HEEHEE', 'KNKK', 'LANDON', 'IEATYOU', 'M0NEY', 'HGV', 'BEEGIRL62', 'YOULLFLOATTOO', 'JAKIE', 'PAYTON', 'JAMES', 'LALA', 'RACHEL', 'BOO', 'SASUKEEUCHIHA', 'TABTAB', 'WOLFTOOTH', 'SLITHERPRO', 'CHE', 'OOOOH', 'TOKYOSREVENGE', 'BEST', 'LOADING', 'SDN', 'BELLA', 'DWI', 'EXTREME', 'VBSS', 'PLZ', 'VIIOOFVIOOFVII', 'HIIIIIIIIIIIIIIIIIII', 'SOUR', 'BANANA', 'TATSUYA', 'CARTER', 'DJ', 'CUTEOVERLOAD', 'KREWFAM4LIFETOAST', 'EDWDWD', 'DRAGON', 'IIIIIIIIIIIIIII', 'KJB', 'KNEEL', 'ASHER', 'INOTUCHU', 'ZEN', 'MARKO', '1111111', 'OPMAN10', 'HII', 'ABK', 'AROW135', 'JIM', 'XCVBNM', 'LJ', 'POPPER', 'ARRRRRRRRR', 'AD', 'TTT', 'PJ', 'JILL', 'REXY', 'BLUEQUUEN', 'HAVEN', 'VIHAAN', 'PARTYPOOPER', 'VIRTUALGOD', 'JIMIN', 'ANNIE', 'YASSQUEEN', 'BING', 'KONTOL', 'NOOOO', 'DIVINE', 'NKBO', 'YEERTTTTRTR', 'DUSTY', 'HIII', 'HOTDOG', 'SETH', 'CHEYENNE', 'RAINBOW', 'QUAN', 'FANDS', 'ANNEMARIE', 'JM', 'SIDETTE', 'WASGOOD', 'ALPHYS', 'KORLEAH', 'DOM', 'DACOBRA', 'JOJ', 'GOKU', 'BUTTBOY', 'BOBMANGO41', 'ONLY', 'ABC', 'AUSTYN', 'BITCHSNITCHRICTH', 'MIKE', 'DRE', '745585', 'BALLER', 'CECE', 'PAPER', 'F', 'GAYBOI', 'EVIE', 'SAVANNAH', 'COLE', 'ELCHJH', 'SLITHERED', 'SASMA', 'GANDHI', 'THEBRIGHTCOLORSCLUB', 'COOLGAL0827', 'REEEEEKID', '0000000000000000', 'DAILYDONUT', 'PIZZAROLLS', 'PS', 'JALISCO', 'DARIUSDAGOAT', 'JENNIFER', 'AL', 'KENNA', 'CC', 'KUMO', 'REALMADRID', 'MOJO', 'YV', 'XXX', 'HA', 'DUTS', 'TREEEEEEEEEEEEE', 'FGBUYR', 'JELLY', 'REEEEEEEE', '123', 'JETT', 'KLAYRRR', 'BIGBOY', 'FEED', 'DONTKILLMEH', 'OPPS', 'IM', 'IDKMYNAME', 'P', 'MARAINA', 'BREANALJ', 'LUCKY', '8987987', 'NOAH', 'FFF4', 'DA', 'VJDSIOFD', 'HAI', 'UMOM', 'XXXTEN', 'QWERTYUIOP', 'QUEEN', 'TITANIC', 'SLOGO', 'SARAH', 'LJH', 'DEANGELOGIANT22', 'BUTTMASTER', 'LILHAY', 'FREDDYFAZBEAR', 'ALASKA', '4', 'GGG', 'BE', 'CINNAMON', 'FISH', 'NICKGRR', 'TRASHIK', 'MOCHI', 'DEEZ', 'GHYCYVTY7', 'DOMINATE', 'POLAR', 'YOU', 'KOP', 'FABIAN', 'MITEK', 'JONATHAN', 'LAZERTAG', 'PEEPEEPOOPOO', 'PETEYTHEAWESOME', 'HR', 'TYRONE', 'EQ2EQ', 'HOWDY', 'CASSSSH', 'FOOT', 'HEART', 'SAMBO', 'MILLIE', 'ERIC', 'BEN', 'HYG', 'TIMOTY', 'BOBKILLER', 'ZOEY', 'EUPHORIA', 'LILLWIP', 'PLAYER', 'A', 'CAYDENT', 'TURTLE', 'CUMSOCK', 'MAC', 'QUESTION', 'THICKER', 'HAAAAAA', 'CYCLONE', 'CHC', 'MALEBUNS', 'ARNALDOY', 'PILL', 'ZARI', 'MMMM', 'COOKIEGUY', 'LUCY', 'KORONAVIRUS', 'TBNRFRAGS', 'FAT', 'WIERDDUDE', '6', 'TAKUACHE', '24357', 'PFKSD', 'TTVBCJBYTHEWAY', 'HEHEHEHEHEHEHEHEHEHE', 'BEETLEJUICE', 'BRIANNA', 'Y', 'ILIANA', 'CHARLY', 'TG', 'IDIOTA', 'ASAS', 'TECHBOY', 'STUPIDNONAME', 'LEA', '535', 'CUHH', 'HFYH', 'YOOOOOO', 'DEADLINE1276', 'IMNOTHERE', 'ERIE', 'HEHEHEHE', 'MONTY', 'ALLIE', 'SERPENTINE','yalaka','ahmet','marangoz ali','huseyin baba','eşek arısı','honey bee:)','fcuk u','get Backk','TuRTleMan','ILoveTurtLes :)','getRekT','kevin xD','LoL','⚡Heяø ⚡Heяø','Unkown Wolf','slither.ist_12','slither.ist_10','slither.ist_192','slither.ist_92','slither.ist_34','slither.ist_22','slither.ist_72','slither.ist_41','slither.ist_27','slither.ist_19','slither.ist_57','slither.ist_12','slither.ist_10','slither.ist_18','slither.ist_90','slither.ist_13','slither.ist_67','slither.ist_66','slither.ist_49','slither.ist_58','slither.ist_102','slither.ist_46','slither.ist_42','slither.ist_20','slither.ist_72','slither.ist_91','slither.ist_39','slither.ist_20','slither.ist_71','slither.ist_58','slither.ist_27','slither.ist_25','slither.ist_7','slither.ist_12','slither.ist_10','slither.ist_192','slither.ist_92','slither.ist_34','slither.ist_22','slither.ist_72','slither.ist_41','slither.ist_22','slither.ist_19','slither.ist_57','slither.ist_12','slither.ist_10','slither.ist_18','slither.ist_90','slither.ist_13','slither.ist_67','slither.ist_66','slither.ist_49','slither.ist_58','slither.ist_102','slither.ist_46','slither.ist_42','slither.ist_20','slither.ist_72','slither.ist_91','slither.ist_39','slither.ist_20','slither.ist_71','slither.ist_58','slither.ist_27','slither.ist_25','slither.ist_7','NΣXUS','𝓟𝓡𝐈𝓝𝓒𝓔','😈ϾṒṆṆΣϾṪḭṆḠ🐉','hacker','miray','ezgi nil','nice','zeus','sebassssss','JayyXx ','Jasonnnnnn','GÜŠTAVÖ','Help Me','Curvex.io','teampro','the_prof','Noob:)','MasterNoob:D','MƛƦƧӇMЄԼԼƠ','arcadego','bumbum','wunwun','RoYaL','TYT☢️SIRIUS','edgar amigo','köroğlu','adam ol','profesör','akıllı ol','to be yourself','paperrrr','im ok','you noobbb','i kill uu','go home',':)',':D','niKe','Mike','oscar','JuLia','missgirll','melissa','bnnr','amigos','loss','loser','slayer','marshmellow','santiago','santaFE','domingos','dominiq','tytsirius','agarboy','Galacticos','adios','CLaRis5a','Tempest','Julia','n0psa','SONLER','Vegas','sanik','FleXxx','bumbum','wunwun','im new','porterio','Woody','sara fan','PUMBA','exTreme','DUMB','Go home:)','levels','ArYa','mustafa kemal','король','начинающий','лучший','Cмертоносный','θανάσιμα','τουρκική','уровень','ok','levels','ArYa','ismail','kingcamo','pro','Timah','slayerlick','ÇeLik','Come Onnn','go go go','EsTeBAn','pAbLo','sharkk','sivasli','gre','luckyboy','nerdygirl','lucky Girl','kalimera','loll','wow!','championnnn','paperman','paperboy','paper man','paper space','space paper','paperiospace','leaderr','1 number','BrickRose','Prince','Jade','Beau','Smasher','Dazzle','Black Magic','Shrimp','Genie','Princess','Doggie','Bullseye','Butterfly','Fury Cutie','Jelly Rogue','Charisma','Bobo Indie','Wonder Bigshot','Freak','Cryo','Daydream','Zero','Indie','Bird','Twinkle Toes','Red Barber','Jewel','Lightning','Dash','Cyclone','Buck','Butch','Sketch','Flutters','Tiger','Bullseye','Hawk','Team >.<','Sara','jamie','K'],
+        xe = e => {
+            const t = e[1] - e[0];
+            return Math.random() * t + e[0]
+        },
+        Se = function(e) {
+            this.__game = e, this.__name = ve[Math.floor(Math.random() * ve.length)].toUpperCase(),
+			this.__color = [e.__randomColor()], 
+			this.__hat = 2, 
+			this.viewDistance = 200,
+			this.targetDirection = void 0, 
+			this.rotateDirection = 0,
+			this.inputSeq = 0, 
+			this.rayCollisions = [], 
+			this.rays = 8, 
+			this.rayAngleDistribution = 2 * Math.PI / this.rays,
+			this.doDumb = !1,
+			this.doRandomDir = !0, 
+			this.randomDirFrequency = [100, 5e3],
+			this.threadAccelerate = !1, 
+			this.threadAccelerateTime = [100, 2e3],
+			this.dumbAccelerate = !0, 
+			this.dumbAccelerateFrequency = [2e3, 1e4], 
+			this.dumbAccelerateDuration = [100, 2e3],
+			this.accelerationTime = 0, 
+			this.accelerate = !1
+        };
+    Se.prototype.hashOffsets = [{
+        x: 0,
+        y: 0
+    }, {
+        x: 0,
+        y: -1
+    }, {
+        x: 0,
+        y: 1
+    }, {
+        x: -1,
+        y: 0
+    }, {
+        x: -1,
+        y: -1
+    }, {
+        x: -1,
+        y: 1
+    }, {
+        x: 1,
+        y: 0
+    }, {
+        x: 1,
+        y: -1
+    }, {
+        x: 1,
+        y: 1
+    }];
+    var we = function(e, t) {
+        for (; e < 0;) e += t;
+        return e % t
+    };
+    Se.prototype.updateBrain = function() {
+        var e;
+        this.detectThreats();
+        var t = Number.POSITIVE_INFINITY;
+        this.targetDirection = void 0;
+        var o = !1,
+            i = 0;
+        for (e = 0; e < this.rays; e++) {
+            var a = this.rayAngleDistribution * e,
+                n = this.__game.angleDifference(this.__player.__dir, a);
+            Math.abs(n) <= this.rayAngleDistribution && (i = e, this.rayCollisions[e] && (o = !0))
+        }
+        if (o && !this.doDumb) {
+            for (e = 0; e < this.rays; e++)
+                if (!this.rayCollisions[e]) {
+                    a = this.rayAngleDistribution * e, 
+					n = this.__game.angleDifference(this.__player.__dir, a);
+                    Math.abs(n) < Math.abs(t) && (t = n, this.targetDirection = a, 
+					this.threadAccelerate && (this.accelerationTime = performance.now() + xe(this.threadAccelerateTime)))
+                }
+        } else {
+            var _ = !1,
+                s = !1,
+                r = 0;
+            if ((this.rayCollisions[we(i - 1, this.rays)] || this.rayCollisions[we(i - 2, this.rays)]) && (_ = !0), 
+			(this.rayCollisions[we(i + 1, this.rays)] || this.rayCollisions[we(i + 2, this.rays)]) && (s = !0), _ && !s ? r = 1 : s && !_ && (r = -1), 
+			0 === r || this.doDumb) this.doRandomDir && ((!this.nextRandomDirTime || performance.now() > this.nextRandomDirTime) && (this.randomDirection = Math.random() * (2 * Math.PI),
+			this.nextRandomDirTime = performance.now() + xe(this.randomDirFrequency)), 
+			null == this.targetDirection && (this.targetDirection = this.randomDirection)),
+			this.dumbAccelerate && performance.now() > this.accelerationTime && (!this.nextDumbAccelerateDirTime || performance.now() > this.nextDumbAccelerateDirTime) && (this.accelerationTime = performance.now() + xe(this.dumbAccelerateDuration), 
+			this.nextDumbAccelerateDirTime = performance.now() + xe(this.dumbAccelerateFrequency));
+            else
+                for (e = 1; e < this.rays - 2; e++) {
+                    var l = we(i + e * r, this.rays);
+                    if (!this.rayCollisions[l]) {
+                        a = this.rayAngleDistribution * l;
+                        this.targetDirection = a, this.threadAccelerate && (this.accelerationTime = performance.now() + xe(this.threadAccelerateTime));
+                        break
+                    }
+                }
+        }
+        this.rotateDirection = this.__game.angleDifference(this.__player.__dir, this.targetDirection) > 0 ? 1 : -1;
+        let d = !1;
+        performance.now() < this.accelerationTime && (d = !0);
+        var c = this.__player.__lastInput = {
+            input: {
+                l: !1,
+                r: !1,
+                a: d
+            },
+            time: this.__game.localTime,
+            seq: this.inputSeq
+        };
+        if (null != this.targetDirection) {
+            this.inputSeq++, c.seq = this.inputSeq, c.input.l = this.rotateDirection < 0, c.input.r = this.rotateDirection > 0;
+            var h = this.__game.angleDifference(this.__player.__dir, this.targetDirection);
+            (this.rotateDirection < 0 && h >= 0 || this.rotateDirection > 0 && h <= 0) && (this.targetDirection = void 0)
+        }
+        this.__player.__lastInput = c
+    }, Se.prototype.getNearbyParts = function() {
+        var e, t = [],
+            o = Math.floor(this.__player.__pos.x / m.__snakeCollisionSize),
+            i = Math.floor(this.__player.__pos.y / m.__snakeCollisionSize);
+        for (e = 0; e < this.hashOffsets.length; e++) {
+            var a = o + this.hashOffsets[e].x + "_" + (i + this.hashOffsets[e].y);
+            null != this.__game.playerCollisionHash[a] && (t = t.concat(this.__game.playerCollisionHash[a]))
+        }
+        return t
+    }, Se.prototype.detectThreats = function() {
+        for (var e = this.getNearbyParts(), t = 0; t < this.rays; t++) {
+            var o = this.rayAngleDistribution * t;
+            this.rayCollisions[t] = !1;
+            var i = this.__player.__pos.x + this.viewDistance * Math.cos(o),
+                a = this.__player.__pos.y + this.viewDistance * Math.sin(o);
+            Math.sqrt(i * i + a * a) > m.__levelRadius && (this.rayCollisions[t] = !0)
+        }
+        for (t = 0; t < e.length; t++) {
+            var n = e[t];
+            if (n.u !== this.__player.__id)
+                for (var _ = m.__snakeBaseWidth * n.s / 2, s = 0; s < this.rays; s++) {
+                    o = this.rayAngleDistribution * s, i = this.__player.__pos.x + this.viewDistance * Math.cos(o), a = this.__player.__pos.y + this.viewDistance * Math.sin(o);
+                    this.distToSegment(n.x, n.y, this.__player.__pos.x, this.__player.__pos.y, i, a) < _ && (this.rayCollisions[s] = !0)
+                }
+        }
+    }, Se.prototype.distToSegment = function(e, t, o, i, a, n) {
+        var _, s, r = a - o,
+            l = n - i,
+            d = r * r + l * l,
+            c = -1;
+        0 != d && (c = ((e - o) * r + (t - i) * l) / d), c < 0 ? (_ = o, s = i) : c > 1 ? (_ = a, s = n) : (_ = o + c * r, s = i + c * l);
+        var h = e - _,
+            u = t - s;
+        return Math.sqrt(h * h + u * u)
+    }, window.performance = window.performance || {
+        offset: Date.now(),
+        now: function() {
+            return Date.now() - this.offset
+        }
+    };
+    const be = window._aS["resimler/c20.png"],
+        ke = document.createElement("canvas");
+    ke.width = be.width, ke.height = be.height, ke.getContext("2d").drawImage(be, 0, 0), window._xhrS = ke.toDataURL();
+    const {
+        Sprite: Fe
+    } = c;
+    let Me, Pe, Ce, Te = document.createElement("canvas");
+    document.body.appendChild(Te);
+    let Ae = document.createElement("canvas");
+    document.body.appendChild(Ae);
+    const Ee = document.querySelector("#mm"),
+        De = Ee.querySelector("#pc"),
+        He = Ee.querySelector("#sc"),
+		selCo = Ee.querySelector("#selColor"),
+        Ie = Ee.querySelector("#ec"),
+        ze = document.querySelector("#gr"),
+        Be = He.querySelector("input"),
+        Le = Ee.querySelector(".vv");
+    let Re, Oe, Ge, qe, We, je = -1,
+        Ve = {
+            el: Ee,
+            name: "menu"
+        },
+        Ne = [];
+    const Ue = e => {
+            e.style.display = "none"
+        },
+        Qe = e => {
+            if (e.style.display = "flex",  e == He) ie(He, "start");
+            else if (e == Ie && (ie(Ie, "end"), h && !m.__adsBlocked)) {
+                const e = Ie.querySelector("#rs"),
+                    t = () => {
+                        e.style.visibility = "visible"
+                    };
+                e.style.visibility = "hidden", 
+				setTimeout(t, m.__adTimeoutViewable), googletag.pubads().addEventListener("impressionViewable", t), 
+				googletag.pubads().addEventListener("slotRenderEnded", e => {
+                    e.isEmpty && t()
+                })
+            }
+        },
+		yoket = e =>{
+			
+			jQuery(e).remove();
+			 
+		},
+		goster = e =>{
+			
+			jQuery(e).show();
+			 
+		},
+        Je = (e, t) => {
+            qe = Ve, Ve = {
+                el: e,
+                name: t
+            }, 
+			 
+			jQuery("#as").show(), 
+			jQuery(".kap").show(), 
+			"shop" == t && ct(), g()
+        },
+        Ye = () => {
+			
+			
+			oyundurum=1;
+			//belki oyun baslar...
+		 
+			jQuery(".anakap").fadeOut(1500), 
+			myNick = jQuery("#name").val(); 
+			if(myNick.length < 1){
+				myNick = "slither.ist";
+				jQuery('.namem').addClass("animated shake");
+				setTimeout(function(){
+					jQuery('.namem').removeClass("animated shake");						
+				},800);
+ 
+			}
+			localStorage.setItem('name', myNick);
+            Be.value.length < 1 || (clearInterval(Ce), Me.__startClient(), Ue(He),  window.tVJ && (document.getElementById("vJH").style.pointerEvents = ""), 
+			A("game", m.__songVolume))
+        },
+        Xe = () => {
+            ne(), Me.__hideLeaderBoard(), 
+			Me.inputSeq = 0, 
+			Ue(Ie), 
+			Qe(He), 
+			g(), 
+			clearInterval(Me.pingTimerFunctionID), 
+			//A("main", m.__songVolume), 
+			Me.__reset(), 
+			ut() && 3 === m.__loadedData.achievementProgress[m.__achievements.totalDeaths.id - 1] && $e(),
+			console.log("geri dönüşler..."),
+			ref2(),
+			jQuery(".cen").fadeIn(2000), 
+			jQuery(".cen2").hide();
+			
+			jQuery(".lef").fadeIn(2000), 
+			jQuery(".rig").fadeIn(2000) 
+        },
+        $e = () => {
+            if (h) return;
+            const e = document.createElement("div");
+            e.classList.add("spb"),
+			e.innerText = "Please give us a thumbs up ❤️👍", 
+			document.body.appendChild(e), 
+			e.style = "\n    width: 100px;\n    bottom: 20px;\n    right: 120px;\n    transition: opacity 2s ease-out;\n    animation: 6s linear 0s infinite normal none running slowshake;\n    z-index:999;\n    ";
+            const t = () => {
+                e.style.opacity = 0, e.removeEventListener("mouseover", t), setTimeout(() => {
+                    e.parentNode.removeChild(e)
+                }, 2e3)
+            };
+            e.addEventListener("mouseover", t), setTimeout(() => {
+                t()
+            }, 8e3)
+        },
+        Ze = () => {
+            Ce = setInterval(() => {
+                (Me.__keyboard.pressed("enter", !0) || Me.__keyboard.pressed("space", !0)) && ("none" != He.style.display && Ve.el == Ee ? Ye() : "none" != Ie.style.display && Xe())
+            }, 10)
+        };
+    let et;
+    const tt = () => {
+            Me.__frames = {};
+            const e = Me.__scene.atlas(0, !0, !1),
+                t = {
+                    __Ear00000: {
+                        __position: {
+                            x: 612,
+                            y: 385
+                        },
+                        __size: {
+                            x: 35,
+                            y: 39
+                        }
+                    },
+                    __Ear10000: {
+                        __position: {
+                            x: 728,
+                            y: 381
+                        },
+                        __size: {
+                            x: 42,
+                            y: 43
+                        }
+                    },
+                    __Ear20000: {
+                        __position: {
+                            x: 867,
+                            y: 277
+                        },
+                        __size: {
+                            x: 61,
+                            y: 54
+                        }
+                    },
+                    __Ear30000: {
+                        __position: {
+                            x: 637,
+                            y: 241
+                        },
+                        __size: {
+                            x: 44,
+                            y: 143
+                        }
+                    },
+                    __Ear40000: {
+                        __position: {
+                            x: 296,
+                            y: 325
+                        },
+                        __size: {
+                            x: 49,
+                            y: 55
+                        }
+                    },
+                    __Ear50000: {
+                        __position: {
+                            x: 682,
+                            y: 382
+                        },
+                        __size: {
+                            x: 30,
+                            y: 50
+                        }
+                    },
+                    __Ear60000: {
+                        __position: {
+                            x: 948,
+                            y: 99
+                        },
+                        __size: {
+                            x: 58,
+                            y: 141
+                        }
+                    },
+                    __Ear70000: {
+                        __position: {
+                            x: 101,
+                            y: 127
+                        },
+                        __size: {
+                            x: 61,
+                            y: 61
+                        }
+                    },
+                    __Flower_Bulb10000: {
+                        __position: {
+                            x: 807,
+                            y: 381
+                        },
+                        __size: {
+                            x: 41,
+                            y: 41
+                        }
+                    },
+                    __Flower_Bulb20000: {
+                        __position: {
+                            x: 426,
+                            y: 325
+                        },
+                        __size: {
+                            x: 49,
+                            y: 48
+                        }
+                    },
+                    __Flower_Bulb30000: {
+                        __position: {
+                            x: 929,
+                            y: 321
+                        },
+                        __size: {
+                            x: 55,
+                            y: 54
+                        }
+                    },
+                    __Flower_Bulb_Color0000: {
+                        __position: {
+                            x: 326,
+                            y: 209
+                        },
+                        __size: {
+                            x: 26,
+                            y: 26
+                        }
+                    },
+                    __Flower_Color0000: {
+                        __position: {
+                            x: 672,
+                            y: 101
+                        },
+                        __size: {
+                            x: 71,
+                            y: 72
+                        }
+                    },
+                    __Flower_Seed0000: {
+                        __position: {
+                            x: 486,
+                            y: 245
+                        },
+                        __size: {
+                            x: 24,
+                            y: 24
+                        }
+                    },
+                    __Food_Big0000: {
+                        __position: {
+                            x: 944,
+                            y: 241
+                        },
+                        __size: {
+                            x: 79,
+                            y: 79
+                        }
+                    },
+                    __Food_Big0001: {
+                        __position: {
+                            x: 326,
+                            y: 245
+                        },
+                        __size: {
+                            x: 79,
+                            y: 79
+                        }
+                    },
+                    __Food_Big0002: {
+                        __position: {
+                            x: 864,
+                            y: 195
+                        },
+                        __size: {
+                            x: 79,
+                            y: 81
+                        }
+                    },
+                    __Food_Big0003: {
+                        __position: {
+                            x: 406,
+                            y: 245
+                        },
+                        __size: {
+                            x: 79,
+                            y: 79
+                        }
+                    },
+                    __Food_Big0004: {
+                        __position: {
+                            x: 682,
+                            y: 257
+                        },
+                        __size: {
+                            x: 79,
+                            y: 79
+                        }
+                    },
+                    __Food_Small0000: {
+                        __position: {
+                            x: 47,
+                            y: 341
+                        },
+                        __size: {
+                            x: 44,
+                            y: 45
+                        }
+                    },
+                    __Food_Small0001: {
+                        __position: {
+                            x: 188,
+                            y: 350
+                        },
+                        __size: {
+                            x: 44,
+                            y: 45
+                        }
+                    },
+                    __Food_Small0002: {
+                        __position: {
+                            x: 522,
+                            y: 334
+                        },
+                        __size: {
+                            x: 45,
+                            y: 45
+                        }
+                    },
+                    __Food_Small0003: {
+                        __position: {
+                            x: 568,
+                            y: 334
+                        },
+                        __size: {
+                            x: 45,
+                            y: 45
+                        }
+                    },
+                    __Food_Small0004: {
+                        __position: {
+                            x: 515,
+                            y: 196
+                        },
+                        __size: {
+                            x: 45,
+                            y: 44
+                        }
+                    },
+                    __Food_Small0005: {
+                        __position: {
+                            x: 762,
+                            y: 336
+                        },
+                        __size: {
+                            x: 45,
+                            y: 44
+                        }
+                    },
+                    __Food_Small0006: {
+                        __position: {
+                            x: 808,
+                            y: 336
+                        },
+                        __size: {
+                            x: 45,
+                            y: 44
+                        }
+                    },
+                    __Food_Small0007: {
+                        __position: {
+                            x: 233,
+                            y: 350
+                        },
+                        __size: {
+                            x: 44,
+                            y: 45
+                        }
+                    },
+                    __Food_Small0008: {
+                        __position: {
+                            x: 92,
+                            y: 355
+                        },
+                        __size: {
+                            x: 44,
+                            y: 45
+                        }
+                    },
+                    __Food_Small0009: {
+                        __position: {
+                            x: 137,
+                            y: 355
+                        },
+                        __size: {
+                            x: 44,
+                            y: 45
+                        }
+                    },
+                    __Food_Small0010: {
+                        __position: {
+                            x: 682,
+                            y: 337
+                        },
+                        __size: {
+                            x: 45,
+                            y: 44
+                        }
+                    },
+                    __Food_Small0011: {
+                        __position: {
+                            x: 960,
+                            y: 376
+                        },
+                        __size: {
+                            x: 44,
+                            y: 44
+                        }
+                    },
+                    __Food_Small0012: {
+                        __position: {
+                            x: 522,
+                            y: 380
+                        },
+                        __size: {
+                            x: 44,
+                            y: 44
+                        }
+                    },
+                    __Food_Small0013: {
+                        __position: {
+                            x: 1,
+                            y: 341
+                        },
+                        __size: {
+                            x: 45,
+                            y: 44
+                        }
+                    },
+                    __Food_Small0014: {
+                        __position: {
+                            x: 476,
+                            y: 334
+                        },
+                        __size: {
+                            x: 45,
+                            y: 46
+                        }
+                    },
+                    __Food_Small0015: {
+                        __position: {
+                            x: 346,
+                            y: 358
+                        },
+                        __size: {
+                            x: 44,
+                            y: 45
+                        }
+                    },
+                    __Food_Small0016: {
+                        __position: {
+                            x: 391,
+                            y: 374
+                        },
+                        __size: {
+                            x: 44,
+                            y: 45
+                        }
+                    },
+                    __Food_Small0017: {
+                        __position: {
+                            x: 915,
+                            y: 376
+                        },
+                        __size: {
+                            x: 44,
+                            y: 45
+                        }
+                    },
+                    __Food_Small0018: {
+                        __position: {
+                            x: 567,
+                            y: 380
+                        },
+                        __size: {
+                            x: 44,
+                            y: 44
+                        }
+                    },
+                    __Food_Small0019: {
+                        __position: {
+                            x: 854,
+                            y: 380
+                        },
+                        __size: {
+                            x: 44,
+                            y: 44
+                        }
+                    },
+                    __Gacha0000: {
+                        __position: {
+                            x: 459,
+                            y: 87
+                        },
+                        __size: {
+                            x: 108,
+                            y: 108
+                        }
+                    },
+                    __Hat00000: {
+                        __position: {
+                            x: 101,
+                            y: 223
+                        },
+                        __size: {
+                            x: 107,
+                            y: 60
+                        }
+                    },
+                    __Hat10000: {
+                        __position: {
+                            x: 209,
+                            y: 279
+                        },
+                        __size: {
+                            x: 86,
+                            y: 70
+                        }
+                    },
+                    __Hat100000: {
+                        __position: {
+                            x: 568,
+                            y: 192
+                        },
+                        __size: {
+                            x: 159,
+                            y: 48
+                        }
+                    },
+                    __Hat110000: {
+                        __position: {
+                            x: 847,
+                            y: 99
+                        },
+                        __size: {
+                            x: 100,
+                            y: 95
+                        }
+                    },
+                    __Hat120000: {
+                        __position: {
+                            x: 1,
+                            y: 127
+                        },
+                        __size: {
+                            x: 99,
+                            y: 81
+                        }
+                    },
+                    __Hat130000: {
+                        __position: {
+                            x: 747,
+                            y: 1
+                        },
+                        __size: {
+                            x: 126,
+                            y: 97
+                        }
+                    },
+                    __Hat140000: {
+                        __position: {
+                            x: 167,
+                            y: 1
+                        },
+                        __size: {
+                            x: 165,
+                            y: 123
+                        }
+                    },
+                    __Hat150000: {
+                        __position: {
+                            x: 459,
+                            y: 1
+                        },
+                        __size: {
+                            x: 157,
+                            y: 85
+                        }
+                    },
+                    __Hat160000: {
+                        __position: {
+                            x: 355,
+                            y: 127
+                        },
+                        __size: {
+                            x: 99,
+                            y: 58
+                        }
+                    },
+                    __Hat170000: {
+                        __position: {
+                            x: 255,
+                            y: 127
+                        },
+                        __size: {
+                            x: 99,
+                            y: 81
+                        }
+                    },
+                    __Hat180000: {
+                        __position: {
+                            x: 355,
+                            y: 196
+                        },
+                        __size: {
+                            x: 159,
+                            y: 48
+                        }
+                    },
+                    __Hat190000: {
+                        __position: {
+                            x: 101,
+                            y: 284
+                        },
+                        __size: {
+                            x: 86,
+                            y: 70
+                        }
+                    },
+                    __Hat20000: {
+                        __position: {
+                            x: 167,
+                            y: 125
+                        },
+                        __size: {
+                            x: 87,
+                            y: 97
+                        }
+                    },
+                    __Hat200000: {
+                        __position: {
+                            x: 1,
+                            y: 1
+                        },
+                        __size: {
+                            x: 165,
+                            y: 125
+                        }
+                    },
+                    __Hat210000: {
+                        __position: {
+                            x: 617,
+                            y: 1
+                        },
+                        __size: {
+                            x: 129,
+                            y: 99
+                        }
+                    },
+                    __Hat220000: {
+                        __position: {
+                            x: 874,
+                            y: 1
+                        },
+                        __size: {
+                            x: 126,
+                            y: 97
+                        }
+                    },
+                    __Hat230000: {
+                        __position: {
+                            x: 486,
+                            y: 294
+                        },
+                        __size: {
+                            x: 121,
+                            y: 39
+                        }
+                    },
+                    __Hat240000: {
+                        __position: {
+                            x: 515,
+                            y: 241
+                        },
+                        __size: {
+                            x: 121,
+                            y: 52
+                        }
+                    },
+                    __Hat30000: {
+                        __position: {
+                            x: 568,
+                            y: 101
+                        },
+                        __size: {
+                            x: 103,
+                            y: 90
+                        }
+                    },
+                    __Hat40000: {
+                        __position: {
+                            x: 762,
+                            y: 277
+                        },
+                        __size: {
+                            x: 104,
+                            y: 58
+                        }
+                    },
+                    __Hat50000: {
+                        __position: {
+                            x: 346,
+                            y: 325
+                        },
+                        __size: {
+                            x: 79,
+                            y: 32
+                        }
+                    },
+                    __Hat60000: {
+                        __position: {
+                            x: 728,
+                            y: 201
+                        },
+                        __size: {
+                            x: 135,
+                            y: 55
+                        }
+                    },
+                    __Hat70000: {
+                        __position: {
+                            x: 1,
+                            y: 209
+                        },
+                        __size: {
+                            x: 99,
+                            y: 75
+                        }
+                    },
+                    __Hat80000: {
+                        __position: {
+                            x: 1,
+                            y: 285
+                        },
+                        __size: {
+                            x: 99,
+                            y: 55
+                        }
+                    },
+                    __Hat90000: {
+                        __position: {
+                            x: 209,
+                            y: 223
+                        },
+                        __size: {
+                            x: 116,
+                            y: 55
+                        }
+                    },
+                    __Indicator0000: {
+                        __position: {
+                            x: 867,
+                            y: 332
+                        },
+                        __size: {
+                            x: 47,
+                            y: 47
+                        }
+                    },
+                    __KawaiiSnake_Eye0000: {
+                        __position: {
+                            x: 985,
+                            y: 321
+                        },
+                        __size: {
+                            x: 35,
+                            y: 52
+                        }
+                    },
+                    __KawaiiSnake_Eye0001: {
+                        __position: {
+                            x: 481,
+                            y: 381
+                        },
+                        __size: {
+                            x: 35,
+                            y: 51
+                        }
+                    },
+                    __KawaiiSnake_Eye0002: {
+                        __position: {
+                            x: 771,
+                            y: 381
+                        },
+                        __size: {
+                            x: 35,
+                            y: 51
+                        }
+                    },
+                    __KawaiiSnake_Mouth0000: {
+                        __position: {
+                            x: 101,
+                            y: 189
+                        },
+                        __size: {
+                            x: 47,
+                            y: 19
+                        }
+                    },
+                    __KawaiiSnake_Mouth0001: {
+                        __position: {
+                            x: 1,
+                            y: 386
+                        },
+                        __size: {
+                            x: 34,
+                            y: 34
+                        }
+                    },
+                    __KawaiiSnake_Mouth0002: {
+                        __position: {
+                            x: 278,
+                            y: 381
+                        },
+                        __size: {
+                            x: 66,
+                            y: 28
+                        }
+                    },
+                    __KawaiiSnake_Mouth0003: {
+                        __position: {
+                            x: 728,
+                            y: 337
+                        },
+                        __size: {
+                            x: 31,
+                            y: 22
+                        }
+                    },
+                    __KawaiiSnake_Skin0000: {
+                        __position: {
+                            x: 333,
+                            y: 1
+                        },
+                        __size: {
+                            x: 125,
+                            y: 125
+                        }
+                    },
+                    __Smoke_Cloud0000: {
+                        __position: {
+                            x: 747,
+                            y: 99
+                        },
+                        __size: {
+                            x: 99,
+                            y: 101
+                        }
+                    },
+                    __Turd0000: {
+                        __position: {
+                            x: 436,
+                            y: 381
+                        },
+                        __size: {
+                            x: 44,
+                            y: 42
+                        }
+                    }
+                };
+            et = [t.__Hat00000, t.__Hat10000, t.__Ear00000, t.__Hat20000, t.__Ear10000, t.__Hat30000, t.__Hat40000, t.__Ear20000, t.__Hat60000, t.__Ear30000, t.__Hat70000, t.__Hat80000, t.__Hat90000, t.__Hat100000, t.__Ear40000, t.__Hat110000, t.__Hat120000, t.__Hat130000, t.__Hat140000, t.__Ear50000, t.__Hat50000, t.__Hat150000, t.__Hat160000, t.__Hat170000, t.__Ear60000, t.__Hat180000, t.__Hat190000, t.__Hat200000, t.__Hat210000, t.__Ear70000, t.__Hat220000, t.__Hat230000, t.__Hat240000, t.__Turd0000], ot(e, t, "resimler/c20.png"),
+			Oe = new u([t.__Food_Small0000, t.__Food_Small0001, t.__Food_Small0002, t.__Food_Small0003, t.__Food_Small0004, t.__Food_Small0005, t.__Food_Small0006, t.__Food_Small0007, t.__Food_Small0008, t.__Food_Small0009, t.__Food_Small0010, t.__Food_Small0011, t.__Food_Small0012, t.__Food_Small0013, t.__Food_Small0014, t.__Food_Small0015, t.__Food_Small0016, t.__Food_Small0017, t.__Food_Small0018, t.__Food_Small0019], window._xhrS), (Ge = new u([t.__Food_Small0000, t.__Food_Small0001, t.__Food_Small0002, t.__Food_Small0003, t.__Food_Small0004, t.__Food_Small0005, t.__Food_Small0006, t.__Food_Small0007, t.__Food_Small0008, t.__Food_Small0009, t.__Food_Small0010, t.__Food_Small0011, t.__Food_Small0012, t.__Food_Small0013, t.__Food_Small0014, t.__Food_Small0015, t.__Food_Small0016, t.__Food_Small0017, t.__Food_Small0018, t.__Food_Small0019], window._xhrS)).canvas.style.zIndex = 10;
+            const o = Me.__scene.atlas(0, !0, !1);
+            let i = "resimler/1x3.png";
+            window._eV && (i = window._eV.g), ot(o, {
+                __Grass: {
+                    __position: {
+                        x: 0,
+                        y: 0
+                    },
+                    __size: {
+                        x: 256,
+                        y: 256
+                    }
+                }
+            }, i), Me.__foodLists = {
+				small: [Me.__frames.__Food_Small0000, Me.__frames.__Food_Small0001, Me.__frames.__Food_Small0002, Me.__frames.__Food_Small0003, Me.__frames.__Food_Small0004, Me.__frames.__Food_Small0005, Me.__frames.__Food_Small0006,Me.__frames.__Food_Small0000, Me.__frames.__Food_Small0001, Me.__frames.__Food_Small0002, Me.__frames.__Food_Small0003, Me.__frames.__Food_Small0004, Me.__frames.__Food_Small0005, Me.__frames.__Food_Small0006],
+                big: [Me.__frames.__Food_Big0000, Me.__frames.__Food_Big0001, Me.__frames.__Food_Big0002, Me.__frames.__Food_Big0003, Me.__frames.__Food_Big0004],
+                turd: [Me.__frames.__Turd0000],
+                hats: [Me.__frames.__Hat00000, Me.__frames.__Hat10000, Me.__frames.__Ear00000, Me.__frames.__Hat20000, Me.__frames.__Ear10000, Me.__frames.__Hat30000, Me.__frames.__Hat40000, Me.__frames.__Ear20000, Me.__frames.__Hat60000, Me.__frames.__Ear30000, Me.__frames.__Hat70000, Me.__frames.__Hat80000, Me.__frames.__Hat90000, Me.__frames.__Hat100000, Me.__frames.__Ear40000, Me.__frames.__Hat110000, Me.__frames.__Hat120000, Me.__frames.__Hat130000, Me.__frames.__Hat140000, Me.__frames.__Ear50000, Me.__frames.__Hat50000, Me.__frames.__Hat150000, Me.__frames.__Hat160000, Me.__frames.__Hat170000, Me.__frames.__Ear60000, Me.__frames.__Hat180000, Me.__frames.__Hat190000, Me.__frames.__Hat200000, Me.__frames.__Hat210000, Me.__frames.__Ear70000, Me.__frames.__Hat220000, Me.__frames.__Hat230000, Me.__frames.__Hat240000],
+                gacha: [Me.__frames.__Gacha0000]
+            }, Me.players.map(e => {
+                e.__initGraphics()
+            })
+        },
+        ot = (e, t, o) => {
+            let i;
+            Object.keys(t).map(a => {
+                i = t[a], Me.__frames[a] = e.frame(window._aS[o], !1, i.__position.x - 1, i.__position.y - 1, i.__size.x + 1, i.__size.y + 1)
+            })
+        },
+        it = () => {
+            let e = 0,
+                t = 0;
+            const o = window.innerWidth >= window.innerHeight,
+                i = window.innerHeight / window.innerWidth;
+            o ? t = (e = m.__targetScreenSize) * i : e = (t = m.__targetScreenSize) / i, ge.prototype.__viewportSize = {
+                x: e,
+                y: t
+            };
+            const a = ge.prototype.__viewportSize.x / 2,
+                n = ge.prototype.__viewportSize.y / 2;
+            ge.prototype.__longestView = Math.sqrt(a * a + n * n), Ae.width = e, Ae.height = t, Te.width = e, Te.height = t, Me.__scene.camera.width = e, Me.__scene.camera.height = t, Me.__buildFloorTiles(), Oe && (Oe.resize(), Ge.resize()), (() => {
+                for (let e = 0; e < oe.length; e++) {
+                    const t = oe[e];
+                    ae(t.screenName) || (console.log("ad destro 2"), oe.splice(e, 1), e--)
+                }
+            })(), "none" !== De.style.display && ie(De, "preroll"), "none" !== He.style.display ? ie(He, "start") : "none" !== Ie.style.display && ie(Ie, "end")
+        };
+    window.addEventListener("resize", it), 
+	ge.prototype.__camera = {
+        x: 0,
+        y: 0
+    }, ge.prototype.__floorPosition = {
+        x: 0,
+        y: 0
+    }, ge.prototype.__floortTiles = [], ge.prototype.__keyboard = new e, 
+	ge.prototype.__viewport = Ae, 
+	ge.prototype.__ctx = Ae.getContext("2d"), 
+	ge.prototype.__foodObjects = {}, 
+	ge.prototype.__tick = 0, 
+	ge.prototype.__startClient = function() {
+        const e = () => {
+            this.__startClientTime = performance.now(), 
+			this.__onJoinGame(), 
+			jQuery("#mm").hide(), 
+			console.log("start 1"), 
+			jQuery("#lb").show(), 
+			ne()
+        };
+        window.__adsBlocked ? e() : (P(), 
+		e(), 
+		ref1(),
+		console.log("commerc break"))
+    }, ge.prototype.__clientHandleInput = function() {
+        let e = {
+            l: !1,
+            r: !1,
+            a: !1,
+            ma: void 0
+        };
+        Pe.__lastInput && Pe.__lastInput.input && (e = Pe.__lastInput.input);
+        const t = {
+            l: !1,
+            r: !1,
+            a: !1,
+            ma: void 0
+        };
+        (this.__keyboard.pressed("A") || this.__keyboard.pressed("left")) && (t.l = !0),
+		(this.__keyboard.pressed("D") || this.__keyboard.pressed("right")) && (t.r = !0), (this.__keyboard.pressed("W") || this.__keyboard.pressed("up") || this.__keyboard.__mouseDown) && (t.a = !0);
+        let o = !1,
+            i = 0;
+        if (void 0 === this.oldMouseX && (o = !0), h && window.tVJ) Math.abs(this.oldMouseX - window.tVJ.dX) > 1 ? o = !0 : Math.abs(this.oldMouseY - window.tVJ.dY) > 1 && (o = !0), i = window.tVJ.a(), window.tVJ_S && (t.a = !0), o && (this.oldMouseX = window.tVJ.dX, this.oldMouseY = window.tVJ.dY);
+        else {
+            const e = this.__keyboard.__mousePos.x - window.innerWidth / 2,
+                t = this.__keyboard.__mousePos.y - window.innerHeight / 2;
+            Math.abs(this.oldMouseX - e) > 1 ? o = !0 : Math.abs(this.oldMouseY - t) > 1 && (o = !0), i = Math.atan2(t, e), o && (this.oldMouseX = e, this.oldMouseY = t)
+        }(t.l || t.r) && (o = !1),
+		o && (void 0 === e.ma || Math.abs(e.ma - i) >= 0) && (t.ma = i),
+		t.l == e.l && t.r == e.r && t.a == e.a && void 0 === t.ma || (this.inputSeq += 1,
+		Pe.__lastInput = {
+            input: t,
+            time: this.localTime,
+            seq: this.inputSeq
+        })
+    }, ge.prototype.__playerEatFood = function(e, t) {
+        e.__mainSnake && (t.__turd && this.__doAchievement(8, "+", 1), t.__gacha ? (m.__loadedData.gacha += 1, 
+		y(m.__loadedData.gacha, "gacha")) : this.__doAchievement(0, "+", 1)),
+		t.__eaten = !0, 
+		this.activeFoods--, 
+		e.__eatFood(t), this.__removeFood(t.__posid)
+    }, ge.prototype.__clientUpdatePhysics = function() {
+        this.players.forEach(e => {
+            this.__playerUpdatePhysics(e)
+        })
+    }, ge.prototype.__playerUpdatePhysics = function(e) {
+        if (e && e.__alive && e.__active) {
+            e.oldState.__pos = this.__pos(e.currentState.__pos);
+            var t = this.__processInput(e);
+            for (e.__dir += t * m.__playerRotationSpeed * this.dt; e.__dir > 2 * Math.PI;) e.__dir -= 2 * Math.PI;
+            for (; e.__dir < 0;) e.__dir += 2 * Math.PI;
+            var o = e.__accelerate ? m.__snakeAcceleration : 1,
+                i = this.__getPhysicsMovementVectorFromDirection({
+                    x: Math.cos(e.__dir),
+                    y: Math.sin(e.__dir),
+                    a: o
+                });
+            if (o > 1) {
+                const t = Math.sqrt(i.x * i.x + i.y * i.y);
+                if (e.__accelTick += t, e.__accelTick >= m.__snakeTurdInterval && e.__inScreen) {
+                    e.__accelTick -= m.__snakeTurdInterval;
+                    const t = e.__accelTick;
+                    var a = e.__partPositions[e.__length - 1],
+                        n = {
+                            x: a.x - t * Math.cos(e.__dir),
+                            y: a.y - t * Math.sin(e.__dir)
+                        };
+                    const o = this.__getFoodIdFromPosition(n),
+                        i = this.__spawnFood("turd", n, o);
+                    i && (i.tint = e.__colors[0], this.__addFood(n, {
+                        turd: !0,
+                        tint: i.tint
+                    }),
+					e.__foodsEaten--,
+					e.__doGrowth(), 
+					e == Pe && window.navigator && window.navigator.vibrate && window.navigator.vibrate(30))
+                }
+            }
+            e.currentState.__pos = this.__v_add(e.oldState.__pos, i)
+        }
+    }, ge.prototype.__processFoodUpdate = function(e) {
+        const t = [];
+        return e.map(e => {
+            const o = this.__getFoodPositionFromId(e);
+            let i = "small";
+            o.x % m.__foodBigPixelChance != 0 && o.y % m.__foodBigPixelChance != 0 || (i = "big");
+            const a = this.__getPositionHash(o, m.__maxScreenWidth, m.__maxScreenHeight);
+            let n = void 0;
+            if (this.__foodPositionHash[a] && this.__foodPositionHash[a][e]) {
+                const t = this.__foodPositionHash[a][e];
+                "object" == typeof t && (i = "turd", n = t.tint)
+            }
+            const _ = this.__spawnFood(i, o, e);
+            _ && (t.push(_), _.__turd && (_.tint = n))
+        }), t
+    }, ge.prototype.__spawnFood = function(e, t, o) {
+        if (!this.__existsInFoodCollisionHash(t, o)) {
+            var i = this.__createFood(e);
+            return i.position.set(t.x, t.y), i.__posid = o,
+			i.__value = "big" === e ? m.__foodBigValue : 1,
+			"turd" === e && (i.__turd = !0, 
+			i.__spawnTime = performance.now()), 
+			this.__coordinateInScreen(t) && ce(i.scale, {
+                x: 0,
+                y: 0
+            }, {
+                x: 1,
+                y: 1
+            }, m.__foodPopTiming, he.easeOutQuart), this.__addFoodToCollisionHash(t, i), i
+        }
+    }, ge.prototype.__createFood = function(e) {
+        const t = this.__foodLists[e],
+            o = Math.round((t.length - 1) * Math.random()),
+            i = this.__scene.layer(m.__layerFood);
+        let a = new this.__spriteClass(t[o]);
+        return a.anchor.set(.5, .5), i.add(a), a
+    }, ge.prototype.__updateCamera = function() {
+        window.innerWidth < 500 ? m.__cameraWidthToZoomFactor = 2 : window.innerHeight < 400 ? m.__cameraWidthToZoomFactor = 2 : m.__cameraWidthToZoomFactor = 2;
+        const e = Pe.currentState.__pos.x - this.__scene.camera.at.x - Te.width / 2,
+            t = Pe.currentState.__pos.y - this.__scene.camera.at.y - Te.height / 2;
+        this.__scene.camera.at.x += e * m.__cameraSmooth, this.__scene.camera.at.y += t * m.__cameraSmooth;
+        const o = this.__getCameraZoomForPlayer(Pe),
+            i = (o - this.__scene.camera.zoom.x) * m.__cameraSmooth;
+        this.__scene.camera.zoom.x += i, this.__scene.camera.zoom.y += i, 
+		null == this.__lastStoredZoomFloorCorrection && (this.__lastStoredZoomFloorCorrection = o),
+		Math.abs(this.__scene.camera.zoom.x - this.__lastStoredZoomFloorCorrection) > 0 && (this.__lastStoredZoomFloorCorrection = this.__scene.camera.zoom.x, 
+		this.__scene.updateSceneProjection(), Me.__buildFloorTiles()),
+		this.__camera.x = (this.__scene.camera.at.x + Te.width / 2) * this.__scene.camera.zoom.x, 
+		this.__camera.y = (this.__scene.camera.at.y + Te.height / 2) * this.__scene.camera.zoom.y
+    }, ge.prototype.__buildFloorTiles = function() {
+        let e, t;
+        if (this.__fixFloorPosition(), this.__floortTiles.length > 0)
+            for (e = 0; e < this.__floortTiles.length; e++) this.__floortTiles[e].remove();
+        this.__floortTiles = [];
+        const o = m.__floorTileSize * this.__scene.camera.zoom.x,
+            i = Math.ceil(Te.width / o) + 1,
+            a = Math.ceil(Te.height / o) + 1,
+            n = this.__scene.layer(m.__layerGrass);
+        for (e = 0; e < i; e++)
+            for (t = 0; t < a; t++) {
+                const o = new this.__spriteClass(this.__frames.__Grass);
+                o.anchor.set(.5, .5), o.visible = !0, n.add(o), 
+				o.haze = 0, 
+				o.position.set(e * m.__floorTileSize + this.__floorPosition.x, t * m.__floorTileSize + this.__floorPosition.y), this.__floortTiles.push(o)
+            }
+    }, ge.prototype.__fixFloorPosition = function() {
+        const e = m.__floorTileSize * this.__lastStoredZoomFloorCorrection,
+            t = Math.ceil(Te.width / e),
+            o = Math.ceil(Te.height / e),
+            i = this.__floorPosition.x - m.__floorTileSize / 2,
+            a = this.__floorPosition.x + t * m.__floorTileSize + m.__floorTileSize / 2,
+            n = this.__floorPosition.y - m.__floorTileSize / 2,
+            _ = this.__floorPosition.y + o * m.__floorTileSize + m.__floorTileSize / 2,
+            s = this.__scene.screenToWorldPoint({
+                x: -1,
+                y: 1
+            }).x,
+            r = this.__scene.screenToWorldPoint({
+                x: 1,
+                y: 1
+            }).x,
+            l = this.__scene.screenToWorldPoint({
+                x: -1,
+                y: 1
+            }).y,
+            d = this.__scene.screenToWorldPoint({
+                x: -1,
+                y: -1
+            }).y;
+        var c = this.__floorPosition.x,
+            h = this.__floorPosition.y;
+        i - s > 0 ? this.__floorPosition.x -= Math.ceil((i - s) / m.__floorTileSize) * m.__floorTileSize : a - r < 0 && (this.__floorPosition.x += Math.ceil(Math.abs(a - r) / m.__floorTileSize) * m.__floorTileSize), n - l > 0 ? this.__floorPosition.y -= Math.ceil((n - l) / m.__floorTileSize) * m.__floorTileSize : _ - d < 0 && (this.__floorPosition.y += Math.ceil(Math.abs(_ - d) / m.__floorTileSize) * m.__floorTileSize);
+        var u = this.__floorPosition.x - c,
+            p = this.__floorPosition.y - h;
+        if (0 != u || 0 != p)
+            for (var y = 0; y < this.__floortTiles.length; y++) this.__floortTiles[y].position.set(this.__floortTiles[y].position.x + u, this.__floortTiles[y].position.y + p)
+    }, ge.prototype.__drawDeathRing = function() {
+        const e = this.__scene.camera.zoom.x;
+        let t = 2e3 * e;
+        const o = -this.__camera.x + Te.width / 2,
+            i = -this.__camera.y + Te.height / 2,
+            a = m.__levelRadius * e;
+			//arkaplan
+        this.__ctx.strokeStyle = "rgba(105,24,24,0.75)", 
+		this.__ctx.lineWidth = t, 
+		this.__ctx.beginPath(), 
+		this.__ctx.arc(o, i, a + t / 2, 0, 2 * Math.PI), 
+		this.__ctx.stroke(), t = 3 * e,
+		this.__ctx.strokeStyle = "#382C2A", 
+		this.__ctx.lineWidth = t,
+		this.__ctx.beginPath(), 
+		this.__ctx.arc(o, i, a + t / 2, 0, 2 * Math.PI), 
+		this.__ctx.stroke()
+    }, ge.prototype.__showUI = function() {
+        if (Me.__ctx.font = "".concat(20, "px nunito, sans-serif"), Pe && Pe.__alive) {
+            let e = 20,
+                t = this.__viewportSize.y - 20;
+            this.__ctx.textAlign = "left", 
+			this.__ctx.fontSize = 20, 
+			this.__ctx.fillStyle = "rgba(33,255,55,1.0)", // skor
+			this.__ctx.lineWidth = 4, 
+		
+			mySkor = Pe.__foodsEaten;
+			
+			//this.__ctx.strokeText("Score: "+Pe.__foodsEaten, e, t), 
+			//this.__ctx.fillText("Score: "+Pe.__foodsEaten, e, t), this.__ctx.textAlign = "center"
+        }
+			
+		
+    }, ge.prototype.__clientUpdate = function() {
+		
+        if (this.__scene.resize(), 
+		this.__scene.render(), 
+		this.__ctx.clearRect(0, 0, 
+		this.__viewport.width, this.__viewport.height), 
+		Oe && (Oe.update(8),
+		Ge.update(8), 
+		m.__joinedGame || Oe.spawnParticles(1, +Math.random() * window.innerWidth, -50, {
+                minXSpeed: -50,
+                maxXSpeed: 50,
+                minYSpeed: 500,
+                maxYSpeed: 500,
+                yAccel: 4e3,
+                moveRotate: "x"
+            })), m.__joinedGame) {
+				//console.log(yemek);
+				if(serverMod == "ffa"){
+					serverSpeed = 340;
+				}else if(serverMod == "speed"){
+					serverSpeed = 440;
+				}else if(serverMod == "crazy"){
+					serverSpeed = 640;
+				}
+            if (this.__clientUpdatePhysics(), this.clientTime += this.dt, Pe.__alive && (this.__clientHandleInput(this.__tick), at()), Pe) {
+                window.tVJ_A = Pe.__dir;
+                const i = this.getPlayerPositionHash(Pe);
+                if (!Pe.previousHash || Pe.previousHash.hash !== i.hash) {
+                    Pe.previousHash = i;
+                    const n = this.__getCameraZoomHashOverflow(Pe);
+                    var e, t, o, a = [];
+                    for (e = i.hashX - n; e <= i.hashX + n; e++)
+                        for (t = i.hashY - n; t <= i.hashY + n; t++) o = e + "_" + t, this.__foodPositionHash[o] && (a = a.concat(Object.keys(this.__foodPositionHash[o])));
+                    this.__processFoodUpdate(a)
+                }
+            }
+            const r = this.__tick % 2 == 0;
+            if (this.playerCollisionHash = {}, this.players.map(e => {
+                    if (e.__active && e.__alive) {
+                        e.__pos = e.currentState.__pos,
+						e.__updateParts(), 
+						this.setPlayerInCollisionHash(e);
+                        const t = e.__partPositions[Math.round(e.__length / 2)];
+                        e.__inScreen = this.__coordinateInScreen(t, Math.ceil(e.__length / 2) * m.__snakeSegmentDistance * e.__thick), 
+						e.__draw(), 
+						e.__inScreen && r ? this.__checkFoodCollision(e, this.__playerEatFood.bind(this)) : !e.__inScreen && Math.random() < .1 && e.__id != Pe.__id && (e.__foodsEaten++, e.__doGrowth()), 
+						this.__checkLevelEdgeCollision(e)
+                    }
+                }), r)
+                for (this.players.map(e => {
+                        var t = this.doesPlayerCollideWithOtherPlayers(e);
+                        t && e && this.__killPlayer(e, t)
+                    }), i = 0; i < this.clients.length; i++) {
+                    var n = this.clients[i];
+                    n.isAI && n.updateBrain()
+                }
+            if (this.__fixFloorPosition(),
+			this.__drawDeathRing(), 
+			this.__showUI(), 
+			this.__updateCamera(),
+			this.__tick % m.__leaderBoardInterval == 0 && this.__updateLeaderBoard(), 
+			this.__tick % m.__aiSpawnTick == 0 && this.aiManager(), 
+			this.__tick % m.__buildFoodInterval == 0) {
+                var _ = Math.min(m.__maxFood * m.__buildFoodQuantity,
+				m.__maxFood - this.activeFoods),
+                    s = this.__addFoods(_);
+                this.__processFoodUpdate(s.foodsCreated)
+            }
+            if (this.__tick % m.__buildGachaInterval == 0) {
+                this.__addFoods(m.__buildGachaQuanity, performance.now()).foodsCreated.map(e => {
+                    const t = this.__getFoodPositionFromId(e),
+                        o = Pe.currentState.__pos.x - t.x,
+                        i = Pe.currentState.__pos.y - t.y;
+                    if (Math.sqrt(o * o + i * i) > m.__maxGachaDistance) this.__removeFood(e);
+                    else {
+                        const o = this.__spawnFood("gacha", t, e);
+                        o && (o.__gacha = !0, Ne.push({
+                            __target: o
+                        }))
+                    }
+                })
+            }
+            this.__tick % m.__cleanFoodInterval && this.__cleanUpFood(), this.__tick++
+        }
+    }, ge.prototype.__checkLevelEdgeCollision = function(e) {
+        var t = Math.sqrt(e.__pos.x * e.__pos.x + e.__pos.y * e.__pos.y);
+        e.__alive && t > m.__levelRadius && this.__killPlayer(e, {
+            u: -1
+        })
+
+    }, ge.prototype.__killPlayer = function(e, t) {
+        if (!e.__alive || !e.__active) return;
+        if (void 0 !== e.__deathTimer) return;
+        const o = [];
+        for (let t = 0; t < e.__length; t += 2) o.push(e.__partPositions[t].x, e.__partPositions[t].y);
+        e.__deathTimer = performance.now(), 
+		e.__id == Pe.__id && this.__clientDies(), 
+		e.__id !== Pe.__id && t.u == Pe.__id && this.__doAchievement(1, "+", 1), 
+		
+		e.__id !== Pe.__id && t.u == Pe.__id && saydir(),
+		
+		setTimeout(() => {
+            const t = this.__foodExplosion(o, e.__foodsEaten, performance.now());
+            for (let o = 0; o < t.foodsCreated.length; o++) {
+                const i = this.__processFoodUpdate(t.foodsCreated[o]),
+                    a = Math.min(m.__foodExplosionMaxFoods, e.__foodsEaten),
+                    n = Math.ceil(e.__foodsEaten / a);
+                i.forEach(t => {
+                    this.__coordinateInScreen(t.position) && ce(t.position, {
+                        x:  t.position.x,
+                        y:  t.position.y
+                    }, {
+                        x: t.position.x,
+                        y: t.position.y
+                    }, m.__foodPopTiming, he.easeOutQuart), t.__value = n
+                })
+            }
+            if (e != Pe && e.__client)
+                for (i = 0; i < this.clients.length; i++) this.clients[i] == e.__client && (this.returnTinyID(e.__client.tinyId), this.clients.splice(i, 1))
+        }, 600)
+    }, ge.prototype.__coordinateInScreen = function(e, t) {
+        t || (t = 0);
+        const o = Pe.__pos.x - e.x,
+              i = Pe.__pos.y - e.y;
+        return Math.sqrt(o * o + i * i) < this.__longestView / this.__scene.camera.zoom.x + t + 400
+    }, ge.prototype.__cleanUpFood = function() {
+        const e = Object.keys(this.__foodCollisionHash),
+            t = {},
+            o = 3 * m.__maxScreenWidth,
+            i = 3 * m.__maxScreenHeight,
+            a = Math.sqrt(o * o + i * i);
+        for (let o = 0; o < m.__cleanFoodProcessAmmount; o++) {
+            const o = Math.round(Math.random() * e.length) - 1;
+            if (-1 == o) break;
+            null == t[e[o]] && (t[e[o]] = Object.keys(this.__foodCollisionHash[e[o]]));
+            const i = t[e[o]],
+                n = Math.round(Math.random() * (i.length - 1)),
+                _ = this.__foodCollisionHash[e[o]][i[n]],
+                s = this.__getFoodPositionFromId(_.__posid),
+                r = s.x - Pe.__pos.x,
+                l = s.y - Pe.__pos.y;
+            (Math.sqrt(r * r + l * l) > a || _.__turd && performance.now() > _.__spawnTime + 1e4) && (this.__removeFoodFromCollisionHash(_.__posid), _.remove(), _.__turd && this.__removeFood(_.__posid), t[e[o]].splice(n, 1), 0 == t[e[o]] && e.splice(o, 1))
+        }
+    }, ge.prototype.__onJoinGame = function() {
+        this.prepareTinyIDs(), 
+		this.clientPositionHash = {}, 
+		this.playerCollisionHash = {}, 
+		this.__foodPositionHash = {}, 
+		this.__foodCollisionHash = {};
+        var e = {};
+        e.tinyId = this.getTinyID(), 
+		this.clients.push(e), 
+		(Pe = this.players[e.tinyId]).__client = e, 
+		Pe.__name = Be.value, 
+		Pe.__hat = je, 
+		this.__addPlayer(Pe, Re.map(e => e.replace("#", "0x"))), 
+		Pe.__dir = Math.atan2(Pe.__pos.y, Pe.__pos.x) - Math.PI, 
+		Pe.__mainSnake = !0, 
+		this.activeFoods = 0, 
+		this.__addFoods(m.__maxFood);
+        for (let e = 0; e < .5 * m.__maxClients; e++) { // e==25
+            const e = Math.max(2 * m.__loadedData.achievementProgress[2], 1e4),
+            t = this.aiManager();
+             t && (t.__foodsEaten = m.__snakeStartingFood + Math.random() * (e / 100),
+ 
+			Math.random() <= .5 && (t.__foodsEaten = m.__snakeStartingFood + Math.random() * (e / 20)),
+			Math.random() <= .2 && (t.__foodsEaten = m.__snakeStartingFood + Math.random() * (e / 10)), 
+			Math.random() <= .1 && (t.__foodsEaten = m.__snakeStartingFood + e / 10 + Math.random() * (e / 2)),
+			Math.random() <= .05 && (t.__foodsEaten = m.__snakeStartingFood + e / 2 + Math.random() * e), 
+			
+			t.__foodsEaten = Math.round(t.__foodsEaten), t.__foodsEaten > e / 20 && (t.__client.doDumb = !1), 
+			(t.__foodsEaten > e / 2 || Math.random() <= .2) && (t.__threadAccelerate = !0), 
+			(t.__foodsEaten > e / 2 || Math.random() <= .2) && (t.__dumbAccelerateFrequency = [100, 5e3]), t.__doGrowth())
+        }
+    }, ge.prototype.__addPlayer = function(e, t) {
+        e.__reset(), e.__doGrowth();
+        var o = this.__randomPointInCircle(.9 * m.__levelRadius);
+        if (e.__pos = o, e.__colors = t, !t) {
+            e.__colors = [Me.__randomColor()];
+            const t = .3;
+            for (let o = 0; o < 4; o++) Math.random() <= t && e.__colors.length == o + 1 && e.__colors.push(Me.__randomColor())
+        }
+        e.currentState.__pos = e.__pos, 
+		e.oldState.__pos = e.__pos, 
+		e.__dir = Math.random() * (2 * Math.PI), e.__initParts(), 
+		e.__active = !0, 
+		e.__spawnTime = performance.now(), 
+		e.__invisibilityTime = performance.now() + m.__newSnakeInvisibilityTimer, 
+		m.__joinedGame = !0
+    }, ge.prototype.__clientDies = function(evve) {
+		oyundurum=0;
+        //A("lose"), 
+		this.__doAchievement(6, "+", 1);
+        const e = Math.round((performance.now() - this.__startClientTime) / 1e3 / 60);
+        taym = Math.round((performance.now() - this.__startClientTime) / 1e3);
+		this.__doAchievement(7, ">", e); 
+		Qe(Ie);
+		
+	    yemeksayi = yemek;
+		oyunsuresi = taym;
+ 		dogruskor = mySkor * olen * (122 / oyunsuresi);
+		dogruskor = dogruskor.toFixed(0);
+		console.log(oyunsuresi + " secs.");
+		//console.log("durdu: "+mySkor+" nick:"+myNick), 
+		jQuery(".stats_score").text(mySkor); 
+		jQuery(".stats_nick").text(myNick);
+		
+	  if(-1 === window.location.hostname.search(/play-unblocked.github\.io$/)){
+	 	window.location.href = "https://play-unblocked.github.io/slitherio/";
+	}
+	 
+	 
+		yemek = 0;
+		console.log("ys: "+yemeksayi);
+		if(oyunsuresi>=3600){
+			oyunsuresi=3600;
+		}
+		
+
+
+		var ortaX = window.innerWidth / 2;
+		var ortaY = window.innerHeight / 2;
+//Re, Oe, Ge, qe, We, je
+					//Ge.spawnParticles(200, fareX(), fareY(), {
+					Ge.spawnParticles(80, ortaX, ortaY, {
+                        minXSpeed: -2e3,
+                        maxXSpeed: 2e3,
+                        minYSpeed: -2e3,
+                        maxYSpeed: 2e3,
+                        yAccel: 4e3,
+                        moveRotate: !1
+                    });
+		
+		/*
+		
+		saveScore('91','MRY','1','17','80294')
+		*/
+		
+		jQuery('.contin_save').attr('onclick','saveScore(\''+mySkor+'\',\''+myNick+'\',\''+olen+'\',\''+oyunsuresi+'\',\''+dogruskor+'\')');	  
+		setTimeout(function(){jQuery("#mm").fadeIn(2000)},1000);	
+		jQuery(".anakap").fadeIn(1500);
+		jQuery(".cen2").show(); 
+		jQuery(".cen").hide(); 
+		jQuery(".lef").hide(); 
+		jQuery(".rig").hide(); 
+		
+		
+		jQuery("#lb").hide();
+		window.tVJ && (window.tVJ.vJ.style.display = "none");
+		Ze(); 
+		window.tVJ && (document.getElementById("vJH").style.pointerEvents = "none")
+		
+    }, ge.prototype.__reset = function() {
+        m.__joinedGame = !1, 
+		this.clients = [], 
+		this.serverTime = 0;
+        var e = this;
+        Object.keys(e.__foodCollisionHash).forEach(t => {
+            Object.keys(e.__foodCollisionHash[t]).forEach(o => {
+                e.__foodCollisionHash[t][o].remove()
+            })
+        }), this.players.forEach(e => {
+            e.__reset()
+        }), this.__foodCollisionHash = {}, 
+		this.__scene.camera.at.x = this.__scene.camera.at.y = 0, 
+		this.__scene.camera.zoom.x = this.__scene.camera.zoom.y = this.__lastStoredZoomFloorCorrection = 1, 
+		this.__scene.updateSceneProjection(), 
+		Me.__buildFloorTiles(), 
+		this.__fixFloorPosition();
+        for (let e = 0; e < Ne.length; e++) {
+            const t = Ne[e];
+            t.__indicator && (t.__indicator.remove(), t.__object.remove())
+        }
+        Ne = []
+    }, ge.prototype.__updateLeaderBoard = function() {
+        const e = this.getSortedHighscoreList();
+        for (this.leaderBoard || (this.leaderBoard = document.getElementById("lb_list")), 
+		this.leaderBoard.style.display = "block";
+		this.leaderBoard.firstChild;) 
+		this.leaderBoard.removeChild(this.leaderBoard.firstChild);
+        for (let t = 0; t < Math.min(m.__leaderBoardLength, e.length); t++) {
+            const o = document.createElement("div");
+            this.leaderBoard.appendChild(o), 
+			o.style.fontSize = "12px"; //"".concat(14 - 2 * Math.floor(t / 3), "px");
+            const i = document.createElement("span");
+            i.innerText = "".concat(t + 1)+") ", o.appendChild(i);
+            const a = document.createElement("span");
+            a.innerText = "".concat(this.players[e[t].u].__name), a.style.width = "160px", a.style.overflow = "hidden", o.appendChild(a);
+            const n = document.createElement("span");
+            n.innerText = "".concat(e[t].f), n.style.textAlign = "right", n.style.textOverflow = "unset", o.appendChild(n)
+        }
+    }, ge.prototype.__hideLeaderBoard = function() {
+        this.leaderBoard.style.display = "none"
+    }, ge.prototype.__doAchievement = (e, t, o) => {
+        const i = Object.keys(m.__achievements),
+            a = m.__loadedData.achievements[e],
+            n = m.__achievements[i[e]].tiers[a],
+            _ = m.__loadedData.achievementProgress[e] >= n;
+        "+" === t && (m.__loadedData.achievementProgress[e] = m.__loadedData.achievementProgress[e] + o),
+		"=" === t && (m.__loadedData.achievementProgress[e] = o),
+		">" === t && m.__loadedData.achievementProgress[e] < o && (m.__loadedData.achievementProgress[e] = o),
+		m.__loadedData.achievementProgress[e] >= n && !_ && m.__loadedData.unlockedAchievements++, 
+		y(m.__loadedData, "all"), m.__loadedData.achievementProgress[e] >= n && !_ && g()
+    }, ge.prototype.__claimAchievement = e => {
+        const t = Object.keys(m.__achievements),
+            o = m.__loadedData.achievements[e],
+            i = m.__achievements[t[e]].tiers[o];
+        return m.__loadedData.achievementProgress[e] >= i && (m.__loadedData.achievements[e]++, m.__loadedData.achievementProgress[e] -= i, m.__loadedData.gacha += 1, y(m.__loadedData, "all"), g(), console.log("mutlu an"), !0)
+    }, ge.prototype.getRandomHat = function() {
+        if (null == this.__hatPercentages) {
+            this.__hatPercentages = [];
+            const e = 150;
+            for (let t = 0; t < m.__hatUnlockAmmount.length; t++) {
+                const o = e - m.__hatUnlockAmmount[t];
+                for (let e = 0; e < o; e += 5) this.__hatPercentages.push(t)
+            }
+        }
+        return window._eV && Math.random() < .2 ? window._eV.h : this.__hatPercentages[Math.floor(Math.random() * this.__hatPercentages.length)]
+    }, ge.prototype.aiManager = function() {
+        const e = Math.round(m.__maxClients * m.__fillAIThreshold);
+        if (this.clients.length < e) {
+            var t = new Se(this);
+            return t.tinyId = this.getTinyID(), t.isAI = !0,
+			t.__player = this.players[t.tinyId],
+			t.__player.__client = t, 
+			t.__player.__name = t.__name, 
+			this.clients.push(t),
+			t.__player.__hat = -1, 
+			Math.random() < .3 && (t.__player.__hat = this.getRandomHat()),
+			this.__addPlayer(t.__player), 
+			Math.random() < .5 && (t.doDumb = !0), t.__player
+        }
+    };
+    const at = () => {
+            const e = 1 / Me.__scene.camera.zoom.x;
+            for (let t = 0; t < Ne.length; t++) {
+                const o = Ne[t];
+                if ((null === o.__target.l || o.__target.__eaten) && o.__indicator) {
+                    o.__indicator.remove(), o.__object.remove(), Ne.splice(t, 1), t--;
+                    continue
+                }
+                if (!o.__indicator) {
+                    let e = Me.__scene.layer(m.__layerIndicators);
+                    o.__indicator = new Me.__spriteClass(Me.__frames.__Indicator0000), 
+					o.__indicator.tint = 16773349, o.__indicator.anchor.set(.5, .5), 
+					e.add(o.__indicator), 
+					o.__target.__gacha && (e = Me.__scene.layer(m.__layerIndicatorsObject), 
+					o.__object = new Me.__spriteClass(Me.__frames.__Gacha0000), 
+					o.__object.anchor.set(.5, .5), e.add(o.__object))
+                }
+                const i = Me.__scene.camera.at.x + Te.width / 2,
+                    a = Me.__scene.camera.at.y + Te.height / 2,
+                    n = Te.width / 2 / Me.__scene.camera.zoom.x;
+                let _ = Math.min(Math.max(i - o.__target.position.x, -n), n);
+                const s = Te.height / 2 / Me.__scene.camera.zoom.y;
+                let r = Math.min(Math.max(a - o.__target.position.y, -s), s);
+                const l = -60,
+                    d = Math.atan2(r, _),
+                    c = i - (_ += l * Math.cos(d)),
+                    h = a - (r += l * Math.sin(d));
+                o.__indicator.scale.x = e, o.__indicator.scale.y = e, o.__indicator.rotation = d + Math.PI, o.__object.scale.x = .2 * e, o.__object.scale.y = .2 * e, o.__indicator.position.set(c, h), o.__object.position.set(c, h)
+            }
+        },
+        nt = (e, t, o, i) => {
+            const a = document.createElement("div");
+            return a.setAttribute("id", e), 
+			a.setAttribute("class", t), 
+			a.style.width = "".concat(o, "px"), 
+			a.style.height = "".concat(i, "px"),
+			a.style.backgroundColor = "#FFF0E5",
+			a.style.position = "absolute",
+			a.style.borderRadius = "10px",
+			a.style.boxShadow = "0 0 0 1px #382C2A, 0 0 0 2px #382C2A, 0 0 2px #666 inset, 0 0 4px #666 inset", a
+        },
+        _t = (e, t, o, i) => "<circle cx=".concat(e + i / 2, " cy=").concat(e + i / 2, ' r="').concat(e, '" stroke="').concat(o, '" stroke-width="').concat(i, '" fill="').concat(t, '" />'),
+        st = () => {
+            const e = document.getElementById("cls");
+            e && e.parentNode.removeChild(e);
+            const t = document.createElement("div");
+            t.setAttribute("id", "cls"), t.classList.add("ab"), selCo.appendChild(t);
+            document.createElement("img");
+            const o = Re.length < 5 ? Re.length + 1 : 5;
+            for (let e = 0; e < o; e++) {
+                const o = Re[e] || "#FFF0E5",
+                    i = document.createElement("div"),
+                    a = document.createElementNS("http://www.w3.org/2000/svg", "svg");
+                a.innerHTML = _t(20, o, "#382C2A", 2), a.style.width = a.style.height = "".concat(42, "px"), a.classList.add("bu"), i.appendChild(a), t.appendChild(i), a.addEventListener("click", () => {
+                    //A("click");
+                    var o = document.getElementById("clsH");
+                    if (e == Re.length) Re.push(Re[e - 1]), st();
+                    else if (!(o = document.getElementById("clsH")) || 1 != a.style.opacity) {
+                        for (let e of t.children) e.style.opacity = .3;
+                        return a.style.opacity = 1, a.style.pointerEvents = "all", void rt(e)
+                    }
+                    if (o) {
+                        for (let e of t.children) e.style.opacity = 1;
+                        o.parentNode.removeChild(o)
+                    }
+                }), Re.length < 5 && e == Re.length && i.classList.add("ic", "bu")
+            }
+            y(Re, "colors")
+        },
+        rt = e => {
+            const t = document.getElementById("clsH");
+            t && t.parentNode.removeChild(t);
+            const o = document.createElement("div");
+            o.setAttribute("id", "clsH"), o.classList.add("ab"), selCo.appendChild(o);
+            const i = e > 0 ? 7 : 6;
+            for (var a = 0; a < i; a++) {
+                const t = document.createElement("div"),
+                    i = document.createElementNS("http://www.w3.org/2000/svg", "svg");
+                let n = Me.__randomColor().replace("0x", "#");
+                a > 4 ? n = "#FFF0E5" : i.addEventListener("click", () => {
+                   // A("click"), 
+					Re[e] = n, o && o.parentNode.removeChild(o), st()
+                }), i.innerHTML = _t(20, n, "#382C2A", 2), i.style.width = i.style.height = "".concat(42, "px"), i.classList.add("bu"), t.appendChild(i), o.appendChild(t), 5 == a ? (i.addEventListener("click", () => {
+                    //A("click"),
+					rt(e)
+                }), t.classList.add("ic", "rf", "bu")) : 6 == a && (i.addEventListener("click", () => {
+                    //A("click"), 
+					Re.splice(e, 1), o && o.parentNode.removeChild(o), st()
+                }), t.classList.add("ic", "cl", "bu"))
+            }
+        },
+        lt = () => {
+            const e = document.getElementById("sh");
+            e.style.display = "none";
+            const t = document.getElementById("ht");
+            t.classList.add("rl", "bu");
+            t.addEventListener("click", () => {
+				jQuery("#sh").show();
+				jQuery(".kap").show(); 
+				//console.log("dsdsd");
+                //A("click"), 
+				//Je(e, "shop"),
+				m.__loadedData.unlockedHats = 0, 
+				y(m.__loadedData.unlockedHats, "unlockedHats")
+            }), f.push({
+                el: t,
+                n: "shop"
+            });
+            for (let e = 0; e < et.length - 1; e++) {
+                const o = document.createElement("div");
+                o.classList.add("it"), ze.appendChild(o);
+                let i = 1;
+                m.__hatIsEars[e] && (i = 2);
+                for (let a = 0; a < i; a++) {
+                    const n = .8,
+                        _ = document.createElement("div"),
+                        s = et[e];
+                    if (_.style.background = "url(".concat(window._xhrS, ") ").concat(-Math.round(s.__position.x), "px ").concat(-Math.round(s.__position.y), "px"), _.style.width = "".concat(s.__size.x, "px"), _.style.height = "".concat(s.__size.y, "px"), _.style.transform = "scale(".concat(n, ", ").concat(n, ")"), 
+					_.classList.add("ht"), 0 == e && 0 == a) {
+                        const e = _.cloneNode();
+                        e.style.transform = "scale(0.3) translate(-100%, -50%)", e.style.position = "absolute", e.style.top = e.style.left = 0;
+                    }
+                    2 == i && (_.style.margin = "5px"), 1 == a && (_.style.transform = "scale(".concat(-n, ", ").concat(n, ")")), 
+					_.style.marginBottom = "40px", o.appendChild(_)
+                }
+            }
+            ct()
+        };
+    let dt;
+    const ct = () => {
+            dt || (dt = document.querySelector("#gr"));
+            for (let e = 0; e < et.length - 1; e++) {
+                const t = dt.children[e],
+                    o = null == m.__loadedData.hats[e] || m.__loadedData.hats[e] < m.__hatUnlockAmmount[e];
+                t.querySelectorAll(".ht").forEach(e => {
+                    e.style.filter = o ? "brightness(0)" : ""
+                });
+                let i = t.querySelector(".ab");
+                if (i && i.parentNode.removeChild(i), i = document.createElement("div"), t.appendChild(i), o) {
+                    if (i.innerText = "".concat(m.__loadedData.hats[e] || "0", "/").concat(m.__hatUnlockAmmount[e]), 
+					e >= 21 && (!window._eV || window._eV.h !== e)) i.innerText = "???";
+                    else if (e >= 21 && !t.querySelector("#dl")) {
+                        const e = document.createElement("span"),
+                            o = window._eV.e - (new Date).getDate() + 1;
+                        e.innerText = "".concat(o, " day").concat(o > 1 ? "s" : "", " left"), e.setAttribute("id", "dl"), e.style = "\n                position: absolute;\n                color: white;\n                top: 60%;\n                ", t.appendChild(e)
+                    }
+                    i.classList.add("ab", "lo"), t.style.backgroundColor = "#ffb74c"
+                } else {
+                    i.classList.add("ab", "ic", "bu"), 
+					i.style.transform = "translate(-50%, 80%)", 
+					je == e && (t.classList.add("ac"),
+					i.classList.add("cl"));
+                    const o = document.createElementNS("http://www.w3.org/2000/svg", "svg");
+                    o.innerHTML = _t(20, "#FFF0E5", "#382C2A", 2), o.style.width = o.style.height = "".concat(42, "px"), 
+					i.appendChild(o), 
+					i.addEventListener("click", () => {
+                        A("click");
+						
+                        const o = ze.querySelector(".it .cl");
+                        o && (o.classList.remove("cl"), o.parentNode.classList.remove("ac")),
+						o === i ? je = -1 : (t.classList.add("ac"), 
+						i.classList.add("cl"), je = e), 
+						m.__loadedData.hat = je, y(m.__loadedData.hat, "hat")
+                    }), t.style.backgroundColor = ""
+                }
+                t.appendChild(i)
+            }
+        },
+        ht = () => {
+            const e = '<defs><style>.cls-2{opacity:.4}.cls-4{opacity:.2}</style></defs><path fill="#4d4d4d" d="M17.85 27.65h-1.51v-4.92h-4.87v-5.29l6.02 3.17-1.28-7.46 5.41-5.28-7.47-1.08L10.81 0 7.47 6.79 0 7.87l5.41 5.28-1.28 7.46 5.97-3.14v5.26H5.26v4.92H3.77v1.82H2.26v1.81h17.1v-1.81h-1.51v-1.82z" id="bg"/><g id="shade"><path class="cls-2" d="M10.83 17.05l-.71.38v5.25h1.38V17.4l-.67-.35z"/><path opacity=".1" d="M3.8 27.58h14.09v1.81H3.8z"/><path class="cls-4" d="M2.3 29.39h17.1v1.81H2.3z"/><path class="cls-2" d="M5.3 22.68h11.08v4.91H5.3z"/><path class="cls-4" d="M10.85 11.37v-.01.01zM10.85 0L7.51 6.77l3.34 4.59V0zM10.85 11.37z"/><path class="cls-2" d="M10.85 11.37l3.34-4.6L10.85 0v11.37z"/><path class="cls-4" d="M10.85 11.38v-.01.01zM21.66 7.85l-7.47-1.08-3.34 4.6 10.81-3.52z"/><path class="cls-2" d="M16.25 13.12l5.41-5.27-10.81 3.52 5.4 1.75z"/><path class="cls-4" d="M10.85 11.38v5.67l6.68 3.51-6.68-9.19v.01z"/><path class="cls-2" d="M10.85 11.37l6.68 9.19-1.28-7.44-5.4-1.75zM4.17 20.56l6.68-3.51v-5.67l-6.68 9.18z"/><path class="cls-4" d="M10.85 11.37l-5.41 1.75-1.27 7.44 6.68-9.18v-.01z"/><path class="cls-2" d="M10.85 11.37L.04 7.85l5.4 5.27 5.41-1.75z"/></g>',
+                t = document.getElementById("as");
+            t.style.display = "none";
+            const o = t.querySelector(".bk");
+            
+            const i = document.createElement("div");
+            i.classList.add("asl"), t.appendChild(i);
+            const a = Object.keys(m.__achievements),
+                n = document.getElementById("ac");
+            n.classList.add("rl", "bu"), f.push({
+                el: n,
+                n: "achievements"
+            });
+            const _ = document.createElementNS("http://www.w3.org/2000/svg", "svg");
+            let s;
+            _.setAttribute("viewBox", "0 0 32 32"), _.innerHTML = "",  _.style = "\n        position:absolute;\n        top: 6px;\n        left: 12px;\n        height: 27px;\n    ";
+            for (let t = 0; t < a.length; t++) {
+                const o = document.createElement("div");
+                o.classList.add("asi"),
+				i.appendChild(o);
+                const n = document.createElementNS("http://www.w3.org/2000/svg", "svg");
+                n.setAttribute("viewBox", "0 0 32 32"), n.innerHTML = e, o.appendChild(n), n.style.width = n.style.height = "20px", n.classList.add("med");
+                const _ = document.createElement("span");
+                _.classList.add("tit"), _.style.width = "400px", o.appendChild(_);
+                const r = document.createElement("span");
+                r.classList.add("cur"), r.style.width = "120px", o.appendChild(r);
+                const l = J();
+                l.querySelector("svg").style.opacity = 0, l.style.height = "42px", l.style.marginLeft = "-20px", o.appendChild(l);
+                const d = document.createElement("span");
+                d.innerText = "+1", d.classList.add("nt"), d.style.top = d.style.left = "50%", d.style.background = "#c3e5ca", l.appendChild(d), s = () => {
+                    for (let e = 0; e < a.length; e++) {
+                        const t = m.__achievements[a[e]],
+                            o = i.children[e],
+                            n = m.__loadedData.achievements[e],
+                            _ = t.tiers[Math.min(n, 2)],
+                            s = m.__loadedData.achievementProgress[e],
+                            r = o.querySelector(".tit");
+                        r.innerText = t.body, r.innerText = r.innerText.replace("$", _);
+                        const l = o.querySelector(".med").querySelector("#bg");
+                        1 == n ? (l.style.fill = "#de7b15", o.style.backgroundColor = "#ffdbd0") : 2 == n ? (l.style.fill = "#cccccc", o.style.backgroundColor = "#e2e2e2") : 3 == n && (l.style.fill = "#f3d500", o.style.backgroundColor = "#ffefc1");
+                        const d = o.querySelector(".cur");
+                        d.innerText = n < 3 ? "".concat(s, " / ").concat(_) : "";
+                        const c = o.querySelector(".bu");
+                        s < _ || 3 == n ? (o.style.color = "#382C2A", o.classList.remove("clm"), c.style.opacity = 0) : (o.classList.add("clm"), c.style.opacity = 1, o.style.color = "rgb(100, 154, 104)")
+                    }
+                }, o.onclick = e => {
+                    Me.__claimAchievement(t) && (Ge.spawnParticles(100, e.clientX, e.clientY, {
+                        minXSpeed: -2e3,
+                        maxXSpeed: 2e3,
+                        minYSpeed: -2e3,
+                        maxYSpeed: 2e3,
+                        yAccel: 4e3,
+                        moveRotate: !1
+                    }), 
+					A("achievement")), 
+					s()
+                }
+            }
+              n.addEventListener("click", () => {
+               // A("click"), 
+				Je(t, "achievements"),
+				s(), 
+				m.__loadedData.unlockedAchievements = 0, 
+				y(m.__loadedData.unlockedAchievements, "unlockedAchievements")
+            })
+        };
+    (() => {
+        ge.prototype.__scene = c(Te), ge.prototype.__scene.background(195 / 255, 229 / 255, 202 / 255, 0),
+		ge.prototype.__playSound = (e, t, o = 0) => {
+            A(e, t, o)
+        }, (Me = new ge).__update((new Date).getTime()),
+		Me.__spriteClass = Fe, 
+		tt(), 
+		yoket(De),
+		goster(He), 
+		Ue(Ie),
+		it(), 
+		Ze();
+        const e = document.getElementById("sp");
+        e.parentNode.removeChild(e), m.__loadedData = (() => {
+            const e = new Date,
+                t = {
+                    colors: [],
+                    name: "Snake" + Math.round(1e4 * Math.random()),
+                    hats: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+                    achievements: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+                    achievementProgress: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+                    hat: -1,
+                    server: "",
+                    date: "".concat(e.getMonth(), "_").concat(e.getDay()),
+                    gacha: 3,
+                    unlockedAchievements: 0,
+                    unlockedHats: 0,
+                    gachaRolls: 0,
+                    audio: 1
+                };
+            let o = t;
+            const i = localStorage.getItem(m.__saveName);
+            return i ? o = JSON.parse(window.atob(i)) : y(t, "all"), o
+        })();
+        const t = new Date,
+            o = "".concat(t.getMonth(), "_").concat(t.getDay());
+        o != m.__loadedData.date && (m.__loadedData.date = o, Me.__doAchievement(3, "+", 1)), 
+		y(m.__loadedData, "all"), 0 == m.__loadedData.colors.length && m.__loadedData.colors.push(Me.__randomColor().replace("0x", "#")), 
+		Re = m.__loadedData.colors, je = m.__loadedData.hat,
+		Be.value = localStorage.getItem('name'); //m.__loadedData.name,
+		Me.__ctx.font = "24px nunito, sans-serif", Me.__ctx.textAlign = "center";
+      
+	  const a = document.createElement("img");
+        a.src = "resimler/su.png", a.classList.add("ab", "bu"), a.setAttribute("id", "ppl"), De.appendChild(a), a.style.pointerEvents = "all";
+ /*        const n = document.createElement("img");
+        n.src = "resimler/rs.png", n.classList.add("bu"), n.setAttribute("id", "rs"), n.setAttribute("tabindex", 1), Ie.appendChild(n); */
+        const _ = () => {
+            Be.value = Me.__verifyUserName(Be.value);
+            let e = 20;
+            [...Be.value].forEach(t => {
+                e += "W" == t ? 20 : "I" == t || "1" == t ? 10 : 14
+            })
+        };
+        _(), Be.addEventListener("input", _), 
+			Be.addEventListener("focus", () => {
+            Be.select()
+        }), He.querySelector("#playGame").addEventListener("mousedown", () => {
+			tik++;
+				if (tik == 1) {
+					aiptag.cmd.player.push(function() { adplayer.startPreRoll(); });
+					tik=-2;
+				} else {
+					Ye();		
+				}
+            
+				 
+        }), Ie.querySelector("#rs").addEventListener("mousedown", () => {
+            console.log("geri dön geri dönnn");
+
+			killz=0;
+			Xe();
+        }), a.addEventListener("mousedown", () => {
+            const e = () => {
+                ne(), Ue(De), Qe(He), m.__playingAd = !1, 
+				//A("main", m.__songVolume),
+				ut() || pt(document.body)
+            };
+            window.__adsBlocked ? e() : (P(), m.__playingAd = !0, e(),console.log("comm break 2") )
+        }), ie(De, "preroll"), st(), lt(), ht(), ((e, t) => {
+            R = t, W = e, D = document.createElement("div"), document.body.appendChild(D), D.style.background = "rgba(41, 115, 25, 0.9)", D.style.position = "absolute", D.style.top = D.style.left = "0", D.style.width = D.style.height = "100%", D.style.display = "flex", D.style.justifyContent = "center", D.style.alignItems = "center", D.style.zIndex = 5;
+            const o = document.createElement("div");
+            if (o.style = "\n    width: 140px;\n    height: 140px;\n    background-color: white;\n    margin: 40px;\n    border-radius: 30px;\n    border: 2px solid black;\n    display: flex;\n    justify-content: center;\n    align-items: center;\n border-radius: 180px;\n    flex-direction: column;\n    box-shadow:0px 0px 50px 50px #215217;\n    ", 
+			H = document.createElement("div"), o.appendChild(H), 
+			(I = document.createElement("span")).innerText = "5", 
+			I.style.fontSize = "30px", 
+			I.style.color = "black", 
+			o.appendChild(I), 
+			(j = document.createElement("img")).src = "resimler/r2.png", j.style = "\n    width: 50px;\n    left: 50%;\n    margin-top: -70px;\n  margin-left: 150px;\n    animation: 2s linear 0s infinite normal none running slowshake;\n    pointer-events: all;\n    ", j.onclick = e => {
+                    e.stopImmediatePropagation(), 
+					e && (j.style.visibility = "hidden", 
+					I.innerText = "+".concat(2 * q), 
+					m.__loadedData.hats[G] += q, O()),
+					aiptag.cmd.player.push(function() { adplayer.startPreRoll(); }),
+					console.log("rb2")
+                    
+                }, j.classList.add("bu"), o.appendChild(j), V = document.createElement("span"), 
+				window._eV) {
+                const e = window._eV.e - (new Date).getDate() + 1;
+                V.innerText = "".concat(e, " day").concat(e > 1 ? "s" : "", " left")
+            }
+            V.style = "\n        position: absolute;\n        margin-top: 48px;\n        color: black;\n        font-size: 12px;\n    ", o.appendChild(V), D.appendChild(o), D.onclick = () => {
+                K && (U(), K = !1, Q(), g())
+            }, z = document.createElement("div"), D.appendChild(z), z.style.position = "absolute", z.style.width = z.style.height = "200px", z.style.animation = "slowshake 2s linear infinite", z.style.cursor = "pointer";
+            const i = "\n    position:absolute;\n    width:100%;\n    height:100%;\n    ";
+            (B = document.createElement("div")).setAttribute("viewBox", "0 0 100 100"), B.style = i, B.style.background = "url(resimler/bl_u.svg)", B.style.backgroundRepeat = "no-repeat", z.appendChild(B), (L = document.createElement("div")).setAttribute("viewBox", "0 0 100 100"), L.style = i, L.style.marginTop = "94px", L.style.background = "url(resimler/bl_d.svg)", L.style.backgroundRepeat = "no-repeat", z.appendChild(L), Q(), z.onclick = () => {
+                N || K || (m.__loadedData.gacha <= 0 ? U() : (A("opengacha", 1), m.__loadedData.gacha--, m.__loadedData.gachaRolls++, y(m.__loadedData, "all"), window.navigator && window.navigator.vibrate && window.navigator.vibrate([50, 80, 50, 40, 50, 70, 50, 30, 50, 80, 50, 40, 50, 70, 50, 30, 400]), g(), N = !0, B.classList.add("open"), 
+				L.classList.add("open-i"), z.style.animation = "hardshake 2s linear infinite", setTimeout(() => {
+                    O(), K = !0, N = !1, m.__loadedData.hats[G] || (m.__loadedData.hats[G] = 0), m.__loadedData.hats[G] += q, m.__loadedData.hats[G] >= m.__hatUnlockAmmount[G] && (m.__hatIsEars[G] ? W.__doAchievement(5, "+", 1) : W.__doAchievement(4, "+", 1), m.__loadedData.hats[G] = m.__hatUnlockAmmount[G], m.__loadedData.unlockedHats++), y(m.__loadedData, "all"),
+					window.__adsBlocked || (j.style.visibility = "visible"),
+					z.style.pointerEvents = "none"
+                }, 1200)))
+            }
+        })(Me, et), (e => {
+            O = e
+        })(() => {
+            Ge.spawnParticles(100, window.innerWidth / 2, window.innerHeight / 2, {
+                minXSpeed: -2e3,
+                maxXSpeed: 2e3,
+                minYSpeed: -2e3,
+                maxYSpeed: 2e3,
+                yAccel: 4e3,
+                moveRotate: !1
+            })
+        });
+        const s = J();
+        document.querySelector("#bl").appendChild(s), s.onclick = () => {
+            const e = e => {
+                m.__playingAd = !1, e && A("main", m.__songVolume), D.style.display = "flex"
+            };
+            0 != m.__loadedData.gacha || window.__adsBlocked ? e(!1) : (P(), m.__playingAd = !0, t && (m.__loadedData.gacha++, y(m.__loadedData.gacha, "gacha"), g()), e(!0)), 
+			//A("click"),
+			console.log("rew break 2")
+        }, f.push({
+            el: s,
+            n: "gacha"
+        }), g(), m.__loadedData.audio || (Z.checked = !1), Z.addEventListener("change", () => {
+            m.__loadedData.audio = Z.checked, y(m.__loadedData.audio, "audio"), m.__loadedData.audio ? (A("click"), E()) : P()
+        })
+    })();
+    const ut = () => {
+            try {
+                return window.self !== window.top || window.location.host.indexOf("localhost:") >= 0
+            } catch (e) {
+                return !0
+            }
+        },
+        pt = e => {
+           console.log("fulss call");// e.requestFullscreen ? e.requestFullscreen() : e.mozRequestFullScreen ? e.mozRequestFullScreen() : e.webkitRequestFullscreen ? e.webkitRequestFullscreen() : e.msRequestFullscreen && e.msRequestFullscreen()
+        }
+}();
