@@ -71,7 +71,7 @@
 		}
 	}
 		</script>
-	<script async src="//api.adinplay.com/libs/aiptag/pub/AGV/amon.games/tag.min.js"></script>
+	<script async src="//api.adinplay.com/libs/aiptag/pub/AGV/among-us.wtf/tag.min.js"></script>
 </head>
 
 <body id="page-top" data-bs-spy="scroll" data-bs-target="#mainNav" data-bs-offset="72">
@@ -95,9 +95,10 @@
             </div>
         </div>
     </nav>
-    <center></br></br></br><div id='amon-games_970x250'>
+    <center></br></br></br>
+	<div id='among-us-wtf_970x250'>
 		<script type='text/javascript'>
-			aiptag.cmd.display.push(function() { aipDisplayTag.display('amon-games_970x250'); });
+			aiptag.cmd.display.push(function() { aipDisplayTag.display('among-us-wtf_970x250'); });
 		</script>
 	</div></center>
 </br><hr>
@@ -105,13 +106,34 @@
    <center>
    <section id="gameSection">
 <button onclick="show_preroll();" id="play-button">Play</button>
-	<iframe id="gameFrame" name="Yohoho" src="https://homeworks.live/" width="850" height="540" scrolling="none" frameborder="0" allowfullscreen></iframe></section>
+	<iframe id="gameFrame" name="Yohoho" src="https://homeworks.live/" width="850" height="540" scrolling="none" frameborder="0" allowfullscreen></iframe>
+	
+	<div style="padding-left:30px" class="col-md-3">
+     <div align="center" >
+        <div id='among-us-wtf_300x600'>
+		<script type='text/javascript'>
+			aiptag.cmd.display.push(function() { aipDisplayTag.display('among-us-wtf_300x600'); });
+		</script>
+	</div>
+	</section>
 </center>
+<button  class="btn theme-btn-1 btn-effect-1 text-uppercase" onclick="openFullscreen(); show_preroll();">FullScreen</button>
 <script>
     document.getElementById('play-button').addEventListener('click', function() {
         document.getElementById('gameFrame').style.display = 'block';
         document.getElementById('play-button').style.display = 'none';
     });
+	//fucllscreen
+	var elem = document.getElementById("gm-area");
+function openFullscreen() {
+  if (elem.requestFullscreen) {
+    elem.requestFullscreen();
+  } else if (elem.webkitRequestFullscreen) { /* Safari */
+    elem.webkitRequestFullscreen();
+  } else if (elem.msRequestFullscreen) { /* IE11 */
+    elem.msRequestFullscreen();
+  }
+}
 </script> 
     <section class="text-white bg-primary mb-0" id="about">
         <div class="container">
