@@ -1,0 +1,397 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+ 
+<title>Google Classroom | Lesson</title>
+
+<title></title>
+  <meta name="description" content="">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="assets/css/style.css">
+  <style>
+    .ad-top { text-align: center; margin: 20px 0; width: 970px;height: 250px; }
+
+    .lesson-layout { display: flex; gap: 20px; }
+    .lesson-side { width: 300px; }
+    .lesson-frame { flex: 1; min-height: 600px; }
+
+    .iframe-wrapper {
+      position: relative;
+      width: 100%;
+      height: 600px;
+      background: #000;
+    }
+
+    .iframe-wrapper iframe {
+      width: 100%;
+      height: 100%;
+      border: none;
+      display: none;
+    }
+
+    .fullscreen-btn {
+      position: absolute;
+      bottom: 10px;
+      right: 10px;
+      background: rgba(0,0,0,0.6);
+      color: white;
+      border: none;
+      padding: 8px 10px;
+      border-radius: 4px;
+      cursor: pointer;
+      font-size: 18px;
+      transition: background 0.2s;
+      z-index: 9;
+    }
+
+    .fullscreen-btn:hover { background: rgba(0,0,0,0.9); }
+
+    .overlay-screen {
+      position: absolute;
+      top: 0; left: 0;
+      width: 100%;
+      height: 100%;
+      background: linear-gradient(135deg, #111, #1a1a1a);
+      color: white;
+      z-index: 10;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      flex-direction: column;
+      text-align: center;
+    }
+
+    .overlay-screen h2 {
+      margin-bottom: 20px;
+      font-size: 24px;
+    }
+
+    .overlay-screen button {
+      background: #4caf50;
+      color: white;
+      border: none;
+      padding: 12px 24px;
+      font-size: 18px;
+      border-radius: 8px;
+      cursor: pointer;
+    }
+
+    .overlay-screen button:hover {
+      background: #388e3c;
+    }
+
+    .related-gm { margin: 40px 0; }
+
+    .related-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+      gap: 12px;
+      justify-content: center;
+      padding: 0 10px;
+      max-width: 1000px;
+      margin: 0 auto;
+    }
+
+    .related-grid .card {
+      width: 180px;
+      height: 180px;
+      background: #fff;
+      border-radius: 10px;
+      box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+      overflow: hidden;
+      transition: transform 0.2s ease;
+    }
+
+    .related-grid .card:hover {
+      transform: scale(1.03);
+    }
+
+    .related-grid .card img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      display: block;
+    }
+
+    .description-box {
+      max-width: 1000px;
+      margin: 40px auto;
+      background: #fff;
+      padding: 20px;
+      border-radius: 12px;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+      text-align: left;
+    }
+
+    @media screen and (max-width: 1024px) {
+      .lesson-layout { flex-direction: column; }
+      .lesson-side { display: none; }
+      .related-grid { grid-template-columns: repeat(2, 1fr); }
+    }
+  </style>
+  <script>
+	window.aiptag = window.aiptag || {cmd: []};
+	aiptag.cmd.display = aiptag.cmd.display || [];
+	aiptag.cmd.player = aiptag.cmd.player || [];
+	//CMP tool settings
+	aiptag.cmp = {
+		show: true,
+		position: "centered",  //centered, bottom
+		button: true,
+		buttonText: "Privacy settings",
+		buttonPosition: "bottom-left" //bottom-left, bottom-right, bottom-center, top-left, top-right
+	}
+	aiptag.cmd.player.push(function() {
+		aiptag.adplayer = new aipPlayer({
+			AD_WIDTH: 960,
+			AD_HEIGHT: 540,
+			AD_DISPLAY: 'center', //default, fullscreen, fill, center, modal-center
+			LOADING_TEXT: 'loading advertisement',
+			PREROLL_ELEM: function(){return document.getElementById('videoad')},
+			AIP_COMPLETE: function (state)  {
+				/*******************
+				 ***** WARNING *****
+				 *******************
+				 Please do not remove the PREROLL_ELEM
+				 from the page, it will be hidden automaticly.
+				*/
+				
+				//alert("Video Ad Completed: " + state);
+			}
+		});
+
+			});
+
+		function show_videoad() {
+		//check if the adslib is loaded correctly or blocked by adblockers etc.
+		if (typeof aiptag.adplayer !== 'undefined') {
+			aiptag.cmd.player.push(function() { aiptag.adplayer.startVideoAd(); });
+		} else {
+			//Adlib didnt load this could be due to an adblocker, timeout etc.
+			//Please add your script here that starts the content, this usually is the same script as added in AIP_COMPLETE.
+			alert("Ad Could not be loaded, load your content here");
+			aiptag.adplayer.aipConfig.AIP_COMPLETE();
+		}
+	}
+		</script>
+	<script async src="https://api.adinplay.com/libs/aiptag/pub/AGV/play-unblocked.github.io/tag.min.js"></script>
+</head>
+<body>
+<div id="videoad"></div>
+<style>
+  .vibrate-warning {
+    animation: vibrate 0.4s infinite;
+    display: inline-block;
+  }
+
+  @keyframes vibrate {
+    0% { transform: translate(0); }
+    20% { transform: translate(-1px, 1px); }
+    40% { transform: translate(-1px, -1px); }
+    60% { transform: translate(1px, 1px); }
+    80% { transform: translate(1px, -1px); }
+    100% { transform: translate(0); }
+  }
+</style>
+<header style="display: flex; justify-content: space-between; align-items: center; background: #1e1e2f; padding: 15px 30px; color: white;">
+  <div style="display: flex; align-items: center; gap: 20px;">
+    <h1 style="margin: 0; font-size: 24px;">
+      <a href="index.html" style="color: #fff; text-decoration: none;">Subject Notes 2</a>
+    </h1>
+    <nav style="display: flex; gap: 16px; font-size: 16px;">
+      <a href="index.html" style="color: #ccc; text-decoration: none;">🏠 Home</a>
+      <a href="contact.php.html" style="color: #ccc; text-decoration: none;">✉️ Contact</a>
+	  <a href="privacy.php.html" style="color: #ccc; text-decoration: none;">🔒 Privacy Policy</a>
+	<a class="vibrate-warning nomobile">PRESS CTRL+Q TO HIDE YOUR SCREEN</a>
+	<a href="https://biolyze.space/" style="color: red; text-decoration: none;" target="_blank">
+	  <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-crosshair2" viewBox="0 0 16 16">
+  <path d="M8 0a.5.5 0 0 1 .5.5v.518A7 7 0 0 1 14.982 7.5h.518a.5.5 0 0 1 0 1h-.518A7 7 0 0 1 8.5 14.982v.518a.5.5 0 0 1-1 0v-.518A7 7 0 0 1 1.018 8.5H.5a.5.5 0 0 1 0-1h.518A7 7 0 0 1 7.5 1.018V.5A.5.5 0 0 1 8 0m-.5 2.02A6 6 0 0 0 2.02 7.5h1.005A5 5 0 0 1 7.5 3.025zm1 1.005A5 5 0 0 1 12.975 7.5h1.005A6 6 0 0 0 8.5 2.02zM12.975 8.5A5 5 0 0 1 8.5 12.975v1.005a6 6 0 0 0 5.48-5.48zM7.5 12.975A5 5 0 0 1 3.025 8.5H2.02a6 6 0 0 0 5.48 5.48zM10 8a2 2 0 1 0-4 0 2 2 0 0 0 4 0"/>
+</svg>
+ALTERNATIVE 1</a>
+<a href="https://k12lesson.sbs" style="color: red; text-decoration: none;" target="_blank">
+	  <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-crosshair2" viewBox="0 0 16 16">
+  <path d="M8 0a.5.5 0 0 1 .5.5v.518A7 7 0 0 1 14.982 7.5h.518a.5.5 0 0 1 0 1h-.518A7 7 0 0 1 8.5 14.982v.518a.5.5 0 0 1-1 0v-.518A7 7 0 0 1 1.018 8.5H.5a.5.5 0 0 1 0-1h.518A7 7 0 0 1 7.5 1.018V.5A.5.5 0 0 1 8 0m-.5 2.02A6 6 0 0 0 2.02 7.5h1.005A5 5 0 0 1 7.5 3.025zm1 1.005A5 5 0 0 1 12.975 7.5h1.005A6 6 0 0 0 8.5 2.02zM12.975 8.5A5 5 0 0 1 8.5 12.975v1.005a6 6 0 0 0 5.48-5.48zM7.5 12.975A5 5 0 0 1 3.025 8.5H2.02a6 6 0 0 0 5.48 5.48zM10 8a2 2 0 1 0-4 0 2 2 0 0 0 4 0"/>
+</svg>
+ALTERNATIVE 2</a>
+<a href="https://k12lesson.live" style="color: red; text-decoration: none;" target="_blank">
+	  <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-crosshair2" viewBox="0 0 16 16">
+  <path d="M8 0a.5.5 0 0 1 .5.5v.518A7 7 0 0 1 14.982 7.5h.518a.5.5 0 0 1 0 1h-.518A7 7 0 0 1 8.5 14.982v.518a.5.5 0 0 1-1 0v-.518A7 7 0 0 1 1.018 8.5H.5a.5.5 0 0 1 0-1h.518A7 7 0 0 1 7.5 1.018V.5A.5.5 0 0 1 8 0m-.5 2.02A6 6 0 0 0 2.02 7.5h1.005A5 5 0 0 1 7.5 3.025zm1 1.005A5 5 0 0 1 12.975 7.5h1.005A6 6 0 0 0 8.5 2.02zM12.975 8.5A5 5 0 0 1 8.5 12.975v1.005a6 6 0 0 0 5.48-5.48zM7.5 12.975A5 5 0 0 1 3.025 8.5H2.02a6 6 0 0 0 5.48 5.48zM10 8a2 2 0 1 0-4 0 2 2 0 0 0 4 0"/>
+</svg>
+ALTERNATIVE 3</a>
+	
+    </nav>
+  </div>
+
+  <button id="toggleTheme" style="background:#444; color:#fff; border:none; padding:6px 14px; border-radius:15px; cursor:pointer;">
+    🌙 Dark Mode
+  </button>
+</header>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2455312124295185"
+     crossorigin="anonymous"></script>
+<center>
+<div class="ad-top nomobile">
+  
+ <div id='play-unblocked-github-io_970x250'>
+		<script type='text/javascript'>
+			aiptag.cmd.display.push(function() { aipDisplayTag.display('play-unblocked-github-io_970x250'); });
+		</script>
+	</div>
+  
+</div>
+</center>
+<main>
+  <div class="lesson-layout">
+    <div class="lesson-side">
+     <div id='play-unblocked-github-io_300x600'>
+		<script type='text/javascript'>
+			aiptag.cmd.display.push(function() { aipDisplayTag.display('play-unblocked-github-io_300x600'); });
+		</script>
+	</div>
+    </div>
+
+    <div class="lesson-frame">
+      <div class="iframe-wrapper">
+         
+        <div id="overlay" class="overlay-screen">
+          <h2>Start Interactive Content</h2>
+          <button onclick="startLesson(); show_videoad();">▶ Begin</button>
+		  <p></p>
+		   <img width="15%" height="30%" src="uploads/img_6821d7827da72.webp" alt="Lesson Preview">
+        </div>
+
+        
+        <iframe id="lessonFrame" src="lesson-63.html" allowfullscreen loading="lazy"></iframe>
+
+        
+        <button class="fullscreen-btn" onclick="openFullscreen()">⛶</button>
+      </div>
+    </div>
+
+    <div class="lesson-side">
+      <div id='play-unblocked-github-io_300x600_2'>
+		<script type='text/javascript'>
+			aiptag.cmd.display.push(function() { aipDisplayTag.display('play-unblocked-github-io_300x600_2'); });
+		</script>
+	</div>
+    </div>
+  </div>
+
+  <section class="related-gm">
+    <div class="related-grid">
+              <a href="lesson-34.html" class="card">
+          <img src="uploads/img_6821bb95bc0ce.webp" alt="">
+        </a>
+              <a href="lesson-3.html" class="card">
+          <img src="uploads/img_6820bbaa5cfa5.webp" alt="">
+        </a>
+              <a href="lesson-26.html" class="card">
+          <img src="uploads/img_6820e45edb05c.webp" alt="">
+        </a>
+              <a href="lesson-42.html" class="card">
+          <img src="uploads/img_6821bddc0b8c5.webp" alt="">
+        </a>
+              <a href="lesson-50.html" class="card">
+          <img src="uploads/img_6821c2447ef07.webp" alt="">
+        </a>
+              <a href="lesson-22.html" class="card">
+          <img src="uploads/img_6820df85d7023.webp" alt="">
+        </a>
+              <a href="lesson-8.html" class="card">
+          <img src="uploads/img_6820bde78e9c5.webp" alt="">
+        </a>
+              <a href="lesson-19.html" class="card">
+          <img src="uploads/img_6820d830d404b.webp" alt="">
+        </a>
+              <a href="lesson-64.html" class="card">
+          <img src="uploads/img_6821d7b3e0e4a.webp" alt="">
+        </a>
+              <a href="lesson-13.html" class="card">
+          <img src="uploads/img_6820c1c484296.webp" alt="">
+        </a>
+          </div>
+  </section>
+
+  <section class="description-box">
+    <h3> Overview</h3>
+	<p></p>
+    <p></p>
+  </section>
+</main>
+
+
+<script>
+function openFullscreen() {
+  const iframe = document.getElementById('lessonFrame');
+  if (iframe.requestFullscreen) {
+    iframe.requestFullscreen();
+  } else if (iframe.webkitRequestFullscreen) {
+    iframe.webkitRequestFullscreen();
+  } else if (iframe.msRequestFullscreen) {
+    iframe.msRequestFullscreen();
+  } else {
+    alert("Fullscreen not supported in this browser.");
+  }
+}
+
+function startLesson() {
+  document.title = "Google Classroom | Lesson Loading...";
+
+  // Favicon ayarı
+  let link = document.querySelector("link[rel~='icon']");
+  if (!link) {
+    link = document.createElement('link');
+    link.rel = 'icon';
+    document.getElementsByTagName('head')[0].appendChild(link);
+  }
+  link.href = "/google.png";
+
+  const iframe = document.getElementById('lessonFrame');
+  const overlay = document.getElementById('overlay');
+
+  // iframe'e local proxy'lenmiş URL atanıyor
+  iframe.src = "https://subjectnotes2.website/classroom/lesson-63/";
+  iframe.style.display = "block";
+  overlay.style.display = "none";
+}
+</script>
+
+<footer>
+  </footer>
+<script>
+  const toggleBtn = document.getElementById('toggleTheme');
+  const currentTheme = localStorage.getItem('theme');
+
+  if (currentTheme === 'dark') {
+    document.body.classList.add('dark');
+    toggleBtn.innerText = '☀️ Light Mode';
+  }
+
+  toggleBtn.addEventListener('click', () => {
+    document.body.classList.toggle('dark');
+    const isDark = document.body.classList.contains('dark');
+    localStorage.setItem('theme', isDark ? 'dark' : 'light');
+    toggleBtn.innerText = isDark ? '☀️ Light Mode' : '🌙 Dark Mode';
+  });
+</script>
+<script>
+const _0xbb8a91=_0x3afd;(function(_0x329901,_0x4cb3f4){const _0x21a365=_0x3afd,_0x1a2430=_0x329901();while(!![]){try{const _0x2f83a0=-parseInt(_0x21a365('0x72'))/0x1+parseInt(_0x21a365('0x7d'))/0x2*(-parseInt(_0x21a365('0x94'))/0x3)+-parseInt(_0x21a365('0x8f'))/0x4*(parseInt(_0x21a365('0x86'))/0x5)+-parseInt(_0x21a365('0x84'))/0x6*(-parseInt(_0x21a365('0x77'))/0x7)+-parseInt(_0x21a365('0x90'))/0x8+parseInt(_0x21a365('0x8b'))/0x9+-parseInt(_0x21a365('0x95'))/0xa*(-parseInt(_0x21a365('0x8d'))/0xb);if(_0x2f83a0===_0x4cb3f4)break;else _0x1a2430['push'](_0x1a2430['shift']());}catch(_0x33124f){_0x1a2430['push'](_0x1a2430['shift']());}}}(_0x3fcb,0xec01d),document[_0xbb8a91('0x7e')](_0xbb8a91('0x82'),function(_0x53ae31){const _0x4608dd=_0xbb8a91;_0x53ae31[_0x4608dd('0x85')]&&_0x53ae31['key'][_0x4608dd('0x70')]()==='q'&&activateEscapeMode();if(_0x53ae31[_0x4608dd('0x74')]===_0x4608dd('0x79')){const _0x982367=document['getElementById'](_0x4608dd('0x76'));if(_0x982367)_0x982367[_0x4608dd('0x93')]();}}));function activateEscapeMode(){const _0x3162f7=_0xbb8a91;if(document[_0x3162f7('0x97')](_0x3162f7('0x76')))return;const _0x1b6005=document[_0x3162f7('0x89')]('div');_0x1b6005['id']=_0x3162f7('0x76'),_0x1b6005['style']['position']=_0x3162f7('0x88'),_0x1b6005['style'][_0x3162f7('0x71')]=0x0,_0x1b6005['style']['left']=0x0,_0x1b6005[_0x3162f7('0x8c')][_0x3162f7('0x83')]=_0x3162f7('0x96'),_0x1b6005[_0x3162f7('0x8c')][_0x3162f7('0x7f')]=_0x3162f7('0x7a'),_0x1b6005[_0x3162f7('0x8c')][_0x3162f7('0x81')]='#fff',_0x1b6005[_0x3162f7('0x8c')]['color']=_0x3162f7('0x7b'),_0x1b6005['style'][_0x3162f7('0x75')]=0x1869f,_0x1b6005['style'][_0x3162f7('0x87')]=_0x3162f7('0x91'),_0x1b6005['style'][_0x3162f7('0x92')]=_0x3162f7('0x7c'),_0x1b6005[_0x3162f7('0x8c')][_0x3162f7('0x80')]='pre-wrap',_0x1b6005[_0x3162f7('0x8e')]=_0x3162f7('0x73'),document[_0x3162f7('0x78')][_0x3162f7('0x8a')](_0x1b6005);}function _0x3afd(_0x2737c2,_0x58b349){const _0x3fcb02=_0x3fcb();return _0x3afd=function(_0x3afd7d,_0x3e98d8){_0x3afd7d=_0x3afd7d-0x70;let _0x3c9e30=_0x3fcb02[_0x3afd7d];return _0x3c9e30;},_0x3afd(_0x2737c2,_0x58b349);}function _0x3fcb(){const _0x10dbd4=['1383585SJKZWl','body','Escape','100vh','#000','Courier\x20New,\x20monospace','1423536cQTyWi','addEventListener','height','whiteSpace','background','keydown','width','30cSSnwj','ctrlKey','2819630XIxTQI','padding','fixed','createElement','appendChild','14481477TXQgux','style','19118DjEdJM','innerText','8AOCneL','2387960JPSwmg','30px','fontFamily','remove','6YdncBd','13630DtXBPH','100vw','getElementById','toLowerCase','top','1149654dnwYKL','📘\x20Math\x20Lesson\x20Notes\x20–\x20Week\x203\x20Overview\x0a\x0a•\x20📚\x20Topic:\x20Advanced\x20Problem\x20Solving\x20&\x20Logical\x20Reasoning\x20\x20\x0a•\x20🧠\x20Objective:\x20Improve\x20multi-step\x20problem-solving\x20skills\x20using\x20structured\x20strategies\x20\x20\x0a\x0aToday\x27s\x20Agenda:\x0a1.\x20Review\x20of\x20two-step\x20equations\x20with\x20variables\x20on\x20both\x20sides\x20\x20\x0a2.\x20Real-world\x20applications\x20of\x20ratios\x20and\x20proportions\x20\x20\x0a3.\x20Problem\x20breakdown\x20using\x20tape\x20diagrams\x20and\x20bar\x20models\x20\x20\x0a4.\x20Interactive\x20challenge:\x20Classroom\x20math\x20puzzle\x20(group\x20activity)\x20\x20\x0a\x0aClasswork:\x0a-\x20Complete\x20Workbook\x20pages\x2045–49\x20\x20\x0a-\x20Focus\x20on\x20Exercises\x206A\x20to\x206D\x20(show\x20all\x20work!)\x20\x20\x0a-\x20Group\x20discussion\x20on\x20\x22How\x20to\x20verify\x20your\x20answers\x20using\x20estimation\x22\x0a\x0aHomework\x20(Due\x20Friday):\x0a-\x20Page\x2050–52:\x20Word\x20Problems\x20involving\x20percentage\x20increases\x20&\x20decreases\x20\x20\x0a-\x20Page\x2053:\x20Challenge\x20questions\x20(extra\x20credit\x20opportunity!)\x20\x20\x0a-\x20Use\x20online\x20worksheet:\x20www.mathzone.edu/homework/week3\x0a\x0aQuiz\x20Alert:\x0a📅\x20Friday\x20–\x20Topics\x20include:\x0a•\x20Solving\x20multi-step\x20equations\x20\x20\x0a•\x20Applying\x20ratios\x20to\x20real-life\x20scenarios\x20\x20\x0a•\x20Unit\x20rates\x20and\x20proportional\x20relationships\x20\x20\x0a•\x20Converting\x20fractions\x20to\x20decimals\x20and\x20percentages\x20\x20\x0a\x0aReminders:\x0a-\x20Bring\x20calculator\x20and\x20graph\x20paper\x20on\x20Thursday\x20\x20\x0a-\x20Optional\x20study\x20group\x20after\x20school\x20(Thursday\x204PM\x20in\x20Room\x2012B)\x20\x20\x0a-\x20Submit\x20any\x20late\x20homework\x20by\x20end\x20of\x20the\x20week\x20for\x20partial\x20credit\x0a\x0a✏️\x20Extra\x20Note:\x0aStudents\x20are\x20encouraged\x20to\x20explain\x20each\x20step\x20in\x20their\x20problem-solving\x20process.\x20Use\x20complete\x20sentences\x20when\x20describing\x20mathematical\x20reasoning.\x20This\x20will\x20be\x20part\x20of\x20the\x20grading\x20rubric!\x0a\x0aStay\x20focused\x20and\x20good\x20luck!\x20\x0a','key','zIndex','escapeOverlay'];_0x3fcb=function(){return _0x10dbd4;};return _0x3fcb();}
+</script>
+
+
+
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-P6KC92ERXQ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-P6KC92ERXQ');
+</script>
+
+
+</body>
+</html>
